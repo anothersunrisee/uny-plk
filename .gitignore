@@ -1,0 +1,12 @@
+# Obsidian local layout state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Large slide presentation PDFs (>20MB)
+WIP - Sosialisasi Mahasiswa .pdf
+WIP - Panduan Dashboard PLK .pdf
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
