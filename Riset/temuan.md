@@ -331,6 +331,7 @@ Sabtu-Minggu FEASIBLE. Tidak ada aturan yang mengharuskan hari kerja.
 | 010 | Feasibilitas Klaten: Sabtu-Minggu, Kerabat, Screening |  Konfirmasi  | 2026-09-29 |
 | 011 | Roadmap 1 Minggu: Sprint Fondasi Non-Rekrutmen        |  Eksekusi    | 2026-09-29 |
 | 012 | Analisa Checklist Inventaris 4 PTI Inti               |  Konfirmasi  | 2026-09-29 |
+| 013 | Publikasi Website Tim (Quartz + GitHub Pages)         | Selesai/Live | 2026-09-29 |
 
 ---
 
@@ -400,6 +401,27 @@ Berdasarkan gap di atas, kriteria Oprec perlu ditambahkan:
 
 ---
 
+## LOG #013: Publikasi Website Tim (Quartz + GitHub Pages)
+
+### 5W1H
+
+| Aspek | Analisa |
+|---|---|
+| **What** | Otomatisasi build & deployment seluruh isi vault Obsidian menjadi portal website interaktif menggunakan Quartz v4 dan GitHub Pages. |
+| **Why** | Calon anggota tim non-IT (Ilkom, Manajemen, Biologi/Statistika) dan pihak eksternal tidak menggunakan Obsidian atau Git terminal. Dibutuhkan media informasi yang ringan, responsif di HP, dan selalu update otomatis. |
+| **Who** | Fajar (Setup & Git workflow), seluruh anggota tim inti & calon anggota baru (pembaca & kolaborator). |
+| **When** | 2026-09-29, aktif seterusnya sepanjang siklus PLK 2027. |
+| **Where** | URL Live: `https://anothersunrisee.github.io/uny-plk/` |
+| **How** | Setiap perubahan catatan di Obsidian yang di-`git push` ke GitHub otomatis memicu workflow GitHub Actions (`.github/workflows/deploy.yml`) untuk build Quartz dalam ~25 detik. |
+
+### Fitur Utama Portal Web Tim
+- Responsive mobile & desktop dengan search engine instan.
+- Dark mode & light mode toggle.
+- Interactive graph view & popover preview antar-catatan.
+- Checklist kualifikasi oprec & inventaris tim ter-render sempurna untuk dibagikan ke calon pendaftar via WhatsApp.
+
+---
+
 *Log ini diupdate setiap ada analisa atau keputusan baru.*
 *Format: tambah entri baru LOG #NNN di bawah index.*
-*Wikilinks: [[Home]] | [[Roadmap 1 Minggu]] | [[analisa oprec]] | [[Panduan PLK 2025 UNY]] | [[Checklist Inventaris Tim Inti]]*
+*Wikilinks: [[index|Home]] | [[Roadmap 1 Minggu]] | [[analisa oprec]] | [[Panduan PLK 2025 UNY]] | [[Checklist Inventaris Tim Inti]] | [[Draft Kriteria Oprec]]*
