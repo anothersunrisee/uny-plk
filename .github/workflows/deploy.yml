@@ -24,16 +24,30 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Build Quartz
-        uses: konstfish/quartz-build-action@v7
-        with:
-          source: .
-          destination: public
-          page_title: "PLK UNY Mengabdi 2027"
-          page_base_url: "anothersunrisee.github.io/uny-plk"
+      - name: Build Quartz Site
+        run: |
+          git clone --depth 1 -b v4 https://github.com/jackyzha0/quartz.git ../quartz
+          cd ../quartz
+          npm ci
+          npx quartz create -X new -l shortest
+          rm -rf content/*
+          cp -r "$GITHUB_WORKSPACE"/* content/ || true
+          node -e '
+            const fs = require("fs");
+            let cfg = fs.readFileSync("quartz.config.ts", "utf8");
+            cfg = cfg.replace(/pageTitle: "[^"]*"/, "pageTitle: \"PLK UNY Mengabdi 2027\"");
+            cfg = cfg.replace(/baseUrl: "[^"]*"/, "baseUrl: \"anothersunrisee.github.io/uny-plk\"");
+            fs.writeFileSync("quartz.config.ts", cfg);
+          '
+          npx quartz build -o "$GITHUB_WORKSPACE/public"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
