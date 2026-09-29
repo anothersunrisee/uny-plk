@@ -15,12 +15,12 @@ status: active
 | Slot | Status | Prodi Target | Peran |
 |:----:|:------:|-------------|-------|
 | 1–4 | Fix | Pend. Teknik Informatika (FT) | Developer |
-| 5 | Cari | Ilmu Komunikasi (FISHIPOL) | Humas / Sekretaris |
-| 6 | Cari | Ilmu Komunikasi (FISHIPOL) | Konten / PR |
-| 7 | Cari | Manajemen (FEB) | Bendahara |
-| 8 | Cari | Manajemen (FEB) | Wakil Ketua |
-| 9 | Cari | Pend. Seni Rupa (FBSB) atau TI | PDD / Desain |
-| 10 | Cari | Teknologi Informasi (FT) | IT Support |
+| 5 | Cari | Biologi / Statistika (FMIPA) | Data Analis / Pemberdayaan |
+| 6 | Cari | Biologi / Statistika (FMIPA) | Surveyor / Lingkungan |
+| 7 | Cari | Ilmu Komunikasi (FISHIPOL) | Konten / PR |
+| 8 | Cari | Ilmu Komunikasi (FISHIPOL) | Humas / Sosialisasi |
+| 9 | Cari | Manajemen (FEB) | Project Manager |
+| 10 | Cari | Manajemen (FEB) | Bendahara |
 
 ---
 

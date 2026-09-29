@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [meta, agents, konteks]
 created: 2026-09-29
 status: active
@@ -81,12 +81,12 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 ### Rekomendasi 6 Anggota Sisa
 | Slot | Prodi | Peran |
 |:----:|-------|-------|
-| 5 | Pendidikan Seni Rupa (FBSB) | UI/UX Designer |
-| 6 | Teknologi Informasi (FT) | Dev Support |
+| 5 | Biologi / Statistika (FMIPA) | Data Analis / Pemberdayaan |
+| 6 | Biologi / Statistika (FMIPA) | Surveyor / Lingkungan |
 | 7 | Ilmu Komunikasi (FISHIPOL) | Konten/PR |
 | 8 | Ilmu Komunikasi (FISHIPOL) | Humas/Sosialisasi |
 | 9 | Manajemen (FEB) | Project Manager |
-| 10 | Teknologi Informasi (FT) | IT Support |
+| 10 | Manajemen (FEB) | Bendahara |
 
 ## Panduan untuk Agent: Cara Membantu
 

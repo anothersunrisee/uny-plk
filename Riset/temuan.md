@@ -330,6 +330,7 @@ Sabtu-Minggu FEASIBLE. Tidak ada aturan yang mengharuskan hari kerja.
 | 009 | Klarifikasi Lokasi: Klaten & Magelang Boleh           |  Konfirmasi  | 2026-09-29 |
 | 010 | Feasibilitas Klaten: Sabtu-Minggu, Kerabat, Screening |  Konfirmasi  | 2026-09-29 |
 | 011 | Roadmap 1 Minggu: Sprint Fondasi Non-Rekrutmen        |  Eksekusi    | 2026-09-29 |
+| 012 | Analisa Checklist Inventaris 4 PTI Inti               |  Konfirmasi  | 2026-09-29 |
 
 ---
 
@@ -351,6 +352,54 @@ Sabtu-Minggu FEASIBLE. Tidak ada aturan yang mengharuskan hari kerja.
 
 ---
 
+## LOG #012: Analisa Checklist Inventaris 4 PTI Inti
+
+### 5W1H
+
+| Aspek | Analisa |
+|---|---|
+| **What** | Audit kapasitas 4 anggota PTI (Fajar, Terry, Riski, Veli) menggunakan matriks Hard Skill, Soft Skill, Peralatan, dan Kendaraan. |
+| **Why** | Untuk memetakan gap nyata tim inti sebelum membuka Oprec, agar kriteria rekrutmen tepat sasaran dan tidak merekrut orang yang tidak dibutuhkan. |
+| **Who** | Fajar (Ketua), Terry (Cowok), Riski (Cowok), Veli (Cewek) — semuanya PTI FT. |
+| **When** | 2026-09-29, sebelum Oprec dibuka. |
+| **Where** | Internal tim via pengisian matriks di [[Checklist Inventaris Tim Inti]]. |
+| **How** | Setiap anggota mengisi kolom sendiri dengan emoji 🟢/🔴/Kuning. Hasil dianalisa untuk menemukan baris yang kosong (gap kritis) dan baris yang sudah penuh (kekuatan). |
+
+### Temuan Kritis (Gap yang WAJIB Dicari dari Oprec)
+
+| Prioritas | Gap | Detail |
+|:---:|---|---|
+| 🔴 **#1** | **Kamera DSLR/Mirrorless** | 0 dari 4 orang punya. Kosong total. Wajib ada di anggota baru atau beli patungan. |
+| 🔴 **#2** | **Video Editing (non-Fajar)** | Hanya Fajar. *Single point of failure* — jika Fajar absen, produksi dokumentasi berhenti total. |
+| 🔴 **#3** | **RAB/Pembukuan Solid** | Hanya Fajar & Veli yang setengah bisa. Tidak ada yang solid — wajib ada Manajemen. |
+| 🔴 **#4** | **Krama Inggil** | Hanya Fajar. Di desa Klaten, bahasa Jawa halus bernilai strategis tinggi saat lobi ke Kades. |
+
+### Kekuatan Tim Inti (Sudah Terpenuhi)
+
+| Aspek | Status |
+|---|---|
+| Web/App Development | ✅ 4 dari 4 — proker utama IT 100% aman |
+| Lobbying & Negosiasi | ✅ 3 dari 4 (Fajar, Terry, Veli) — bekal lobi ke desa cukup |
+| Transport & Basecamp | ✅ 3 motor (Fajar, Terry, Riski) + kerabat Klaten (Fajar & Terry) |
+| Kabel Roll | ✅ Semua punya — detail kecil tapi penting |
+
+### Catatan Khusus Per Anggota
+
+| Anggota | Catatan |
+|---|---|
+| **Fajar** | Skill paling lengkap. Berisiko jadi *overloaded* — perlu didelegasikan beberapa peran ke anggota baru. |
+| **Terry** | Kuat di Dev, Networking, Lobbying, Survey. Lemah di konten/administrasi. |
+| **Riski** | Fokus ke core Dev saja — skill non-IT terbatas, perlu peran yang terdefinisi sempit. |
+| **Veli** | Tidak punya motor/SIM C (perlu solusi transportasi). Satu-satunya andalan administrasi saat ini — jangan bebani sendiri. |
+
+### Dampak pada Kriteria Oprec
+Berdasarkan gap di atas, kriteria Oprec perlu ditambahkan:
+- *"Nilai plus besar: Punya kamera DSLR/Mirrorless dan bisa mengoperasikannya"*
+- *"Nilai plus besar: Mahir video editing (Premiere Pro / CapCut versi lanjut)"*
+- Lihat detail di [[Draft Kriteria Oprec]].
+
+---
+
 *Log ini diupdate setiap ada analisa atau keputusan baru.*
 *Format: tambah entri baru LOG #NNN di bawah index.*
-*Wikilinks: [[Home]] | [[Roadmap 1 Minggu]] | [[analisa oprec]] | [[Panduan PLK 2025 UNY]]*
+*Wikilinks: [[Home]] | [[Roadmap 1 Minggu]] | [[analisa oprec]] | [[Panduan PLK 2025 UNY]] | [[Checklist Inventaris Tim Inti]]*

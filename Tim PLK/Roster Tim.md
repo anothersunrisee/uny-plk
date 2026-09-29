@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [tim, roster, plk]
 created: 2026-09-29
 status: active
@@ -19,12 +19,12 @@ status: active
 | 2 | — | Pend. Teknik Informatika | FT | Dev Backend | ✅ Fix |
 | 3 | — | Pend. Teknik Informatika | FT | Dev Frontend | ✅ Fix |
 | 4 | — | Pend. Teknik Informatika | FT | Dev / PDD | ✅ Fix |
-| 5 | — | Ilmu Komunikasi | FISHIPOL | Humas / Sekretaris | 🔍 Cari |
-| 6 | — | Ilmu Komunikasi | FISHIPOL | Konten / PR | 🔍 Cari |
-| 7 | — | Manajemen | FEB | Bendahara | 🔍 Cari |
-| 8 | — | Manajemen | FEB | Wakil Ketua | 🔍 Cari |
-| 9 | — | Pend. Seni Rupa / TI | FBSB/FT | Koordinator PDD | 🔍 Cari |
-| 10 | — | Teknologi Informasi | FT | IT Support / PDD | 🔍 Cari |
+| 5 | — | Biologi / Statistika | FMIPA | Data Analis / Pemberdayaan | 🔍 Cari |
+| 6 | — | Biologi / Statistika | FMIPA | Surveyor / Lingkungan | 🔍 Cari |
+| 7 | — | Ilmu Komunikasi | FISHIPOL | Konten / PR | 🔍 Cari |
+| 8 | — | Ilmu Komunikasi | FISHIPOL | Humas / Sosialisasi | 🔍 Cari |
+| 9 | — | Manajemen | FEB | Project Manager | 🔍 Cari |
+| 10 | — | Manajemen | FEB | Bendahara | 🔍 Cari |
 
 ---
 
