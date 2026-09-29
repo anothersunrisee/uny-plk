@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [riset, oprec, tim]
 created: 2026-09-29
 status: active

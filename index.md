@@ -1,10 +1,14 @@
 ---
+title: PLK UNY Mengabdi 2027 — Dashboard
+aliases:
+  - Home
+  - Dashboard
 tags: [plk, uny, dashboard]
 created: 2026-09-29
 status: active
 ---
 
-# PLK UNY Mengabdi 2027 — Home
+# PLK UNY Mengabdi 2027 — Dashboard
 
 > **Tim**: 4 PTI fix + 6 open | **Target**: 10 orang | **Semester**: 6 (2026/2027)
 
@@ -43,7 +47,6 @@ status: active
 - [[Roster Tim]] — Roster formasi 10 anggota
 - [[Draft Kriteria Oprec]] — Kriteria & kualifikasi pendaftar per prodi
 - [[Checklist Inventaris Tim Inti]] — Checklist skill, logistik, dan kendaraan 4 tim inti
-- [[Tim PLK/]] — Folder catatan anggota & rapat tim
 
 ---
 
@@ -58,7 +61,7 @@ status: active
 | **Aturan prodi** | Min. 3–4 prodi berbeda, min. 2 orang/prodi |
 | **Kategori kita** | UNY Mengabdi (pengabdian masyarakat) |
 | **Lokasi dilarang** | Kota Yogya, Sleman, Bantul |
-| **Lokasi boleh** | Kulon Progo, Gunungkidul, luar DIY |
+| **Lokasi boleh** | Kulon Progo, Gunungkidul, luar DIY (Klaten target kita) |
 
 ---
 
@@ -67,11 +70,11 @@ status: active
 > Tim PTI (FT, laki-laki) = aset paling diperebutkan di UNY angkatan 2024
 > 13+ dari 36 tim aktif mencari mahasiswa laki-laki FT.
 
-- KRITIS: Laki-laki FT, Laki-laki FIKK, Teknologi Informasi
-- OVER-SUPPLY (hindari): Pend. IPA, Fisika, Akuntansi
-- GAP TERBESAR: Ilmu Komunikasi — jarang ada di tim tapi sangat dibutuhkan
+- **KRITIS**: Laki-laki FT, Laki-laki FIKK, Teknologi Informasi
+- **OVER-SUPPLY (hindari)**: Pend. IPA, Fisika, Akuntansi
+- **GAP TERBESAR**: Ilmu Komunikasi — jarang ada di tim tapi sangat dibutuhkan
 
-Lihat analisa lengkap di [[temuan]] LOG #002 dan LOG #003
+Lihat analisa lengkap di [[temuan]] LOG #002 dan LOG #003.
 
 ---
 
@@ -87,5 +90,5 @@ Jul 2027    → Selesai + penyusunan laporan
 
 ---
 
-*Vault ini dikelola untuk keperluan PLK UNY Mengabdi 2027.*
-*Buka dengan Obsidian untuk pengalaman terbaik.*
+*Portal dokumentasi publik tim PLK UNY Mengabdi 2027.*
+*Di-generate secara otomatis via Quartz & GitHub Pages.*

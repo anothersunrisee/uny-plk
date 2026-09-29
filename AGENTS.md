@@ -29,8 +29,8 @@ Baca file ini sebelum memulai analisa apapun di vault ini.
 
 ```
 d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
-│
-├── Home.md                  ← Dashboard utama, mulai dari sini
+├── index.md                 ← Dashboard utama & landing page Quartz Web
+├── Home.md                  ← Dashboard alternatif / Obsidian view
 ├── AGENTS.md                ← File ini — konteks untuk AI agent
 │
 ├── Riset/
