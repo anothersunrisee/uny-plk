@@ -44,6 +44,7 @@ status: active
 - [[Draft Kriteria Oprec]] — Kriteria & kualifikasi pendaftar per prodi
 - [[Informasi Oprec dan Profil Tim PLK 2027]] — Dokumen resmi profil & info oprec (Siap Cetak PDF)
 - [[Broadcast Oprec]] — Draf pesan publikasi & open recruitment
+- [[Form & Screening Spreadsheet Oprec]] — Form pendaftaran, rumus spreadsheet, & prompt AI screening
 - [[Checklist Inventaris Tim Inti]] — Checklist skill, logistik, dan kendaraan 4 tim inti
 - [[Tim PLK/]] — Folder catatan anggota & rapat tim
 
