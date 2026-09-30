@@ -10,110 +10,101 @@ Gunakan draf di bawah ini untuk disebarkan ke grup angkatan UNY 2024, grup fakul
 
 ---
 
-## Opsi 1: Format Lengkap (Untuk Grup WhatsApp / Telegram / Line)
+## Opsi 1: Format Standar Grup WhatsApp / Telegram (Paling Direkomendasikan)
 
-*Format ini paling pas untuk disebarkan di grup angkatan besar atau diteruskan via pengurus HIMA/BEM.*
+*Format ini mengikuti gaya baku postingan oprec anak UNY angkatan 2024: to-the-point, mencantumkan rasio gender tim (3L 1P), lokasi Klaten, basecamp rumah kerabat, dan proker IT yang sudah aman.*
 
 ```text
-[OPEN RECRUITMENT REKAN TIM PLK UNY MENGABDI 2027]
+[OPEN RECRUITMENT TIM PLK UNY MENGABDI 2027]
 
-Halo rekan-rekan UNY Angkatan 2024! 👋
+Halo teman-teman UNY Angkatan 2024! Izin share info oprec yaa 🙌
 
-Kami dari tim inti (4 mahasiswa Pendidikan Teknik Informatika / FT) sedang membuka kesempatan bergabung untuk 6 rekan mahasiswa dari 3 rumpun prodi guna melengkapi formasi 10 orang tim PLK UNY Mengabdi (Semester 6, TA 2026/2027).
+Kami dari kelompok PLK UNY Mengabdi (Semester 6) sedang membuka pendaftaran untuk 6 anggota baru dari 3 prodi berbeda guna melengkapi kuota 10 orang.
 
-📍 Lokasi Kegiatan: Kab. Klaten, Jawa Tengah (Zonasi resmi diperbolehkan)
-⏱️ Skema Waktu: Weekend Intensive (Fokus Sabtu & Minggu di lokasi, hari biasa fleksibel/daring)
-🏠 Fasilitas Basecamp: Menginap di rumah kerabat anggota tim di Klaten (aman, nyaman, dan hemat biaya posko)
-💻 Kesiapan Tim: Infrastruktur IT (Website Desa/Sistem Digital) dan draf proposal 70% sudah disiapkan oleh tim PTI
+👥 Komposisi Tim Saat Ini (4 Orang):
+• 4 Pendidikan Teknik Informatika (FT) -> 3 Cowok, 1 Cewek
+*(Infrastruktur sistem desa & proker digitalisasi 100% di-handle anak PTI)*
 
-━━━━━━━━━━━━━━━━━━━━
-📌 FORMASI YANG DIBUKA (6 SLOT)
-━━━━━━━━━━━━━━━━━━━━
+🔍 Mencari 6 Orang (Masing-masing 2 orang se-prodi):
+1. 2 Mahasiswa Ilmu Komunikasi (FISHIPOL)
+   -> Divisi Humas & PDD (lobi perangkat desa, dokumentasi, publikasi konten)
+2. 2 Mahasiswa Manajemen / PADP (FEB)
+   -> Divisi Bendahara & Administrasi (RAB, kelola kas/nota belanja, surat-menyurat & LPJ)
+3. 2 Mahasiswa Biologi / Statistika (FMIPA)
+   -> Divisi Riset & Program Lapangan (olah data sensus/survei desa atau program lingkungan/UMKM)
 
-1. ILMU KOMUNIKASI / FISHIPOL (2 Orang)
-   • Humas Desa: Komunikasi dan silaturahmi dengan perangkat desa, Karang Taruna, dan warga.
-   • Media & Dokumentasi: Pengelolaan publikasi sosmed (Instagram/TikTok), rilis berita, serta narasi laporan kegiatan.
+📍 Info Lokasi & Pelaksanaan:
+• Lokasi: Kab. Klaten, Jawa Tengah (zonasi resmi boleh, non-DIY)
+• Basecamp: Rumah kerabat anggota tim di Klaten (aman, nyaman, dan hemat biaya posko)
+• Skema Waktu: Weekend warrior (fokus Sabtu dan Minggu di lokasi, hari biasa fleksibel/daring)
 
-2. MANAJEMEN / PENDIDIKAN ADMINISTRASI PERKANTORAN (PADP) / FEB (2 Orang)
-   • Bendahara Tim: Penyusunan RAB anggaran, pembukuan kas, dan pengelolaan kuitansi/nota belanja.
-   • Administrasi & Arsip: Penataan surat-menyurat resmi, notulensi koordinasi, serta penyusunan kelengkapan LPJ akhir.
+🌟 Diutamakan / Nilai Plus:
+• Punya kamera digital (DSLR/Mirrorless) atau stabilizer gimbal
+• Bisa video editing (Premiere/CapCut)
+• Punya motor dan SIM C aktif (bisa ikut konvoi bareng)
+• Bisa bahasa Jawa Krama Inggil (untuk lobi warga/tokoh desa)
 
-3. BIOLOGI / STATISTIKA / FMIPA (2 Orang)
-   • Statistika: Pengolahan dan visualisasi data potensi/demografi warga untuk diintegrasikan ke sistem digital.
-   • Biologi: Inisiasi proker fisik/lingkungan (seperti sanitasi desa, pengelolaan limbah UMKM, atau edukasi potensi alam lokal).
+💡 Keuntungan Gabung Tim Ini:
+1. Lokasi dan basecamp sudah pasti (tidak bingung survei posko dari nol)
+2. Sudah ada armada 3 motor prima + peralatan kabel roll lengkap
+3. Proker IT utama sudah jelas dan terarah
+4. Beban kerja dibagi rata dan proporsional sesuai prodi masing-masing
 
-━━━━━━━━━━━━━━━━━━━━
-✨ NILAI PLUS (PRIORITAS TINGGI)
-━━━━━━━━━━━━━━━━━━━━
-• Memiliki kamera DSLR / Mirrorless atau stabilizer gimbal
-• Mahir video editing (Premiere Pro, DaVinci, atau CapCut)
-• Memiliki motor pribadi dan SIM C aktif
-• Lancar berbahasa Jawa Krama Inggil
-
-━━━━━━━━━━━━━━━━━━━━
-🤝 KENAPA GABUNG BERSAMA TIM INI?
-━━━━━━━━━━━━━━━━━━━━
-1. Lokasi dan basecamp sudah jelas, tidak perlu bingung cari desa dari nol.
-2. Tim teknis IT (4 orang PTI FT) siap mengeksekusi kebutuhan digitalisasi dan proker utama desa.
-3. Alur kerja transparan, minim drama, dan pembagian tugas adil sesuai keahlian prodi masing-masing.
-
-Untuk melihat profil lengkap kesiapan tim, silakan kunjungi portal web tim kami:
+Info kesiapan dan profil tim bisa dicek di:
 🌐 https://anothersunrisee.github.io/uny-plk/
 
 Tertarik bergabung atau mau tanya-tanya dulu?
-Silakan hubungi narahubung kami:
-📲 WhatsApp: [ISI NO WA FAJAR / CP] (Fajar - PTI FT)
-📲 WhatsApp: [ISI NO WA ALTERNATIF / VELI]
+Bisa langsung kontak kami:
+📲 CP 1: [NO WA FAJAR] (Fajar - PTI FT)
+📲 CP 2: [NO WA VELI] (Veli - PTI FT)
 
-Form Pendaftaran: [LINK GOOGLE FORM JIKA ADA / DM LANGSUNG]
-Pendaftaran ditutup setelah seluruh slot terisi.
+Terima kasih teman-teman! 🙏
 ```
 
 ---
 
-## Opsi 2: Format Ringkas (Untuk Chat Personal / Story / Status WA)
+## Opsi 2: Format Ringkas / Forward Cepat (Untuk Status WA & Chat Singkat)
 
-*Format ini ringkas, langsung ke intinya, cocok untuk dipasang di status WhatsApp atau dikirim via DM ke teman target.*
+*Format padat dan cepat dibaca, cocok untuk disebarkan ke grup kelas atau dipasang di story media sosial.*
 
 ```text
-Cari Tim PLK 2027 yang Tinggal Gas? 🚀
+[CARI 6 ANGGOTA PLK UNY MENGABDI 2027] 🚀
 
-Tim kita (4 anak PTI FT) lagi buka 6 slot untuk melengkapi formasi 10 orang PLK UNY Mengabdi:
+Tim saat ini: 4 PTI FT (3 Cowok, 1 Cewek)
+Proker IT, 3 motor, dan basecamp sudah siap di Klaten.
 
-Dibutuhkan masing-masing 2 orang dari:
-• 2 Ilmu Komunikasi (FISHIPOL) -> Humas & Konten
+Butuh 6 orang (masing-masing 2 orang):
+• 2 Ilmu Komunikasi (FISHIPOL) -> Humas & Konten PDD
 • 2 Manajemen / PADP (FEB) -> Bendahara & Administrasi
-• 2 Biologi / Statistika (FMIPA) -> Riset Data & Lingkungan
+• 2 Biologi / Statistika (FMIPA) -> Data Analis / Lingkungan
 
-Kondisi tim saat ini:
-✅ Lokasi: Klaten (Zonasi resmi boleh)
-✅ Basecamp: Ada rumah kerabat (hemat, ga ribet sewa posko)
-✅ Skema: Weekend (Sabtu & Minggu), hari biasa santai
-✅ Proker IT: 100% di-handle anak PTI
+Detail pelaksanaan:
+✅ Lokasi: Klaten (resmi boleh)
+✅ Basecamp: Rumah kerabat (hemat, ga ribet sewa)
+✅ Skema: Weekend (Sabtu-Minggu), hari biasa fleksibel
+✅ Nilai plus: Punya kamera / bisa edit video / punya motor
 
-Nilai plus banget kalau punya kamera / bisa video editing / punya motor.
-
-Cek detail tim: https://anothersunrisee.github.io/uny-plk/
-Minat gabung? Langsung chat ya:
-WA: [NOMOR WHATSAPP FAJAR]
+Detail tim: https://anothersunrisee.github.io/uny-plk/
+Berminat? Langsung japri ya:
+WA: [NOMOR WA FAJAR]
 ```
 
 ---
 
-## Opsi 3: Format DM Personal ke Teman Tertarget (Pendekatan Langsung)
+## Opsi 3: Format Japri Personal (Pendekatan Langsung ke Kenalan Target)
 
-*Gunakan format ini saat mengajak langsung teman seangkatan yang punya skill spesifik (misal teman Ilkom yang punya kamera, atau teman Manajemen yang teliti).*
+*Gunakan format ini saat menghubungi teman seangkatan secara personal via WhatsApp atau direct message.*
 
 ```text
-Halo [Nama Teman], salam kenal / halo bro/sis!
+Halo [Nama], salam kenal / halo bro/sis!
 
-Mau nanya, untuk PLK Semester 6 nanti kamu sudah ada kelompok belum ya?
+Mau nanya, untuk PLK Semester 6 besok kamu sudah ada kelompok belum ya?
 
-Kebetulan timku (kita berempat dari Pendidikan Teknik Informatika FT) lagi mencari rekan dari prodi [Ilkom / Manajemen / PADP / Biologi / Statistika] untuk barengan di PLK UNY Mengabdi.
+Kebetulan tim kami (berempat dari Pendidikan Teknik Informatika FT: 3 cowok, 1 cewek) lagi cari 2 rekan dari [Ilkom / Manajemen / PADP / Biologi / Statistika] untuk melengkapi formasi 10 orang di PLK UNY Mengabdi.
 
-Lokasi tim kami rencananya di Klaten dengan skema akhir pekan (Sabtu-Minggu). Basecamp sudah aman karena ada rumah kerabat di sana, dan sistem digitalnya bakal di-cover penuh sama anak-anak PTI.
+Lokasi kita rencananya di Klaten dengan skema akhir pekan (Sabtu-Minggu). Untuk basecamp sudah aman karena ada rumah kerabat di sana, jadi tidak perlu pusing sewa posko. Kebutuhan sistem/website desa juga bakal di-handle penuh oleh anak-anak PTI.
 
-Kalau kamu belum ada tim dan tertarik buat diskusi bareng, kabari ya! Detail tim kami bisa dibaca di sini juga: https://anothersunrisee.github.io/uny-plk/
+Kalau kamu belum ada tim dan berminat gabung bareng kita, kabari yaa! Catatan persiapan tim kita bisa kamu intip di sini: https://anothersunrisee.github.io/uny-plk/
 
 Makasih banyak sebelumnya!
 ```
