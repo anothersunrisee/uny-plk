@@ -41,8 +41,8 @@ Kami dari kelompok PLK UNY Mengabdi (Semester 6) sedang mencari 2 rekan dari pro
 2. Komitmen mengikuti kegiatan PLK di daerah Klaten.
 3. Mempunyai kendaraan pribadi (motor) untuk mobilitas ke lokasi.
 
-Kesiapan dan portofolio tim kami bisa diintip di:
-🌐 https://anothersunrisee.github.io/uny-plk/
+📄 Info detail & dokumen profil tim bisa dicek di:
+[LINK PDF / GDRIVE DOKUMEN TIM] (atau minta via chat ke CP)
 
 Tertarik bergabung atau mau tanya-tanya dulu?
 Langsung hubungi kami ya:
@@ -84,8 +84,8 @@ Kami dari kelompok PLK UNY Mengabdi (Semester 6) sedang membuka kesempatan berga
 2. Komitmen mengikuti kegiatan PLK di daerah Klaten.
 3. Mempunyai kendaraan pribadi (motor) untuk mobilitas ke lokasi.
 
-Kesiapan dan portofolio tim kami bisa diintip di:
-🌐 https://anothersunrisee.github.io/uny-plk/
+📄 Info detail & dokumen profil tim bisa dicek di:
+[LINK PDF / GDRIVE DOKUMEN TIM] (atau minta via chat ke CP)
 
 Tertarik bergabung atau mau tanya-tanya dulu?
 Langsung hubungi kami ya:
@@ -128,8 +128,8 @@ Kami dari kelompok PLK UNY Mengabdi (Semester 6) sedang membuka pendaftaran untu
 2. Komitmen mengikuti kegiatan PLK di daerah Klaten.
 3. Mempunyai kendaraan pribadi (motor) untuk mobilitas ke lokasi.
 
-Kesiapan dan portofolio tim kami bisa diintip di:
-🌐 https://anothersunrisee.github.io/uny-plk/
+📄 Info detail & dokumen profil tim bisa dicek di:
+[LINK PDF / GDRIVE DOKUMEN TIM] (atau minta via chat ke CP)
 
 Tertarik bergabung atau mau tanya-tanya dulu?
 Langsung hubungi kami ya:
@@ -174,7 +174,7 @@ Kami dari kelompok PLK UNY Mengabdi (Semester 6) sedang membuka pendaftaran untu
 • Komitmen PLK di daerah Klaten
 • Mempunyai kendaraan pribadi (motor)
 
-Portal web profil tim: https://anothersunrisee.github.io/uny-plk/
+📄 Info detail & dokumen profil tim: [LINK PDF / GDRIVE DOKUMEN TIM]
 
 Tertarik bergabung? Langsung kontak narahubung kami yaa:
 📲 CP 1: 0895363898438 (Fajar Ahnaf)

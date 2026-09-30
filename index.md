@@ -46,6 +46,7 @@ status: active
 - [[Roadmap 1 Minggu]] — Sprint 7 hari fondasi proyek (dar-der-dor)
 - [[Roster Tim]] — Roster formasi 10 anggota
 - [[Draft Kriteria Oprec]] — Kriteria & kualifikasi pendaftar per prodi
+- [[Informasi Oprec dan Profil Tim PLK 2027]] — Dokumen resmi profil & info oprec (Siap Cetak PDF)
 - [[Broadcast Oprec]] — Draf pesan publikasi & open recruitment
 - [[Checklist Inventaris Tim Inti]] — Checklist skill, logistik, dan kendaraan 4 tim inti
 
