@@ -20,10 +20,10 @@ Baca file ini sebelum memulai analisa apapun di vault ini.
 
 ## Komposisi Tim Saat Ini
 
-- **4 orang fix**: Pendidikan Teknik Informatika (PTI), Fakultas Teknik (FT)
-- **6 orang open**: Masih dicari
-- **Tujuan proyek**: Campuran development + komunikasi + riset
-- **Skill yang dimiliki sisa tim (6 orang)**: UI/UX desain, komunikasi/konten, IT tambahan
+- **4 orang fix**: Pendidikan Teknik Informatika (PTI), Fakultas Teknik (FT) — Fajar, Terry, Riski, Veli
+- **2 orang proses wawancara/lock-in**: Pendidikan Administrasi Perkantoran (PADP), FEB — Dinda Amelia Putri & Faidatul Anugraheni M.
+- **4 orang open**: 2 Ilmu Komunikasi (FISHIPOL) & 2 Biologi / Statistika (FMIPA)
+- **Status Kuota Prodi**: FT (4) + FEB (2) -> Wajib tambah min. 1 atau 2 prodi baru (Ilkom & Bio/Stat) untuk compliance regulasi UNY (min. 3-4 prodi berbeda)
 
 ## Struktur Vault Ini
 

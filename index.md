@@ -23,8 +23,8 @@ status: active
 | 6 | Cari | Biologi / Statistika (FMIPA) | Surveyor / Lingkungan |
 | 7 | Cari | Ilmu Komunikasi (FISHIPOL) | Konten / PR |
 | 8 | Cari | Ilmu Komunikasi (FISHIPOL) | Humas / Sosialisasi |
-| 9 | Cari | Manajemen / PADP (FEB) | Project Manager / Arsip |
-| 10 | Cari | Manajemen / PADP (FEB) | Bendahara / Keuangan |
+| 9 | 🟡 Wawancara | Pend. Adm. Perkantoran (FEB) | Dinda Amelia Putri (Sekretaris/LPJ) |
+| 10 | 🟡 Wawancara | Pend. Adm. Perkantoran (FEB) | Faidatul Anugraheni M. (Admin/Media) |
 
 ---
 
