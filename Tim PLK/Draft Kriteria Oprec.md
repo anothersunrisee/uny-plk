@@ -24,9 +24,9 @@ Berikut adalah hasil brainstorming kriteria Oprec:
 - [ ] **Humas/Lobbyist**: Luwes, sopan, pede berbicara dengan Perangkat Desa/Warga. *(Nilai plus: Bisa Krama Inggil)*
 - [ ] **Copywriter & Konten**: Jago menulis *press release*, naskah proposal, dan punya *sense* dokumentasi sosmed (IG/TikTok).
 
-### 📊 Manajemen (Bendahara & Project Manager)
-- [ ] **Bendahara**: Teliti angka, mahir Excel, dan berani **tegas menagih uang kas/patungan**.
-- [ ] **Project/Time Manager**: Disiplin, mampu memantau logbook 272 jam tiap anggota dan *Gantt Chart* proker.
+### 📊 Manajemen / PADP (Bendahara & Project Coordinator / Arsip)
+- [ ] **Bendahara (Manajemen/PADP)**: Teliti angka, mahir Excel, dan berani **tegas menagih uang kas/patungan serta tertib nota**.
+- [ ] **Project Coordinator / Administrasi (PADP/Manajemen)**: Disiplin, rapi menyusun surat resmi, proposal, arsip berkas, dan memantau logbook 272 jam tiap anggota.
 
 ### 🔬 Biologi / Statistika (Data Analis & Pemberdayaan)
 - [ ] **Data Analis (Statistika)**: Terbiasa mengolah data survei/sensus untuk divisualisasikan dalam sistem IT.

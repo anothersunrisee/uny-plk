@@ -85,8 +85,8 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 | 6 | Biologi / Statistika (FMIPA) | Surveyor / Lingkungan |
 | 7 | Ilmu Komunikasi (FISHIPOL) | Konten/PR |
 | 8 | Ilmu Komunikasi (FISHIPOL) | Humas/Sosialisasi |
-| 9 | Manajemen (FEB) | Project Manager |
-| 10 | Manajemen (FEB) | Bendahara |
+| 9 | Manajemen / PADP (FEB) | Project Coordinator / Arsip |
+| 10 | Manajemen / PADP (FEB) | Bendahara / Keuangan |
 
 ## Panduan untuk Agent: Cara Membantu
 

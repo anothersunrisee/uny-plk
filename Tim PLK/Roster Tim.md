@@ -13,18 +13,18 @@ status: active
 
 ## Status Rekrutmen
 
-| Slot | Nama | Prodi | Fak. | Peran | Status |
-|:----:|------|-------|:----:|-------|:------:|
-| 1 | *(Ketua)* | Pend. Teknik Informatika | FT | Ketua | ✅ Fix |
-| 2 | — | Pend. Teknik Informatika | FT | Dev Backend | ✅ Fix |
-| 3 | — | Pend. Teknik Informatika | FT | Dev Frontend | ✅ Fix |
-| 4 | — | Pend. Teknik Informatika | FT | Dev / PDD | ✅ Fix |
-| 5 | — | Biologi / Statistika | FMIPA | Data Analis / Pemberdayaan | 🔍 Cari |
-| 6 | — | Biologi / Statistika | FMIPA | Surveyor / Lingkungan | 🔍 Cari |
-| 7 | — | Ilmu Komunikasi | FISHIPOL | Konten / PR | 🔍 Cari |
-| 8 | — | Ilmu Komunikasi | FISHIPOL | Humas / Sosialisasi | 🔍 Cari |
-| 9 | — | Manajemen | FEB | Project Manager | 🔍 Cari |
-| 10 | — | Manajemen | FEB | Bendahara | 🔍 Cari |
+| Slot | Nama          | Prodi                         |   Fak.   | Peran                         | Status  |
+| :--: | ------------- | ----------------------------- | :------: | ----------------------------- | :-----: |
+|  1   | Fajar (Ketua) | Pend. Teknik Informatika      |    FT    | Ketua / PM Teknis             |  ✅ Fix  |
+|  2   | Terry         | Pend. Teknik Informatika      |    FT    | Dev Backend / Jaringan        |  ✅ Fix  |
+|  3   | Riski         | Pend. Teknik Informatika      |    FT    | Dev Frontend                  |  ✅ Fix  |
+|  4   | Veli          | Pend. Teknik Informatika      |    FT    | Dev / Administrasi            |  ✅ Fix  |
+|  5   | —             | Biologi / Statistika          |  FMIPA   | Data Analis / Pemberdayaan    | 🔍 Cari |
+|  6   | —             | Biologi / Statistika          |  FMIPA   | Surveyor / Edukasi Lingkungan | 🔍 Cari |
+|  7   | —             | Ilmu Komunikasi               | FISHIPOL | Konten Media / Dokumentasi    | 🔍 Cari |
+|  8   | —             | Ilmu Komunikasi               | FISHIPOL | Humas / Relasi Desa           | 🔍 Cari |
+|  9   | —             | Manajemen / PADP              |   FEB    | Project Coordinator / Arsip   | 🔍 Cari |
+|  10  | —             | Manajemen / PADP              |   FEB    | Bendahara / Pengelola Kas     | 🔍 Cari |
 
 ---
 
@@ -38,12 +38,12 @@ status: active
 
 ## Progress Rekrutmen
 
-- [ ] Slot 5 — Ilmu Komunikasi
-- [ ] Slot 6 — Ilmu Komunikasi
-- [ ] Slot 7 — Manajemen
-- [ ] Slot 8 — Manajemen
-- [ ] Slot 9 — Pend. Seni Rupa / TI
-- [ ] Slot 10 — Teknologi Informasi
+- [ ] Slot 5: Biologi / Statistika (FMIPA)
+- [ ] Slot 6: Biologi / Statistika (FMIPA)
+- [ ] Slot 7: Ilmu Komunikasi (FISHIPOL)
+- [ ] Slot 8: Ilmu Komunikasi (FISHIPOL)
+- [ ] Slot 9: Manajemen / PADP (FEB)
+- [ ] Slot 10: Manajemen / PADP (FEB)
 
 ---
 

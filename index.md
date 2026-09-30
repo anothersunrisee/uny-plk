@@ -23,8 +23,8 @@ status: active
 | 6 | Cari | Biologi / Statistika (FMIPA) | Surveyor / Lingkungan |
 | 7 | Cari | Ilmu Komunikasi (FISHIPOL) | Konten / PR |
 | 8 | Cari | Ilmu Komunikasi (FISHIPOL) | Humas / Sosialisasi |
-| 9 | Cari | Manajemen (FEB) | Project Manager |
-| 10 | Cari | Manajemen (FEB) | Bendahara |
+| 9 | Cari | Manajemen / PADP (FEB) | Project Manager / Arsip |
+| 10 | Cari | Manajemen / PADP (FEB) | Bendahara / Keuangan |
 
 ---
 
@@ -46,6 +46,7 @@ status: active
 - [[Roadmap 1 Minggu]] — Sprint 7 hari fondasi proyek (dar-der-dor)
 - [[Roster Tim]] — Roster formasi 10 anggota
 - [[Draft Kriteria Oprec]] — Kriteria & kualifikasi pendaftar per prodi
+- [[Broadcast Oprec]] — Draf pesan publikasi & open recruitment
 - [[Checklist Inventaris Tim Inti]] — Checklist skill, logistik, dan kendaraan 4 tim inti
 
 ---
