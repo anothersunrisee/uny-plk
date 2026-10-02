@@ -16,18 +16,19 @@ Baca file ini sebelum memulai analisa apapun di vault ini.
 **Program**: PLK (Pembelajaran Luar Kampus) — UNY Mengabdi 2027, Semester 6
 **Institusi**: Universitas Negeri Yogyakarta (UNY)
 **Angkatan**: 2024 (akan menjalani PLK di Semester 6)
-**Status Tim**: Sedang membentuk tim 10 orang
+**Lokasi Incaran**: Kabupaten Klaten, Jawa Tengah (Jalur Lintas Provinsi)
+**Status Tim**: Terkumpul 8 dari 10 orang
 
 ## Komposisi Tim Saat Ini
 
-- **4 orang fix**: Pendidikan Teknik Informatika (PTI), Fakultas Teknik (FT) — Fajar, Terry, Riski, Veli
-- **2 orang proses wawancara/lock-in**: Pendidikan Administrasi Perkantoran (PADP), FEB — Dinda Amelia Putri & Faidatul Anugraheni M.
-- **4 orang open**: 2 Ilmu Komunikasi (FISHIPOL) & 2 Biologi / Statistika (FMIPA)
-- **Status Kuota Prodi**: FT (4) + FEB (2) -> Wajib tambah min. 1 atau 2 prodi baru (Ilkom & Bio/Stat) untuk compliance regulasi UNY (min. 3-4 prodi berbeda)
+- **4 orang fix**: Pendidikan Teknik Informatika (PTI, FT) — Fajar, Terry, Riski, Veli
+- **2 orang lock-in**: Pendidikan Administrasi Perkantoran (PADP, FEB) — Dinda Amelia Putri & Faidatul Anugraheni M.
+- **2 orang lock-in**: Biologi (FMIPA) — Intan Milansari & (Partner Biologi 2)
+- **2 slot tersisa (Dibutuhkan)**: Ilmu Komunikasi (FISHIPOL) untuk slot Konten/Humas.
 
 ## Struktur Vault Ini
 
-```
+```text
 d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 ├── index.md                 ← Dashboard utama & landing page Quartz Web
 ├── Home.md                  ← Dashboard alternatif / Obsidian view
@@ -43,100 +44,47 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 │   ├── WIP - Sosialisasi Mahasiswa.md ← Materi sosialisasi ke mahasiswa
 │   └── UNY Mengabdi - Panduan Lengkap.md ← Kompilasi panduan lengkap
 │
-├── Tim PLK/                 ← Folder untuk catatan tim
-│   └── (tambah note anggota, rapat, dll)
+├── Tim PLK/                 ← Folder operasional tim
+│   ├── 01 - Fase Oprec/     ← File rekrutmen, SPK pendaftar, dan form screening
+│   ├── 02 - Fase Pre-PLK/   ← Draft survei Klaten, profil kesehatan tim, simulasi logbook
+│   └── 03 - Fase PLK/       ← (WIP) Logbook kegiatan, notulensi rapat harian posko
 │
 └── _templates/              ← Template untuk note baru
-    ├── Template Anggota.md
-    └── Template Rapat.md
 ```
-
-## File Kunci dan Isinya
-
-| File | Isi | Penting untuk |
-|------|-----|---------------|
-| `Riset/analisa oprec.md` | Analisa 36 posting oprec, ranking prodi dicari/ada | Rekrutmen anggota |
-| `Riset/Daftar Fakultas dan Prodi S1 UNY.md` | 60 prodi S1 + animo + akreditasi | Referensi data UNY |
-| `Panduan/Panduan PLK 2025 UNY.md` | Aturan resmi PLK, persyaratan, jadwal | Compliance PLK |
-| `Panduan/WIP - Panduan Dashboard PLK.md` | Cara daftar PLK via dashboard online | Teknis pendaftaran |
-| `Panduan/UNY Mengabdi - Panduan Lengkap.md` | Ringkasan lengkap semua panduan | Quick reference |
 
 ## Fakta Penting yang Harus Diketahui Agent
 
 ### Tentang PLK UNY
-- PLK = setara KKN, konversi 10-20 SKS
-- Dilaksanakan semester 6 (sekitar Februari–Juli 2027)
-- Tim harus terdiri dari **minimal 10 orang dari minimal 2 prodi berbeda** per 2 mahasiswa
-- Setiap prodi diwakili **minimal 2 mahasiswa** dalam satu tim
-- Ada kategori: UNY Mengabdi (pengabdian masyarakat), UNY Riset, UNY MBKM, dll.
-- Tim kita targetkan: **UNY Mengabdi**
+- PLK = setara KKN, konversi 10-20 SKS (Minimal 272 Jam Kerja Efektif, via Logbook)
+- Tim harus terdiri dari **minimal 10 orang dari minimal 2 prodi berbeda** (Ideal: 3-4 prodi).
+- Setiap prodi diwakili **minimal 2 mahasiswa** dalam satu tim.
+- Ada aturan abu-abu di tingkat Fakultas terkait larangan "Nilai C" dan keharusan "2 Kelompok per Desa" yang sedang diklarifikasi ke PIC Dosen Prodi.
 
-### Tentang Analisa Oprec
-- Data dari 36 posting open recruitment di grup angkatan 2024
-- **Temuan terpenting**: Mahasiswa laki-laki FT = paling langka dan paling dicari
-- Tim PTI (FT, laki-laki) = bargaining power tertinggi dalam merger tim
-- Prodi over-supply: Pend. IPA, Fisika, Akuntansi, Matematika
-- Prodi under-supply tapi dibutuhkan: Ilmu Komunikasi, Pend. Seni Rupa, TI
+### Sistem Kerja Tim (Struktur Matrix)
+- Tim ini menggunakan **Struktur Organisasi Matrix**.
+- Setiap anggota WAJIB memegang 2 peran: **Peran Operasional Posko** (Ketua, Bendahara, Konsumsi, Perkap, dll) DAN **Peran Fungsional Proker** (Koor Divisi Teknologi, Divisi Lingkungan, Divisi PADP, dll).
+- Agent harus membedakan mana rapat/kebutuhan operasional (hidup di posko) dan rapat/kebutuhan proker (terjun ke warga) saat memberikan saran/rencana kerja.
 
-### Rekomendasi 6 Anggota Sisa
-| Slot | Prodi | Peran |
+### Rekomendasi 2 Anggota Sisa (Slot Terakhir)
+| Slot | Prodi | Peran Matrix yang Dibutuhkan |
 |:----:|-------|-------|
-| 5 | Biologi / Statistika (FMIPA) | Data Analis / Pemberdayaan |
-| 6 | Biologi / Statistika (FMIPA) | Surveyor / Lingkungan |
-| 7 | Ilmu Komunikasi (FISHIPOL) | Konten/PR |
-| 8 | Ilmu Komunikasi (FISHIPOL) | Humas/Sosialisasi |
-| 9 | Manajemen / PADP (FEB) | Project Coordinator / Arsip |
-| 10 | Manajemen / PADP (FEB) | Bendahara / Keuangan |
+| 9 | Ilmu Komunikasi (FISHIPOL) | Operasional: PDD / Proker: Koor Divisi Pendidikan-Sosial |
+| 10 | Ilmu Komunikasi (FISHIPOL) | Operasional: Humas / Proker: Anggota Divisi Pendidikan-Sosial |
 
 ## Panduan untuk Agent: Cara Membantu
 
-### Jika ditanya tentang rekrutmen anggota:
-1. Baca `Riset/analisa oprec.md` untuk konteks supply/demand prodi
-2. Cross-reference dengan `Riset/Daftar Fakultas dan Prodi S1 UNY.md` untuk data animo
-3. Prioritaskan slot yang belum terisi (5–10)
-
-### Jika ditanya tentang teknis PLK:
-1. Baca `Panduan/Panduan PLK 2025 UNY.md` untuk aturan resmi
-2. Baca `Panduan/WIP - Panduan Dashboard PLK.md` untuk teknis pendaftaran
-3. Refer ke `Panduan/UNY Mengabdi - Panduan Lengkap.md` untuk quick answer
-
-### Jika diminta analisa data baru (posting oprec, dll):
-1. Parse posting menjadi tabel: existing team | yang dicari | CP
-2. Update `Riset/analisa oprec.md` — tambah ke bagian "Data Mentah"
-3. Update ranking frekuensi jika ada perubahan signifikan
+### Jika diminta panduan birokrasi & kampus:
+1. Rujuk ke dokumen di folder `Panduan/`.
+2. Ingatkan *user* bahwa aturan prodi (PIC PLK) selalu mengalahkan aturan universitas jika terjadi perbedaan tafsir (Hukum Tertinggi adalah persetujuan dosen prodi).
+3. Untuk perhitungan jam terbang 272 jam, rujuk ke trik `Draft Simulasi 272 Jam Kerja.md` (masukkan jam di Jogja).
 
 ### Format output yang disukai:
-- Gunakan tabel markdown untuk data terstruktur
-- Gunakan emoji sebagai visual indicator (🔴 kritis, 🟠 penting, 🟡 sedang, 🟢 aman)
-- Wikilinks Obsidian: `[[nama file]]` untuk referensi antar note
-- Frontmatter YAML di setiap note baru
-
-## Konvensi Vault
-
-### Frontmatter YAML (wajib di setiap note baru)
-```yaml
----
-tags: [plk, uny, mengabdi]
-created: YYYY-MM-DD
-status: draft | active | selesai
----
-```
-
-### Tag yang digunakan
-- `#plk` — semua yang berkaitan PLK
-- `#uny` — data/info UNY resmi
-- `#tim` — catatan tentang anggota tim
-- `#oprec` — data open recruitment
-- `#panduan` — panduan/prosedur resmi
-- `#riset` — analisa dan temuan riset
-
-### Wikilinks penting
-- `[[Home]]` — kembali ke dashboard
-- `[[analisa oprec]]` — analisa recruitment
-- `[[Panduan PLK 2025 UNY]]` — panduan resmi
-- `[[Daftar Fakultas dan Prodi S1 UNY]]` — referensi prodi
+- Gunakan tabel markdown untuk data terstruktur.
+- Gunakan list/bullet yang jelas dan tidak bertele-tele (prinsip: *Dar-der-dor, cepat, tereksekusi*).
+- Gunakan emoji sebagai visual indicator (🔴 kritis, 🟠 penting, 🟡 sedang, 🟢 aman).
+- Wikilinks Obsidian: `[[nama file]]` untuk referensi antar note.
 
 ---
 
 *File ini otomatis dibaca oleh AI agent saat membantu proyek ini.*
-*Update file ini jika ada perubahan komposisi tim atau tujuan proyek.*
+*Update file ini secara berkala jika ada perubahan komposisi tim atau pergantian fase proyek.*

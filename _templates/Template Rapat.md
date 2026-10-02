@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [tim, rapat]
 created: {{date:YYYY-MM-DD}}
 status: draft

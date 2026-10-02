@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [tim, anggota]
 created: {{date:YYYY-MM-DD}}
 status: aktif

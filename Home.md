@@ -41,11 +41,17 @@ status: active
 ### Tim & Operasional
 - [[Roadmap 1 Minggu]] — Sprint 7 hari fondasi proyek (dar-der-dor)
 - [[Roster Tim]] — Roster formasi 10 anggota
+- [[Struktur Organisasi Matrix Tim PLK]] — Pembagian peran ganda (posko vs proker)
+- [[Database Profil Anggota Tim]] — Data K3, riwayat medis, dan kontak darurat tim
+- [[Draft Konsultasi Dosen PIC]] — Checklist pertanyaan untuk lobi ke Dosen/Koorprodi
+- [[Draft Simulasi 272 Jam Kerja]] — Panduan sistem logbook dan jam kerja PLK
+- [[Draft Survey Lokasi Klaten]] — Pertanyaan observasi ke Kades & kelayakan posko
+- [[Analisa SPK Pendaftar Biologi]] — Matriks skor seleksi Opsi Biologi
 - [[Draft Kriteria Oprec]] — Kriteria & kualifikasi pendaftar per prodi
-- [[Informasi Oprec dan Profil Tim PLK 2027]] — Dokumen resmi profil & info oprec (Siap Cetak PDF)
+- [[Informasi Oprec dan Profil Tim PLK 2027]] — Dokumen profil publik
 - [[Broadcast Oprec]] — Draf pesan publikasi & open recruitment
-- [[Form & Screening Spreadsheet Oprec]] — Form pendaftaran, rumus spreadsheet, & prompt AI screening
-- [[Checklist Inventaris Tim Inti]] — Checklist skill, logistik, dan kendaraan 4 tim inti
+- [[Form & Screening Spreadsheet Oprec]] — Form pendaftaran, rumus, & prompt AI
+- [[Checklist Inventaris Tim Inti]] — Checklist logistik dan kendaraan 4 tim inti
 - [[Tim PLK/]] — Folder catatan anggota & rapat tim
 
 ---

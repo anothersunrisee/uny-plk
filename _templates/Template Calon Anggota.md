@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [oprec, calon]
 created: {{date:YYYY-MM-DD}}
 status: prospect | contacted | confirmed | rejected
