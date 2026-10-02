@@ -47,18 +47,18 @@ Fokus kepanitiaan ini adalah mengeksekusi program kerja nyata untuk warga desa b
 
 Nanti, satu orang akan mengisi 1 kolom Operasional dan 1 kolom Proker. Contoh skemanya:
 
-| Nama Anggota | Asal Prodi | Peran Operasional Posko | Peran Divisi Proker |
-|---|---|---|---|
-| **Fajar** | PTI | PDD / Humas | Koor. Divisi Teknologi |
-| **Terry** | PTI | Perkap / Humas | Anggota Div. Teknologi |
-| **Dinda** | PADP | Sekretaris | Anggota Div. Ekonomi UMKM |
-| **Faidatul** | PADP | Bendahara | Koor. Div. Ekonomi UMKM |
-| **Intan** | Biologi | Konsumsi | Koor. Div. Lingkungan & Kes. |
-| **[Zalfa/Bio]**| Biologi | Konsumsi | Anggota Div. Lingkungan |
-| **[Anak PTI 3]**| PTI | Ketua | - (Fokus *Controlling*) |
-| **[Anak PTI 4]**| PTI | Perkap | Anggota Div. Pendidikan |
-| **[Anak Ilkom]**| Ilkom | PDD | Koor. Divisi Pendidikan |
-| **[Anak Ilkom]**| Ilkom | Humas | Anggota Div. Pendidikan |
+| Nama Anggota     | Asal Prodi | Peran Operasional Posko | Peran Divisi Proker          |
+| ---------------- | ---------- | ----------------------- | ---------------------------- |
+| **Fajar**        | PTI        | PDD / Humas             | Koor. Divisi Teknologi       |
+| **Terry**        | PTI        | Perkap / Humas          | Anggota Div. Teknologi       |
+| **Dinda**        | PADP       | Sekretaris              | Anggota Div. Ekonomi UMKM    |
+| **Faidatul**     | PADP       | Bendahara               | Koor. Div. Ekonomi UMKM      |
+| **Intan**        | Biologi    | Konsumsi                | Koor. Div. Lingkungan & Kes. |
+| **[Zalfa/Bio]**  | Biologi    | Konsumsi                | Anggota Div. Lingkungan      |
+| **[Anak PTI 3]** | PTI        | Ketua                   | - (Fokus *Controlling*)      |
+| **[Anak PTI 4]** | PTI        | Perkap                  | Anggota Div. Pendidikan      |
+| **[Anak Ilkom]** | Ilkom      | PDD                     | Koor. Divisi Pendidikan      |
+| **[Anak Ilkom]** | Ilkom      | Humas                   | Anggota Div. Pendidikan      |
 
 *(Ini hanya simulasi, pembagian fix dilakukan saat 10 anggota sudah kumpul semua).*
 
