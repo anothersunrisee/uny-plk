@@ -16,15 +16,16 @@ Baca file ini sebelum memulai analisa apapun di vault ini.
 **Program**: PLK (Pembelajaran Luar Kampus) — UNY Mengabdi 2027, Semester 6
 **Institusi**: Universitas Negeri Yogyakarta (UNY)
 **Angkatan**: 2024 (akan menjalani PLK di Semester 6)
-**Lokasi Incaran**: Kabupaten Klaten, Jawa Tengah (Jalur Lintas Provinsi)
+**Lokasi Incaran**: Desa Wonosari, Kab. Klaten, Jawa Tengah (Sudah dilakukan survei awal ke BPD)
 **Status Tim**: Terkumpul 8 dari 10 orang
+**Fase Saat Ini**: Pre-PLK (Roadmap Tahap 2)
 
 ## Komposisi Tim Saat Ini
 
 - **4 orang fix**: Pendidikan Teknik Informatika (PTI, FT) — Fajar, Terry, Riski, Veli
 - **2 orang lock-in**: Pendidikan Administrasi Perkantoran (PADP, FEB) — Dinda Amelia Putri & Faidatul Anugraheni M.
-- **2 orang lock-in**: Biologi (FMIPA) — Intan Milansari & (Partner Biologi 2)
-- **2 slot tersisa (Dibutuhkan)**: Ilmu Komunikasi (FISHIPOL) untuk slot Konten/Humas.
+- **2 orang lock-in**: Biologi (FMIPA) — Intan Milansari & Zalfa
+- **2 slot tersisa (Dibutuhkan)**: Bebas Prodi (Sosiologi/FT/Ilkom, diutamakan Laki-Laki) untuk slot Perkap/Keamanan & Pendidikan.
 
 ## Struktur Vault Ini
 
@@ -47,7 +48,7 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 ├── Tim PLK/                 ← Folder operasional tim
 │   ├── 01 - Fase Oprec/     ← File rekrutmen, SPK pendaftar, dan form screening
 │   ├── 02 - Fase Pre-PLK/   ← Draft survei Klaten, profil kesehatan tim, simulasi logbook
-│   └── 03 - Fase PLK/       ← (WIP) Logbook kegiatan, notulensi rapat harian posko
+│   └── 03 - Fase PLK/       ← Dashboard Eksekusi PLK & Logbook
 │
 └── _templates/              ← Template untuk note baru
 ```
@@ -66,10 +67,10 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 - Agent harus membedakan mana rapat/kebutuhan operasional (hidup di posko) dan rapat/kebutuhan proker (terjun ke warga) saat memberikan saran/rencana kerja.
 
 ### Rekomendasi 2 Anggota Sisa (Slot Terakhir)
-| Slot | Prodi | Peran Matrix yang Dibutuhkan |
+| Slot | Kriteria | Peran Matrix yang Dibutuhkan |
 |:----:|-------|-------|
-| 9 | Ilmu Komunikasi (FISHIPOL) | Operasional: PDD / Proker: Koor Divisi Pendidikan-Sosial |
-| 10 | Ilmu Komunikasi (FISHIPOL) | Operasional: Humas / Proker: Anggota Divisi Pendidikan-Sosial |
+| 9 | Cowok (Bebas Prodi, ex: Sosiologi/FT) | Operasional: Perkap Utama / Keamanan / Proker: Divisi Pendidikan |
+| 10 | Cowok (Bebas Prodi, ex: Sosiologi/FT) | Operasional: Humas / Dokumentasi / Proker: Anggota Divisi Pendidikan |
 
 ## Panduan untuk Agent: Cara Membantu
 

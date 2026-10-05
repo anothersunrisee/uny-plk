@@ -39,7 +39,8 @@ status: active
 - [[UNY Mengabdi - Panduan Lengkap]] — Kompilasi semua panduan
 
 ### Tim & Operasional
-- [[Roadmap 1 Minggu]] — Sprint 7 hari fondasi proyek (dar-der-dor)
+- [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] — **(KITA DI SINI!)** Target lobi Kades, Dosen, dan draf Proposal.
+- [[Roadmap 1 Minggu]] — (Selesai) Sprint 7 hari fondasi proyek awal 4 orang.
 - [[Roster Tim]] — Roster formasi 10 anggota
 - [[Struktur Organisasi Matrix Tim PLK]] — Pembagian peran ganda (posko vs proker)
 - [[Database Profil Anggota Tim]] — Data K3, riwayat medis, dan kontak darurat tim
@@ -52,7 +53,7 @@ status: active
 - [[Broadcast Oprec]] — Draf pesan publikasi & open recruitment
 - [[Form & Screening Spreadsheet Oprec]] — Form pendaftaran, rumus, & prompt AI
 - [[Checklist Inventaris Tim Inti]] — Checklist logistik dan kendaraan 4 tim inti
-- [[Tim PLK/]] — Folder catatan anggota & rapat tim
+- [[Dashboard Eksekusi PLK]] — (Draft 2027) Command center saat terjun lapangan nanti.
 
 ---
 

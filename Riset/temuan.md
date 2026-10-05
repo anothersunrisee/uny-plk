@@ -422,6 +422,44 @@ Berdasarkan gap di atas, kriteria Oprec perlu ditambahkan:
 
 ---
 
+## LOG #014: Survei Lapangan Kilat ke Desa Wonosari
+
+### 5W1H
+
+| Aspek | Analisa |
+|---|---|
+| **What** | Pelaksanaan survei lapangan tahap awal ke Desa Wonosari, Klaten, dengan narasumber BPD setempat (Pak Maryadi). |
+| **Why** | Memvalidasi kondisi riil desa, memetakan pain point warga sebagai bahan baku penyusunan proker, dan mengetahui alur birokrasi perizinan. |
+| **Who** | Terry (Eksekutor Survei) & Pak Maryadi (Narasumber BPD RW 01 Majegan). |
+| **When** | 3 Oktober 2026. |
+| **Where** | Dukuh Majegan, Desa Wonosari, Kabupaten Klaten. |
+| **How** | Terry melakukan wawancara santai (*sowan*) dan merekam percakapan, kemudian hasil transkrip dianalisa untuk menemukan 3 masalah utama: Sampah mahal, BUMDes macet, dan Administrasi belum digital. |
+
+### Implikasi Proker
+- **Biologi**: Punya ladang emas untuk proker Eco-Enzyme / Bank Sampah.
+- **PADP**: Punya bahan untuk proker Revitalisasi Pembukuan BUMDes.
+- **PTI**: Fokus pada digitalisasi arsip desa dan pembuatan jadwal/banner untuk 9 kelompok pengajian aktif.
+- Info detail ada di [[Draft Survey Lokasi Klaten]].
+
+---
+
+## LOG #015: Transisi ke Roadmap Tahap 2 (Fase Pre-PLK Lanjutan)
+
+### 5W1H
+
+| Aspek | Analisa |
+|---|---|
+| **What** | Mengakhiri "Roadmap 1 Minggu" (fokus 4 anak PTI) dan beralih ke "Roadmap Tahap 2" (fokus integrasi 8-10 anggota tim). |
+| **Why** | Tim sudah membengkak menjadi 8 orang dari 3 prodi berbeda (PTI, PADP, Bio). Fokus kerja tidak lagi murni riset mandiri, tapi harus masuk ke fase koordinasi tim, birokrasi kampus, dan penyusunan proposal resmi. |
+| **Who** | Seluruh anggota tim (8 orang saat ini) + 2 calon anggota Ilmu Komunikasi. |
+| **When** | Mulai 5 Oktober 2026 hingga batas waktu pendaftaran Dashboard UNY (November 2026). |
+| **Where** | Jogja (Rapat Kopi/Kampus) & Klaten (Survei Lanjutan Kades). |
+| **How** | Tim dibagi menjadi divisi fungsional sesuai matriks (Kepanitiaan Umum vs Proker). Ketua fokus ke Dosen PIC dan surat menyurat, tim proker fokus menyusun draf proposal, tim Oprec berburu 2 cowok terakhir. |
+
+- Dokumen eksekusi selanjutnya beralih ke: [[Roadmap Tahap 2 - Eksekusi Pre-PLK]].
+
+---
+
 *Log ini diupdate setiap ada analisa atau keputusan baru.*
 *Format: tambah entri baru LOG #NNN di bawah index.*
-*Wikilinks: [[index|Home]] | [[Roadmap 1 Minggu]] | [[analisa oprec]] | [[Panduan PLK 2025 UNY]] | [[Checklist Inventaris Tim Inti]] | [[Draft Kriteria Oprec]]*
+*Wikilinks: [[Home]] | [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] | [[Draft Survey Lokasi Klaten]] | [[Struktur Organisasi Matrix Tim PLK]]*
