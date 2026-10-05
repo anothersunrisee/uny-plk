@@ -49,18 +49,18 @@ Nanti, satu orang akan mengisi 1 kolom Operasional dan 1 kolom Proker. Contoh sk
 
 | Nama Anggota     | Asal Prodi | Peran Operasional Posko | Peran Divisi Proker          |
 | ---------------- | ---------- | ----------------------- | ---------------------------- |
-| **Fajar**        | PTI        | PDD / Humas             | Koor. Divisi Teknologi       |
-| **Terry**        | PTI        | Perkap / Humas          | Anggota Div. Teknologi       |
-| **Dinda**        | PADP       | Sekretaris              | Anggota Div. Ekonomi UMKM    |
-| **Faidatul**     | PADP       | Bendahara               | Koor. Div. Ekonomi UMKM      |
-| **Intan**        | Biologi    | Konsumsi                | Koor. Div. Lingkungan & Kes. |
-| **[Zalfa/Bio]**  | Biologi    | Konsumsi                | Anggota Div. Lingkungan      |
-| **[Anak PTI 3]** | PTI        | Ketua                   | - (Fokus *Controlling*)      |
-| **[Anak PTI 4]** | PTI        | Perkap                  | Anggota Div. Pendidikan      |
-| **[Anak Ilkom]** | Ilkom      | PDD                     | Koor. Divisi Pendidikan      |
-| **[Anak Ilkom]** | Ilkom      | Humas                   | Anggota Div. Pendidikan      |
+| **Fajar**        | PTI        | Ketua (Kordes)          | - (Fokus *Controlling*)      |
+| **Dinda**        | PADP       | Sekretaris Utama        | Anggota Div. Administrasi/UMKM |
+| **Faidatul (Fai)**| PADP      | Bendahara Utama         | Koor. Div. Administrasi/UMKM |
+| **Veli**         | PTI        | Sekre 2 / Konsumsi      | Koor. Div. Teknologi & Web   |
+| **Terry**        | PTI        | Humas / Perkap          | Anggota Div. Teknologi       |
+| **Riski**        | PTI        | PDD / Dokumentasi       | Anggota Div. Teknologi       |
+| **Intan**        | Biologi    | Konsumsi Utama          | Koor. Div. Lingkungan & Kes. |
+| **Zalfa**        | Biologi    | Konsumsi / Bendahara 2  | Anggota Div. Lingkungan      |
+| **[Slot 9 Cowok]**| Bebas/FT  | Perkap Utama            | Koor. Divisi Pendidikan      |
+| **[Slot 10 Cowok]**| Bebas/FT | Humas / Keamanan        | Anggota Div. Pendidikan      |
 
-*(Ini hanya simulasi, pembagian fix dilakukan saat 10 anggota sudah kumpul semua).*
+*(Pembagian ini adalah draft rekomendasi berdasarkan kecocokan prodi. Bisa diubah saat rapat pleno).*
 
 ---
 

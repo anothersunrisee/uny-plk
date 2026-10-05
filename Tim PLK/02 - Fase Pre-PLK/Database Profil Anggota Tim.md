@@ -12,29 +12,33 @@ Dokumen ini berisi data induk (master data) seluruh anggota tim PLK. Sangat pent
 
 > **Tips:** Tabel ini formatnya memanjang ke kanan. Jika terlalu panjang, kalian juga bisa membaginya di Excel/Spreadsheet. Namun ini sangat berguna untuk arsip di Obsidian.
 
-| No | Nama Lengkap | Panggilan | Prodi | NIM | No. HP (WA) | Email Utama | Email SSO UNY | No. HP Ortu (Darurat) | Gol. Darah & Riwayat Kesehatan | Alamat Kost/Tinggal (Jogja) | Status Kendaraan | Ukuran PDH |
-|:--:|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Fajar Ahnaf Mahardika | Fajar | PTI | 24050530030 | 0895-3638-98438 | fajarahnf@gmail.com | fajarahnaf.2024@student.uny.ac.id | 0813-2657-5753 | **O** / Eksim, dermatitis, bronkitis, gerd | Jl. Balapan 44, Klitren | Ada | L/XL |
-| 2 | Terry | Terry | PTI | | | | | | | | | |
-| 3 | Riski | Riski | PTI | | | | | | | | | |
-| 4 | Ovelia | Veli | PTI | | 0896-3618-6564 | | | | | | | |
-| 5 | Dinda Amelia Putri | Dinda | PADP | | | | | | | Kost | | |
-| 6 | Faidatul Anugraheni M. | Faidatul | PADP | | | | | | | Kost | Tidak | |
-| 7 | Intan Milansari | Intan | Biologi | 24030830059 | 0852-1786-6452 | intanmilans20@gmail.com | intanmilansari.2024@student.uny.ac.id | 0857-1618-2143 | **B** / Asam lambung (GERD) | Jl. Kwasen, Piyungan, Bantul | Ada & Helm | S |
-| 8 | [Anggota Biologi 2] | | Biologi | | | | | | | | | |
+| No  | Nama Lengkap               | Panggilan | Prodi   | NIM         | No. HP (WA)     | Email Utama              | Email SSO UNY                             | No. HP Ortu (Darurat) | Gol. Darah & Riwayat Kesehatan                    | Alamat Kost/Tinggal (Jogja)  | Status Kendaraan | Ukuran PDH |
+| :-: | -------------------------- | --------- | ------- | ----------- | --------------- | ------------------------ | ----------------------------------------- | --------------------- | ------------------------------------------------- | ---------------------------- | ---------------- | ---------- |
+|  1  | Fajar Ahnaf Mahardika      | Fajar     | PTI     | 24050530030 | 0895-3638-98438 | fajarahnf@gmail.com      | fajarahnaf.2024@student.uny.ac.id         | 0813-2657-5753        | **O** / Eksim, dermatitis, bronkitis, gerd        | Jl. Balapan 44, Klitren      | Ada Motor        | L/XL       |
+|  2  | Muhadzdzib Terry Al Fauzan | Terry     | PTI     | 24050530052 | 0857-7367-5282  | terryalfauzan0@gmail.com | muhadzdibterry.2024@student.uny.ac.id     | 0815-1108-5683        | **?** / Sehat sentosa                             | PP Klaten                    | Ada Motor        | XL         |
+|  3  | Muhamad Riski              | Riski     | PTI     | 24050530029 | 0815-6636-087   | lionelsega15@gmail.com   | muhamadriski.2024@student.uny.ac.id       | -                     | **B** / Sehat sentosa                             | Jetis                        | Ada Motor        | XL         |
+|  4  | Novelia Harlinda           | Veli      | PTI     | 24050530044 | 0896-3618-6564  | noveliahrlnd@gmail.com   | noveliaharlinda.2024@student.uny.ac.id    | Olief (Bapak)         | **AB+** / Alergi suhu drastis, lactose intolerant | Jl. Arumdalu no. 11          | Tidak Ada        | M/L        |
+|  5  | Dinda Amelia Putri         | Dinda     | PADP    | 24080330053 | 0813-2878-8545  | ameliadinda624@gmail.com | dindaamelia.2024@student.uny.ac.id        | 0838-4834-3763        | **B** / Gastritis & GERD                          | Samirono CT VI/306, Depok    | Motor & Helm     | S/M        |
+|  6  | Faidatul Anugraheni M.     | Fai       | PADP    | 24080330078 | 0895-3359-78835 | faidatulanmgh@gmail.com  | faidatulanugraheni.2024@student.uny.ac.id | 0812-2824-0759        | **O** / Sehat                                     | Jl. Amarta I, Karang Malang  | Helm (No Motor)  | S/M        |
+|  7  | Intan Milansari            | Intan     | Biologi | 24030830059 | 0852-1786-6452  | intanmilans20@gmail.com  | intanmilansari.2024@student.uny.ac.id     | 0857-1618-2143        | **B** / Asam lambung (GERD)                       | Jl. Kwasen, Piyungan, Bantul | Motor & Helm     | S/M        |
+|  8  | Zalfa Khoirunnisa          | Zalfa     | Biologi | 24030830068 | 0838-8626-748   | zalfaa.nisa11@gmail.com  | zalfakhoirunnisa.2024@student.uny.ac.id   | 0858-4647-6055        | **A** / Maag & Alergi dingin                      | Karangmalang, Blok C.19A     | Helm (No Motor)  | S/M        |
 
 *Catatan: Pastikan bagian "Riwayat Kesehatan" dan "No. HP Ortu" diisi dengan benar demi keselamatan kerja (K3) selama di lokasi PLK.*
 
 ### ⚠️ Analisis Risiko & Mitigasi (Berdasarkan Data Anggota)
 
 1. **Kesehatan & Keselamatan Kerja (K3):**
-   - **Fajar:** Punya kondisi medis yang butuh ekstra *care* (Eksim, Dermatitis, Bronkitis). 
-     - *Mitigasi Tim:* Saat eksekusi proker di lapangan, Fajar jangan terlalu diporsir di area yang penuh debu proyek, pembakaran sampah, atau cuaca yang terlalu lembab/dingin di malam hari. Wajib stok obat inhaler/salep. Pastikan posko nanti sirkulasi udaranya bersih dan sumber airnya layak (penting untuk kulit eksim).
-   - **Fajar & Intan:** Memiliki riwayat GERD/Asam lambung.
-     - *Mitigasi Tim:* Divisi Konsumsi (atau siapapun yang piket masak) **wajib disiplin soal jam makan**. Jangan sampai telat makan! Jika proker di luar molor sampai sore, pastikan selalu bawa logistik / *snack* buat pengganjal perut.
-2. **Logistik & Mobilitas:**
-   - **Intan** kosnya jauh di Piyungan, Bantul, sementara *base* operasional anak UNY biasanya di Sleman/Kota. 
-     - *Mitigasi:* Titik kumpul (*meeting point*) sebelum pemberangkatan ke Klaten harus disepakati secara bijak agar Intan tidak kecapekan di jalan sebelum proker dimulai. Untungnya dia bawa motor sendiri.
+   - **Geng Lambung (Fajar, Dinda, Intan, Zalfa):** Setengah dari anggota tim punya riwayat masalah asam lambung (GERD/Gastritis/Maag).
+     - *Mitigasi Tim:* Divisi Konsumsi harus **super disiplin**! Jadwal makan tidak boleh molor. Selalu stok biskuit/roti gandum dan obat Promag/Polysilane di posko dan saat terjun lapangan.
+   - **Alergi Suhu / Dingin (Veli & Zalfa) + Paru-paru (Fajar):** Veli alergi suhu drastis, Zalfa alergi dingin, Fajar ada riwayat bronkitis.
+     - *Mitigasi Tim:* Hindari jadwal proker fisik atau kumpul *outdoor* hingga larut malam. Wajibkan ketiganya memakai jaket tebal saat angin malam Klaten sedang kencang. Fajar juga harus hindari asap cor/pembakaran karena debu bisa memicu bronkitis.
+   - **Lactose Intolerant (Veli):** Veli tidak bisa mencerna susu sapi.
+     - *Mitigasi Tim:* Konsumsi wajib memisahkan pesanan minuman Veli (hindari es kopi susu, teh susu, atau makanan berbasis keju/krim).
+
+2. **Logistik & Mobilitas (Kendaraan):**
+   - **Rasio Kendaraan:** Fajar, Riski, Dinda, Intan bawa motor di Jogja (Total 4 Motor = 8 Kursi). Terry membawa motor tapi rutenya PP Klaten. Anggota yang *nebeng* di Jogja ada 3 orang (Veli, Fai, Zalfa).
+     - *Kesimpulan:* Secara rasio, **kendaraan AMAN BANGET!** 4 motor sudah cukup untuk mengangkut 7 orang dari Jogja menuju Klaten dengan skema boncengan (sisa 1 slot kosong untuk barang).
+   - **Titik Kumpul (Piyungan - Sleman):** Intan tinggal di Piyungan, sedangkan sisa tim ada di utara (Sleman/Klitren). Pastikan janjian *meeting point* pemberangkatan tidak merugikan Intan agar ia tidak kecapekan sebelum sampai Klaten.
 
 ---
 
