@@ -48,24 +48,23 @@ Berdasarkan Panduan PLK 2025 (Bab II, Baris 117), wewenang menunjuk PIC PLK ada 
 
 ---
 
-## 🔄 Flow Konsultasi Tim Lintas Prodi (4 PTI, 2 Bio, 2 PADP)
+## 🔄 Flow Konsultasi Tim Lintas Prodi (4 PTI, 2 Bio, 2 PADP, 2 TP)
 
-Karena tim kita adalah tim gabungan lintas fakultas (FT, FMIPA, FEB), kebijakan konversi SKS dan syarat nilai (seperti isu nilai C) **bisa jadi berbeda-beda di tiap prodi**. 
+Karena tim kita adalah gabungan lintas 4 fakultas (FT, FEB, FMIPA, FIP), kebijakan konversi SKS dan syarat nilai dicek langsung ke masing-masing PIC prodi.
 
-Oleh karena itu, konsultasi **TIDAK BISA DIWAKILKAN** oleh ketua (Fajar) saja. Berikut adalah *flow* eksekusinya:
+> 📊 **Rekapitulasi Lengkap:** Lihat [[Matriks Hasil Konsultasi PIC 4 Prodi]] untuk perbandingan komprehensif.
 
-### 1. Pembagian Tugas (Target: Senin/Selasa)
-- **Tim PTI (Fajar, Terry, Riski, Veli):** Bergerak menemui Koorprodi / PIC PLK Pendidikan Teknik Informatika. Fokus tanyakan konversi SKS untuk luaran *web/tech* dan perizinan Klaten.
-- **Tim Biologi (Intan & Zalfa):** Bergerak menemui Koorprodi / PIC PLK Pendidikan Biologi. Fokus tanyakan konversi SKS untuk edukasi lingkungan/kesehatan dan pastikan isu nilai C di MIPA.
-- **Tim PADP (Dinda & Faidatul):** Bergerak menemui Koorprodi / PIC PLK PADP (FEB). Fokus tanyakan konversi SKS manajerial/administrasi desa.
+### 1. Status Eksekusi per Prodi
+- 🟢 **Tim PTI (Fajar, Terry, Riski, Veli):** SELESAI → [[Notulensi Konsultasi PIC PTI]] *(Dr. Sigit Pambudi)*
+- 🟢 **Tim Biologi (Intan & Zalfa):** SELESAI → [[Notulensi Konsultasi PIC Biologi]] *(Dr. Anna Rakhmawati & Dr. Ixora Sartika)*
+- 🟢 **Tim PADP (Dinda & Faidatul):** SELESAI → [[Notulensi Konsultasi PIC PADP]] *(Hilmy Pradana Sundawan, M.Ak.)*
+- 🔴 **Tim TP (Alvina & Sandra):** **ACTION ITEM MENDESAK** → Segera temui Koorprodi / Dosen PIC PLK Teknologi Pendidikan (FIPP UNY) menggunakan daftar pertanyaan di atas.
 
-### 2. Standarisasi Pertanyaan (Eksekusi)
-Setiap sub-tim wajib membawa **Daftar Pertanyaan** di atas (isu nilai C, syarat jumlah kelompok per desa, konversi MK, perizinan Klaten) dan berani menunjukkan PDF Buku Panduan PLK jika dosennya kurang *update*.
-
-### 3. Konsolidasi & Rapat Pleno Tim
-Setelah semua sub-tim mendapat jawaban dari PIC prodi masing-masing, adakan rapat kumpul tim inti 8 orang.
-- **Cocokkan Hasil:** *"Anak PTI dibolehin nggak nilai C? Anak Bio gimana? Anak PADP gimana?"* (Kalau ada prodi yang melarang keras nilai C dan anak tersebut punya nilai C, berarti posisinya bahaya dan butuh mediasi Koorprodi).
-- **Penyesuaian Proker:** *"Ternyata anak PADP diwajibkan bikin luaran buku tata kearsipan desa supaya SKS-nya cair, nah berarti kita wajib masukkan proker itu ke proposal utama kita."*
+### 2. Konsolidasi Temuan Tim
+Setelah hasil dari TP FIP terkumpul, tim melakukan finalisasi:
+- **Isu Nilai C:** Dinyatakan **100% AMAN** di semua prodi (tidak ada larangan, cukup 100 SKS).
+- **Isu Jam 272:** Jam persiapan teknis di Jogja sah dicatat di logbook.
+- **Isu Klaten:** Surat izin wajib ditembuskan ke Bakesbangpol Kab. Klaten.
 
 ---
 

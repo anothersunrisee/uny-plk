@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [oprec, raw-data, arsip]
 created: 2026-09-29
 status: arsip

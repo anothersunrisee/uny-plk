@@ -38,29 +38,29 @@ Fokus kepanitiaan ini adalah mengeksekusi program kerja nyata untuk warga desa b
   * *Tugas:* Menggarap proker pengolahan sampah/eco-enzyme, kesehatan warga, stunting, atau penanaman bibit.
 * **Divisi Administrasi & Ekonomi UMKM (Koordinator: Tim PADP)**
   * *Tugas:* Menggarap kearsipan balai desa, pendampingan legalitas UMKM, *digital marketing*, atau pembukuan RT/RW.
-* **Divisi Pendidikan & Sosial (Koordinator: Tim Ilmu Komunikasi/Bebas)**
-  * *Tugas:* Mengajar di PAUD/SD, lomba TPA anak-anak, mengurus taman baca, dan *event* Karang Taruna.
+* **Divisi Pendidikan & Media Pembelajaran (Koordinator: Tim Teknologi Pendidikan - FIP)**
+  * *Tugas:* Mengembangkan media ajar digital/interaktif di PAUD/SD/TPA Dukuh Majegan, pelatihan pembuatan media pembelajaran sederhana bagi guru desa, workshop edukasi interaktif anak-anak, dan pendampingan materi Karang Taruna.
 
 ---
 
-## 3. Matriks Pembagian Tugas (Draft Simulasi)
+## 3. Matriks Pembagian Tugas (Formasi Fix 10 Anggota)
 
-Nanti, satu orang akan mengisi 1 kolom Operasional dan 1 kolom Proker. Contoh skemanya:
+Setiap anggota memegang 1 peran Operasional Posko dan 1 peran Divisi Proker:
 
 | Nama Anggota     | Asal Prodi | Peran Operasional Posko | Peran Divisi Proker          |
 | ---------------- | ---------- | ----------------------- | ---------------------------- |
-| **Fajar**        | PTI        | Ketua (Kordes)          | - (Fokus *Controlling*)      |
-| **Dinda**        | PADP       | Sekretaris Utama        | Anggota Div. Administrasi/UMKM |
-| **Faidatul (Fai)**| PADP      | Bendahara Utama         | Koor. Div. Administrasi/UMKM |
-| **Veli**         | PTI        | Sekre 2 / Konsumsi      | Koor. Div. Teknologi & Web   |
-| **Terry**        | PTI        | Humas / Perkap          | Anggota Div. Teknologi       |
-| **Riski**        | PTI        | PDD / Dokumentasi       | Anggota Div. Teknologi       |
+| **Fajar**        | PTI (FT)   | Ketua (Kordes)          | - (Fokus *Controlling & Lobi*)|
+| **Dinda**        | PADP (FEB) | Sekretaris Utama        | Anggota Div. Administrasi/UMKM |
+| **Faidatul (Fai)**| PADP (FEB)| Bendahara Utama         | Koor. Div. Administrasi/UMKM |
+| **Veli**         | PTI (FT)   | Sekre 2 / Konsumsi      | Koor. Div. Teknologi & Web   |
+| **Terry**        | PTI (FT)   | Humas Lapangan / Perkap | Anggota Div. Teknologi       |
+| **Riski**        | PTI (FT)   | PDD Dokumentasi         | Anggota Div. Teknologi       |
 | **Intan**        | Biologi    | Konsumsi Utama          | Koor. Div. Lingkungan & Kes. |
 | **Zalfa**        | Biologi    | Konsumsi / Bendahara 2  | Anggota Div. Lingkungan      |
-| **[Slot 9 Cowok]**| Bebas/FT  | Perkap Utama            | Koor. Divisi Pendidikan      |
-| **[Slot 10 Cowok]**| Bebas/FT | Humas / Keamanan        | Anggota Div. Pendidikan      |
+| **Alvina (Vina)**| TP (FIP)   | PDD Media / Desain      | Koor. Div. Pendidikan & Media|
+| **Sandra**       | TP (FIP)   | Perkap / Operasional    | Anggota Div. Pendidikan & Media|
 
-*(Pembagian ini adalah draft rekomendasi berdasarkan kecocokan prodi. Bisa diubah saat rapat pleno).*
+*(Formasi 10 anggota fix berdasarkan kompetensi dan minat pendaftar. Siap disahkan saat First Gathering).*
 
 ---
 

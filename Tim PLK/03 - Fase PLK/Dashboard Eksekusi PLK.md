@@ -12,6 +12,27 @@ Folder `03 - Fase PLK` ini khusus disiapkan sebagai **Command Center** saat tim 
 
 ---
 
+## 👥 Formasi Resmi Tim PLK UNY Mengabdi 2027 (10/10 FIX)
+
+Tim resmi terkunci 10 orang dari 4 Fakultas berbeda (FT, FEB, FMIPA, FIP):
+
+| No | Nama | Panggilan | Prodi / Fak | Peran Operasional | Peran Proker Lapangan |
+| :-: | :--- | :--- | :--- | :--- | :--- |
+| 1 | Fajar Ahnaf Mahardika | Fajar | PTI (FT) | **Ketua (Kordes)** | Supervisi & Lobi Eksternal |
+| 2 | Muhadzdzib Terry Al Fauzan | Terry | PTI (FT) | Humas Lapangan / Perkap | Tim Web Desa & IT |
+| 3 | Muhamad Riski | Riski | PTI (FT) | PDD Dokumentasi | Tim Web Desa & IT |
+| 4 | Novelia Harlinda | Veli | PTI (FT) | Sekre 2 / Konsumsi | **Koor. Divisi Teknologi & IT** |
+| 5 | Dinda Amelia Putri | Dinda | PADP (FEB) | **Sekretaris Utama** | Tim Administrasi & UMKM |
+| 6 | Faidatul Anugraheni M. | Fai | PADP (FEB) | **Bendahara Utama** | **Koor. Divisi Administrasi & UMKM** |
+| 7 | Intan Milansari | Intan | Biologi (FMIPA) | Konsumsi Utama | **Koor. Divisi Lingkungan & Kesehatan** |
+| 8 | Zalfa Khoirunnisa | Zalfa | Biologi (FMIPA) | Konsumsi / Bendahara 2 | Tim Lingkungan & Eco-Enzyme |
+| 9 | Alvina Aulia Az Zahra | Vina | TP (FIP) | PDD Media & Desain | **Koor. Divisi Pendidikan & Media Ajar** |
+| 10 | Krissandra Siagian | Sandra | TP (FIP) | Perkap / Operasional Posko | Tim Pendidikan & Media Ajar |
+
+*Rasio Gender: 3 Laki-laki : 7 Perempuan | Rasio Kendaraan: 6 Motor Jogja + 1 Klaten (Kapasitas Surplus)*
+
+---
+
 ## 📂 Struktur Dokumen (Coming Soon 2027)
 
 Nantinya, folder ini akan diisi dengan:
@@ -22,7 +43,7 @@ Nantinya, folder ini akan diisi dengan:
 2. **Notulensi Rapat Posko (Operasional)**
    - Catatan rapat mingguan terkait keuangan, jadwal piket masak, kebersihan basecamp, dll.
 3. **Notulensi Rapat Divisi (Proker)**
-   - Catatan progres dari masing-masing Koor Divisi (Web Desa, Eco-Enzyme, BUMDes, Mengajar).
+   - Catatan progres dari masing-masing Koor Divisi (Web Desa, Eco-Enzyme, BUMDes, Edukasi TP).
 4. **Draft Laporan Akhir (LPJ)**
    - Dicicil sejak minggu ke-2 di lapangan agar tidak menumpuk di akhir bulan Juli 2027.
 

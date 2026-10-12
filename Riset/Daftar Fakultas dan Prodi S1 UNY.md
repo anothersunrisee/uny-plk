@@ -1,4 +1,4 @@
-﻿---
+---
 tags: [riset, uny, prodi, referensi]
 created: 2026-09-28
 status: active

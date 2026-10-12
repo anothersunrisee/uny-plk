@@ -10,17 +10,14 @@ status: active
 
 ---
 
-## Status Tim
+## Status Tim (10/10 FIX — KUOTA PENUH)
 
-| Slot | Status | Prodi Target | Peran |
-|:----:|:------:|-------------|-------|
-| 1–4 | Fix | Pend. Teknik Informatika (FT) | Developer |
-| 5 | Cari | Biologi / Statistika (FMIPA) | Data Analis / Pemberdayaan |
-| 6 | Cari | Biologi / Statistika (FMIPA) | Surveyor / Lingkungan |
-| 7 | Cari | Ilmu Komunikasi (FISHIPOL) | Konten / PR |
-| 8 | Cari | Ilmu Komunikasi (FISHIPOL) | Humas / Sosialisasi |
-| 9 | 🟡 Wawancara | Pend. Adm. Perkantoran (FEB) | Dinda Amelia Putri (Sekretaris/LPJ) |
-| 10 | 🟡 Wawancara | Pend. Adm. Perkantoran (FEB) | Faidatul Anugraheni M. (Admin/Media) |
+| Slot | Status | Nama Anggota | Prodi / Fakultas | Peran Matrix (Posko / Proker) |
+|:----:|:------:|-------------|-----------------|-------------------------------|
+| 1–4 | 🟢 Fix | Fajar, Terry, Riski, Veli | Pend. Teknik Informatika (FT) | Kordes, IT & Website, Dokumentasi |
+| 5–6 | 🟢 Fix | Dinda Amelia & Faidatul A. | Pend. Adm. Perkantoran (FEB) | Sekre 1, Bendahara 1, UMKM & Arsip |
+| 7–8 | 🟢 Fix | Intan Milansari & Zalfa Khoirunnisa | Biologi (FMIPA) | Konsumsi, Lingkungan & Eco-Enzyme |
+| 9–10 | 🟢 Fix | Alvina Aulia & Krissandra Siagian | Teknologi Pendidikan (FIP) | PDD Desain, Perkap, Media & Edukasi |
 
 ---
 
@@ -40,11 +37,17 @@ status: active
 
 ### Tim & Operasional
 - [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] — **(KITA DI SINI!)** Target lobi Kades, Dosen, dan draf Proposal.
+- [[Panduan First Gathering & Lembar Kerja Tim]] — 🚀 Lembar kerja TM-TP (Voting ketua, matrix, nama tim, proker)
 - [[Roadmap 1 Minggu]] — (Selesai) Sprint 7 hari fondasi proyek awal 4 orang.
 - [[Roster Tim]] — Roster formasi 10 anggota
 - [[Struktur Organisasi Matrix Tim PLK]] — Pembagian peran ganda (posko vs proker)
 - [[Database Profil Anggota Tim]] — Data K3, riwayat medis, dan kontak darurat tim
 - [[Draft Konsultasi Dosen PIC]] — Checklist pertanyaan untuk lobi ke Dosen/Koorprodi
+- [[Analisa Kriteria & Strategi Memilih DPL]] — 🎓 Kriteria green flags, red flags, & strategi mengunci DPL
+- [[Matriks Hasil Konsultasi PIC 4 Prodi]] — ⚖️ Rekapitulasi perbandingan kebijakan 4 prodi
+- [[Notulensi Konsultasi PIC PTI]] — Notulensi resmi Dr. Sigit Pambudi (FT)
+- [[Notulensi Konsultasi PIC PADP]] — Notulensi resmi Hilmy Pradana Sundawan (FEB)
+- [[Notulensi Konsultasi PIC Biologi]] — Notulensi resmi Dr. Anna & Dr. Ixora (FMIPA)
 - [[Draft Simulasi 272 Jam Kerja]] — Panduan sistem logbook dan jam kerja PLK
 - [[Draft Survey Lokasi Klaten]] — Pertanyaan observasi ke Kades & kelayakan posko
 - [[Analisa SPK Pendaftar Biologi]] — Matriks skor seleksi Opsi Biologi

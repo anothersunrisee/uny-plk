@@ -17,15 +17,16 @@ Baca file ini sebelum memulai analisa apapun di vault ini.
 **Institusi**: Universitas Negeri Yogyakarta (UNY)
 **Angkatan**: 2024 (akan menjalani PLK di Semester 6)
 **Lokasi Incaran**: Desa Wonosari, Kab. Klaten, Jawa Tengah (Sudah dilakukan survei awal ke BPD)
-**Status Tim**: Terkumpul 8 dari 10 orang
-**Fase Saat Ini**: Pre-PLK (Roadmap Tahap 2)
+**Status Tim**: LENGKAP 10 dari 10 orang (KUOTA 10/10 FIX)
+**Fase Saat Ini**: Pre-PLK (Roadmap Tahap 2 — Persiapan First Gathering, Legalitas Dosen, & Proposal)
 
-## Komposisi Tim Saat Ini
+## Komposisi Tim Saat Ini (Formasi 10/10 Lengkap)
 
-- **4 orang fix**: Pendidikan Teknik Informatika (PTI, FT) — Fajar, Terry, Riski, Veli
-- **2 orang lock-in**: Pendidikan Administrasi Perkantoran (PADP, FEB) — Dinda Amelia Putri & Faidatul Anugraheni M.
-- **2 orang lock-in**: Biologi (FMIPA) — Intan Milansari & Zalfa
-- **2 slot tersisa (Dibutuhkan)**: Bebas Prodi (Sosiologi/FT/Ilkom, diutamakan Laki-Laki) untuk slot Perkap/Keamanan & Pendidikan.
+- **4 orang**: Pendidikan Teknik Informatika (PTI, FT) — Fajar (Ketua), Terry, Riski, Veli
+- **2 orang**: Pendidikan Administrasi Perkantoran (PADP, FEB) — Dinda Amelia Putri & Faidatul Anugraheni M.
+- **2 orang**: Biologi (FMIPA) — Intan Milansari & Zalfa Khoirunnisa
+- **2 orang**: Teknologi Pendidikan (TP, FIP) — Alvina Aulia Az Zahra & Krissandra Siagian
+- **Rasio Gender**: 3 Laki-laki (FT) : 7 Perempuan (FT, FEB, FMIPA, FIP) — *Legalitas dashboard UNY aman (4 Fakultas & 4 Prodi).*
 
 ## Struktur Vault Ini
 
@@ -48,8 +49,11 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 ├── Tim PLK/                 ← Folder operasional tim
 │   ├── 01 - Fase Oprec/     ← File rekrutmen, SPK pendaftar, dan form screening
 │   ├── 02 - Fase Pre-PLK/   ← Draft survei Klaten, profil kesehatan tim, simulasi logbook
+│   │   ├── Konsultasi PIC/  ← Notulensi & matriks komparasi 4 prodi (termasuk lampiran PDF)
+│   │   └── Arsip/           ← Dokumen sprint awal & inventaris yang sudah selesai
 │   └── 03 - Fase PLK/       ← Dashboard Eksekusi PLK & Logbook
 │
+├── _archive/                ← Arsip file non-aktif/scratch canvas
 └── _templates/              ← Template untuk note baru
 ```
 
@@ -66,11 +70,11 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 - Setiap anggota WAJIB memegang 2 peran: **Peran Operasional Posko** (Ketua, Bendahara, Konsumsi, Perkap, dll) DAN **Peran Fungsional Proker** (Koor Divisi Teknologi, Divisi Lingkungan, Divisi PADP, dll).
 - Agent harus membedakan mana rapat/kebutuhan operasional (hidup di posko) dan rapat/kebutuhan proker (terjun ke warga) saat memberikan saran/rencana kerja.
 
-### Rekomendasi 2 Anggota Sisa (Slot Terakhir)
-| Slot | Kriteria | Peran Matrix yang Dibutuhkan |
-|:----:|-------|-------|
-| 9 | Cowok (Bebas Prodi, ex: Sosiologi/FT) | Operasional: Perkap Utama / Keamanan / Proker: Divisi Pendidikan |
-| 10 | Cowok (Bebas Prodi, ex: Sosiologi/FT) | Operasional: Humas / Dokumentasi / Proker: Anggota Divisi Pendidikan |
+### Formasi Dua Anggota Terakhir (Teknologi Pendidikan)
+| No | Nama | Asal Prodi | Peran Matrix Posko & Proker |
+|:---:|---|---|---|
+| 9 | Alvina Aulia Az Zahra (Vina) | Teknologi Pendidikan (FIP) | Operasional: PDD Media & Desain / Proker: Koor. Divisi Pendidikan & Media Ajar |
+| 10 | Krissandra Siagian (Sandra) | Teknologi Pendidikan (FIP) | Operasional: Perkap & Operasional Posko / Proker: Anggota Divisi Pendidikan & Media Ajar |
 
 ## Panduan untuk Agent: Cara Membantu
 

@@ -86,13 +86,13 @@ Sambil jalan-jalan keliling desa, amati dan catat keberadaan fasilitas berikut (
 
 ### 🏛️ Profil Desa & Struktur Wilayah
 
-| Item | Data |
-|---|---|
-| **Nama Desa** | Wonosari |
-| **Dukuh Survei** | Majegan (RW 01) |
-| **Total Wilayah** | 8 RW, 29 RT |
-| **Dukuh yang Ada** | Majegan, Wonosari, Tandan/Gestrian, Gedongan Kidul, Gedongan Lor/Setran, Pendem, Berangkalan, Muteran |
-| **Riwayat KKN UNY** | **Belum pernah ada** (Sebelumnya hanya UIN Raden Mas Said) |
+| Item                | Data                                                                                                  |
+| ------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Nama Desa**       | Wonosari                                                                                              |
+| **Dukuh Survei**    | Majegan (RW 01)                                                                                       |
+| **Total Wilayah**   | 8 RW, 29 RT                                                                                           |
+| **Dukuh yang Ada**  | Majegan, Wonosari, Tandan/Gestrian, Gedongan Kidul, Gedongan Lor/Setran, Pendem, Berangkalan, Muteran |
+| **Riwayat KKN UNY** | **Belum pernah ada** (Sebelumnya hanya UIN Raden Mas Said)                                            |
 
 ---
 

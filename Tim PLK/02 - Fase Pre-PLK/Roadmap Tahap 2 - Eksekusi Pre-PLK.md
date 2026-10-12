@@ -7,7 +7,7 @@ status: active
 # Roadmap Tahap 2: Eksekusi Pre-PLK & Birokrasi
 
 > **Prinsip**: *Kolaborasi, Legalitas, & Eksekusi Cepat.*
-> **Pelaku**: 8 Anggota Aktif (4 PTI, 2 PADP, 2 Bio) + 2 Calon Cowok.
+> **Pelaku**: 10 Anggota Lengkap (4 PTI, 2 PADP, 2 Bio, 2 TP) — KUOTA 10/10 FIX!
 > **Fokus**: Transisi dari pembentukan tim menuju penyusunan proposal nyata, perizinan kampus, survei Kades resmi, dan *First Gathering* lengkap.
 > **Output Akhir (November)**: Proposal disahkan Dosen PIC, terdaftar di Dashboard PLK UNY, dan surat pengantar/IA ditandatangani Kepala Desa Wonosari.
 
@@ -17,10 +17,10 @@ status: active
 
 | Fase | Kode Misi | Fokus Utama | PIC Lead | Output Utama |
 |:---:|:---:|---|:---:|---|
-| **Fase 1** | 🟢 *TEAM-LOCK* | Selesaikan perburuan 2 cowok terakhir & adakan *First Gathering* 10 orang. | Fajar & Veli | Tim Genap 10 Orang + Plotting Jobdesk Matrix Fix. |
+| **Fase 1** | 🟢 *TEAM-LOCK* | [SELESAI] Kuota 10 orang terpenuhi & eksekusi *First Gathering* 10 orang. | Fajar & Veli | Tim Genap 10 Orang + Plotting Jobdesk Matrix Fix. |
 | **Fase 2** | 🟡 *LEGAL-CAMPUS* | Kejar Dosen PIC untuk mengamankan Surat Pengantar Survei resmi dari Fakultas/Kampus. | Ketua & Sekretaris | Surat Pengantar Survei Berkop UNY. |
 | **Fase 3** | 🔴 *KADES-SOWAN* | Kunjungan resmi (full team/perwakilan) ke Kepala Desa Wonosari membawa surat kampus. | Fajar & Terry | Izin Lisan Kades + Poin Kesepakatan Program Kerja. |
-| **Fase 4** | 🔵 *PROPOSAL-DRAFT* | Divisi proker (Bio, PADP, PTI) merumuskan Bab II & Bab III proposal sesuai pain-point desa. | Koor Masing-Masing Divisi | Draft Proposal PLK 100% Siap Revisi Dosen. |
+| **Fase 4** | 🔵 *PROPOSAL-DRAFT* | Divisi proker (Bio, PADP, PTI, TP) merumuskan Bab II & Bab III proposal sesuai pain-point desa. | Koor Masing-Masing Divisi | Draft Proposal PLK 100% Siap Revisi Dosen. |
 | **Fase 5** | 🟣 *DASHBOARD-REG* | Eksekusi pendaftaran online di sistem PLK UNY (SSO). | Fajar & Dinda | Akun Tim Terdaftar & Disetujui Dosen PIC di Sistem. |
 
 ---
@@ -28,12 +28,11 @@ status: active
 ## 📋 Rincian Eksekusi & Action Items
 
 ### 🟢 Fase 1: Finalisasi Tim & First Gathering (*TEAM-LOCK*)
-**Kondisi saat ini**: Tim kurang 2 cowok (kuota 8/10). Sistem kerja sudah menggunakan Struktur Matrix.
-- [ ] **Closing Oprec**: Sebarkan info rekrutmen terbaru (prioritas cowok bebas prodi) lewat japri dan *networking* internal anggota tim saat ini.
-- [ ] **First Gathering**:
-  - Tentukan jadwal ngopi / kumpul bareng 10 orang (usahakan offline di area UNY).
-  - Agenda: Kenalan, paparkan hasil Survei Klaten (Pak Maryadi), dan sosialisasikan [[Struktur Organisasi Matrix Tim PLK]].
-  - Finalisasi *plotting* siapa jadi apa di Kepanitiaan Umum dan Divisi Proker.
+**Kondisi saat ini**: **KUOTA 10/10 TERPENUHI & AMAN!** (4 PTI, 2 PADP, 2 Bio, 2 Teknologi Pendidikan). 
+- [x] **Closing Oprec**: Kuota 10 orang resmi ditutup per Oktober 2026. Masuk 2 mahasiswi Teknologi Pendidikan (Alvina Aulia & Krissandra Siagian).
+- [ ] **First Gathering (TM-TP)**:
+  - Gunakan lembar kerja: [[Panduan First Gathering & Lembar Kerja Tim]].
+  - Agenda: Kenalan tatap muka, voting Ketua & Struktur Matrix, voting Nama Tim, serta brainstorming 4 pilar proker Wonosari Klaten.
 
 ### 🟡 Fase 2: Birokrasi Kampus (*LEGAL-CAMPUS*)
 **Kondisi saat ini**: Perizinan eksternal (desa) mewajibkan adanya surat dari kampus terlebih dahulu.
