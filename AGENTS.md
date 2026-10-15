@@ -67,7 +67,7 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 
 ### Sistem Kerja Tim (Struktur Matrix)
 - Tim ini menggunakan **Struktur Organisasi Matrix**.
-- Setiap anggota WAJIB memegang 2 peran: **Peran Operasional Posko** (Ketua, Bendahara, Konsumsi, Perkap, dll) DAN **Peran Fungsional Proker** (Koor Divisi Teknologi, Divisi Lingkungan, Divisi PADP, dll).
+- Setiap anggota WAJIB memegang 2 peran: **Peran Operasional Posko** (Ketua, Sekretaris, Bendahara, Humas, PDD, Perkap & K3 — *bebas seksi konsumsi tetap, makan dikelola piket harian*) DAN **Peran Fungsional Proker** (Koor Divisi Teknologi, Divisi Lingkungan, Divisi PADP, Divisi Pendidikan TP).
 - Agent harus membedakan mana rapat/kebutuhan operasional (hidup di posko) dan rapat/kebutuhan proker (terjun ke warga) saat memberikan saran/rencana kerja.
 
 ### Formasi Dua Anggota Terakhir (Teknologi Pendidikan)

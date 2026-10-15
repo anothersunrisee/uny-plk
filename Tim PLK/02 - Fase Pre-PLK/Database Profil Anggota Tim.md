@@ -31,11 +31,11 @@ Dokumen ini berisi data induk (master data) seluruh anggota tim PLK. Sangat pent
 
 1. **Kesehatan & Keselamatan Kerja (K3):**
    - **Geng Lambung (Fajar, Dinda, Intan, Zalfa):** 4 dari 10 anggota memiliki riwayat asam lambung (GERD/Gastritis/Maag).
-     - *Mitigasi Tim:* Divisi Konsumsi (Sandra & Intan) harus **super disiplin**! Jadwal makan posko tidak boleh molor. Selalu stok biskuit/roti gandum dan obat Promag/Polysilane di posko dan saat terjun lapangan.
+     - *Mitigasi Tim:* Tim Piket Harian & Perkap K3 (Intan) harus **super disiplin**! Jadwal makan posko tidak boleh molor. Selalu sediakan stok biskuit/roti gandum dan obat Promag/Polysilane di kotak P3K posko dan tas darurat lapangan.
    - **Alergi Suhu / Dingin (Veli & Zalfa) + Paru-paru (Fajar):** Veli alergi suhu drastis, Zalfa alergi dingin, Fajar ada riwayat bronkitis.
      - *Mitigasi Tim:* Hindari jadwal proker fisik atau kumpul *outdoor* hingga larut malam. Wajibkan ketiganya memakai jaket tebal saat angin malam Klaten sedang kencang. Fajar juga harus hindari asap pembakaran sampah karena debu bisa memicu bronkitis.
    - **Lactose Intolerant (Veli):** Veli tidak bisa mencerna susu sapi.
-     - *Mitigasi Tim:* Konsumsi wajib memisahkan pesanan minuman Veli (hindari es kopi susu, teh susu, atau makanan berbasis keju/krim).
+     - *Mitigasi Tim:* Tim yang bertugas piket masak/beli makanan wajib memisahkan pesanan Veli (hindari es kopi susu, teh susu, atau makanan berbasis keju/krim).
    - **Anggota Baru Sehat (Vina & Sandra):** Vina dan Sandra memiliki status kesehatan prima tanpa alergi/penyakit bawaan, siap membantu ketahanan fisik tim.
 
 2. **Logistik & Mobilitas (Kendaraan & Rute Jogja-Klaten):**

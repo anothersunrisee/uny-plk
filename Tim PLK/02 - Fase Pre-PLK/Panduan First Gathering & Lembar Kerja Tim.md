@@ -28,34 +28,104 @@ status: active
 
 ## 🗳️ SESI 2: Voting & Penetapan Struktur Matrix Tim
 
-Struktur Matrix mewajibkan setiap anggota memegang **1 Peran Posko (Operasional)** DAN **1 Peran Proker (Fungsional)**.
+Sistem kerja tim menggunakan **Struktur Organisasi Matrix**. Setiap anggota wajib memegang **2 PERAN SEKALIGUS**:
+1. **Topi Operasional Posko:** Mengurus keberlangsungan hidup posko, logistik, administrasi kampus, dan publikasi.
+2. **Topi Fungsional Proker:** Mengeksekusi program kerja keilmuan terjun langsung ke masyarakat Desa Wonosari.
 
-### A. Voting Ketua Tim (Kordes)
+---
+
+### 📢 Keputusan Penting: Penghapusan "Seksi Konsumsi"
+> ⚠️ **Seksi Konsumsi RESMI DIHAPUS dari Struktur Kepengurusan Tim.**  
+> **Rasionalisasi:**  
+> 1. Urusan makan dan kebersihan dapur posko adalah **tanggung jawab bersama seluruh anggota**, bukan beban pekerjaan domestik bagi 1–2 orang tertentu.  
+> 2. Di posko Klaten, urusan konsumsi akan dijalankan dengan **SISTEM PIKET HARIAN BERGILIR (2 orang bergantian per hari)** untuk belanja ke pasar lokal / memasak bersama, atau koordinasi langganan katering warung warga sekitar.  
+> 3. Seluruh anggota perempuan difokuskan pada peran fungsional manajerial, K3 medis, logistik, dan proker keilmuan yang bermartabat dan setara.
+
+---
+
+### 📋 Penjelasan Rincian Tugas Divisi (Apa & Bagaimana Kerjanya)
+
+#### 🏠 A. Bidang Operasional Posko (Manajemen Basecamp & Kampus)
+
+1. **Ketua Tim (Kordes / Koordinator Lapangan) — Fajar (PTI)**
+   * **Meliputi Apa:** *Top management*, pemegang komando tertinggi tim, jembatan utama ke birokrasi kampus (LPPM, Dosen PIC, DPL) dan aparat desa (Kepala Desa, BPD, Kadus, Babinsa).
+   * **Bagaimana Kerjanya:** Memimpin rapat pleno mingguan, mengontrol matriks timeline proker, memitigasi konflik internal, mengambil keputusan cepat jika terjadi kendala taktis di Klaten.
+
+2. **Sekretariat (2 Orang):**
+   * **Sekretaris 1: Administrasi Utama & Perizinan — Dinda (PADP)**
+     * **Meliputi Apa:** Penyusunan dokumen legal formal proposal PLK UNY, pengurusan surat izin Kesbangpol Klaten, nota kesepahaman (Implementation Arrangement/IA) desa, dan perakitan Laporan Akhir (LPJ).
+     * **Bagaimana Kerjanya:** Mengumpulkan draf bab dari tiap divisi proker, memastikan tata tulis sesuai format LPPM UNY, mengawal alur tanda tangan Kades, DPL, Koorprodi, dan Dekan.
+   * **Sekretaris 2: Logbook 272 Jam & Kearsipan Digital — Veli (PTI)**
+     * **Meliputi Apa:** Pengawalan pengisian logbook wajib 272 jam kerja harian seluruh 10 anggota, notulensi rapat, dan tata kelola Google Drive Master tim.
+     * **Bagaimana Kerjanya:** Mengecek dan memvalidasi logbook tiap anggota setiap Minggu malam, mengumpulkan bukti foto kegiatan harian, mengarsipkan sertifikat dan surat masuk/keluar.
+
+3. **Kebendaharaan (2 Orang):**
+   * **Bendahara 1: Kas Utama & RAB Proposal — Faidatul / Fai (PADP)**
+     * **Meliputi Apa:** Pengelolaan kas utama tim, penyusunan Rencana Anggaran Biaya (RAB) proposal, penarikan dan pencatatan iuran wajib anggota, alokasi dana per divisi proker.
+     * **Bagaimana Kerjanya:** Memegang rekening bersama tim, membuat buku kas transparan di Google Sheets, merilis laporan keuangan kas masuk/keluar secara berkala di grup WA.
+   * **Bendahara 2: SPJ Kuitansi & Belanja Operasional Posko — Zalfa (Biologi)**
+     * **Meliputi Apa:** Pengumpulan, penempelan, dan verifikasi nota/kuitansi fisik belanja posko & proker, penyusunan berkas SPJ keuangan resmi kampus, serta pencatatan belanja harian.
+     * **Bagaimana Kerjanya:** Menyimpan nota fisik dalam map arsip berlabel, memastikan kuitansi memenuhi syarat SPJ universitas (stempel/materai jika dibutuhkan), mengontrol pengeluaran tak terduga.
+
+4. **Hubungan Masyarakat & Kemitraan Tokoh Desa — Terry (PTI)**
+   * **Meliputi Apa:** Garda terdepan komunikasi tim dengan warga lokal Klaten, tokoh masyarakat (BPD Pak Maryadi, Pak RW/RT, takmir masjid, sesepuh dukuh), pemuda Karang Taruna, dan koordinasi keamanan posko.
+   * **Bagaimana Kerjanya:** Melakukan sowan *door-to-door*, mengurus izin peminjaman tempat (gedung serbaguna, balai desa, masjid), menyebar undangan acara, serta menjadi pemandu sosialisasi tim ke warga.
+
+5. **Publikasi, Desain, & Dokumentasi (PDD - 2 Orang):**
+   * **PDD 1: Desain Grafis, Branding & Medsos — Alvina / Vina (TP)**
+     * **Meliputi Apa:** Perancangan identitas visual tim (logo Nirantara, palet warna), desain poster acara warga, spanduk posko, banner sosialisasi, template feeds Instagram, dan visual modul.
+     * **Bagaimana Kerjanya:** Merancang aset visual kreatif di Canva Pro/Figma/Illustrator, memastikan seluruh materi publikasi rapi, estetis, dan memenuhi standar branding tim.
+   * **PDD 2: Dokumentasi Lapangan, Video & Reels — Riski (PTI)**
+     * **Meliputi Apa:** Fotografi dan videografi seluruh kegiatan di Desa Wonosari, pembuatan konten video pendek (TikTok, Instagram Reels, mini vlog posko), serta perancangan aftermovie sinematik PLK.
+     * **Bagaimana Kerjanya:** Siaga membawa kamera/smartphone saat proker lapangan, merapikan arsip foto ke folder Google Drive harian, mengedit video liputan menggunakan CapCut/Premiere.
+
+6. **Logistik, Perlengkapan, & K3 Posko (2 Orang):**
+   * **Perkap 1: Logistik Acara & Peralatan Fisik — Sandra (TP)**
+     * **Meliputi Apa:** Inventarisir, peminjaman, dan pengadaan alat fisik untuk kebutuhan program kerja (sound system, proyektor, kabel roll, tikar, terpal, meja kursi balai desa).
+     * **Bagaimana Kerjanya:** Mendata kebutuhan alat tiap divisi H-3 sebelum kegiatan dimulai, berkoordinasi dengan pengurus RT/desa untuk peminjaman, memastikan alat kembali utuh dan bersih.
+   * **Perkap 2: K3, Kesehatan & Sanitasi Posko — Intan (Biologi)**
+     * **Meliputi Apa:** Penanggung jawab Kesehatan dan Keselamatan Kerja (K3) tim, penyedia Kotak P3K posko, pemantau kesehatan anggota (terutama riwayat GERD/maag & alergi dingin), serta pengawas kebersihan basecamp.
+     * **Bagaimana Kerjanya:** Menyiapkan stok obat-obatan darurat posko (Promag, parasetamol, minyak kayu putih, plester, vitamin), mengontrol ketersediaan air minum galon, menjalin kontak darurat ke Bidan Desa atau Puskesmas terdekat jika ada anggota sakit.
+
+---
+
+#### 🌾 B. Bidang Fungsional Proker (Eksekusi Pengabdian Desa)
+
+1. **Divisi Teknologi & Digitalisasi (Koordinator: Veli | Anggota: Terry, Riski, Fajar — PTI)**
+   * **Tugas:** Menjawab kendala administrasi desa yang masih manual dengan pembuatan website profil Desa Wonosari, digitalisasi arsip kependudukan RT/RW, pelatihan komputer/Canva Karang Taruna, dan pembuatan peta digital Dukuh Majegan.
+2. **Divisi Administrasi & Ekonomi UMKM (Koordinator: Faidatul | Anggota: Dinda — PADP)**
+   * **Tugas:** Menjawab isu BUMDes macet (ternak lele/kambing) melalui analisis revitalisasi usaha, pendampingan tata kelola administrasi surat balai desa, dan pelatihan pembukuan keuangan digital sederhana (BukuWarung/Excel) bagi pelaku UMKM mebel & warung.
+3. **Divisi Lingkungan & Kesehatan (Koordinator: Intan | Anggota: Zalfa — Biologi)**
+   * **Tugas:** Menjawab darurat biaya sampah desa (Rp 2–3 juta/trip dari APBDES) melalui sosialisasi pemilahan sampah rumah tangga, pelatihan pembuatan Eco-Enzyme bersama ibu-ibu PKK, dan pembuatan pupuk kompos organik bersama Kelompok Tani *Setyo Makmur*.
+4. **Divisi Pendidikan & Media Pembelajaran (Koordinator: Vina | Anggota: Sandra — Teknologi Pendidikan)**
+   * **Tugas:** Membantu penguatan literasi dan media ajar di 2 SD, 2 TK (Pertiwi & Aisyiyah), dan PAUD Wonosari melalui pembuatan media ajar interaktif, pojok baca kreatif, modul ajar digital, serta pendampingan TPA anak-anak desa.
+
+---
+
+### C. Voting Ketua Tim (Kordes)
 * **Kandidat 1**: Fajar Ahnaf Mahardika (PTI) — *Petahana Inisiator*
 * **Kandidat Alternatif**: *(Buka ruang jika ada yang bersedia mencalonkan/dicalonkan)*: `....................`
 * **Hasil Keputusan / Mufakat**: Ketua Terpilih = `[ Fajar Ahnaf Mahardika / .................... ]`
 
 ---
 
-### B. Lembar Pengesahan Peran Matrix (10 Anggota)
+### D. Lembar Pengesahan Peran Matrix (10 Anggota — Tanpa Seksi Konsumsi)
 
-Silakan konfirmasi kesediaan masing-masing anggota:
-
-| No | Nama Anggota | Prodi | Peran Operasional Posko (Pilih 1) | Peran Divisi Proker (Pilih 1) | Tanda Tangan / Status |
-|:-:|---|---|---|---|:---:|
-| 1 | **Fajar** | PTI (FT) | Ketua (Kordes) | Supervisi & Lobi Eksternal | `[ ACC / Revisi ]` |
-| 2 | **Dinda** | PADP (FEB) | Sekretaris Utama (Proposal & LPJ) | Tim Divisi Administrasi & UMKM | `[ ACC / Revisi ]` |
-| 3 | **Faidatul (Fai)** | PADP (FEB) | Bendahara Utama (Kas & RAB) | Koor. Divisi Administrasi & UMKM | `[ ACC / Revisi ]` |
-| 4 | **Terry** | PTI (FT) | Humas Lapangan / Perkap (Klaten) | Tim Divisi Teknologi & IT | `[ ACC / Revisi ]` |
-| 5 | **Riski** | PTI (FT) | PDD Dokumentasi & Publikasi | Tim Divisi Teknologi & IT | `[ ACC / Revisi ]` |
-| 6 | **Veli** | PTI (FT) | Sekre 2 / Konsumsi Posko | Koor. Divisi Teknologi & IT | `[ ACC / Revisi ]` |
-| 7 | **Intan** | Biologi (FMIPA) | Konsumsi Utama (Logistik Makan) | Koor. Divisi Lingkungan & Kesehatan | `[ ACC / Revisi ]` |
-| 8 | **Zalfa** | Biologi (FMIPA) | Konsumsi 2 / Bendahara Pendamping | Tim Divisi Lingkungan & Sampah | `[ ACC / Revisi ]` |
-| 9 | **Alvina (Vina)** | TP (FIP) | PDD Media & Desain (Canva/Konten) | Koor. Divisi Pendidikan & Media Ajar | `[ ACC / Revisi ]` |
-| 10 | **Sandra** | TP (FIP) | Perkap & Logistik Operasional | Tim Divisi Pendidikan & Media Ajar | `[ ACC / Revisi ]` |
+| No  | Nama Anggota       | Prodi           | Peran Operasional Posko (Pilih 1)        | Peran Divisi Proker (Pilih 1)        | Tanda Tangan / Status |
+| :-: | ------------------ | --------------- | ---------------------------------------- | ------------------------------------ | :-------------------: |
+|  1  | **Fajar**          | PTI (FT)        | Ketua Tim (Kordes)                       | Supervisi & Lobi Eksternal           |  `[ ACC / Revisi ]`   |
+|  2  | **Dinda**          | PADP (FEB)      | Sekretaris 1 (Proposal & LPJ)            | Tim Divisi Administrasi & UMKM       |  `[ ACC / Revisi ]`   |
+|  3  | **Faidatul (Fai)** | PADP (FEB)      | Bendahara 1 (Kas Utama & RAB)            | Koor. Divisi Administrasi & UMKM     |  `[ ACC / Revisi ]`   |
+|  4  | **Terry**          | PTI (FT)        | Humas Lapangan & Kemitraan Desa          | Tim Divisi Teknologi & IT            |  `[ ACC / Revisi ]`   |
+|  5  | **Riski**          | PTI (FT)        | PDD 2 (Dokumentasi & Video Reels)        | Tim Divisi Teknologi & IT            |  `[ ACC / Revisi ]`   |
+|  6  | **Veli**           | PTI (FT)        | Sekretaris 2 (Logbook 272 & Arsip)       | Koor. Divisi Teknologi & IT          |  `[ ACC / Revisi ]`   |
+|  7  | **Intan**          | Biologi (FMIPA) | Perkap 2 (K3 Kesehatan & Sanitasi Posko) | Koor. Divisi Lingkungan & Kesehatan  |  `[ ACC / Revisi ]`   |
+|  8  | **Zalfa**          | Biologi (FMIPA) | Bendahara 2 (SPJ Kuitansi & Belanja)     | Tim Divisi Lingkungan & Sampah       |  `[ ACC / Revisi ]`   |
+|  9  | **Alvina (Vina)**  | TP (FIP)        | PDD 1 (Desain Grafis & Branding)         | Koor. Divisi Pendidikan & Media Ajar |  `[ ACC / Revisi ]`   |
+| 10  | **Sandra**         | TP (FIP)        | Perkap 1 (Logistik Acara & Alat Fisik)   | Tim Divisi Pendidikan & Media Ajar   |  `[ ACC / Revisi ]`   |
 
 *Catatan Perubahan Role (Jika Ada Masukan saat TM):*  
-> `Tulis di sini jika ada tukar peran antar anggota...`
+> `Tulis di sini jika ada kesepakatan penyesuaian peran...`
 
 ---
 
@@ -172,26 +242,49 @@ graph LR
 
 ---
 
-## 🤖 SESI 5: Data yang Dibutuhkan oleh AI Agent (Antigravity)
+## 📋 SESI 5: Panduan Fact-Finding & Form Tanya Data Kelompok (Bahan Proposal & Logbook)
 
-Untuk membantu tim **menulis Draf Proposal PLK**, **menyusun Rincian Logbook 272 Jam**, dan **mengunci Konversi Mata Kuliah (SKS)** secara otomatis dan presisi, **AI Agent membutuhkan data riil berikut dari teman-teman**:
+Sesi ini dipandu oleh Sekretaris (Dinda/Veli) untuk **menanyakan dan mengumpulkan seluruh data riil anggota tim**. Data ini mutlak dibutuhkan agar AI Agent dapat menyusun:
+1. **Draf Proposal PLK Bab I–IV**: Menyusun analisis situasi, justifikasi kepakaran anggota, target luaran, metode, dan RAB.
+2. **Simulasi Logbook 272 Jam**: Menyelaraskan pembagian jam kerja harian agar logis dan tidak bertabrakan dengan jadwal kuliah tatap muka.
+3. **Legalitas Konversi SKS**: Memetakan mata kuliah kurikulum prodi yang bisa direkognisi ke sistem kampus.
 
-### 📋 Lembar Isian Data Akademik & Skill Tiap Anggota
+---
 
-*(Minta setiap anggota mengisi barisnya masing-masing saat TM)*
+### A. Panduan Pertanyaan Fact-Finding (Bacakan ke Kelompok)
 
-| No | Nama | Mata Kuliah Unggulan yg Pernah/Sedang Diambil (yg bisa dikonversi/dipraktikkan) | Skill Teknis & Software yg Benar-benar Dikuasai (Contoh: Canva, Capcut, Excel, Laravel, Mikrobiologi, dll) | Alat Kerja Fisik yg Bisa Dibawa ke Posko (Contoh: Laptop i5, Kamera, Tripod, Mic Wireless, Roll Kabel) |
-|:-:|---|---|---|---|
-| 1 | Fajar (PTI) | Pemrograman Web, Jaringan Komputer | Web Dev, Sistem Basis Data, Problem Solving | Laptop Spek Tinggi, Kabel Roll |
-| 2 | Terry (PTI) | Jaringan Komputer, Hardware IT | Troubleshooting, Negosiasi/Humas | Laptop, Motor PP Klaten |
-| 3 | Riski (PTI) | Basis Data, Multimedia | Dokumentasi, Fotografi, Riset Data | Laptop, Kamera HP Bagus |
-| 4 | Veli (PTI) | Administrasi TI, Rekayasa Web | Manajemen Data, Administrasi, Web Basic | Laptop |
-| 5 | Dinda (PADP) | Manajemen Kearsipan, Komunikasi Kantor | Administrasi Surat, Pengetikan Cepat | Laptop |
-| 6 | Fai (PADP) | Akuntansi Dasar, Manajemen Keuangan | Pembukuan Kas, Excel Keuangan, RAB | Laptop |
-| 7 | Intan (Bio) | Ekologi, Mikrobiologi, Biologi Lingkungan | Uji Organik, Budidaya, Formulasi Alami | Laptop |
-| 8 | Zalfa (Bio) | Pengolahan Limbah, Fisiologi Tumbuhan | Praktik Kompos/Eco-Enzyme | Laptop |
-| 9 | Vina (TP) | `........................................` | `........................................` | `........................................` |
-| 10 | Sandra (TP) | `........................................` | `........................................` | `........................................` |
+Berikut 6 kelompok pertanyaan yang harus ditanyakan ke tiap anggota:
+1. **Status Akademik & Target SKS:**  
+   * *"Berapa total SKS yang sudah kamu selesaikan sampai semester 5? (Wajib >= 100 SKS). Mata kuliah pilihan atau kompetensi prodi apa saja yang ingin kamu ajukan untuk dikonversi dari kegiatan PLK ini?"*
+2. **Kesehatan & Keamanan Posko (K3):**  
+   * *"Apa golongan darahmu? Apakah ada riwayat sakit bawaan seperti maag/GERD, bronkitis, asma, atau alergi suhu dingin/debu/makanan tertentu? Siapa nama dan nomor HP orang tua/wali yang bisa dihubungi saat darurat di Klaten?"*
+3. **Mobilitas & Kendaraan:**  
+   * *"Apakah kamu membawa motor pribadi ke Jogja? Apakah motornya siap dipakai jarak jauh Jogja–Klaten via Jl. Solo? Punya SIM C aktif dan helm cadangan untuk boncengan?"*
+4. **Skill Teknis & Tools Riil:**  
+   * *"Software, tools, atau keahlian teknis apa yang benar-benar kamu kuasai dan siap kamu pakai untuk bantu warga? (Contoh: Canva Pro, CapCut, Excel akuntansi, Laravel/WordPress, formulasi fermentasi kompos, media interaktif Wordwall)."*
+5. **Aset & Alat Kerja yang Bisa Dibawa:**  
+   * *"Perangkat pribadi apa yang bisa kamu bawa ke posko untuk menunjang kegiatan? (Contoh: Laptop spek render, kamera mirrorless, tripod, mic wireless, kabel roll panjang, printer portable, motor)."*
+6. **Jadwal Kuliah Semester 6 & Komitmen Weekend:**  
+   * *"Hari apa saja jadwal kuliah tatap mukamu di kampus UNY? Apakah kamu siap standby di posko Wonosari mulai Jumat sore sampai Minggu malam setiap pekannya?"*
+
+---
+
+### B. Lembar Rekapitulasi Data Anggota (Wajib Terisi Lengkap)
+
+*(Sekretaris mengetikkan langsung jawaban anggota pada tabel di bawah ini saat TM)*:
+
+| No | Nama & Prodi | SKS Smt 5 & Usulan Makul Konversi SKS | Riwayat Sakit, Alergi & Kontak Ortu (Darurat) | Status Motor, SIM C & Lokasi Kost/Rumah Jogja | Software & Skill Teknis Unggulan | Alat Kerja Fisik yg Siap Dibawa ke Posko | Ketersediaan Hari di Klaten (Jumat-Minggu) |
+|:-:|---|---|---|---|---|---|:---:|
+| 1 | **Fajar**<br>(PTI) | 100+ SKS<br>• Rekayasa Web<br>• Jarkom / Basis Data | Bronkitis, GERD, Eksim<br>Ibu: 0813-2657-5753 | Motor Vario (Siap)<br>SIM C: Ada<br>Jl. Balapan 44, Klitren | Web Development, System Architecture | Laptop Spek Tinggi, Kabel Roll 10m | Standby Jumat sore – Minggu malam |
+| 2 | **Terry**<br>(PTI) | 100+ SKS<br>• Jaringan Komputer<br>• Troubleshooting | Sehat sentosa<br>Ortu: 0815-1108-5683 | Motor (Siap)<br>SIM C: Ada<br>Domisili PP Klaten | Hardware, Lobi Humas, Lapangan | Laptop, Motor Basis Klaten | Standby Penuh Klaten |
+| 3 | **Riski**<br>(PTI) | 100+ SKS<br>• Multimedia<br>• Basis Data | Sehat sentosa<br>Ortu: `.................` | Motor (Siap)<br>SIM C: Ada<br>Jetis, Jogja | Editing Video, Fotografi, Data | Laptop, Smartphone Kamera Bagus | Standby Jumat sore – Minggu malam |
+| 4 | **Veli**<br>(PTI) | 100+ SKS<br>• Rekayasa Web<br>• Tata Kelola TI | Alergi suhu drastis, Lactose Intolerant<br>Bpk: Olief | Nebeng di Jogja<br>SIM C: -<br>Jl. Arumdalu No. 11 | Manajemen Data, Administrasi, Web | Laptop Kerja | Standby Jumat sore – Minggu malam |
+| 5 | **Dinda**<br>(PADP) | 100+ SKS<br>• KKN (6 SKS) | Gastritis / GERD<br>Ortu: 0838-4834-3763 | Motor & Helm<br>SIM C: Ada<br>Samirono, Depok | Kearsipan, Administrasi Kantor, Surat | Laptop Kerja | Standby Jumat sore – Minggu malam |
+| 6 | **Fai**<br>(PADP) | 100+ SKS<br>• KKN (6 SKS) | Sehat sentosa<br>Ortu: 0812-2824-0759 | Nebeng di Jogja<br>SIM C: -<br>Karang Malang | Pembukuan Kas, Excel Keuangan, RAB | Laptop Kerja | Standby Jumat sore – Minggu malam |
+| 7 | **Intan**<br>(Biologi) | 100+ SKS<br>• KKN (6 SKS) | Asam lambung (GERD)<br>Ortu: 0857-1618-2143 | Motor & Helm<br>SIM C: Ada<br>Piyungan, Bantul | Mikrobiologi, Formulasi Eco-Enzyme | Laptop Kerja, Alat Lab Sederhana | Standby Jumat sore – Minggu malam |
+| 8 | **Zalfa**<br>(Biologi) | 100+ SKS<br>• KKN (6 SKS) | Maag, Alergi dingin<br>Ortu: 0858-4647-6055 | Nebeng di Jogja<br>SIM C: -<br>Karangmalang C.19A | Pengolahan Kompos Organik | Laptop Kerja | Standby Jumat sore – Minggu malam |
+| 9 | **Vina**<br>(TP) | `............ SKS`<br>• `........................`<br>• `........................` | Sehat sentosa<br>Ibu: 0857-2514-7579 | Motor & Helm<br>SIM C: `.........`<br>Kalasan, Sleman | Canva Desain, Media Visual, Medsos | Laptop Kerja, Akun Canva Pro | `[ Diisi saat TM ]` |
+| 10 | **Sandra**<br>(TP) | `............ SKS`<br>• `........................`<br>• `........................` | Sehat sentosa<br>Ibu: 0813-9701-3302 | Motor & Helm<br>SIM C: `.........`<br>Santren, Caturtunggal | Logistik, Kerjasama Tim, Komunikasi | Laptop Kerja | `[ Diisi saat TM ]` |
 
 ---
 
@@ -273,8 +366,8 @@ Agar tidak membebani pengeluaran bulanan anggota, disepakati sistem **2 Termin P
 | 4 | Novelia Harlinda | Anggota Tim (Sekre 2) | `[ M / L ]` |
 | 5 | Dinda Amelia Putri | Anggota Tim (Sekre 1) | `[ S / M ]` |
 | 6 | Faidatul Anugraheni M. | Anggota Tim (Bendahara 1) | `[ S / M ]` |
-| 7 | Intan Milansari | Anggota Tim (Konsumsi 1) | `[ S / M ]` |
-| 8 | Zalfa Khoirunnisa | Anggota Tim (Konsumsi 2) | `[ S / M ]` |
+| 7 | Intan Milansari | Anggota Tim (Perkap 2 / K3 Posko) | `[ S / M ]` |
+| 8 | Zalfa Khoirunnisa | Anggota Tim (Bendahara 2 / SPJ) | `[ S / M ]` |
 | 9 | Alvina Aulia Az Zahra | Anggota Tim (PDD Media) | `[ S ]` |
 | 10 | Krissandra Siagian | Anggota Tim (Perkap) | `[ M ]` |
 | 11 | **Dosen Pembimbing Lapangan (DPL)** | *Cinderamata Monev Posko* | `[ L / XL ]` |
@@ -299,8 +392,10 @@ Agar tidak membebani pengeluaran bulanan anggota, disepakati sistem **2 Termin P
 ## ✅ Checklist Keputusan TM-TP (Kunci Sebelum Bubar Rapat)
 
 - [ ] Nama Tim PLK Resmi Terpilih: `................................`
-- [ ] Struktur Matrix (Ketua, Sekre, Bendahara, Perkap, Konsumsi, PDD) 100% Disepakati.
+- [ ] Struktur Matrix (Ketua, Sekre 1-2, Bendahara 1-2, Humas, PDD 1-2, Perkap & K3 1-2 — Tanpa Seksi Konsumsi) 100% Disepakati.
+- [ ] Aturan Piket Masak & Dapur Bergilir Posko (2 orang/hari) Disepakati Seluruh Anggota.
 - [ ] 4 Fokus Proker Utama Disepakati.
+- [ ] Seluruh data anggota (K3, SKS, kendaraan, skill, aset) terisi lengkap di Lembar Sesi 5.
 - [ ] Akun Gmail (`plkuny.[namatim]@gmail.com`) dan Instagram Tim siap dibuat oleh tim PDD (Vina & Riski).
 - [ ] Jadwal sesi foto bersama 10 anggota untuk feed *Member Reveal* disepakati.
 - [ ] Data ukuran rompi 12 pcs (10 anggota + DPL + Kades) terdata lengkap.

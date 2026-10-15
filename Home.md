@@ -16,7 +16,7 @@ status: active
 |:----:|:------:|-------------|-----------------|-------------------------------|
 | 1–4 | 🟢 Fix | Fajar, Terry, Riski, Veli | Pend. Teknik Informatika (FT) | Kordes, IT & Website, Dokumentasi |
 | 5–6 | 🟢 Fix | Dinda Amelia & Faidatul A. | Pend. Adm. Perkantoran (FEB) | Sekre 1, Bendahara 1, UMKM & Arsip |
-| 7–8 | 🟢 Fix | Intan Milansari & Zalfa Khoirunnisa | Biologi (FMIPA) | Konsumsi, Lingkungan & Eco-Enzyme |
+| 7–8 | 🟢 Fix | Intan Milansari & Zalfa Khoirunnisa | Biologi (FMIPA) | Perkap K3, Bendahara 2, Lingkungan & Eco-Enzyme |
 | 9–10 | 🟢 Fix | Alvina Aulia & Krissandra Siagian | Teknologi Pendidikan (FIP) | PDD Desain, Perkap, Media & Edukasi |
 
 ---

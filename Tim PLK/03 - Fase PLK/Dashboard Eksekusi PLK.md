@@ -19,15 +19,17 @@ Tim resmi terkunci 10 orang dari 4 Fakultas berbeda (FT, FEB, FMIPA, FIP):
 | No | Nama | Panggilan | Prodi / Fak | Peran Operasional | Peran Proker Lapangan |
 | :-: | :--- | :--- | :--- | :--- | :--- |
 | 1 | Fajar Ahnaf Mahardika | Fajar | PTI (FT) | **Ketua (Kordes)** | Supervisi & Lobi Eksternal |
-| 2 | Muhadzdzib Terry Al Fauzan | Terry | PTI (FT) | Humas Lapangan / Perkap | Tim Web Desa & IT |
-| 3 | Muhamad Riski | Riski | PTI (FT) | PDD Dokumentasi | Tim Web Desa & IT |
-| 4 | Novelia Harlinda | Veli | PTI (FT) | Sekre 2 / Konsumsi | **Koor. Divisi Teknologi & IT** |
-| 5 | Dinda Amelia Putri | Dinda | PADP (FEB) | **Sekretaris Utama** | Tim Administrasi & UMKM |
-| 6 | Faidatul Anugraheni M. | Fai | PADP (FEB) | **Bendahara Utama** | **Koor. Divisi Administrasi & UMKM** |
-| 7 | Intan Milansari | Intan | Biologi (FMIPA) | Konsumsi Utama | **Koor. Divisi Lingkungan & Kesehatan** |
-| 8 | Zalfa Khoirunnisa | Zalfa | Biologi (FMIPA) | Konsumsi / Bendahara 2 | Tim Lingkungan & Eco-Enzyme |
-| 9 | Alvina Aulia Az Zahra | Vina | TP (FIP) | PDD Media & Desain | **Koor. Divisi Pendidikan & Media Ajar** |
-| 10 | Krissandra Siagian | Sandra | TP (FIP) | Perkap / Operasional Posko | Tim Pendidikan & Media Ajar |
+| 2 | Muhadzdzib Terry Al Fauzan | Terry | PTI (FT) | Humas Lapangan & Kemitraan Desa | Tim Web Desa & IT |
+| 3 | Muhamad Riski | Riski | PTI (FT) | PDD 2 (Dokumentasi & Video) | Tim Web Desa & IT |
+| 4 | Novelia Harlinda | Veli | PTI (FT) | Sekretaris 2 (Logbook 272 & Arsip) | **Koor. Divisi Teknologi & IT** |
+| 5 | Dinda Amelia Putri | Dinda | PADP (FEB) | **Sekretaris 1 (Proposal & LPJ)** | Tim Administrasi & UMKM |
+| 6 | Faidatul Anugraheni M. | Fai | PADP (FEB) | **Bendahara 1 (Kas & RAB)** | **Koor. Divisi Administrasi & UMKM** |
+| 7 | Intan Milansari | Intan | Biologi (FMIPA) | Perkap 2 (K3 & Sanitasi Posko) | **Koor. Divisi Lingkungan & Kesehatan** |
+| 8 | Zalfa Khoirunnisa | Zalfa | Biologi (FMIPA) | Bendahara 2 (SPJ & Belanja Posko) | Tim Lingkungan & Eco-Enzyme |
+| 9 | Alvina Aulia Az Zahra | Vina | TP (FIP) | PDD 1 (Desain Grafis & Branding) | **Koor. Divisi Pendidikan & Media Ajar** |
+| 10 | Krissandra Siagian | Sandra | TP (FIP) | Perkap 1 (Logistik Acara & Alat) | Tim Pendidikan & Media Ajar |
+
+*Catatan Operasional Makan: Tidak ada seksi konsumsi tetap; operasional makan & dapur posko dijalankan dengan sistem **Piket Harian Bergilir (2 orang/hari)**.*
 
 *Rasio Gender: 3 Laki-laki : 7 Perempuan | Rasio Kendaraan: 6 Motor Jogja + 1 Klaten (Kapasitas Surplus)*
 
