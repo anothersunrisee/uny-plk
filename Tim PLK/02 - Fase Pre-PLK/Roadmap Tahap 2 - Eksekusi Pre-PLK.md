@@ -28,20 +28,26 @@ status: active
 ## 📋 Rincian Eksekusi & Action Items
 
 ### 🟢 Fase 1: Finalisasi Tim & First Gathering (*TEAM-LOCK*)
-**Kondisi saat ini**: **KUOTA 10/10 TERPENUHI & AMAN!** (4 PTI, 2 PADP, 2 Bio, 2 Teknologi Pendidikan). 
+**Kondisi saat ini**: **SELESAI 100% (SUKSES TERLAKSANA)**. 
 - [x] **Closing Oprec**: Kuota 10 orang resmi ditutup per Oktober 2026. Masuk 2 mahasiswi Teknologi Pendidikan (Alvina Aulia & Krissandra Siagian).
-- [ ] **First Gathering (TM-TP)**:
-  - Gunakan lembar kerja: [[Panduan First Gathering & Lembar Kerja Tim]].
-  - Agenda: Kenalan tatap muka, voting Ketua & Struktur Matrix, voting Nama Tim, serta brainstorming 4 pilar proker Wonosari Klaten.
+- [x] **First Gathering (TM-TP)**:
+  - Terlaksana sukses pada 15 Oktober 2026.
+  - Nama resmi terpilih: **NIRANTARA** (*"Menanam Asa, Menumbuhkan Arti"* 🌱).
+  - Struktur Matrix 10 anggota sah (Intan & Vina di PDD; Riski & Sandra di Perkap). Seksi Konsumsi resmi dihapus beralih ke piket harian.
+  - Kanal resmi aktif: `nirantara.plk.uny@gmail.com`, Instagram, Discord, dan Google Drive Master.
+  - Notulensi resmi: [[Notulensi Resmi First Gathering NIRANTARA]].
 
 ### 🟡 Fase 2: Birokrasi Kampus (*LEGAL-CAMPUS*)
-**Kondisi saat ini**: Perizinan eksternal (desa) mewajibkan adanya surat dari kampus terlebih dahulu.
-- [ ] **Kejar Dosen PIC**:
-  - Fajar & Dinda (Sekretaris) temui Dosen PIC Prodi.
-  - Sampaikan bahwa lokasi sudah ada (Klaten) dan survei awal sudah dilakukan.
-  - Minta draf / format **Surat Pengantar Survei** atau **Surat Izin Observasi** ke desa.
-- [ ] **Cek Silang Aturan SKS**:
-  - Pastikan lagi isu "Nilai C" dan kuota "2 kelompok per desa" aman di tingkat birokrasi Fakultas Teknik & FEB. Gunakan [[Draft Konsultasi Dosen PIC]].
+**Kondisi saat ini**: Konsultasi 4 Prodi telah tuntas 100%. Fokus bergeser ke penentuan DPL dan surat izin survei.
+- [x] **Konsultasi PIC 4 Prodi Lengkap**:
+  - PTI (Dr. Sigit Pambudi), PADP (Bpk. Hilmy Pradana), Biologi (Dr. Anna & Dr. Ixora), TP (PIC FIP).
+  - Seluruh prodi ACC. Catatan khusus: TP mewajibkan 272 jam fisik di Klaten.
+  - Dokumen: [[Matriks Hasil Konsultasi PIC 4 Prodi]] dan notulensi masing-masing prodi.
+- [ ] **Penetapan Dosen Pembimbing Lapangan (DPL)**:
+  - Buat shortlist 2–3 nama dosen (prioritas FT/FIP) dan lakukan audiensi penjajakan.
+  - Referensi: [[Analisa Kriteria & Strategi Memilih DPL]].
+- [ ] **Urus Surat Pengantar Survei Resmi**:
+  - Fajar & Dinda mengurus Surat Pengantar Survei Berkop UNY untuk dibawa ke Pemkab/Bakesbangpol Klaten dan Kepala Desa.
 
 ### 🔴 Fase 3: Kunjungan Resmi Kades Wonosari (*KADES-SOWAN*)
 **Kondisi saat ini**: Pak Maryadi (BPD) sudah memberi lampu hijau, tapi Kades wajib diberitahu secara formal.

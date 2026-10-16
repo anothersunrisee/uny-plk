@@ -460,6 +460,26 @@ Berdasarkan gap di atas, kriteria Oprec perlu ditambahkan:
 
 ---
 
+## LOG #016: First Gathering (TM-TP) & Lahirnya Tim NIRANTARA
+
+### 5W1H
+
+| Aspek | Analisa |
+|---|---|
+| **What** | Pelaksanaan First Gathering (TM-TP) 10 anggota lengkap, pengesahan nama resmi tim **NIRANTARA**, finalisasi struktur matrix operasional, pembuatan kanal digital, dan penyelesaian konsultasi PIC 4 prodi. |
+| **Why** | Mengikat komitmen tatap muka seluruh anggota lintas 4 fakultas, meresmikan identitas hukum tim untuk proposal & medsos, serta menetapkan pembagian kerja yang adil tanpa beban domestik seksi konsumsi. |
+| **Who** | 10 Anggota Lengkap (Fajar, Terry, Riski, Veli, Dinda, Fai, Intan, Zalfa, Vina, Sandra). |
+| **When** | 15–16 Oktober 2026. |
+| **Where** | Yogyakarta (First Gathering tatap muka & bonding tim). |
+| **How** | 1. Voting aklamasi nama: **NIRANTARA** (*“Menanam Asa, Menumbuhkan Arti”* 🌱).<br>2. Penetapan matrix: Intan & Vina di PDD; Riski & Sandra di Perkap.<br>3. Pembuatan kanal resmi: `nirantara.plk.uny@gmail.com`, IG, Discord, Drive.<br>4. Laporan konsultasi PIC TP: ACC penuh, dengan mitigasi 272 jam wajib fisik di Klaten.<br>5. Generate master folder `DRIVE MASTER NIRANTARA PLK UNY 2027` siap pakai. |
+
+### Implikasi untuk Tim
+- Formasi tim telah sah secara sosial dan legalitas internal.
+- Tim memiliki panduan kerja lengkap: [[Notulensi Resmi First Gathering NIRANTARA]], [[Panduan Workspace & Kolaborasi Tim]], dan [[Strategi Sponsorship & Anggaran Awal Tim]].
+- Langkah berikutnya: Pencarian dan audiensi DPL dari FT/FIP serta pengurusan izin survei berkop UNY.
+
+---
+
 *Log ini diupdate setiap ada analisa atau keputusan baru.*
 *Format: tambah entri baru LOG #NNN di bawah index.*
-*Wikilinks: [[Home]] | [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] | [[Draft Survey Lokasi Klaten]] | [[Struktur Organisasi Matrix Tim PLK]]*
+*Wikilinks: [[Home]] | [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] | [[Notulensi Resmi First Gathering NIRANTARA]] | [[Struktur Organisasi Matrix Tim PLK]]*
