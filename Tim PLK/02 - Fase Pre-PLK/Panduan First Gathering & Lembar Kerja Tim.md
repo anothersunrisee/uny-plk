@@ -111,74 +111,60 @@ Sistem kerja tim menggunakan **Struktur Organisasi Matrix**. Setiap anggota waji
 
 ### D. Lembar Pengesahan Peran Matrix (10 Anggota — Tanpa Seksi Konsumsi)
 
-| No  | Nama Anggota       | Prodi           | Peran Operasional Posko (Pilih 1)        | Peran Divisi Proker (Pilih 1)        | Tanda Tangan / Status |
+| No  | Nama Anggota       | Prodi           | Peran Operasional Posko (Pilih 1)        | Peran Divisi Proker (Pilih 1)        | Status / Keputusan TM |
 | :-: | ------------------ | --------------- | ---------------------------------------- | ------------------------------------ | :-------------------: |
-|  1  | **Fajar**          | PTI (FT)        | Ketua Tim (Kordes)                       | Supervisi & Lobi Eksternal           |  `[ ACC / Revisi ]`   |
-|  2  | **Dinda**          | PADP (FEB)      | Sekretaris 1 (Proposal & LPJ)            | Tim Divisi Administrasi & UMKM       |  `[ ACC / Revisi ]`   |
-|  3  | **Faidatul (Fai)** | PADP (FEB)      | Bendahara 1 (Kas Utama & RAB)            | Koor. Divisi Administrasi & UMKM     |  `[ ACC / Revisi ]`   |
-|  4  | **Terry**          | PTI (FT)        | Humas Lapangan & Kemitraan Desa          | Tim Divisi Teknologi & IT            |  `[ ACC / Revisi ]`   |
-|  5  | **Riski**          | PTI (FT)        | PDD 2 (Dokumentasi & Video Reels)        | Tim Divisi Teknologi & IT            |  `[ ACC / Revisi ]`   |
-|  6  | **Veli**           | PTI (FT)        | Sekretaris 2 (Logbook 272 & Arsip)       | Koor. Divisi Teknologi & IT          |  `[ ACC / Revisi ]`   |
-|  7  | **Intan**          | Biologi (FMIPA) | Perkap 2 (K3 Kesehatan & Sanitasi Posko) | Koor. Divisi Lingkungan & Kesehatan  |  `[ ACC / Revisi ]`   |
-|  8  | **Zalfa**          | Biologi (FMIPA) | Bendahara 2 (SPJ Kuitansi & Belanja)     | Tim Divisi Lingkungan & Sampah       |  `[ ACC / Revisi ]`   |
-|  9  | **Alvina (Vina)**  | TP (FIP)        | PDD 1 (Desain Grafis & Branding)         | Koor. Divisi Pendidikan & Media Ajar |  `[ ACC / Revisi ]`   |
-| 10  | **Sandra**         | TP (FIP)        | Perkap 1 (Logistik Acara & Alat Fisik)   | Tim Divisi Pendidikan & Media Ajar   |  `[ ACC / Revisi ]`   |
+|  1  | **Fajar**          | PTI (FT)        | Ketua Tim (Kordes)                       | Supervisi & Lobi Eksternal           | 🟢 **SAH / 100% ACC** |
+|  2  | **Dinda**          | PADP (FEB)      | Sekretaris 1 (Proposal & LPJ)            | Tim Divisi Administrasi & UMKM       | 🟢 **SAH / 100% ACC** |
+|  3  | **Faidatul (Fai)** | PADP (FEB)      | Bendahara 1 (Kas Utama & RAB)            | Koor. Divisi Administrasi & UMKM     | 🟢 **SAH / 100% ACC** |
+|  4  | **Terry**          | PTI (FT)        | Humas Lapangan & Kemitraan Desa          | Tim Divisi Teknologi & IT            | 🟢 **SAH / 100% ACC** |
+|  5  | **Riski**          | PTI (FT)        | Perkap 1 (Logistik Lapangan & Armada)    | Tim Divisi Teknologi & IT            | 🟢 **SAH / 100% ACC** |
+|  6  | **Veli**           | PTI (FT)        | Sekretaris 2 (Logbook 272 & Arsip)       | Koor. Divisi Teknologi & IT          | 🟢 **SAH / 100% ACC** |
+|  7  | **Intan**          | Biologi (FMIPA) | PDD 2 (Dokumentasi & Jurnalistik Berita) | Koor. Divisi Lingkungan & Kesehatan  | 🟢 **SAH / 100% ACC** |
+|  8  | **Zalfa**          | Biologi (FMIPA) | Bendahara 2 (SPJ Kuitansi & Belanja)     | Tim Divisi Lingkungan & Sampah       | 🟢 **SAH / 100% ACC** |
+|  9  | **Alvina (Vina)**  | TP (FIP)        | PDD 1 (Desain Grafis, Branding & Medsos) | Koor. Divisi Pendidikan & Media Ajar | 🟢 **SAH / 100% ACC** |
+| 10  | **Sandra**         | TP (FIP)        | Perkap 2 (Operasional Acara & Perlengkapan)| Tim Divisi Pendidikan & Media Ajar   | 🟢 **SAH / 100% ACC** |
 
-*Catatan Perubahan Role (Jika Ada Masukan saat TM):*  
-> `Tulis di sini jika ada kesepakatan penyesuaian peran...`
+*Catatan Kesepakatan TM-TP:*  
+> 1. **PDD dipegang oleh Alvina (Vina) & Intan Milansari**. Vina fokus pada branding visual Canva/medsos, sedangkan Intan (Staf Ahli Jurnalistik Himabio) fokus pada dokumentasi foto/video lapangan dan penulisan naskah berita 5W1H.  
+> 2. **Perlengkapan (Perkap) dipegang oleh Riski & Krissandra (Sandra)**. Riski memegang logistik berat/transportasi lapangan, Sandra memegang perlengkapan posko dan alat acara.  
+> 3. Seluruh 10 anggota menyetujui pembagian peran tanpa ada beban domestik seksi konsumsi tetap.
 
 ---
 
 ## 🏷️ SESI 3: Voting Nama Tim, Identitas, & Blueprint Branding Medsos KKN
 
-Nama tim akan menjadi **identitas resmi** di Cover Proposal UNY, spanduk posko, stempel administrasi, kemeja PDH, hingga akun media sosial (@Instagram & @TikTok).
+* **Hasil Voting Nama Tim Terpilih**: **NIRANTARA** (Disepakati Bulat)
+* **Tagline / Slogan Resmi**: *“Menanam Asa, Menumbuhkan Arti.”* 🌱
+* **Asal Kata & Makna**: Berasal dari bahasa Sanskerta *nirantara* (निरन्तर), bermakna **tidak terputus, terus-menerus, atau berkesinambungan**.
+* **Akronim NIRANTARA**:
+  * **N** — **N**yalakan Inovasi
+  * **R** — **R**angkai Aksi Nyata
+  * **T** — **T**umbuhkan Asa
+  * **R** — **R**aih Arti
+* **Filosofi Kesesuaian Desa Pertanian Wonosari**:
+  * 🌱 **Bertumbuh**: Mendukung potensi pertanian & kelompok tani melalui edukasi dan inovasi.
+  * 🤝 **Berdaya**: Memperkuat kapasitas ekonomi masyarakat dan BUMDes yang sempat mandek.
+  * 🌾 **Bersama**: Membangun kebersamaan dan kolaborasi rukun warga desa bersama mahasiswa.
 
 ---
 
-### A. Pilihan Opsi Nama Tim (Hasil Kurasi Memori & Karakter Tim)
+### B. Infrastruktur Digital & Akun Resmi Tim (Status Eksekusi)
 
-#### 🏛️ Kategori 1: Bahasa Sansekerta & Filosofis (Khas Tradisi Mahasiswa UNY)
-Memberikan kesan mendalam, terpelajar, berwibawa, dan sangat santun saat sowan ke Kepala Desa dan perangkat:
-1. **Nirantara** (🔥 *Kandidat Terkuat — Aset Master Vektor Siap: `LOGO NIRANTARA.ai`*)
-   * *Makna (Sansekerta: निरन्तर)*: **Berkesinambungan, tanpa jeda/tanpa putus, abadi, dan menyatu tanpa sekat.**
-   * *Filosofi*: Melambangkan program pengabdian yang tidak berhenti saat mahasiswa pulang, melainkan memberi dampak positif berkelanjutan (*sustainable impact*) bagi warga Desa Wonosari, sekaligus menyatukan 10 mahasiswa dari 4 fakultas berbeda dalam satu ikatan harmonis tanpa sekat birokrasi.
-2. **DasaKarya**
-   * *Makna*: *Dasa* = 10 anggota lengkap, *Karya* = karya nyata dan perbuatan baik. Melambangkan 10 mahasiswa dari 4 fakultas yang bersatu menciptakan karya pengabdian abadi bagi Desa Wonosari.
-3. **Abhipraya**
-   * *Makna*: Memiliki harapan, cita-cita, dan tujuan luhur. Menggambarkan tekad tim menjadi pembawa harapan baru bagi kemajuan desa.
-4. **Navastara**
-   * *Makna*: Bintang fajar yang baru. Filosofinya: Menjadi penerang dan pembawa perubahan positif di tengah masyarakat Dukuh Majegan.
-5. **Nawasena**
-   * *Makna*: Melangkah bersama menuju masa depan yang cerah dan penuh keberdayaan.
-6. **Samasta**
-   * *Makna*: Menyatukan seluruh elemen semesta. Melambangkan peleburan 4 latar belakang keilmuan menjadi satu harmoni pengabdian.
+Tim telah mengaktifkan seluruh kanal komunikasi resmi:
 
-#### ⚡ Kategori 2: Modern, Sains & Interdisipliner (Khas Sinergi IT, Bisnis, MIPA, & Edukasi)
-Terdengar dinamis, cerdas, inovatif, dan relevan dengan era digital:
-6. **DecaCore** (⭐ *Evolusi 10 Orang*)
-   * *Makna*: Diadaptasi dari istilah prosesor modern (10 inti prosesor). Menggambarkan 10 pemikiran cerdas dan tangguh dari FT, FEB, FMIPA, dan FIP yang bekerja simultan memecahkan masalah desa.
-7. **Synapse (Sinapsis)**
-   * *Makna*: Titik temu antar sel saraf yang mentransmisikan sinyal. Filosofinya: Tim PLK menjadi simpul pertemuan antara inovasi kampus dengan denyut nadi warga Wonosari.
-8. **Nexus Wonosari**
-   * *Makna*: *Nexus* berarti titik pusat koneksi dan kolaborasi interdisipliner.
-9. **Usulan Alternatif dari Forum TM**: `........................................`
-
-* **Hasil Voting Nama Tim Terpilih**: `[ ........................................ ]`
-* **Tagline / Slogan Tim**: `[ ........................................ ]` *(Contoh: "Satu Tekad, Nyata Mengabdi!")*
-* **Filosofi Singkat Tim (1 Kalimat)**: `[ ................................................................................ ]`
-
----
-
-### B. Infrastruktur Digital & Akun Resmi Tim
-
-Untuk tertib administrasi dan publikasi terpusat, tim menyepakati pembuatan akun resmi:
-
-| Media / Platform | Usulan Handle / Username | PIC Pengelola | Status Eksekusi |
+| Media / Platform | Alamat / Handle Resmi | PIC Pengelola | Status Eksekusi |
 |---|---|---|:---:|
-| **Google Workspace / Gmail** | `plkuny.[namatim]@gmail.com` | Sekretaris & PDD | `[ ] Dibuat` |
-| **Instagram Resmi** | `@plkuny.[namatim]` atau `@[namatim].wonosari` | Vina & Riski (PDD) | `[ ] Dibuat` |
-| **TikTok Tim** | `@[namatim].plkuny` | Vina & Riski (PDD) | `[ ] Dibuat` |
-| **Google Drive Master** | Folder bersama di akun Gmail tim (Kapasitas Proposal & Foto) | Dinda (Sekretaris) | `[ ] Dibuat` |
+| **Google Workspace / Gmail** | `nirantara.plk.uny@gmail.com` | Sekretariat & PDD | 🟢 **Sudah Dibuat** |
+| **Instagram Resmi** | `@nirantara...` *(Akun Tim)* | Vina & Intan (PDD) | 🟢 **Sudah Dibuat** |
+| **Discord Server** | Server Komunikasi Tim Nirantara | Seluruh Tim / PTI | 🟢 **Sudah Dibuat** |
+| **Google Drive Master** | Cloud Storage Bersama Akun Gmail Nirantara | Dinda & Veli (Sekre) | 🟢 **Sudah Dibuat** |
+
+---
+
+### C. Dokumentasi & Kebersamaan First Gathering (First Meet)
+* Sesi foto bersama dan pembuatan konten tim telah berjalan lancar sesuai rundown.
+* Dilanjutkan kegiatan bonding santai bermain UNO bersama seluruh 10 anggota tim.
+* Aset logo resmi tersimpan di repository: `logo nirantara.png` dan `LOGO NIRANTARA.ai`.
 
 ---
 
@@ -218,7 +204,10 @@ graph LR
 > - 🏫 **Fasilitas Pendidikan**: 2 SD Negeri, TK Pertiwi, TK Aisyiyah, dan PAUD di Pendem.
 > - 🌟 **Status Emas**: UNY **belum pernah ada** yang KKN di sini (sebelumnya hanya UIN Solo). Warga & perangkat sangat menyambut!
 
-### 🧠 Lembar Curah Pendapat (Brainstorming) Proker 4 Divisi
+> ⏸️ **Status Pembahasan Proker (Keputusan TM-TP):**  
+> Berdasarkan kesepakatan First Gathering kemarin, pembahasan teknis detail proker 4 divisi **di-skip terlebih dahulu**. Anggota tim masih fokus mengunci data dasar, infrastruktur tim, dan kriteria DPL. Perancangan proker definitif akan dibahas per divisi setelah observasi lanjutan ke perangkat Desa Wonosari.
+
+### 🧠 Lembar Curah Pendapat (Brainstorming) Proker 4 Divisi (Pending Observasi Lanjutan)
 
 #### 1. Divisi Teknologi & IT (PTI: Fajar, Terry, Riski, Veli)
 * **Pertanyaan Pancingan**: *Apakah desa butuh website resmi, digitalisasi buku induk kependudukan RT/RW, pelatihan Canva/komputer untuk karang taruna, atau pembuatan peta digital Dukuh Majegan?*

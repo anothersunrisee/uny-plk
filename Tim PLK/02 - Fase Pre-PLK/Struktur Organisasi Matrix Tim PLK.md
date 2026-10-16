@@ -54,14 +54,14 @@ Setiap anggota memegang 1 peran Operasional Posko dan 1 peran Divisi Proker:
 | **Dinda**        | PADP (FEB) | Sekretaris 1 (Proposal & LPJ) | Tim Divisi Administrasi & UMKM |
 | **Faidatul (Fai)**| PADP (FEB)| Bendahara 1 (Kas & RAB) | Koor. Divisi Administrasi & UMKM |
 | **Terry**        | PTI (FT)   | Humas Lapangan & Kemitraan Desa | Tim Divisi Teknologi & IT |
-| **Riski**        | PTI (FT)   | PDD 2 (Dokumentasi & Video) | Tim Divisi Teknologi & IT |
+| **Riski**        | PTI (FT)   | Perkap 1 (Logistik Lapangan & Armada) | Tim Divisi Teknologi & IT |
 | **Veli**         | PTI (FT)   | Sekretaris 2 (Logbook 272 & Arsip) | Koor. Divisi Teknologi & IT |
-| **Intan**        | Biologi    | Perkap 2 (K3 Kesehatan & Sanitasi Posko) | Koor. Divisi Lingkungan & Kesehatan |
-| **Zalfa**        | Biologi    | Bendahara 2 (SPJ Kuitansi & Belanja) | Tim Divisi Lingkungan & Sampah |
-| **Alvina (Vina)**| TP (FIP)   | PDD 1 (Desain Grafis & Branding) | Koor. Divisi Pendidikan & Media Ajar |
-| **Sandra**       | TP (FIP)   | Perkap 1 (Logistik Acara & Alat Fisik) | Tim Divisi Pendidikan & Media Ajar |
+| **Intan**        | Biologi    | PDD 2 (Dokumentasi & Jurnalistik Berita) | Koor. Divisi Lingkungan & Kesehatan |
+| **Zalfa**        | Biologi    | Bendahara 2 (SPJ Kuitansi & Belanja Posko) | Tim Divisi Lingkungan & Sampah |
+| **Alvina (Vina)**| TP (FIP)   | PDD 1 (Desain Grafis, Branding & Medsos) | Koor. Divisi Pendidikan & Media Ajar |
+| **Sandra**       | TP (FIP)   | Perkap 2 (Operasional Acara & Perlengkapan) | Tim Divisi Pendidikan & Media Ajar |
 
-*(Formasi 10 anggota fix berdasarkan kompetensi dan keahlian lintas 4 fakultas. Sah diterapkan).*
+*(Formasi 10 anggota fix berdasarkan kompetensi dan keahlian lintas 4 fakultas. Sah diterapkan dan disepakati di First Gathering).*
 
 ---
 

@@ -66,8 +66,12 @@ Asumsi kalian cuma bisa PLK di hari **Sabtu dan Minggu** (karena Senin-Jumat kul
 Kalkulasi: 
 **16 jam x 17 minggu = 272 Jam PAS!**
 
-> **TIPS RAHASIA:** 
-> Belum lagi ditambah jam rapat kalian di *weekdays* (Senin-Jumat) dari kos masing-masing (misal rapat Zoom, bikin desain PPT, ngetik proposal). Kalau itu semua dimasukkan ke Logbook, sebenarnya dalam **10-12 minggu saja (2,5 bulan)** target 272 jam kalian sudah bisa lunas duluan!
+> **TIPS RAHASIA (Untuk PTI, PADP, & Biologi):** 
+> Jam rapat kalian di *weekdays* (Senin-Jumat) dari kos masing-masing (misal rapat Zoom, bikin desain PPT, koding web, ngetik proposal) sah diakui oleh PIC prodi masing-masing. Kalau itu semua dimasukkan ke Logbook, sebenarnya dalam **10-12 minggu saja (2,5 bulan)** target 272 jam kalian sudah bisa lunas duluan!
+>
+> ⚠️ **CATATAN KHUSUS TEKNOLOGI PENDIDIKAN (Vina & Sandra):**  
+> Berdasarkan hasil konfirmasi PIC Prodi TP (FIP), **jam persiapan di Jogja TIDAK DIAKUI**. Mahasiswa TP wajib 100% memenuhi 272 jam melalui aktivitas nyata di Klaten.  
+> **Solusi Jam TP:** Vina dan Sandra berangkat sejak **Jumat siang/sore** ke Klaten (tambah 5 jam Jumat untuk bimbel posko & TPA sore), sehingga total jam per weekend menjadi **21–24 jam di Klaten**. Dalam 11–12 pekan, Vina & Sandra tetap lulus 272 jam murni di lapangan!
 
 ---
 

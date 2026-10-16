@@ -14,11 +14,13 @@ Baca file ini sebelum memulai analisa apapun di vault ini.
 ## Konteks Proyek
 
 **Program**: PLK (Pembelajaran Luar Kampus) — UNY Mengabdi 2027, Semester 6
+**Nama Resmi Tim**: **NIRANTARA** (*“Menanam Asa, Menumbuhkan Arti”* 🌱)
+**Email Resmi**: `nirantara.plk.uny@gmail.com`
 **Institusi**: Universitas Negeri Yogyakarta (UNY)
 **Angkatan**: 2024 (akan menjalani PLK di Semester 6)
 **Lokasi Incaran**: Desa Wonosari, Kab. Klaten, Jawa Tengah (Sudah dilakukan survei awal ke BPD)
-**Status Tim**: LENGKAP 10 dari 10 orang (KUOTA 10/10 FIX)
-**Fase Saat Ini**: Pre-PLK (Roadmap Tahap 2 — Persiapan First Gathering, Legalitas Dosen, & Proposal)
+**Status Tim**: LENGKAP 10 dari 10 orang (KUOTA 10/10 FIX — Sah First Gathering)
+**Fase Saat Ini**: Pre-PLK (Roadmap Tahap 2 — Persiapan DPL, Proposal, Legalitas Kesbangpol & Proker)
 
 ## Komposisi Tim Saat Ini (Formasi 10/10 Lengkap)
 
@@ -63,18 +65,26 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 - PLK = setara KKN, konversi 10-20 SKS (Minimal 272 Jam Kerja Efektif, via Logbook)
 - Tim harus terdiri dari **minimal 10 orang dari minimal 2 prodi berbeda** (Ideal: 3-4 prodi).
 - Setiap prodi diwakili **minimal 2 mahasiswa** dalam satu tim.
-- Ada aturan abu-abu di tingkat Fakultas terkait larangan "Nilai C" dan keharusan "2 Kelompok per Desa" yang sedang diklarifikasi ke PIC Dosen Prodi.
+- Ada aturan prodi terkait 272 jam: **PTI, PADP, dan Biologi memperbolehkan jam persiapan di Jogja masuk logbook**, namun **Teknologi Pendidikan (FIP) mewajibkan jam logbook 272 jam harus di Klaten**.
 
 ### Sistem Kerja Tim (Struktur Matrix)
 - Tim ini menggunakan **Struktur Organisasi Matrix**.
 - Setiap anggota WAJIB memegang 2 peran: **Peran Operasional Posko** (Ketua, Sekretaris, Bendahara, Humas, PDD, Perkap & K3 — *bebas seksi konsumsi tetap, makan dikelola piket harian*) DAN **Peran Fungsional Proker** (Koor Divisi Teknologi, Divisi Lingkungan, Divisi PADP, Divisi Pendidikan TP).
 - Agent harus membedakan mana rapat/kebutuhan operasional (hidup di posko) dan rapat/kebutuhan proker (terjun ke warga) saat memberikan saran/rencana kerja.
 
-### Formasi Dua Anggota Terakhir (Teknologi Pendidikan)
-| No | Nama | Asal Prodi | Peran Matrix Posko & Proker |
-|:---:|---|---|---|
-| 9 | Alvina Aulia Az Zahra (Vina) | Teknologi Pendidikan (FIP) | Operasional: PDD Media & Desain / Proker: Koor. Divisi Pendidikan & Media Ajar |
-| 10 | Krissandra Siagian (Sandra) | Teknologi Pendidikan (FIP) | Operasional: Perkap & Operasional Posko / Proker: Anggota Divisi Pendidikan & Media Ajar |
+### Matriks Resmi 10 Anggota Tim NIRANTARA
+| No | Nama | Asal Prodi | Peran Operasional Posko | Peran Divisi Proker |
+|:---:|---|---|---|---|
+| 1 | Fajar Ahnaf Mahardika | PTI (FT) | Ketua (Kordes) | Supervisi, Lobi Desa & IT |
+| 2 | Muhadzdzib Terry Al Fauzan | PTI (FT) | Humas Lapangan & Kemitraan Desa | Tim Web Desa & IT |
+| 3 | Muhamad Riski | PTI (FT) | Perkap 1 (Logistik Lapangan & Armada) | Tim Web Desa & IT |
+| 4 | Novelia Harlinda (Veli) | PTI (FT) | Sekretaris 2 (Logbook 272 & Arsip Digital) | Koor. Divisi Teknologi & IT |
+| 5 | Dinda Amelia Putri | PADP (FEB) | Sekretaris 1 (Proposal & LPJ) | Tim Divisi Administrasi & UMKM |
+| 6 | Faidatul Anugraheni M. (Fai) | PADP (FEB) | Bendahara 1 (Kas Utama & RAB) | Koor. Divisi Administrasi & UMKM |
+| 7 | Intan Milansari | Biologi (FMIPA) | PDD 2 (Dokumentasi & Jurnalistik Berita 5W1H) | Koor. Divisi Lingkungan & Kesehatan |
+| 8 | Zalfa Khoirunnisa | Biologi (FMIPA) | Bendahara 2 (SPJ Kuitansi & Belanja Posko) | Tim Divisi Lingkungan & Sampah |
+| 9 | Alvina Aulia Az Zahra (Vina) | TP (FIP) | PDD 1 (Desain Grafis, Branding Logo & Medsos) | Koor. Divisi Pendidikan & Media Ajar |
+| 10 | Krissandra Siagian (Sandra) | TP (FIP) | Perkap 2 (Operasional Acara & Perlengkapan) | Tim Divisi Pendidikan & Media Ajar |
 
 ## Panduan untuk Agent: Cara Membantu
 

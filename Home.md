@@ -4,9 +4,10 @@ created: 2026-09-29
 status: active
 ---
 
-# PLK UNY Mengabdi 2027 — Home
+# PLK UNY Mengabdi 2027 — Tim NIRANTARA
 
-> **Tim**: 4 PTI fix + 6 open | **Target**: 10 orang | **Semester**: 6 (2026/2027)
+> **Slogan:** *"Menanam Asa, Menumbuhkan Arti"* 🌱  
+> **Formasi:** 10/10 FIX (4 Fakultas: FT, FEB, FMIPA, FIP) | **Email:** `nirantara.plk.uny@gmail.com`
 
 ---
 
@@ -14,10 +15,10 @@ status: active
 
 | Slot | Status | Nama Anggota | Prodi / Fakultas | Peran Matrix (Posko / Proker) |
 |:----:|:------:|-------------|-----------------|-------------------------------|
-| 1–4 | 🟢 Fix | Fajar, Terry, Riski, Veli | Pend. Teknik Informatika (FT) | Kordes, IT & Website, Dokumentasi |
+| 1–4 | 🟢 Fix | Fajar, Terry, Riski, Veli | Pend. Teknik Informatika (FT) | Kordes, IT & Website, Perkap 1, Sekre 2 |
 | 5–6 | 🟢 Fix | Dinda Amelia & Faidatul A. | Pend. Adm. Perkantoran (FEB) | Sekre 1, Bendahara 1, UMKM & Arsip |
-| 7–8 | 🟢 Fix | Intan Milansari & Zalfa Khoirunnisa | Biologi (FMIPA) | Perkap K3, Bendahara 2, Lingkungan & Eco-Enzyme |
-| 9–10 | 🟢 Fix | Alvina Aulia & Krissandra Siagian | Teknologi Pendidikan (FIP) | PDD Desain, Perkap, Media & Edukasi |
+| 7–8 | 🟢 Fix | Intan Milansari & Zalfa Khoirunnisa | Biologi (FMIPA) | PDD 2 (Jurnalistik), Bendahara 2, Lingkungan |
+| 9–10 | 🟢 Fix | Alvina Aulia & Krissandra Siagian | Teknologi Pendidikan (FIP) | PDD 1 (Desain), Perkap 2 (Acara), Edukasi TP |
 
 ---
 
