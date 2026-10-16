@@ -1,0 +1,7 @@
+DAFTAR INVENTARIS ALAT & ASSET KERJA POSKO NIRANTARA
+====================================================
+
+Format Kolom Rekomendasi:
+No | Nama Barang | Jumlah | Kondisi | Pemilik / Penanggung Jawab | Status Lokasi (Jogja / Klaten)
+
+(Catatan: Buka atau konversi file ini ke Google Sheets saat di Google Drive)

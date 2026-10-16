@@ -1,0 +1,5 @@
+FOLDER: 03_PDD_DAN_BRANDING\03_Dokumentasi_Foto_Raw
+FUNGSI:
+Tempat foto dokumentasi mentah per pekan (Minggu 1, Minggu 2, dst) di Wonosari Klaten.
+
+Tim NIRANTARA PLK UNY 2027

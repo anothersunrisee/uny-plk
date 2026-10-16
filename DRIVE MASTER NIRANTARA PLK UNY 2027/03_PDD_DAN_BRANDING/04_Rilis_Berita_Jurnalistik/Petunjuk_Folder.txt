@@ -1,0 +1,5 @@
+FOLDER: 03_PDD_DAN_BRANDING\04_Rilis_Berita_Jurnalistik
+FUNGSI:
+Tempat draft naskah rilis berita 5W1H pengabdian untuk publikasi web UNY dan media massa.
+
+Tim NIRANTARA PLK UNY 2027

@@ -38,18 +38,18 @@ Forum First Gathering secara bulat menyepakati nama resmi tim untuk seluruh admi
 
 Forum menyetujui penghapusan Seksi Konsumsi tetap (dialihkan ke **Sistem Piket Harian Bergilir 2 orang/hari** di Klaten). Dilakukan penyesuaian peran operasional berdasarkan keahlian riil:
 
-| No | Nama Lengkap | Panggilan | Prodi / Fak | Peran Operasional Posko | Peran Divisi Proker |
-|:---:|---|---|---|---|---|
-| 1 | Fajar Ahnaf Mahardika | Fajar | PTI (FT) | **Ketua (Kordes)** | Supervisi, Lobi Desa & IT |
-| 2 | Muhadzdzib Terry Al Fauzan | Terry | PTI (FT) | Humas Lapangan & Kemitraan Desa | Tim Web Desa & IT |
-| 3 | Muhamad Riski | Riski | PTI (FT) | Perkap 1 (Logistik Lapangan & Armada) | Tim Web Desa & IT |
-| 4 | Novelia Harlinda | Veli | PTI (FT) | Sekretaris 2 (Logbook 272 & Arsip Digital) | Koor. Divisi Teknologi & IT |
-| 5 | Dinda Amelia Putri | Dinda | PADP (FEB) | **Sekretaris 1 (Proposal & LPJ)** | Tim Divisi Administrasi & UMKM |
-| 6 | Faidatul Anugraheni M. | Fai | PADP (FEB) | **Bendahara 1 (Kas Utama & RAB)** | Koor. Divisi Administrasi & UMKM |
-| 7 | Intan Milansari | Intan | Biologi (FMIPA) | PDD 2 (Dokumentasi & Jurnalistik Berita 5W1H) | Koor. Divisi Lingkungan & Kesehatan |
-| 8 | Zalfa Khoirunnisa | Zalfa | Biologi (FMIPA) | Bendahara 2 (SPJ Kuitansi & Belanja Posko) | Tim Divisi Lingkungan & Sampah |
-| 9 | Alvina Aulia Az Zahra | Vina | TP (FIP) | PDD 1 (Desain Grafis, Branding Logo & Medsos) | Koor. Divisi Pendidikan & Media Ajar |
-| 10 | Krissandra Siagian | Sandra | TP (FIP) | Perkap 2 (Operasional Acara & Perlengkapan) | Tim Divisi Pendidikan & Media Ajar |
+| No  | Nama Lengkap               | Panggilan | Prodi / Fak     | Peran Operasional Posko                       | Peran Divisi Proker                  |
+| :-: | -------------------------- | --------- | --------------- | --------------------------------------------- | ------------------------------------ |
+|  1  | Fajar Ahnaf Mahardika      | Fajar     | PTI (FT)        | **Ketua (Kordes)**                            | Supervisi, Lobi Desa & IT            |
+|  2  | Muhadzdzib Terry Al Fauzan | Terry     | PTI (FT)        | Humas Lapangan & Kemitraan Desa               | Tim Web Desa & IT                    |
+|  3  | Muhamad Riski              | Riski     | PTI (FT)        | Perkap 1 (Logistik Lapangan & Armada)         | Tim Web Desa & IT                    |
+|  4  | Novelia Harlinda           | Veli      | PTI (FT)        | Sekretaris 2 (Logbook 272 & Arsip Digital)    | Koor. Divisi Teknologi & IT          |
+|  5  | Dinda Amelia Putri         | Dinda     | PADP (FEB)      | **Sekretaris 1 (Proposal & LPJ)**             | Tim Divisi Administrasi & UMKM       |
+|  6  | Faidatul Anugraheni M.     | Fai       | PADP (FEB)      | **Bendahara 1 (Kas Utama & RAB)**             | Koor. Divisi Administrasi & UMKM     |
+|  7  | Intan Milansari            | Intan     | Biologi (FMIPA) | PDD 2 (Dokumentasi & Jurnalistik Berita 5W1H) | Koor. Divisi Lingkungan & Kesehatan  |
+|  8  | Zalfa Khoirunnisa          | Zalfa     | Biologi (FMIPA) | Bendahara 2 (SPJ Kuitansi & Belanja Posko)    | Tim Divisi Lingkungan & Sampah       |
+|  9  | Alvina Aulia Az Zahra      | Vina      | TP (FIP)        | PDD 1 (Desain Grafis, Branding Logo & Medsos) | Koor. Divisi Pendidikan & Media Ajar |
+| 10  | Krissandra Siagian         | Sandra    | TP (FIP)        | Perkap 2 (Operasional Acara & Perlengkapan)   | Tim Divisi Pendidikan & Media Ajar   |
 
 *Catatan Rolling*:
 * **Riski** resmi memegang **Perkap 1** (mengoptimalkan armada motor & fisik logistik).
@@ -87,13 +87,13 @@ Alvina dan Krissandra menyampaikan hasil konfirmasi resmi dari PIC Prodi TP:
 
 ## 6. Daftar Kebutuhan & Tindak Lanjut (To-Do List Nirantara)
 
-| Prioritas | Item Tindak Lanjut | Penanggung Jawab | Target Waktu |
-|:---:|---|---|:---:|
-| 🔴 **P1** | **Setup Workspace Kerja**: Putuskan platform kerja bersama (Google Workspace / Notion Education) untuk Sekretariat & Bendahara. | Dinda, Fai, Veli, Fajar | Pekan Ini |
-| 🔴 **P1** | **Pencarian Calon DPL**: Buat shortlist 2–3 nama dosen UNY yang santai, suportif, dan bersedia monev ke Klaten untuk segera disowani. | Fajar & Seluruh Anggota | Pekan Depan |
-| 🟠 **P2** | **Desain & Pengadaan Rompi Tim (12 pcs)**: Vina (PDD) mematangkan mock-up desain rompi berlogo Nirantara; Sandra (Perkap) cek vendor konveksi & kancing/resleting. | Vina & Sandra | Akhir Oktober 2026 |
-| 🟠 **P2** | **Persiapan Sponsorship & Iuran Awal**: Menyusun proposal sponsorship sederhana untuk support dana rompi/banner dan menentukan termin iuran kas awal. | Fai, Zalfa, Dinda | Awal November 2026 |
-| 🟡 **P3** | **Survei Lapangan Lanjutan ke Wonosari**: Mengonfirmasi isu sampah, BUMDes, dan perizinan Kesbangpol Klaten. | Fajar, Terry, dkk. | November 2026 |
+| Prioritas | Item Tindak Lanjut                                                                                                                                                 | Penanggung Jawab        |    Target Waktu    |
+| :-------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | :----------------: |
+| 🔴 **P1** | **Setup Workspace Kerja**: Putuskan platform kerja bersama (Google Workspace / Notion Education) untuk Sekretariat & Bendahara.                                    | Dinda, Fai, Veli, Fajar |     Pekan Ini      |
+| 🔴 **P1** | **Pencarian Calon DPL**: Buat shortlist 2–3 nama dosen UNY yang santai, suportif, dan bersedia monev ke Klaten untuk segera disowani.                              | Fajar & Seluruh Anggota |    Pekan Depan     |
+| 🟠 **P2** | **Desain & Pengadaan Rompi Tim (12 pcs)**: Vina (PDD) mematangkan mock-up desain rompi berlogo Nirantara; Sandra (Perkap) cek vendor konveksi & kancing/resleting. | Vina & Sandra           | Akhir Oktober 2026 |
+| 🟠 **P2** | **Persiapan Sponsorship & Iuran Awal**: Menyusun proposal sponsorship sederhana untuk support dana rompi/banner dan menentukan termin iuran kas awal.              | Fai, Zalfa, Dinda       | Awal November 2026 |
+| 🟡 **P3** | **Survei Lapangan Lanjutan ke Wonosari**: Mengonfirmasi isu sampah, BUMDes, dan perizinan Kesbangpol Klaten.                                                       | Fajar, Terry, dkk.      |   November 2026    |
 
 ---
 

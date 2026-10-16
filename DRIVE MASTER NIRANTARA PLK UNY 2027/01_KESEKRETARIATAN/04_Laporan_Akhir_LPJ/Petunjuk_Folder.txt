@@ -1,0 +1,5 @@
+FOLDER: 01_KESEKRETARIATAN\04_Laporan_Akhir_LPJ
+FUNGSI:
+Tempat draft dan final Laporan Pertanggungjawaban (LPJ) pengabdian masyarakat UNY.
+
+Tim NIRANTARA PLK UNY 2027

@@ -1,0 +1,7 @@
+MASTER KEUANGAN TIM NIRANTARA (RAB, CASHFLOW & KAS IURAN)
+=========================================================
+
+Format Kolom Rekomendasi:
+Tanggal | Kategori (Iuran/Posko/Proker) | Uraian Pengeluaran/Pemasukan | Debit (Masuk) | Kredit (Keluar) | Saldo | PIC / Bukti Nota
+
+(Catatan: Buka atau konversi file ini ke Google Sheets saat di Google Drive)

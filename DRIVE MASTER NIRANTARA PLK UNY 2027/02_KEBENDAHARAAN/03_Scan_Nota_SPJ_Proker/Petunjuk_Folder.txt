@@ -1,0 +1,5 @@
+FOLDER: 02_KEBENDAHARAAN\03_Scan_Nota_SPJ_Proker
+FUNGSI:
+Tempat foto/scan kuitansi belanja bahan proker (Eco-enzyme, benih kompos, modul ajar, dll).
+
+Tim NIRANTARA PLK UNY 2027

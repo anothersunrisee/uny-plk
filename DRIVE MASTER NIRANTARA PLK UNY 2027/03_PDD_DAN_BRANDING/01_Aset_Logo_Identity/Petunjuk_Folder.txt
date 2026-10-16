@@ -1,0 +1,5 @@
+FOLDER: 03_PDD_DAN_BRANDING\01_Aset_Logo_Identity
+FUNGSI:
+Tempat master aset logo Nirantara (.ai, .png transparan, font, palet warna branding).
+
+Tim NIRANTARA PLK UNY 2027

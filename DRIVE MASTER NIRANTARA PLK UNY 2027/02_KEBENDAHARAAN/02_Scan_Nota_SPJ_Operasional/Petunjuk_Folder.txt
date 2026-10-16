@@ -1,0 +1,5 @@
+FOLDER: 02_KEBENDAHARAAN\02_Scan_Nota_SPJ_Operasional
+FUNGSI:
+Tempat foto/scan nota belanja dapur, logistik harian posko, bensin, dan obat P3K.
+
+Tim NIRANTARA PLK UNY 2027

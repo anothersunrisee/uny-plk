@@ -1,0 +1,7 @@
+REKAP UKURAN SERAGAM ROMPI TIM NIRANTARA (12 PCS)
+=================================================
+
+Format Kolom Rekomendasi:
+No | Nama Penerima | Role / Peran | Ukuran Rompi (S/M/L/XL/XXL) | Status Pembayaran Iuran
+
+(Catatan: Buka atau konversi file ini ke Google Sheets saat di Google Drive)

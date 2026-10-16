@@ -1,0 +1,5 @@
+FOLDER: 04_DIVISI_PROKER\Divisi_Lingkungan_Kesehatan
+FUNGSI:
+Tempat file kerja Divisi Biologi (SOP pembuatan Eco-Enzyme, materi pupuk kompos kelompok tani).
+
+Tim NIRANTARA PLK UNY 2027

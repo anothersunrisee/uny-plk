@@ -1,0 +1,5 @@
+FOLDER: 04_DIVISI_PROKER\Divisi_Administrasi_UMKM
+FUNGSI:
+Tempat file kerja Divisi PADP (Pembukuan keuangan UMKM, berkas penataan arsip BUMDes).
+
+Tim NIRANTARA PLK UNY 2027

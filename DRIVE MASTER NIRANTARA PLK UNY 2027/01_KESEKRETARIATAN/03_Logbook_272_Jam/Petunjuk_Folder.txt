@@ -1,0 +1,5 @@
+FOLDER: 01_KESEKRETARIATAN\03_Logbook_272_Jam
+FUNGSI:
+Tempat spreadsheet logbook akumulasi 272 jam kerja harian/mingguan seluruh anggota tim.
+
+Tim NIRANTARA PLK UNY 2027

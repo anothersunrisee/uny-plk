@@ -1,0 +1,5 @@
+FOLDER: 05_LOGISTIK_DAN_PERKAP
+FUNGSI:
+Tempat inventaris alat fisik posko, rekap ukuran rompi 12 pcs, kontak vendor dan surat jalan barang.
+
+Tim NIRANTARA PLK UNY 2027

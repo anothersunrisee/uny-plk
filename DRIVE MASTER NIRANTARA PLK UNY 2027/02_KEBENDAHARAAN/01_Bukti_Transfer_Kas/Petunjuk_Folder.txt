@@ -1,0 +1,5 @@
+FOLDER: 02_KEBENDAHARAAN\01_Bukti_Transfer_Kas
+FUNGSI:
+Tempat screenshot bukti transfer iuran kas anggota (Termin 1 & Termin 2).
+
+Tim NIRANTARA PLK UNY 2027
