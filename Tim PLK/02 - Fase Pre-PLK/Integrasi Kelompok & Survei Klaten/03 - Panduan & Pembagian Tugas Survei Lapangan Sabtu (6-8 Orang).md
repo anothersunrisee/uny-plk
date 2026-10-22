@@ -35,25 +35,25 @@ Survei Sabtu ini **BUKAN** sekadar jalan-jalan atau melihat-lihat, melainkan **m
 
 ## 👥 Pembagian Peran 6 Personel Tim NIRANTARA
 
-Agar pekerjaan di lokasi berjalan cepat, terstruktur, dan tidak saling menunggu, 6 personel dibagi menjadi 3 sub-tim kerja:
+Agar pekerjaan di lokasi berjalan cepat, terstruktur, dan tidak saling menunggu, 6 personel dibagi menjadi 3 sub-tim kerja *(nama-nama personel akan disepakati dan diisi pada rapat malam ini)*:
 
 ### 1. Sub-Tim A: Koordinator Lapangan & Audit Fisik Posko
-* **Personel**: **Terry (PTI)** & **Riski (PTI - Perkap 1)**
+* **Personel**: **[Anggota 1 - Ditentukan saat Rapat]** & **[Anggota 2 - Ditentukan saat Rapat]**
 * **Tanggung Jawab**:
-  * **Terry**: Pemandu rute Jogja–Klaten, menjalin silaturahmi dengan warga/tetangga sekitar posko, dan koordinasi dengan keluarga pemilik rumah.
-  * **Riski**: Membawa meteran gulung, mengukur panjang $\times$ lebar setiap kamar tidur, ruang tengah, dan dapur. Menguji kelayakan pompa sumur air, kran kamar mandi, ketersediaan colokan stopkontak di tiap kamar, serta sinyal wifi.
+  * **Peran Lead Rute & Hubungan Warga**: Pemandu rute perjalanan Jogja–Klaten, menjalin silaturahmi dengan warga/tetangga sekitar posko, dan koordinasi dengan keluarga pemilik rumah.
+  * **Peran Audit Fisik Posko**: Membawa meteran rol bangunan, mengukur panjang $\times$ lebar setiap kamar tidur, ruang tengah, dan dapur. Menguji kelayakan pompa sumur air, kran kamar mandi, ketersediaan colokan stopkontak di tiap kamar, serta sinyal wifi.
 
 ### 2. Sub-Tim B: Pencatat Instrumen Data & Akses Logistik
-* **Personel**: **Dinda (PADP - Sekre 1)** & **Sandra (TP - Perkap 2)**
+* **Personel**: **[Anggota 3 - Ditentukan saat Rapat]** & **[Anggota 4 - Ditentukan saat Rapat]**
 * **Tanggung Jawab**:
-  * **Dinda**: Memegang *clipboard* instrumen observasi cetak, mencatat angka pasti hasil pengukuran kamar, jarak tempuh, serta data wawancara perangkat desa.
-  * **Sandra**: Memetakan titik logistik hidup posko (mencari warung nasi/sayur terdekat, pasar terdekat, minimarket Alfamart/Indomaret terdekat, apotek/klinik darurat, dan SPBU Pertamina). Mencatat estimasi jarak dan menit tempuhnya menggunakan odometer motor / Google Maps.
+  * **Peran Pencatat Instrumen Data**: Memegang *clipboard* instrumen observasi cetak, mencatat angka pasti hasil pengukuran kamar, jarak tempuh fasilitas, serta data wawancara perangkat desa.
+  * **Peran Pemetaan Logistik & Fasilitas**: Memetakan titik logistik hidup posko (mencari warung nasi/sayur terdekat, pasar terdekat, minimarket Alfamart/Indomaret terdekat, apotek/klinik darurat, dan SPBU Pertamina). Mencatat estimasi jarak dan menit tempuhnya menggunakan odometer motor / Google Maps.
 
 ### 3. Sub-Tim C: Dokumentasi Audio-Visual & Pemetaan Proker
-* **Personel**: **Intan (Biologi - PDD 2)** & **Vina (TP - PDD 1)**
+* **Personel**: **[Anggota 5 - Ditentukan saat Rapat]** & **[Anggota 6 - Ditentukan saat Rapat]**
 * **Tanggung Jawab**:
-  * **Intan**: Mendokumentasikan kondisi lanskap desa, persawahan kelompok tani Setyo Makmur, titik penumpukan sampah liar untuk proker Eco-Enzyme/kompos, serta mengambil foto kegiatan tim untuk arsip rilis berita 5W1H.
-  * **Vina**: Mengambil foto detail setiap sudut ruangan posko (untuk bahan penggambaran denah/layout kasur 20 orang), memotret fasilitas gedung 2 SD Negeri, TK Pertiwi, TK Aisyiyah, dan PAUD Pendem untuk perancangan media ajar interaktif.
+  * **Peran Dokumentasi Visual & Lingkungan**: Mendokumentasikan kondisi lanskap desa, persawahan kelompok tani Setyo Makmur, titik penumpukan sampah liar untuk proker Eco-Enzyme/kompos, serta mengambil foto kegiatan tim untuk arsip rilis berita 5W1H.
+  * **Peran Observasi Lembaga Pendidikan**: Mengambil foto detail setiap sudut ruangan posko (untuk bahan penggambaran denah/layout kasur 20 orang), memotret fasilitas fisik gedung 2 SD Negeri, TK Pertiwi, TK Aisyiyah, dan PAUD Pendem untuk perancangan media ajar interaktif.
 
 ---
 
@@ -61,8 +61,8 @@ Agar pekerjaan di lokasi berjalan cepat, terstruktur, dan tidak saling menunggu,
 
 Pastikan barang-barang berikut sudah masuk tas pada Jumat malam:
 
-- [ ] **Meteran Bangunan / Meteran Rol (Minimal 5 Meter)**: *Wajib dibawa Riski untuk ukur kamar posko.*
-- [ ] **Papan Ujian / Clipboard + Bolpoin**: *Wajib dibawa Dinda untuk lembar instrumen.*
+- [ ] **Meteran Bangunan / Meteran Rol (Minimal 5 Meter)**: *Wajib dibawa oleh personel Audit Fisik Posko.*
+- [ ] **Papan Ujian / Clipboard + Bolpoin**: *Wajib dibawa oleh personel Pencatat Instrumen Data.*
 - [ ] **Printout Dokumen Observasi**: 2–3 rangkap [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]].
 - [ ] **Smartphone dengan Kamera Berkualitas + Memory Luas**: Untuk foto landscape dan video denah.
 - [ ] **Powerbank (Minimal 10.000 mAh)**: Mengantisipasi baterai habis saat navigasi GPS dan dokumentasi.
@@ -76,14 +76,14 @@ Pastikan barang-barang berikut sudah masuk tas pada Jumat malam:
 
 | Jam (WIB) | Estimasi Waktu | Aktivitas & Target Sasaran | Lokasi & PIC |
 |:---:|:---:|---|---|
-| **07.30 – 08.00** | 30 Menit | Kumpul di **Titik Kumpul 1 (Kampus UNY Karangmalang / Bundaran)**. Cek angin ban, helm, & doa bersama. | UNY Jogja (Terry & Riski) |
-| **08.00 – 08.30** | 30 Menit | Konvoi santai menuju **Titik Kumpul 2 (Tirtomartani, Kalasan - Rumah Vina)** via Jl. Solo. | Jl. Solo (Terry - Road Captain) |
-| **08.30 – 09.30** | 60 Menit | Melanjutkan perjalanan dari Kalasan menuju **Dukuh Majegan, Desa Wonosari, Klaten**. | Masuk Klaten via Prambanan |
-| **09.30 – 11.30** | 120 Menit | **MISI 1 & 2: AUDIT FISIK POSKO & KELAYAKAN 20 ORANG**<br>• Mengukur 2 Kamar Besar, 1 Kamar Kecil, Mushola, & Dapur.<br>• Uji coba air sumur, colokan listrik, sinyal wifi.<br>• Mengunjungi Masjid terdekat posko (cek fasilitas toilet/wudhu cowok).<br>• Foto setiap sudut ruangan untuk denah penataan kasur. | Posko Majegan (Seluruh Tim) |
+| **07.30 – 08.00** | 30 Menit | Kumpul di **Titik Kumpul 1 (Kampus UNY Karangmalang / Bundaran)**. Cek angin ban, helm, & doa bersama. | UNY Jogja (PIC Lead Rute) |
+| **08.00 – 08.30** | 30 Menit | Konvoi santai menuju **Titik Kumpul 2 (Kalasan / Tirtomartani)** via Jl. Solo. | Jl. Solo (Road Captain) |
+| **08.30 – 09.30** | 60 Menit | Melanjutkan perjalanan konvoi menuju **Dukuh Majegan, Desa Wonosari, Klaten**. | Masuk Klaten via Prambanan |
+| **09.30 – 11.30** | 120 Menit | **MISI 1 & 2: AUDIT FISIK POSKO & KELAYAKAN 20 ORANG**<br>• Mengukur 2 Kamar Besar, 1 Kamar Kecil, Mushola, & Dapur.<br>• Uji coba air sumur, colokan listrik, sinyal wifi.<br>• Mengunjungi Masjid terdekat posko (cek fasilitas toilet/wudhu cowok).<br>• Foto setiap sudut ruangan untuk denah penataan kasur. | Posko Majegan (Seluruh Sub-Tim) |
 | **11.30 – 13.00** | 90 Menit | **ISHOMA & SAMBANG WARUNG WARGA**<br>• Sholat Dzuhur berjamaah di Masjid posko.<br>• Makan siang di warung makan lokal desa (sekaligus cek keramahan warga dan harga makanan). | Masjid & Warung Desa |
-| **13.00 – 14.30** | 90 Menit | **MISI 3, 4, 5: OBSERVASI FASILITAS DESA**<br>• Foto dan cek kondisi Balai Desa Wonosari.<br>• Observasi gedung SD Negeri 1 & 2 Wonosari, TK, dan PAUD.<br>• Observasi bengkel mebel/pertukangan UMKM desa.<br>• Dokumentasi hamparan sawah tani Majegan. | Desa Wonosari (Dinda, Vina, Intan) |
-| **14.30 – 15.30** | 60 Menit | **MISI 6: PEMETAAN ISU LINGKUNGAN & LOGISTIK UMUM**<br>• Mencari titik pembuangan sampah liar / TPS desa.<br>• Melacak jarak minimarket (Alfamart/Indomaret), pasar, & apotek/klinik terdekat. Catat kilometer dan menit tempuhnya! | Wilayah Trucuk & Sekitarnya |
-| **15.30 – 16.30** | 60 Menit | **EVALUASI KILAT & BRINGING RESULTS**<br>• Kumpul santai di teras posko, rekap hasil catatan lembar observasi.<br>• Memastikan semua foto dan data telah terisi 100%. | Posko Majegan (Dinda & Terry) |
+| **13.00 – 14.30** | 90 Menit | **MISI 3, 4, 5: OBSERVASI FASILITAS DESA**<br>• Foto dan cek kondisi Balai Desa Wonosari.<br>• Observasi gedung SD Negeri 1 & 2 Wonosari, TK, dan PAUD.<br>• Observasi bengkel mebel/pertukangan UMKM desa.<br>• Dokumentasi hamparan sawah tani Majegan. | Desa Wonosari (Sub-Tim B & C) |
+| **14.30 – 15.30** | 60 Menit | **MISI 6: PEMETAAN ISU LINGKUNGAN & LOGISTIK UMUM**<br>• Mencari titik pembuangan sampah liar / TPS desa.<br>• Melacak jarak minimarket (Alfamart/Indomaret), pasar, & apotek/klinik terdekat. Catat kilometer dan menit tempuhnya! | Wilayah Trucuk & Sekitarnya (Sub-Tim B) |
+| **15.30 – 16.30** | 60 Menit | **EVALUASI KILAT & BRINGING RESULTS**<br>• Kumpul santai di teras posko, rekap hasil catatan lembar observasi.<br>• Memastikan semua foto dan data telah terisi 100%. | Posko Majegan (Seluruh Personel) |
 | **16.30 – Selesai**| — | Perjalanan konvoi pulang ke Yogyakarta dengan tertib dan selamat. | Klaten $\rightarrow$ Jogja |
 
 ---

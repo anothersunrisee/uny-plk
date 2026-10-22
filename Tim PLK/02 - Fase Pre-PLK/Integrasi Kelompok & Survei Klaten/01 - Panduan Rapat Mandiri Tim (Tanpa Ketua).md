@@ -6,8 +6,8 @@ status: active
 
 # 📋 Guideline Rapat Internal Tim NIRANTARA (Tanpa Kehadiran Ketua)
 **Hari/Tanggal**: Kamis, 22 Oktober 2026  
-**Pimpinan Rapat Pengganti**: Dinda Amelia (Sekretaris 1) & Muhadzdzib Terry (Humas / Tuan Rumah Posko)  
-**Notulis Rapat**: Novelia Harlinda (Sekretaris 2)  
+**Pimpinan Rapat Pengganti**: Presidium Bersama — Veli (Sekretaris 2), Riski (Perkap 1), Terry (Humas), dan Intan (PDD 2)  
+**Notulis Rapat**: Anggota Ditunjuk / Sekretaris  
 **Peserta**: Seluruh Anggota Tim NIRANTARA (10 Anggota)
 
 ---
@@ -18,7 +18,9 @@ status: active
 > 1. Kepastian kelompok partner yang akan masuk ke Desa Wonosari bersama kita dan tinggal 1 atap di posko.  
 > 2. Kesiapan teknis survei fisik lapangan hari Sabtu besok.  
 > 
-> Dari hasil komunikasi dan survei awal Terry, pilihan paling realistis adalah **menerima Kelompok Teman PTI (Kelompok Terry)** karena kelompok Biologi (10 cewek) tidak mungkin 1 posko dengan kita dan tidak ada posko sewa gratis lain di desa. Namun, **kita adalah pemegang hak atas desa dan posko tersebut**. Kita yang bersusah payah survei dari nol. Oleh karena itu, kita **TIDAK BOLEH DIMANFAATKAN atau direpotkan**. Malam ini, rapat harus menyepakati batasan (*boundaries*), draf SOP Posko, dan pembagian tugas survei Sabtu besok. Tolong diskusikan dengan tegas dan kepala dingin. Hasil notulensi malam ini akan menjadi pegangan resmi tim kita."*
+> Dari hasil komunikasi dan survei awal Terry, pilihan paling realistis adalah **menerima Kelompok Teman PTI (Kelompok Terry)** karena kelompok Biologi (10 cewek) tidak mungkin 1 posko dengan kita dan tidak ada posko sewa gratis lain di desa. Namun, **kita adalah pemegang hak atas desa dan posko tersebut**. Kita yang bersusah payah survei dari nol. Oleh karena itu, kita **TIDAK BOLEH DIMANFAATKAN atau direpotkan**.  
+> 
+> Malam ini rapat dipimpin secara kolektif oleh **Veli, Riski, Terry, dan Intan**. Tolong diskusikan dengan tegas mengenai batasan (*boundaries*), draf SOP Posko (termasuk jam malam tidur di ruang tengah dan mandi), serta pembagian tugas siapa saja 6 orang yang berangkat survei Sabtu besok. Tolong diskusikan dengan tegas dan kepala dingin. Hasil notulensi malam ini akan menjadi pegangan resmi tim kita."*
 
 ---
 
@@ -28,9 +30,9 @@ status: active
 |:---:|:---:|---|---|
 | **Sesi 1** | 10 Menit | Pembacaan Pesan Ketua & Briefing Situasi Partner | Seluruh anggota paham konteks dan posisi tawar tim. |
 | **Sesi 2** | 20 Menit | Pembahasan Kelompok Teman PTI (Kelompok B) & Syarat Mutlak | Keputusan resmi menerima dengan SOP Kontrak Tertulis. |
-| **Sesi 3** | 15 Menit | Pembahasan Boundaries Posko Rumah Simbah Terry | Kesepakatan draf SOP, jam malam, kebersihan, & biaya operasional. |
+| **Sesi 3** | 15 Menit | Pembahasan Boundaries Posko Rumah Simbah Terry | Kesepakatan draf SOP, alokasi ruang tidur, opsi mandi, & biaya operasional. |
 | **Sesi 4** | 15 Menit | Keputusan: Apakah Kelompok B Boleh Ikut Survei Sabtu? | Keputusan final teknis keterlibatan partner di hari Sabtu. |
-| **Sesi 5** | 15 Menit | Pembagian Peran 6 Orang untuk Survei Lapangan Sabtu | Formasi 6 orang fix + perlengkapan yang wajib dibawa. |
+| **Sesi 5** | 15 Menit | Pembagian Tugas 6 Orang untuk Survei Lapangan Sabtu | Pengisian nama 6 personel fix + pembagian kendaraan & tugas. |
 
 ---
 
@@ -58,48 +60,50 @@ Terry memaparkan kondisi denah rumah simbahnya:
 * **Fasilitas Fisik**: 2 Kamar Besar, 1 Kamar Kecil, 1 Mushola, 1 Ruang Tamu Besar (Ruang Tengah), 1 Ruang Tamu Kecil, 2 Kamar Mandi, Dapur (Tanpa Kulkas).
 * **Fasilitas Utilitas**: Listrik, Wifi, Air Sumur Bersih.
 * **Total Penghuni (20 Orang)**:
-  * 👨 **8 Cowok**: 3 Nirantara (Fajar, Terry, Riski) + 5 Kelompok B.
-  * 👩 **12 Cewek**: 7 Nirantara (Dinda, Fai, Veli, Intan, Zalfa, Vina, Sandra) + 5 Kelompok B.
-* **Poin Kritis yang Harus Disepakati Malam Ini**:
-  1. **Alokasi Kamar Tidur**:
-     * Kamar Besar 1: 7 Cewek Nirantara.
-     * Kamar Besar 2: 5 Cewek Kelompok B (atau disesuaikan dengan kapasitas kasur).
-     * Kamar Kecil + Mushola / Ruang Tamu Depan: 8 Cowok.
-     * *Catatan Mandi*: Karena kamar mandi hanya 2, cowok diwajibkan mandi/wudhu di **Masjid terdekat** jika pagi hari terjadi antrean panjang cewek.
-  2. **Jadwal Check-in Jumat**:
-     * Wajib menunggu konfirmasi dari Terry setelah proses memindahkan simbah ke rumah satunya selesai. Dilarang datang langsung ke posko tanpa aba-aba Terry!
-  3. **Biaya Operasional (No Free Ride)**:
-     * Biaya sewa rumah = **Rp 0 (Gratis)**.
-     * Namun biaya habis pakai: **Token Listrik, Iuran Wifi, Iuran Air/Sampah Desa, dan Air Minum Galon WAJIB PATUNGAN 50 : 50 per kelompok (atau proporsional per kepala)**.
-  4. **Independensi Proker (Anti-Ketergantungan)**:
-     * Dilarang minta diantar-jemput survei oleh tim Nirantara.
-     * Dilarang nebeng perlengkapan atau meminta jatah proker. Masing-masing kelompok wajib menyusun proposal dan operasional sendiri.
+  * 👨 **8 Cowok**: 3 Nirantara + 5 Kelompok B.
+  * 👩 **12 Cewek**: 7 Nirantara + 5 Kelompok B.
+* **Poin Rancangan yang Didiskusikan & Disepakati Malam Ini**:
+  1. **Alokasi Kamar Tidur & Ruang Istirahat**:
+     * **2 Kamar Besar untuk Mahasiswi (Dipisah per Kelompok)**: 1 Kamar Besar untuk 7 Mahasiswi Nirantara, dan 1 Kamar Besar untuk 5 Mahasiswi Kelompok B agar masing-masing kelompok memiliki privasi yang terjaga. Laki-laki DILARANG KERAS masuk area kamar cewek.
+     * **Ruang Tengah (Besar) / Kamar Kecil untuk Mahasiswa (8 Cowok: 3 Nirantara + 5 Kelompok B)**: Karena kamar tidur terbatas, ruang tengah difungsikan untuk tidur bersama dengan aturan disiplin ketat: **Pukul 23.00 WIB (jam 11 malam) baru boleh menggelar kasur/alas tidur, dan Pukul 05.00 WIB pagi ruang tengah WAJIB sudah rapi dan steril kembali** untuk aktivitas umum posko.
+  2. **Manajemen 2 Kamar Mandi (Didiskusikan Forum)**:
+     * *Rekomendasi Awal*: Karena ada 12 perempuan dan 8 laki-laki dengan 2 kamar mandi posko, kamar mandi posko diprioritaskan bagi mahasiswi pada jam sibuk pagi hari.
+     * Anggota laki-laki diarahkan/disarankan memanfaatkan fasilitas mandi dan wudhu di **Masjid terdekat** (hanya berjarak beberapa langkah dari posko) guna memecah kemacetan antrean pagi. *Forum malam ini silakan mendiskusikan apakah opsi ini disepakati atau ada skema giliran lain.*
+  3. **Jadwal Check-in Jumat**:
+     * Wajib menunggu konfirmasi dari Terry setelah proses memindahkan simbah ke rumah keluarga satunya selesai. Dilarang datang langsung ke posko tanpa aba-aba Terry!
+  4. **Biaya Operasional (No Free Ride)**:
+     * Biaya sewa rumah = **Rp 0 (Gratis dari keluarga Terry)**.
+     * Biaya habis pakai: **Token Listrik, Iuran Wifi, Iuran Air/Sampah Desa, dan Air Minum Galon WAJIB PATUNGAN 50 : 50 per kelompok**.
+  5. **Independensi Proker (Anti-Ketergantungan)**:
+     * Masing-masing kelompok wajib mandiri secara proposal, operasional, logistik, dan transportasi. Dilarang saling nebeng/bergantung.
 
 ---
 
 ### 📌 SESI 4: Menjawab Pertanyaan: "Apakah Kelompok B Boleh Join Survei Sabtu?"
 * **Rekomendasi Resmi Ketua**:
-  * ❌ **JANGAN DIBOLEHKAN DATANG FULL TEAM (Rombongan)!**
-    * *Alasan*: Kalau mereka bawa 5-10 orang, total ada 15-18 orang di Klaten. Suasana akan kacau, tidak fokus, terkesan "arak-arakan", membuat warga/perangkat desa risih, dan tim Nirantara akan kehilangan kendali atas tempo observasi.
+  * ❌ **JANGAN DIBOLEHKAN DATANG FULL TEAM (Rombongan 5–10 orang)!**
+    * *Alasan*: Kalau rombongan besar datang bersamaan, suasana akan kacau, tidak fokus, terkesan "arak-arakan", membuat warga/perangkat desa risih, dan mengganggu privasi keluarga Terry yang sedang memindahkan simbah.
   * 🟢 **SOLUSI TERBAIK: SKEMA DELEGASI MAKSIMAL 2 ORANG (Ketua & Humas Kelompok B Saja).**
-    * Kelompok B hanya boleh mengirim **1 atau maksimal 2 orang perwakilan** untuk ikut meninjau fisik posko dan diperkenalkan ke BPD/Desa.
-    * Mereka harus patuh pada rundown survei Tim Nirantara (tidak boleh memotong agenda atau bikin agenda sendiri di lokasi).
+    * Kelompok B hanya boleh mengirim **1 atau maksimal 2 orang perwakilan** untuk ikut meninjau fisik posko, berkoordinasi, dan melihat draf MoU.
+    * Mereka harus patuh pada rundown survei Tim Nirantara.
 * *Keputusan Forum Malam Ini*: Silakan voting apakah mengizinkan 2 delegasi Kelompok B, atau murni Tim Nirantara terlebih dahulu.
 
 ---
 
 ### 📌 SESI 5: Pembagian Peran 6 Orang untuk Survei Sabtu
-Survei Sabtu besok akan fokus pada 2 misi: **(1) Observasi Fisik Posko** dan **(2) Observasi Wilayah Desa & Perangkat**.
-* Rencana personel berangkat: **6 Orang Tim Nirantara**.
-* Usulan formasi delegasi:
-  1. **Terry (PTI)**: Pemandu Rute, Tuan Rumah Posko, Lobi Warga/BPD.
-  2. **Riski (PTI - Perkap 1)**: Pengukuran Fisik Posko, Inventaris Listrik/Air/Jarak Fasilitas Umum.
-  3. **Dinda (PADP - Sekre 1)**: Pencatatan Lembar Observasi Lapangan & Identifikasi Arsip/BUMDes.
-  4. **Intan (Biologi - PDD 2)**: Dokumentasi Foto/Video Fisik, Cek Lingkungan/TPS Sampah.
-  5. **Vina (TP - PDD 1)**: Dokumentasi Aset Visual, Observasi Sekolah SD/TK/PAUD Wonosari.
-  6. **Sandra (TP - Perkap 2)**: Pendamping Inventaris Posko, Dapur, & Akses Logistik Warung/Pasar.
+Survei Sabtu besok fokus pada **Audit Fisik Posko** dan **Observasi Fasilitas Desa & Potensi Proker**.  
+Tim membutuhkan **6 personel delegasi** (dengan rasio 3 motor). *Malam ini forum bertugas memilih dan mengisi nama-nama anggota untuk masing-masing tugas berikut:*
 
-*(Jika ada anggota lain yang ingin ikut maksimal 8 orang, pastikan rasio kendaraan motor mencukupi).*
+| No | Posisi / Sub-Tim Kerja | Uraian Tugas & Tanggung Jawab Lapangan | Nama Anggota yang Bertugas (Diisi Malam Ini) |
+|:---:|---|---|---|
+| 1 | **Lead Rute & Hubungan Warga** | Memandu jalur Jogja–Klaten, silaturahmi tetangga sekitar posko, perizinan keluarga pemilik rumah, dan koordinasi lapangan. | `[ ........................................ ]` |
+| 2 | **Audit Fisik & Pengukuran Posko** | Membawa meteran bangunan, mengukur $p \times l$ setiap kamar tidur, ruang tengah, dapur; cek kelayakan air sumur, kran, stopkontak, dan daya listrik. | `[ ........................................ ]` |
+| 3 | **Pencatat Data & Instrumen Cetak** | Memegang *clipboard*, mencatat seluruh dimensi ruangan, mencatat wawancara perangkat desa, dan memegang lembar instrumen observasi. | `[ ........................................ ]` |
+| 4 | **Pemetaan Logistik & Fasilitas Umum** | Melacak lokasi dan menghitung jarak (km & menit) ke masjid, warung makan, pasar, minimarket, apotek/puskesmas, dan SPBU. | `[ ........................................ ]` |
+| 5 | **Dokumentasi Visual & Pemetaan Wilayah** | Mengambil foto/video lanskap desa, hamparan sawah tani, kondisi jalanan, titik penumpukan sampah liar, dan foto kegiatan untuk rilis berita. | `[ ........................................ ]` |
+| 6 | **Observasi Pendidikan & Layout Ruangan** | Mengambil foto sudut ruangan posko untuk denah kasur, serta observasi fisik gedung 2 SD Negeri, TK, dan PAUD desa untuk media ajar. | `[ ........................................ ]` |
+
+*(Silakan tentukan nama 6 orang di atas dan pasangkan kendaraan motornya).*
 
 ---
 
@@ -112,25 +116,25 @@ HASIL KEPUTUSAN RAPAT INTERNAL TIM NIRANTARA (22 OKT 2026)
    [ ] Diterima dengan syarat menandatangani Surat Kontrak SOP Bermaterai
    [ ] Ditolak (Sebutkan alasan): ............................................
 
-2. Keputusan Keterlibatan Kelompok B pada Survei Sabtu:
-   [ ] Hanya diizinkan mengirim 2 delegasi (Ketua & Humas)
-   [ ] Khusus Tim Nirantara dulu (Kelompok B survei mandiri di pekan berikutnya)
+2. Keputusan Terkait Alokasi Ruang & Mandi:
+   - Alokasi 2 Kamar Cewek (Nirantara & Kel. B) & Ruang Tengah Cowok (tidur 23.00, rapi 05.00): [ ] Sepakat  [ ] Revisi: .........
+   - Opsi Anggota Cowok Mandi di Masjid: [ ] Sepakat  [ ] Alternatif: ....................................................
 
-3. Formasi Fix 6-8 Orang yang Berangkat Sabtu:
-   1. ........................................ (Motor: Ada / Bonceng)
-   2. ........................................ (Motor: Ada / Bonceng)
-   3. ........................................ (Motor: Ada / Bonceng)
-   4. ........................................ (Motor: Ada / Bonceng)
-   5. ........................................ (Motor: Ada / Bonceng)
-   6. ........................................ (Motor: Ada / Bonceng)
+3. Keputusan Keterlibatan Kelompok B pada Survei Sabtu:
+   [ ] Hanya diizinkan mengirim maksimal 2 delegasi (Ketua & Humas)
+   [ ] Khusus Tim Nirantara dulu (Kelompok B menyusul berikutnya)
 
-4. Titik Kumpul & Jam Berangkat Sabtu:
-   - Titik Kumpul 1 (Jogja Kota/UNY): ........................................
-   - Titik Kumpul 2 (Kalasan - Rumah Vina): ..................................
-   - Jam Berangkat: Pukul ............. WIB
+4. Formasi 6 Orang yang Berangkat Survei Sabtu Besok:
+   1. Lead Rute & Warga       : ........................................ (Motor: Ada / Bonceng)
+   2. Audit Fisik Posko       : ........................................ (Motor: Ada / Bonceng)
+   3. Pencatat Data           : ........................................ (Motor: Ada / Bonceng)
+   4. Pemetaan Logistik       : ........................................ (Motor: Ada / Bonceng)
+   5. Dokumentasi Wilayah     : ........................................ (Motor: Ada / Bonceng)
+   6. Observasi Pendidikan    : ........................................ (Motor: Ada / Bonceng)
 
-5. Catatan Tambahan Rapat:
-   ...........................................................................
+5. Titik Kumpul & Jam Berangkat Sabtu:
+   - Titik Kumpul: ...........................................................
+   - Jam Kumpul / Berangkat: Pukul ............. WIB
 ```
 
 ---

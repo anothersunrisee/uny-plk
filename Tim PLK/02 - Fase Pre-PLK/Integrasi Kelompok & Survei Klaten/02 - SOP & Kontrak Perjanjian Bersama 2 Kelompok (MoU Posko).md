@@ -42,16 +42,17 @@ status: active
 
 Rumah posko terdiri dari: **2 Kamar Besar, 1 Kamar Kecil, 1 Mushola, 1 Ruang Tamu Besar (Ruang Tengah), 1 Ruang Tamu Kecil, 2 Kamar Mandi, dan Dapur.**
 
-Dengan total penghuni **20 orang** (8 Laki-laki dan 12 Perempuan), alokasi ruang diatur sebagai berikut:
+Dengan total penghuni **20 orang** (8 Laki-laki dan 12 Perempuan), rancangan alokasi ruang diatur sebagai berikut *(terbuka untuk penyesuaian teknis hasil diskusi bersama)*:
 
-| Area / Ruangan | Kapasitas & Penghuni | Tata Tertib Khusus |
-|:--- |:--- |:--- |
-| **Kamar Besar 1 & 2** | Khusus Mahasiswi (12 Orang: 7 Nirantara + 5 Kelompok B) | Laki-laki **DILARANG KERAS** melintas, duduk, atau masuk ke dalam area kamar tidur perempuan dengan alasan apa pun! |
-| **Kamar Kecil & Ruang Depan** | Khusus Mahasiswa (8 Orang: 3 Nirantara + 5 Kelompok B) | Menjaga kerapian tempat tidur, kasur gulung/lipat wajib dirapikan setiap pagi. |
-| **Mushola Posko** | Tempat Ibadah Bersama Seluruh Anggota | Wajib dijaga kesucian dan kebersihannya. Dilarang dijadikan tempat tidur permanen atau menaruh barang logistik. |
-| **Ruang Tengah (Besar)** | Ruang Rapat & Diskusi Bersama | Area netral. Dilarang menaruh barang pribadi berserakan. |
-| **2 Kamar Mandi Posko** | Diprioritaskan untuk Mahasiswi | Anggota laki-laki (termasuk 5 cowok Kelompok B) **DIWAJIBKAN** memanfaatkan fasilitas mandi dan wudhu di **Masjid terdekat** pada jam-jam sibuk pagi hari (05.30 – 07.30 WIB) guna menghindari antrean panjang. |
-| **Dapur Bersama** | Tempat Memasak & Logistik Makan | Posko tidak memiliki kulkas. Makanan basah/cepat basi dilarang disimpan berhari-hari. Piring/gelas kotor wajib langsung dicuci setelah dipakai. |
+| Area / Ruangan | Kapasitas & Penghuni | Tata Tertib Khusus & Batasan |
+|:---|:---|:---|
+| **Kamar Besar 1** | Khusus Mahasiswi Tim NIRANTARA (7 Orang) | Area privat perempuan. Laki-laki **DILARANG KERAS** melintas, duduk, atau masuk ke dalam kamar tidur perempuan dengan alasan apa pun! |
+| **Kamar Besar 2** | Khusus Mahasiswi KELOMPOK B (5 Orang) | Area privat perempuan. Dipisah per kelompok agar masing-masing kelompok terjaga kenyamanan dan privasinya. Laki-laki **DILARANG KERAS** masuk. |
+| **Ruang Tengah (Besar) & Kamar Kecil** | Khusus Mahasiswa (8 Orang: 3 Nirantara + 5 Kelompok B) | Area bersama yang difungsikan untuk istirahat tidur laki-laki dengan **aturan disiplin jam ketat**: <br>1. Kasur lipat/gulung **baru boleh digelar mulai pukul 23.00 WIB (jam 11 malam)**.<br>2. Pukul **05.00 WIB pagi seluruh kasur WAJIB sudah digulung dan dirapikan kembali**, sehingga ruang tengah steril dan siap dipakai untuk aktivitas umum posko. |
+| **Mushola Posko** | Tempat Ibadah Bersama Seluruh Anggota | Wajib dijaga kesucian dan kebersihannya. Dilarang dijadikan tempat tidur permanen atau menaruh barang logistik proker. |
+| **Ruang Tamu Depan** | Area Transit Tamu / Ruang Diskusi Terbatas | Area umum untuk menerima tamu perangkat desa/warga. Wajib selalu rapi. |
+| **2 Kamar Mandi Posko** | Diprioritaskan untuk Mahasiswi *(Bahan Diskusi)* | Mengingat rasio 12 mahasiswi : 8 mahasiswa dengan 2 kamar mandi, pada jam sibuk pagi (05.30 – 07.30 WIB) kamar mandi diutamakan untuk perempuan. Anggota laki-laki direkomendasikan memanfaatkan fasilitas MCK dan wudhu di **Masjid terdekat** guna menghindari kemacetan antrean (atau mekanisme alternatif yang disepakati bersama). |
+| **Dapur Bersama** | Tempat Memasak & Logistik Makan | Posko tidak memiliki kulkas. Makanan basah/cepat basi dilarang disimpan berhari-hari. Piring dan gelas kotor wajib langsung dicuci setelah dipakai. |
 
 ---
 
