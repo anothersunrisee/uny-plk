@@ -14,24 +14,37 @@ status: active
 
 ---
 
-## Status Tim
+## Status Tim (10/10 FIX — KUOTA LENGKAP)
 
-| Slot | Status | Prodi Target | Peran |
-|:----:|:------:|-------------|-------|
-| 1–4 | Fix | Pend. Teknik Informatika (FT) | Developer |
-| 5 | Cari | Biologi / Statistika (FMIPA) | Data Analis / Pemberdayaan |
-| 6 | Cari | Biologi / Statistika (FMIPA) | Surveyor / Lingkungan |
-| 7 | Cari | Ilmu Komunikasi (FISHIPOL) | Konten / PR |
-| 8 | Cari | Ilmu Komunikasi (FISHIPOL) | Humas / Sosialisasi |
-| 9 | 🟡 Wawancara | Pend. Adm. Perkantoran (FEB) | Dinda Amelia Putri (Sekretaris/LPJ) |
-| 10 | 🟡 Wawancara | Pend. Adm. Perkantoran (FEB) | Faidatul Anugraheni M. (Admin/Media) |
+> **Nama Tim:** **NIRANTARA** (*“Menanam Asa, Menumbuhkan Arti”* 🌱)  
+> **Email:** `nirantara.plk.uny@gmail.com` | **Lokasi:** Desa Wonosari, Klaten
+
+| No | Nama Anggota | Asal Program Studi (Fakultas) | Peran Posko / Proker |
+|:---:|---|---|---|
+| 1 | **Fajar Ahnaf Mahardika** | Pendidikan Teknik Informatika (FT) | Ketua (Kordes) / Supervisi, Lobi Desa & IT |
+| 2 | **Muhadzdzib Terry Al Fauzan** | Pendidikan Teknik Informatika (FT) | Humas & Tuan Rumah Posko / IT & Web Desa |
+| 3 | **Muhamad Riski** | Pendidikan Teknik Informatika (FT) | Perkap 1 / Logistik Lapangan & IT |
+| 4 | **Novelia Harlinda (Veli)** | Pendidikan Teknik Informatika (FT) | Sekretaris 2 / Koor. Divisi Teknologi & IT |
+| 5 | **Dinda Amelia Putri** | Pend. Administrasi Perkantoran (FEB) | Sekretaris 1 / Tim Divisi Administrasi & UMKM |
+| 6 | **Faidatul Anugraheni M. (Fai)** | Pend. Administrasi Perkantoran (FEB) | Bendahara 1 / Koor. Divisi Administrasi & UMKM |
+| 7 | **Intan Milansari** | Biologi (FMIPA) | PDD 2 (Jurnalistik) / Koor. Divisi Lingkungan & Kesehatan |
+| 8 | **Zalfa Khoirunnisa** | Biologi (FMIPA) | Bendahara 2 (SPJ Belanja) / Divisi Lingkungan & Sampah |
+| 9 | **Alvina Aulia Az Zahra (Vina)** | Teknologi Pendidikan (FIP) | PDD 1 (Branding & Medsos) / Koor. Divisi Pendidikan & Media Ajar |
+| 10 | **Krissandra Siagian (Sandra)**| Teknologi Pendidikan (FIP) | Perkap 2 (Operasional Posko) / Divisi Pendidikan & Media Ajar |
 
 ---
 
 ## Navigasi Cepat
 
+### Integrasi Posko & Survei Lapangan Klaten (TERBARU)
+- [[01 - Panduan Rapat Mandiri Tim (Tanpa Ketua)]] — Rundown & panduan rapat presidium 4 orang
+- [[02 - SOP & Kontrak Perjanjian Bersama 2 Kelompok (MoU Posko)]] — Tata tertib posko 20 orang & boundaries
+- [[03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang)]] — Pembagian peran ekspedisi 6 personel
+- [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]] — Form cetak A4 fisik posko & logistik desa
+- [[05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu]] — Telaah pembatasan delegasi partner
+
 ### Riset & Analisa
-- [[temuan]] — Log 5W1H semua analisa & keputusan tim ← MULAI DI SINI
+- [[temuan]] — Log 5W1H semua analisa & keputusan tim
 - [[analisa oprec]] — Data mentah 36 posting open recruitment
 - [[riset dari oprec]] — Temuan detail & tips merger tim
 - [[Daftar Fakultas dan Prodi S1 UNY]] — 60 prodi S1 UNY + animo + akreditasi
@@ -43,13 +56,11 @@ status: active
 - [[UNY Mengabdi - Panduan Lengkap]] — Kompilasi semua panduan
 
 ### Tim & Operasional
-- [[Roadmap 1 Minggu]] — Sprint 7 hari fondasi proyek (dar-der-dor)
-- [[Roster Tim]] — Roster formasi 10 anggota
-- [[Draft Kriteria Oprec]] — Kriteria & kualifikasi pendaftar per prodi
-- [[Informasi Oprec dan Profil Tim PLK 2027]] — Dokumen resmi profil & info oprec (Siap Cetak PDF)
-- [[Broadcast Oprec]] — Draf pesan publikasi & open recruitment
-- [[Form & Screening Spreadsheet Oprec]] — Form pendaftaran, rumus spreadsheet, & prompt AI screening
-- [[Checklist Inventaris Tim Inti]] — Checklist skill, logistik, dan kendaraan 4 tim inti
+- [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] — Target lobi DPL, perizinan desa, & proposal
+- [[Panduan First Gathering & Lembar Kerja Tim]] — Dokumen kerja first gathering & voting
+- [[Struktur Organisasi Matrix Tim PLK]] — Penjelasan struktur operasional vs fungsional
+- [[Database Profil Anggota Tim]] — Profil K3 & kontak darurat anggota
+- [[Draft Simulasi 272 Jam Kerja]] — Strategi logbook 272 jam di Klaten & Jogja
 
 ---
 

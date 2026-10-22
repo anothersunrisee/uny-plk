@@ -7,6 +7,12 @@
 **/WIP - Panduan Dashboard PLK*.pdf
 _archive/
 
+# Video files & heavy raw media (>50MB, disimpan di Google Drive Master)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
 # OS generated files
 Thumbs.db
 Desktop.ini

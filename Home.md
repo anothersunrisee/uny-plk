@@ -24,6 +24,13 @@ status: active
 
 ## Navigasi Cepat
 
+### Integrasi Posko & Survei Lapangan Klaten (TERBARU)
+- [[01 - Panduan Rapat Mandiri Tim (Tanpa Ketua)]] — Panduan rapat presidium bersama 4 orang
+- [[02 - SOP & Kontrak Perjanjian Bersama 2 Kelompok (MoU Posko)]] — Tata tertib posko 20 orang & boundaries
+- [[03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang)]] — Pembagian peran ekspedisi 6 personel
+- [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]] — Form cetak A4 fisik posko & logistik desa
+- [[05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu]] — Telaah pembatasan delegasi partner
+
 ### Riset & Analisa
 - [[temuan]] — Log 5W1H semua analisa & keputusan tim ← MULAI DI SINI
 - [[analisa oprec]] — Data mentah 36 posting open recruitment
