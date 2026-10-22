@@ -58,20 +58,27 @@ Struktur repositori ini dirancang teratur untuk mempermudah akses seluruh anggot
 │   ├── 📁 01 - Fase Oprec/                         ← Rekapitulasi seleksi, SPK, dan form pendaftar
 │   │
 │   ├── 📁 02 - Fase Pre-PLK/                       ← [FASE SAAT INI] Persiapan legalitas & survei
-│   │   ├── 📁 Integrasi Kelompok & Survei Klaten/  ← Dokumen penting integrasi posko & survei Sabtu:
+│   │   ├── 📄 Roadmap Tahap 2 - Eksekusi Pre-PLK.md← Master checklist target lobi DPL & perizinan desa
+│   │   ├── 📁 01 - Tata Kelola Tim & First Gathering/
+│   │   │   ├── 📄 Panduan First Gathering & Lembar Kerja Tim.md
+│   │   │   ├── 📄 Notulensi Resmi First Gathering NIRANTARA.md
+│   │   │   ├── 📄 Struktur Organisasi Matrix Tim PLK.md
+│   │   │   ├── 📄 Database Profil Anggota Tim.md
+│   │   │   └── 📄 Panduan Workspace & Kolaborasi Tim.md
+│   │   ├── 📁 02 - DPL & Konsultasi Akademik/
+│   │   │   ├── 📄 Analisa Kriteria & Strategi Memilih DPL.md
+│   │   │   ├── 📄 Draft Simulasi 272 Jam Kerja.md
+│   │   │   └── 📁 Konsultasi PIC/                  ← Notulensi & lampiran konsultasi 4 Prodi
+│   │   ├── 📁 03 - Anggaran & Sponsorship/
+│   │   │   └── 📄 Strategi Sponsorship & Anggaran Awal Tim.md
+│   │   ├── 📁 04 - Integrasi Kelompok & Survei Klaten/
 │   │   │   ├── 📄 01 - Panduan Rapat Mandiri Tim (Tanpa Ketua).md
 │   │   │   ├── 📄 02 - SOP & Kontrak Perjanjian Bersama 2 Kelompok (MoU Posko).md
 │   │   │   ├── 📄 03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang).md
 │   │   │   ├── 📄 04 - Lembar Instrumen Observasi Lapangan (Print Ready).md
-│   │   │   └── 📄 05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu.md
-│   │   │
-│   │   ├── 📁 Konsultasi PIC/                      ← Notulensi konsultasi 4 Dosen PIC Prodi
-│   │   ├── 📄 Roadmap Tahap 2 - Eksekusi Pre-PLK.md← Checklist target lobi DPL & perizinan desa
-│   │   ├── 📄 Panduan First Gathering & Lembar Kerja Tim.md
-│   │   ├── 📄 Struktur Organisasi Matrix Tim PLK.md
-│   │   ├── 📄 Database Profil Anggota Tim.md       ← Kontak darurat, riwayat medis & K3
-│   │   ├── 📄 Draft Simulasi 272 Jam Kerja.md      ← Skema pemenuhan jam logbook LPPM
-│   │   └── 📄 Strategi Sponsorship & Anggaran Awal Tim.md
+│   │   │   ├── 📄 05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu.md
+│   │   │   └── 📄 Draft Survey Lokasi Klaten.md
+│   │   └── 📁 05 - Arsip/                          ← Dokumen sprint awal & inventaris
 │   │
 │   └── 📁 03 - Fase PLK/                           ← Dashboard pelaksanaan di lapangan (2027)
 │
@@ -99,7 +106,7 @@ Struktur repositori ini dirancang teratur untuk mempermudah akses seluruh anggot
 * **Lokasi Pengabdian**: Desa Wonosari, Kecamatan Trucuk, Kabupaten Klaten, Jawa Tengah.
 * **Basecamp / Posko Tim**: Rumah keluarga dari Muhadzdzib Terry di Dukuh Majegan, RT 01 / RW 01, Desa Wonosari.
 * **Kapasitas Posko**: Rumah pribadi dengan 2 Kamar Besar, 1 Kamar Kecil, 1 Mushola, Ruang Tamu Depan, Ruang Tengah (Besar), 2 Kamar Mandi, dan Dapur Bersama.
-* **Kolaborasi 2 Kelompok**: Posko dihuni bersama oleh **Tim Nirantara (10 orang)** dan **Kelompok B Mitra Teman PTI (10 orang)** dengan total 20 mahasiswa, yang diikat melalui [Kontrak SOP Bersama (MoU)](Tim%20PLK/02%20-%20Fase%20Pre-PLK/Integrasi%20Kelompok%20&%20Survei%20Klaten/02%20-%20SOP%20&%20Kontrak%20Perjanjian%20Bersama%202%20Kelompok%20%28MoU%20Posko%29.md) guna menjamin ketertiban, kebersihan, jam malam (22.00 WIB), dan independensi program kerja masing-masing.
+* **Kolaborasi 2 Kelompok**: Posko dihuni bersama oleh **Tim Nirantara (10 orang)** dan **Kelompok B Mitra Teman PTI (10 orang)** dengan total 20 mahasiswa, yang diikat melalui [Kontrak SOP Bersama (MoU)](Tim%20PLK/02%20-%20Fase%20Pre-PLK/04%20-%20Integrasi%20Kelompok%20&%20Survei%20Klaten/02%20-%20SOP%20&%20Kontrak%20Perjanjian%20Bersama%202%20Kelompok%20%28MoU%20Posko%29.md) guna menjamin ketertiban, kebersihan, jam malam (22.00 WIB), dan independensi program kerja masing-masing.
 
 ---
 

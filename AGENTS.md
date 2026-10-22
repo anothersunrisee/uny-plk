@@ -50,10 +50,12 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 │
 ├── Tim PLK/                 ← Folder operasional tim
 │   ├── 01 - Fase Oprec/     ← File rekrutmen, SPK pendaftar, dan form screening
-│   ├── 02 - Fase Pre-PLK/   ← Draft survei Klaten, profil kesehatan tim, simulasi logbook
-│   │   ├── Konsultasi PIC/  ← Notulensi & matriks komparasi 4 prodi (termasuk lampiran PDF)
-│   │   ├── Integrasi Kelompok & Survei Klaten/ ← Panduan rapat mandiri, SOP MoU 2 kelompok, instrumen survei Sabtu
-│   │   └── Arsip/           ← Dokumen sprint awal & inventaris yang sudah selesai
+│   ├── 02 - Fase Pre-PLK/   ← Master roadmap tahap 2, legalitas, survei, & mitra
+│   │   ├── 01 - Tata Kelola Tim & First Gathering/ ← Profil database K3, matrix tim, notulensi TM-TP
+│   │   ├── 02 - DPL & Konsultasi Akademik/         ← Simulasi 272 jam, kriteria DPL, folder Konsultasi PIC
+│   │   ├── 03 - Anggaran & Sponsorship/            ← Strategi sponsorship & estimasi dana awal
+│   │   ├── 04 - Integrasi Kelompok & Survei Klaten/← Panduan rapat mandiri, MoU posko 2 kelompok, instrumen survei
+│   │   └── 05 - Arsip/                             ← Dokumen sprint awal & inventaris yang sudah selesai
 │   └── 03 - Fase PLK/       ← Dashboard Eksekusi PLK & Logbook
 │
 ├── _archive/                ← Arsip file non-aktif/scratch canvas
