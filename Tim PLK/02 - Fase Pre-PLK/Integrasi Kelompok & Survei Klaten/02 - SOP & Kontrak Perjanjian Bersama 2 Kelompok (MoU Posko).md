@@ -1,0 +1,144 @@
+---
+tags: [sop, kontrak, mou, posko, klaten, aturan, nirantara]
+created: 2026-10-22
+status: active
+---
+
+# 📑 SURAT PERJANJIAN KONTRAK & STANDAR OPERASIONAL PROSEDUR (SOP)
+## TATA TERTIB PENGGUNAAN BASECAMP BERSAMA PLK UNY MENGABDI 2027
+**Lokasi**: Dukuh Majegan, RT 01 / RW 01, Desa Wonosari, Kecamatan Trucuk, Kabupaten Klaten  
+**Pihak Terkait**:  
+1. **PIHAK PERTAMA**: Tim PLK UNY **NIRANTARA** (Penyelenggara Awal & Tuan Rumah Posko)  
+2. **PIHAK KEDUA**: Tim PLK UNY **KELOMPOK B (Teman PTI)** (Pihak Mitra Singgah)
+
+---
+
+## 🏛️ MUKADIMAH & LANDASAN DASAR
+
+1. **Status Properti Posko**:
+   * Bangunan rumah posko di Dukuh Majegan adalah **hak milik pribadi keluarga besar kerabat dari Muhadzdzib Terry Al Fauzan (Anggota Tim Nirantara)**.
+   * Bangunan ini **BUKAN** kontrakan umum, bukan aset sewaan publik, dan bukan milik pihak ketiga yang disewa secara komersial.
+   * Hak singgah diberikan secara **Cuma-Cuma (Biaya Sewa Rp 0,-)** atas dasar kekeluargaan untuk mendukung kelancaran pengabdian mahasiswa UNY.
+2. **Prinsip Hubungan Antar-Kelompok**:
+   * Hubungan kerja sama didasarkan pada prinsip **Saling Menghormati, Menjaga Batasan (*Boundaries*), Tidak Ketergantungan, dan Menjaga Marwah Keluarga Pemilik Rumah**.
+   * Pihak Pertama bertindak sebagai koordinator ketertiban rumah, dan Pihak Kedua bertindak sebagai tamu yang wajib mematuhi seluruh ketentuan tuan rumah.
+
+---
+
+## 📜 PASAL 1: INDEPENDENSI PROGRAM KERJA & TRANSPORTASI (ANTI-KETERGANTUNGAN)
+
+1. **Kemandirian Program Kerja**:
+   * Pihak Pertama dan Pihak Kedua adalah dua tim PLK yang memiliki **program kerja, sasaran dusun/RW, target luaran, proposal, dan pertanggungjawaban akademik (LPJ) yang berdiri sendiri-sendiri**.
+   * Pihak Kedua **DILARANG KERAS** bergantung, menuntut pembagian proker, atau membebankan penyusunan dokumen kepada Pihak Pertama.
+2. **Kemandirian Transportasi & Survei**:
+   * Pihak Kedua wajib menyediakan armada transportasi (sepeda motor) sendiri untuk mobilitas seluruh anggotanya Jogja–Klaten maupun mobilitas lokal.
+   * Pihak Kedua dilarang menuntut fasilitas antar-jemput survei, koordinasi balai desa, atau operasional lapangan kepada anggota Pihak Pertama.
+3. **Kemitraan yang Diperbolehkan**:
+   * Kolaborasi hanya diperbolehkan pada agenda besar desa yang membutuhkan partisipasi massal (seperti Upacara 17 Agustus, Kerja Bakti Akbar Desa, atau Festival Akbar Desa Wonosari) atas kesepakatan tertulis kedua Ketua Tim.
+
+---
+
+## 🏠 PASAL 2: ALOKASI RUANG & FASILITAS POSKO
+
+Rumah posko terdiri dari: **2 Kamar Besar, 1 Kamar Kecil, 1 Mushola, 1 Ruang Tamu Besar (Ruang Tengah), 1 Ruang Tamu Kecil, 2 Kamar Mandi, dan Dapur.**
+
+Dengan total penghuni **20 orang** (8 Laki-laki dan 12 Perempuan), alokasi ruang diatur sebagai berikut:
+
+| Area / Ruangan | Kapasitas & Penghuni | Tata Tertib Khusus |
+|:--- |:--- |:--- |
+| **Kamar Besar 1 & 2** | Khusus Mahasiswi (12 Orang: 7 Nirantara + 5 Kelompok B) | Laki-laki **DILARANG KERAS** melintas, duduk, atau masuk ke dalam area kamar tidur perempuan dengan alasan apa pun! |
+| **Kamar Kecil & Ruang Depan** | Khusus Mahasiswa (8 Orang: 3 Nirantara + 5 Kelompok B) | Menjaga kerapian tempat tidur, kasur gulung/lipat wajib dirapikan setiap pagi. |
+| **Mushola Posko** | Tempat Ibadah Bersama Seluruh Anggota | Wajib dijaga kesucian dan kebersihannya. Dilarang dijadikan tempat tidur permanen atau menaruh barang logistik. |
+| **Ruang Tengah (Besar)** | Ruang Rapat & Diskusi Bersama | Area netral. Dilarang menaruh barang pribadi berserakan. |
+| **2 Kamar Mandi Posko** | Diprioritaskan untuk Mahasiswi | Anggota laki-laki (termasuk 5 cowok Kelompok B) **DIWAJIBKAN** memanfaatkan fasilitas mandi dan wudhu di **Masjid terdekat** pada jam-jam sibuk pagi hari (05.30 – 07.30 WIB) guna menghindari antrean panjang. |
+| **Dapur Bersama** | Tempat Memasak & Logistik Makan | Posko tidak memiliki kulkas. Makanan basah/cepat basi dilarang disimpan berhari-hari. Piring/gelas kotor wajib langsung dicuci setelah dipakai. |
+
+---
+
+## ⏰ PASAL 3: WAKTU CHECK-IN & CHECK-OUT MINGGUAN (SOP SIMBAH TERRY)
+
+1. **Prosedur Hari Jumat (Check-In)**:
+   * Rumah posko dihuni oleh simbah dari Terry pada hari biasa (Senin–Kamis).
+   * Pada hari Jumat, Terry akan memindahkan simbah ke rumah keluarga yang satunya di Klaten demi kenyamanan lansia.
+   * **ATURAN MUTLAK**: Seluruh anggota Pihak Pertama dan Pihak Kedua **BARU DIPERBOLEHKAN MASUK POSKO SETELAH MENDAPATKAN KONFIRMASI RESMI DARI TERRY**.
+   * Dilarang mendahului datang atau menunggu di dalam rumah sebelum ada izin Terry.
+2. **Prosedur Hari Minggu (Check-Out)**:
+   * Sebelum seluruh mahasiswa kembali ke Yogyakarta pada hari Minggu malam:
+     - Seluruh ruangan wajib disapu dan dipel bersih.
+     - Seluruh sampah dapur dan sampah pribadi wajib diikat dalam kantong polybag hitam dan dibuang ke TPS luar.
+     - Pintu, jendela, keran air, dan colokan listrik yang tidak terpakai wajib terkunci/mati.
+     - Memastikan rumah siap ditempati kembali oleh keluarga pemilik dengan nyaman.
+
+---
+
+## 🔇 PASAL 4: KETENANGAN, JAM MALAM, & LARANGAN GADUH
+
+1. **Jam Ketenangan (*Quiet Hours*)**:
+   * Jam malam ketenangan lingkungan dimulai pukul **22.00 WIB**.
+   * Setelah pukul 22.00 WIB, seluruh penghuni dilarang bersuara keras, berteriak saat bermain game online (Mobile Legends, Valorant, dll), memainkan instrumen musik yang bising, atau menyalakan speaker keras.
+2. **Etika Bertetangga di Pedukuhan**:
+   * Posko berada di lingkungan pemukiman pedukuhan Majegan yang kental nilai religius dan santun.
+   * Dilarang nongkrong di pinggir jalan/teras depan dengan pakaian tidak sopan atau membuat kerumunan yang menimbulkan keresahan warga.
+   * **DILARANG MEROKOK DI DALAM RUMAH**. Area merokok hanya diperbolehkan di area luar (teras belakang/halaman) dan puntung rokok wajib dibuang di asbak tertutup.
+3. **Larangan Membawa Orang Luar**:
+   * Dilarang keras membawa teman kuliah di luar 20 orang anggota resmi, pacar, atau orang asing untuk menginap di posko tanpa izin lisan dan persetujuan dari Terry dan Ketua Nirantara.
+
+---
+
+## 🧹 PASAL 5: KEBERSIHAN & MANAJEMEN SISA BAHAN PROKER
+
+1. **Piket Kebersihan Bersama**:
+   * Jadwal piket kebersihan harian (menyapu, mengepel, membuang sampah, membersihkan kamar mandi) dijalankan secara adil dengan skema giliran lintas kelompok: **1 orang Nirantara + 1 orang Kelompok B per hari**.
+2. **Larangan Pembuangan Sisa Proker Sembarangan (POIN KRITIS)**:
+   * Dilarang menumpuk material sisa proker (seperti sisa kayu bambu, kaleng cat, spanduk banner usang, tanah pupuk, botol fermentasi limbah, atau kardus) di ruang tamu, teras depan, atau pekarangan rumah simbah.
+   * Seluruh sisa logistik proker wajib langsung dibersihkan dan dibuang pada hari yang sama setelah kegiatan selesai.
+
+---
+
+## 💡 PASAL 6: FINANSIAL & BEBAN BIAYA OPERASIONAL BERSAMA
+
+Meskipun biaya sewa posko adalah Rp 0,- (Gratis), seluruh biaya utilitas habis pakai operasional ditanggung bersama dengan rincian:
+
+| Pos Pembiayaan | Sistem Pembagian Biaya | PIC Penagihan & Pembukuan |
+|:--- |:--- |:--- |
+| **Token Listrik Posko** | Patungan **50% Pihak Pertama : 50% Pihak Kedua** | Bendahara 1 Nirantara (Fai) & Bendahara Kelompok B |
+| **Iuran Wifi Bulanan** | Patungan **50% Pihak Pertama : 50% Pihak Kedua** | Terry / Bendahara 1 |
+| **Iuran Air / Kas Kebersihan RT** | Patungan **50% Pihak Pertama : 50% Pihak Kedua** | Bendahara 2 Nirantara (Zalfa) & Bendahara Kelompok B |
+| **Air Minum Galon & Dapur** | Iuran per pemakaian galon (gantian isi ulang) | Tim Piket Harian Masing-Masing |
+
+*Catatan: Pembayaran iuran utilitas wajib dilunasi paling lambat tanggal 5 setiap bulannya ke rekening Bendahara Penampung.*
+
+---
+
+## ⚖️ PASAL 7: SANKSI PELANGGARAN BERTINGKAT
+
+Apabila ditemukan pelanggaran terhadap pasal-pasal di atas oleh anggota Pihak Kedua maupun Pihak Pertama, diberlakukan sanksi:
+
+1. **Sanksi Tingkat I (Peringatan Lisan & Notulensi Pelanggaran)**:
+   * Diberikan pada pelanggaran pertama (misal: membiarkan piring kotor, gaduh di atas jam 22.00 WIB, melanggar waktu check-in).
+2. **Sanksi Tingkat II (Surat Peringatan Resmi & Laporan ke DPL)**:
+   * Diberikan jika teguran pertama diabaikan atau terjadi pengulangan pelanggaran lebih dari 2 kali. Pihak Pertama berhak mengirimkan surat tembusan resmi ke Dosen Pembimbing Lapangan (DPL) Kelompok B.
+3. **Sanksi Tingkat III (PENCABUTAN HAK SINGGAH POSKO / PENGUSIRAN)**:
+   * Pihak Pertama dan Keluarga Pemilik Rumah memiliki **HAK VETO PENUH** untuk mengeluarkan anggota atau mencabut izin singgah Pihak Kedua dari rumah posko tanpa kompensasi apa pun jika Pihak Kedua:
+     - Melakukan tindakan asusila / mencemarkan nama baik keluarga dan kampus di lingkungan warga.
+     - Merusak fasilitas fisik rumah posko tanpa ganti rugi.
+     - Terus-menerus membuat kegaduhan dan mengabaikan Surat Peringatan II.
+
+---
+
+## ✍️ LEMBAR PENGESAHAN KONTRAK BERSAMA
+
+Surat Perjanjian dan SOP ini dibuat secara sadar, tanpa paksaan, dan mengikat seluruh anggota kedua kelompok selama masa pelaksanaan PLK UNY Mengabdi 2027 berlangsung di Desa Wonosari, Klaten.
+
+Disahkan di: Yogyakarta  
+Pada Tanggal: ..... Oktober 2026  
+
+| PIHAK PERTAMA<br>Tim PLK UNY NIRANTARA | PIHAK KEDUA<br>Tim PLK Mitra (Kelompok B) |
+|:---:|:---:|
+| <br><br><br>**( Fajar Ahnaf Mahardika )**<br>Ketua Tim NIRANTARA | <br><br><br>**( ............................................. )**<br>Ketua Kelompok B |
+| Mengetahui & Menyetujui,<br>Tuan Rumah / Keluarga Pemilik Posko | Saksi Humas Kelompok B |
+| <br><br><br>**( Muhadzdzib Terry Al Fauzan )**<br>NIM. 24050530052 | <br><br><br>**( ............................................. )**<br>NIM. ........................................ |
+
+---
+
+← [[01 - Panduan Rapat Mandiri Tim (Tanpa Ketua)]] | [[Panduan Workspace & Kolaborasi Tim]] | [[Home]]

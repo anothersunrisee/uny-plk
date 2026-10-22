@@ -37,12 +37,19 @@ status: active
   - Kanal resmi aktif: `nirantara.plk.uny@gmail.com`, Instagram, Discord, dan Google Drive Master.
   - Notulensi resmi: [[Notulensi Resmi First Gathering NIRANTARA]].
 
-### 🟡 Fase 2: Birokrasi Kampus (*LEGAL-CAMPUS*)
-**Kondisi saat ini**: Konsultasi 4 Prodi telah tuntas 100%. Fokus bergeser ke penentuan DPL dan surat izin survei.
+### 🟡 Fase 2: Birokrasi Kampus, Integrasi Partner, & Survei Fisik (*LEGAL-CAMPUS & SURVEY*)
+**Kondisi saat ini**: Konsultasi 4 Prodi telah tuntas 100%. Fokus saat ini adalah integrasi kelompok partner (syarat 2 kelompok per desa), pengesahan MoU posko, dan eksekusi survei fisik Sabtu.
 - [x] **Konsultasi PIC 4 Prodi Lengkap**:
   - PTI (Dr. Sigit Pambudi), PADP (Bpk. Hilmy Pradana), Biologi (Dr. Anna & Dr. Ixora), TP (PIC FIP).
   - Seluruh prodi ACC. Catatan khusus: TP mewajibkan 272 jam fisik di Klaten.
   - Dokumen: [[Matriks Hasil Konsultasi PIC 4 Prodi]] dan notulensi masing-masing prodi.
+- [x] **Integrasi Kelompok Partner (Syarat 2 Kelompok per Desa)**:
+  - Menerima Kelompok Teman PTI (5 cowok 5 cewek) dengan syarat ketat kontrak tertulis.
+  - Dokumen: [[01 - Panduan Rapat Mandiri Tim (Tanpa Ketua)]] dan [[02 - SOP & Kontrak Perjanjian Bersama 2 Kelompok (MoU Posko)]].
+- [ ] **Eksekusi Survei Fisik Lapangan Sabtu (24 Oktober 2026)**:
+  - Delegasi 6 orang Nirantara (+ maks. 2 delegasi Kelompok B).
+  - Misi: Audit kamar/listrik/wifi posko, pemetaan jarak fasilitas umum/masjid, foto Balai Desa, SD, TK, sawah, UMKM, dan TPS sampah.
+  - Panduan: [[03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang)]] & [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]].
 - [ ] **Penetapan Dosen Pembimbing Lapangan (DPL)**:
   - Buat shortlist 2–3 nama dosen (prioritas FT/FIP) dan lakukan audiensi penjajakan.
   - Referensi: [[Analisa Kriteria & Strategi Memilih DPL]].

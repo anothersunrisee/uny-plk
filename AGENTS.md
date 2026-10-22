@@ -52,6 +52,7 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 │   ├── 01 - Fase Oprec/     ← File rekrutmen, SPK pendaftar, dan form screening
 │   ├── 02 - Fase Pre-PLK/   ← Draft survei Klaten, profil kesehatan tim, simulasi logbook
 │   │   ├── Konsultasi PIC/  ← Notulensi & matriks komparasi 4 prodi (termasuk lampiran PDF)
+│   │   ├── Integrasi Kelompok & Survei Klaten/ ← Panduan rapat mandiri, SOP MoU 2 kelompok, instrumen survei Sabtu
 │   │   └── Arsip/           ← Dokumen sprint awal & inventaris yang sudah selesai
 │   └── 03 - Fase PLK/       ← Dashboard Eksekusi PLK & Logbook
 │
@@ -61,11 +62,11 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 
 ## Fakta Penting yang Harus Diketahui Agent
 
-### Tentang PLK UNY
+### Tentang PLK UNY & Situasi Posko Wonosari
 - PLK = setara KKN, konversi 10-20 SKS (Minimal 272 Jam Kerja Efektif, via Logbook)
 - Tim harus terdiri dari **minimal 10 orang dari minimal 2 prodi berbeda** (Ideal: 3-4 prodi).
-- Setiap prodi diwakili **minimal 2 mahasiswa** dalam satu tim.
-- Ada aturan prodi terkait 272 jam: **PTI, PADP, dan Biologi memperbolehkan jam persiapan di Jogja masuk logbook**, namun **Teknologi Pendidikan (FIP) mewajibkan jam logbook 272 jam harus di Klaten**.
+- **Aturan 2 Kelompok per Desa**: Tim Nirantara menerima **Kelompok Teman PTI (Kelompok B: 5 cowok 5 cewek)** untuk berbagi desa dan menempati posko rumah simbah Terry bersama (total 20 orang: 8 cowok + 12 cewek) dengan **Kontrak SOP & MoU Tertulis Ketat** agar independen dan tertib.
+- **Aturan Jam Logbook**: PTI, PADP, dan Biologi memperbolehkan jam persiapan Jogja, namun **Teknologi Pendidikan (FIP) mewajibkan 272 jam harus di Klaten**.
 
 ### Sistem Kerja Tim (Struktur Matrix)
 - Tim ini menggunakan **Struktur Organisasi Matrix**.
