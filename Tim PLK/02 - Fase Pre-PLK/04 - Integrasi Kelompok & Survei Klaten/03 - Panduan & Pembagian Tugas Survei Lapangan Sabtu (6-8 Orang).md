@@ -20,25 +20,15 @@ aliases: [Rundown Survei Sabtu Full Team 10 Orang, Panduan Survei Lapangan Klate
 
 Dengan hadirnya seluruh 10 anggota dari 4 fakultas/prodi, survei lapangan dibagi menjadi **3 Sub-Tim Fungsional** agar pemetaan desa berjalan efisien, komprehensif, dan tepat sasaran:
 
-```
-                            ┌─────────────────────────────────────────┐
-                            │   EKSPEDISI 10 PERSONEL TIM NIRANTARA   │
-                            └────────────────────┬────────────────────┘
-                                                 │
-          ┌──────────────────────────────────────┼──────────────────────────────────────┐
-          ▼                                      ▼                                      ▼
-┌───────────────────────────────┐ ┌───────────────────────────────┐ ┌───────────────────────────────┐
-│          SUB-TIM 1            │ │          SUB-TIM 2            │ │          SUB-TIM 3            │
-│   (Lobi Desa & UMKM)          │ │ (Agrikultur & Lingkungan)     │ │   (Pendidikan & TIK)          │
-├───────────────────────────────┤ ├───────────────────────────────┤ ├───────────────────────────────┤
-│ • Fajar Ahnaf (Kordes - FT)   │ │ • Muhamad Riski (Perkap - FT) │ │ • Terry Al Fauzan (Humas - FT)│
-│ • Dinda Amelia (Sekre 1 - FEB)│ │ • Intan Milansari (Bio - FMIPA│ │ • Novelia H. (Sekre 2 - FT)   │
-│ • Faidatul A. (Benda 1 - FEB) │ │ • Zalfa Khoirunnisa (Bio-FMIPA│ │ • Alvina Aulia (PDD 1 - FIP)  │
-│                               │ │                               │ │ • Krissandra S. (Perkap - FIP)│
-├───────────────────────────────┤ ├───────────────────────────────┤ ├───────────────────────────────┤
-│ Target: RW, Balai Desa, Lurah,│ │ Target: Sawah tani, irigasi,  │ │ Target: 2 SD Negeri, 2 TK,    │
-│ profil desa, BUMDes, & UMKM   │ │ ternak warga, kebun, & sampah │ │ PAUD, lab komputer, & visual  │
-└───────────────────────────────┘ └───────────────────────────────┘ └───────────────────────────────┘
+```mermaid
+flowchart TD
+    EKSPEDISI["🌱 EKSPEDISI 10 PERSONEL TIM NIRANTARA\n(Sowan Bersama RW & Balai Desa: 09.00 – 10.15 WIB)"]
+
+    EKSPEDISI -->|"Mencar Pukul 10.15 WIB"| T1["🏛️ SUB-TIM 1: Administrasi & UMKM\n──────────────────────────────\n• Fajar Ahnaf (Kordes - FT)\n• Dinda Amelia (Sekre 1 - FEB)\n• Faidatul A. (Benda 1 - FEB)\n──────────────────────────────\n🎯 Target: BUMDes, Profil Desa & UMKM Mebel"]
+
+    EKSPEDISI -->|"Mencar Pukul 10.15 WIB"| T2["🌾 SUB-TIM 2: Agrikultur & Lingkungan\n──────────────────────────────\n• Muhamad Riski (Perkap - FT)\n• Intan Milansari (Bio - FMIPA)\n• Zalfa Khoirunnisa (Bio - FMIPA)\n──────────────────────────────\n🎯 Target: Sawah Tani, Irigasi, Ternak & Sampah"]
+
+    EKSPEDISI -->|"Mencar Pukul 10.15 WIB"| T3["🎓 SUB-TIM 3: Pendidikan & TIK\n──────────────────────────────\n• Terry Al Fauzan (Humas - FT)\n• Novelia Harlinda (Sekre 2 - FT)\n• Alvina Aulia (PDD 1 - FIP)\n• Krissandra S. (Perkap - FIP)\n──────────────────────────────\n🎯 Target: 2 SD Negeri, TK, PAUD & TIK Sekolah"]
 ```
 
 > [!IMPORTANT]
