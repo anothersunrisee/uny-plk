@@ -11,35 +11,51 @@ Dokumen ini disusun untuk memandu Bendahara (Fai & Zalfa) dan Sekretaris (Dinda 
 
 ---
 
+## ⚠️ GOLDEN RULE ARUS KAS TIM NIRANTARA (TIMING PENCAIRAN DANA)
+
+> 🔴 **PERINGATAN PENTING BENDAHARA & KETUA**:  
+> Dana subsidi bantuan dari UNY sebesar **Rp 250.000,- per mahasiswa (Total Rp 2.500.000,- untuk 10 orang)** **JANGAN PERNAH DIJADIKAN PEGANGAN / TALANGAN PENGELUARAN DI FASE PRE-PLK!**  
+> 
+> *Fakta Lapangan Birokrasi Kampus*:  
+> Dana bantuan LPPM/kampus **hampir selalu cair terlambat**, dengan estimasi baru ditransfer ke rekening tim sekitar **bulan Maret 2027** (saat mahasiswa sudah aktif terjun di desa).  
+> 
+> **Strategi Keuangan Nirantara**:
+> 1. **Fase Pre-PLK (Oktober 2026 – Januari 2027)**: **100% MANDIRI** ditopang oleh **UANG KAS BULANAN (Rp 50.000,- / bulan)** dan **PENGGALANGAN SPONSORSHIP & DANA USAHA (DANUS)**.
+> 2. **Fase Pelaksanaan Lapangan (Maret – Juli 2027)**: Saat dana UNY Rp 2.500.000,- cair, dana tersebut dialokasikan murni sebagai:
+>    * Injeksi pendanaan proker besar (Festival Desa / Pengadaan alat permanen).
+>    * Dana talangan darurat posko atau *reimbursement* (penggantian) kas mahasiswa.
+
+---
+
 ## 🎽 1. Estimasi Anggaran Pengadaan Atribut Awal (12 Pcs)
 
 Sebagai identitas resmi saat survei ke Balai Desa dan kunjungan lapangan, tim membutuhkan atribut seragam:
 
 | No | Item Pengadaan | Rincian & Spesifikasi | Estimasi Satuan | Vol | Total Estimasi |
-|:---:|---|---|:---:|:---:|:---:|
-| 1 | **Rompi Drill Tim NIRANTARA** | Bahan Nagata/American Drill, bordir logo Nirantara di dada kiri, logo UNY di dada kanan, tulisan punggung *“PLK UNY Mengabdi 2027 — Desa Wonosari Klaten”*. Termasuk 2 kantong depan. | Rp 85.000 | 12 pcs | **Rp 1.020.000** |
-| 2 | **Lanyard & ID Card Gantungan** | Tali lanyard printing custom nama Nirantara + card holder transparan + ID card tim. | Rp 15.000 | 12 pcs | **Rp 180.000** |
-| 3 | **Stempel Resmi Tim & Tinta** | Stempel *flash* otomatis tanpa bantalan untuk surat resmi, kuitansi, dan lembar disposisi desa. | Rp 50.000 | 1 pcs | **Rp 50.000** |
-| 4 | **Spanduk / Banner Posko** | Banner outdoor bahan flexi 280 gr (Ukuran $3 \times 1$ meter) untuk penanda Posko Majegan. | Rp 50.000 | 1 pcs | **Rp 50.000** |
-| 5 | **Kas Operasional Survei Lanjutan** | Transport bensin bersama 5 motor Jogja–Klaten PP + konsumsi survei Balai Desa. | Rp 40.000 | 5 motor | **Rp 200.000** |
-| **TOTAL** | **Kebutuhan Dana Awal Fase Pre-PLK** | | | | **Rp 1.500.000** |
+|:---:|---|---|---|:---:|:---:|
+| 1 | **Rompi Drill Tim NIRANTARA** | Bahan Nagata/American Drill, bordir logo Nirantara (dada kiri), logo UNY (dada kanan), tulisan punggung *“PLK UNY Mengabdi 2027 — Desa Wonosari Klaten”*. 2 kantong depan. | Rp 150.000 – Rp 200.000 | 10 pcs | Rp 1.500.000 – Rp 2.000.000 |
+| 2 | **Lanyard & ID Card Gantungan** | Tali lanyard printing custom nama Nirantara + card holder transparan + ID card tim. | Rp 15.000 | 12 pcs | Rp 180.000 |
+| 3 | **Stempel Resmi Tim & Tinta** | Stempel *flash* otomatis tanpa bantalan untuk surat resmi, kuitansi, dan lembar disposisi desa. | Rp 50.000 | 1 pcs | Rp 50.000 |
+| 4 | **Spanduk / Banner Posko** | Banner outdoor bahan flexi 280 gr (Ukuran $3 \times 1$ meter) untuk penanda Posko Majegan. | Rp 50.000 | 1 pcs | Rp 50.000 |
+| 5 | **Kas Operasional Survei Lanjutan** | Transport bensin bersama motor Jogja–Klaten PP + konsumsi survei Balai Desa/perizinan. | Dibiayai Kas | — | Ditutup Kas Bulanan |
 
-*Catatan Kuota 12 Pcs:*
-* 10 Pcs untuk Anggota Tim (Fajar, Terry, Riski, Veli, Dinda, Fai, Intan, Zalfa, Vina, Sandra).
-* 1 Pcs untuk Dosen Pembimbing Lapangan (DPL) saat agenda Monev ke posko Klaten.
-* 1 Pcs cinderamata kehormatan untuk Kepala Desa Wonosari.
+*Catatan Rompi:*  
+Disiapkan mandiri oleh masing-masing anggota (budget Rp 150.000 – Rp 200.000 sesuai notulensi rapat 22 Okt 2026). Vendor konveksi akan dinegosiasikan oleh Riski/Sandra untuk mendapatkan diskon kuota 10–12 pcs.
 
 ---
 
-## 💵 2. Skema Iuran Kas Awal Tim (Self-Funding)
+## 💵 2. Skema Iuran Kas Bulanan Tim (Self-Funding Pre-PLK)
 
-Sebelum dana bantuan kampus atau sponsor cair, kebutuhan awal (terutama DP konveksi rompi minimal 50%) ditopang melalui iuran kas mandiri:
-
-* **Besaran Iuran Awal**: **Rp 150.000 per anggota** ($10 \times \text{Rp } 150.000 = \mathbf{\text{Rp } 1.500.000}$).
-* **Skema Pembayaran (2 Termin agar Ringan)**:
-  * **Termin 1 (DP Konveksi & Operasional)**: Rp 75.000 (Jatuh tempo: Akhir Oktober 2026).
-  * **Termin 2 (Pelunasan Rompi & Banner)**: Rp 75.000 (Jatuh tempo: Pertengahan November 2026).
-* **Rekening Penampungan Kas**: Rekening Bank Bendahara 1 (Fai - PADP) yang transparan dan dilaporkan mutasinya setiap pekan di Google Sheets master kas.
+Sesuai keputusan rapat pleno tim Nirantara pada 22 Oktober 2026:
+* **Besaran Uang Kas**: **Rp 50.000,- per anggota / bulan**.
+* **Potensi Penerimaan Kas ($10 \times \text{Rp } 50.000$)**: **Rp 500.000,- per bulan**.
+* **Target Akumulasi Pre-PLK (November 2026 – Januari 2027)**:
+  $$\text{Rp } 500.000 \times 3 \text{ Bulan} = \mathbf{\text{Rp } 1.500.000,-}$$
+* **Alokasi Pemanfaatan Kas Pre-PLK**:
+  1. Biaya surat-menyurat, materai kontrak SOP, fotokopi lembar observasi, dan map ordner arsip.
+  2. Biaya transportasi perizinan Kesbangpol Klaten dan sowan Balai Desa.
+  3. Talangan operasional awal sebelum terjun (DP token listrik posko, pembelian galon pertama, sabun/pel).
+* **Rekening Penampung Kas**: Rekening Bank Bendahara 1 (Faidatul Anugraheni - PADP) dengan pencatatan mutasi transparan di Google Sheets Master Keuangan.
 
 ---
 

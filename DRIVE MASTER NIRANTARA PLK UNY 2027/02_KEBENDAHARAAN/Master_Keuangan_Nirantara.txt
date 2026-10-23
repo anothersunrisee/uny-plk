@@ -1,7 +1,63 @@
-MASTER KEUANGAN TIM NIRANTARA (RAB, CASHFLOW & KAS IURAN)
-=========================================================
+================================================================================
+MASTER KEUANGAN & PETUNJUK ARUS KAS TIM PLK NIRANTARA 2026/2027
+Penyusun: Bendahara 1 (Faidatul Anugraheni) & Bendahara 2 (Zalfa Khoirunnisa)
+================================================================================
 
-Format Kolom Rekomendasi:
-Tanggal | Kategori (Iuran/Posko/Proker) | Uraian Pengeluaran/Pemasukan | Debit (Masuk) | Kredit (Keluar) | Saldo | PIC / Bukti Nota
+⚠️ GOLDEN RULE ARUS KAS TIM (PERINGATAN WAKTU PENCAIRAN DANA):
+--------------------------------------------------------------------------------
+1. DANA BANTUAN UNY (Rp 250.000 x 10 Mahasiswa = Rp 2.500.000,-):
+   - JANGAN PERNAH dijadikan pegangan atau talangan biaya operasional Pre-PLK!
+   - Pengalaman KKN/PLK UNY: Dana subsidi kampus SELALU CAIR TERLAMBAT (estimasi 
+     baru ditransfer sekitar bulan MARET 2027 saat masa terjun aktif).
+   - Fungsi Dana UNY nantinya: Dana cadangan, injeksi proker penutupan/festival, 
+     atau reimbursement (penggantian) kas talangan anggota.
 
-(Catatan: Buka atau konversi file ini ke Google Sheets saat di Google Drive)
+2. PENOPANG UTAMA FASE PRE-PLK (Oktober 2026 - Januari 2027):
+   - 100% BERTUMPU PADA UANG KAS BULANAN (Rp 50.000 / anggota / bulan).
+   - GENCARKAN SPONSORSHIP & DANA USAHA (DANUS) untuk membiayai proker prodi.
+
+================================================================================
+RANCANGAN STRUKTUR 3 SHEET GOOGLE SHEETS (Master_Keuangan_Nirantara.xlsx):
+================================================================================
+
+SHEET 1: REKAP KAS BULANAN ANGGOTA (Rp 50.000 / Bulan)
+--------------------------------------------------------------------------------
+No | Nama Anggota | Prodi | Nov 2026 | Des 2026 | Jan 2027 | Feb 2027 | Mar 2027 | Total Bayar | Ket
+1  | Fajar Ahnaf M. | PTI | [v] 50.000 | ... | ... | ... | ... | ... | Lunas
+2  | M. Terry Al F. | PTI | [v] 50.000 | ... | ... | ... | ... | ... | Lunas
+3  | Muhamad Riski  | PTI | [v] 50.000 | ... | ... | ... | ... | ... | Lunas
+4  | Novelia H. (Veli)|PTI| [v] 50.000 | ... | ... | ... | ... | ... | Lunas
+5  | Dinda Amelia P.| PADP| [v] 50.000 | ... | ... | ... | ... | ... | Lunas
+6  | Faidatul A. M. | PADP| [v] 50.000 | ... | ... | ... | ... | ... | Lunas
+7  | Intan Milansari| Bio | [v] 50.000 | ... | ... | ... | ... | ... | Lunas
+8  | Zalfa Khoirun. | Bio | [v] 50.000 | ... | ... | ... | ... | ... | Lunas
+9  | Alvina Aulia (Vina)|TP| [v] 50.000| ... | ... | ... | ... | ... | Lunas
+10 | Krissandra S.  | TP  | [v] 50.000 | ... | ... | ... | ... | ... | Lunas
+
+SHEET 2: BUKU KAS UMUM & CASHFLOW (Arus Kas Masuk & Keluar Riil)
+--------------------------------------------------------------------------------
+Tanggal | Kode Akun | Kategori (Kas/Sponsor/Posko/Proker) | Uraian Transaksi | Debit (Masuk) | Kredit (Keluar) | Saldo Berjalan | No. Nota / PIC
+
+Contoh Transaksi:
+01/11/26 | IN-KAS-01 | Kas Anggota | Iuran Kas 10 Anggota Bulan November | 500.000 | 0 | 500.000 | Bukti Transfer Bank
+03/11/26 | OUT-ADM-01| Kesekretariatan | Beli Kertas A4 & Cetak Proposal 2 Eks | 0 | 75.000 | 425.000 | Nota #001 (Dinda)
+05/11/26 | OUT-SUR-01| Survei Klaten | Bensin bersama 3 motor survei perizinan | 0 | 120.000| 305.000 | Nota SPBU #002 (Riski)
+
+SHEET 3: RENCANA ANGGARAN BIAYA (RAB INDUK)
+--------------------------------------------------------------------------------
+No | Divisi / Pos | Item Kebutuhan | Vol | Satuan | Harga Satuan | Total Biaya | Sumber Dana (Kas / Sponsor / UNY)
+1  | Posko | Patungan Token Listrik Bulanan (50:50 dg Mitra) | 5 | Bulan | 100.000 | 500.000 | Kas Operasional Posko
+2  | Posko | Patungan Wifi Bulanan (50:50) | 5 | Bulan | 75.000 | 375.000 | Kas Operasional Posko
+3  | Biologi | Molase & Bahan Eco-Enzyme | 10 | Liter | 25.000 | 250.000 | Sponsorship / Dana UNY (Maret)
+4  | TP | Modul Cetak Media Ajar SD/TK | 50 | Eks | 15.000 | 750.000 | Sponsorship / Dana UNY (Maret)
+5  | PTI | Domain & Hosting Web Desa | 1 | Paket | 350.000 | 350.000 | Kas / Sponsorship IT
+6  | PADP | Pelatihan Pembukuan BUMDes | 1 | Paket | 200.000 | 200.000 | Kas / Sponsorship UMKM
+
+================================================================================
+SOP PENYIMPANAN BUKTI KUITANSI / SPJ NOTA:
+================================================================================
+1. Setiap pengeluaran uang wajib meminta NOTA / BON FISIK atau menyertakan BUKTI TRANSFER.
+2. Nota difoto tegak lurus dan jelas, lalu diunggah ke Google Drive:
+   - Pengeluaran Rumah Tangga Posko -> Folder "02_Scan_Nota_SPJ_Operasional"
+   - Pengeluaran Kegiatan Proker -> Folder "03_Scan_Nota_SPJ_Proker"
+3. Bendahara 2 (Zalfa) bertugas menempelkan nota fisik di buku kuitansi untuk LPJ akhir.

@@ -61,7 +61,10 @@ Setiap catatan pelanggaran tata tertib posko akan direkap secara transparan dan 
 
 ### 5. ⏳ Agenda Pembahasan Lanjutan (*Action Items Temu Offline*)
 Poin-poin berikut akan dibahas dan diputuskan secara mendalam saat sesi pertemuan tatap muka (*offline*) berikutnya:
-1. **Alokasi Dana Bantuan UNY**: Menentukan rincian alokasi pemanfaatan dana subsidi kampus sebesar **Rp 250.000,- per mahasiswa / kelompok**.
+1. **Alokasi Dana Subsidi UNY (Rp 250.000 / Mahasiswa — Total Rp 2.500.000)**:
+   * **Prinsip Penting**: Dana ini **TIDAK BOLEH DIJADIKAN PEGANGAN PRE-PLK** karena birokrasi kampus selalu mencairkan terlambat (estimasi baru turun bulan **Maret 2027** saat masa terjun lapangan).
+   * **Fokus Pre-PLK**: Seluruh kebutuhan Pre-PLK (survei, proposal, legalitas Kesbangpol, pengadaan vest/rompi) **100% BERTUMPU PADA UANG KAS (Rp 50.000/bln) DAN PENGGALANGAN SPONSORSHIP**.
+   * Agenda temu offline akan mengunci alokasi dana UNY murni sebagai *dana cadangan / reimbursement / proker penutupan* saat sudah cair nanti.
 2. **Penyusunan RAB Induk**: Membedah Rencana Anggaran Biaya (RAB) keseluruhan program kerja proker dan operasional posko.
 3. **Waktu Mulai Kas**: Menetapkan tanggal resmi penarikan pertama iuran kas bulanan Rp 50.000,- ke rekening Bendahara 1 (Fai).
 
