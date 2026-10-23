@@ -1,96 +1,165 @@
 ---
-tags: [survei, lapangan, klaten, posko, pembagian-tugas, nirantara]
+tags: [survei, lapangan, klaten, posko, pembagian-tugas, rundown, full-team, nirantara]
 created: 2026-10-22
+updated: 2026-10-23
 status: active
+aliases: [Rundown Survei Sabtu Full Team 10 Orang, Panduan Survei Lapangan Klaten]
 ---
 
-# 🚗 Panduan & Pembagian Tugas Survei Lapangan Sabtu
-## Ekspedisi Pemetaan Fisik Posko & Potensi Desa Wonosari, Klaten
+# 🚗 Panduan & Rundown Ekspedisi Survei Lapangan Sabtu — FULL TEAM (10/10 LENGKAP)
+## Pemetaan Wilayah Desa Wonosari, Audit Posko Majegan, & Kunjungan Vendor Rompi
+
 **Hari/Tanggal Pelaksanaan**: Sabtu, 24 Oktober 2026  
-**Target Delegasi**: 6 Orang Anggota Tim NIRANTARA (Didukung kendaraan 3 motor)  
-**Estimasi Waktu**: 07.30 – 17.00 WIB
+**Status Kehadiran**: **100% LENGKAP (10 dari 10 Anggota Tim NIRANTARA Ikut Semua)** 🟢  
+**Titik Kumpul (Tikum)**: Food Court (FC) Fakultas Teknik UNY Karangmalang (Pukul 07.00 WIB)  
+**Estimasi Waktu Kegiatan**: 07.00 – 17.00 WIB  
 
 ---
 
-## 🎯 6 Misi Utama yang Wajib Selesai di Lokasi
+## 👥 Formasi 10 Personel & Pembagian 3 Sub-Tim Kerja
 
-Survei Sabtu ini **BUKAN** sekadar jalan-jalan atau melihat-lihat, melainkan **misi pengambilan data kuantitatif dan visual** untuk mengisi dokumen proposal, kontrak posko, dan perizinan kampus:
+Dengan hadirnya seluruh 10 anggota dari 4 fakultas/prodi, survei lapangan dibagi menjadi **3 Sub-Tim Fungsional** agar pemetaan desa berjalan efisien, komprehensif, dan tepat sasaran:
 
 ```
-┌────────────────────────────────────────────────────────────────────────┐
-│                      6 MISI SURVEI SABTU WONOSARI                      │
-├───────────────────────────────────┬────────────────────────────────────┤
-│ 1. Audit Fisik Detail Posko       │ 4. Observasi Lembaga Pendidikan    │
-│    (Luas m², kasur, colokan, air) │    (2 SD, 2 TK, 1 PAUD)            │
-├───────────────────────────────────┼────────────────────────────────────┤
-│ 2. Pemetaan Akses Logistik        │ 5. Observasi Ekonomi & Agrikultur  │
-│    (Menit & km ke masjid, pasar)  │    (Sawah tani, UMKM mebel, BUMDes)│
-├───────────────────────────────────┼────────────────────────────────────┤
-│ 3. Observasi Balai Desa & BPD     │ 6. Observasi Isu Lingkungan        │
-│    (Foto kantor desa & jalanan)   │    (Titik buang sampah liar / TPS) │
-└───────────────────────────────────┴────────────────────────────────────┘
+                            ┌─────────────────────────────────────────┐
+                            │   EKSPEDISI 10 PERSONEL TIM NIRANTARA   │
+                            └────────────────────┬────────────────────┘
+                                                 │
+          ┌──────────────────────────────────────┼──────────────────────────────────────┐
+          ▼                                      ▼                                      ▼
+┌───────────────────────────────┐ ┌───────────────────────────────┐ ┌───────────────────────────────┐
+│          SUB-TIM 1            │ │          SUB-TIM 2            │ │          SUB-TIM 3            │
+│   (Lobi Desa & UMKM)          │ │ (Agrikultur & Lingkungan)     │ │   (Pendidikan & TIK)          │
+├───────────────────────────────┤ ├───────────────────────────────┤ ├───────────────────────────────┤
+│ • Fajar Ahnaf (Kordes - FT)   │ │ • Muhamad Riski (Perkap - FT) │ │ • Terry Al Fauzan (Humas - FT)│
+│ • Dinda Amelia (Sekre 1 - FEB)│ │ • Intan Milansari (Bio - FMIPA│ │ • Novelia H. (Sekre 2 - FT)   │
+│ • Faidatul A. (Benda 1 - FEB) │ │ • Zalfa Khoirunnisa (Bio-FMIPA│ │ • Alvina Aulia (PDD 1 - FIP)  │
+│                               │ │                               │ │ • Krissandra S. (Perkap - FIP)│
+├───────────────────────────────┤ ├───────────────────────────────┤ ├───────────────────────────────┤
+│ Target: RW, Balai Desa, Lurah,│ │ Target: Sawah tani, irigasi,  │ │ Target: 2 SD Negeri, 2 TK,    │
+│ profil desa, BUMDes, & UMKM   │ │ ternak warga, kebun, & sampah │ │ PAUD, lab komputer, & visual  │
+└───────────────────────────────┘ └───────────────────────────────┘ └───────────────────────────────┘
+```
+
+### 🏛️ 1. Sub-Tim 1: Lobi Desa, Administrasi, & Pemetaan UMKM
+* **Personel**: **Fajar Ahnaf Mahardika** (Ketua/FT), **Dinda Amelia Putri** (Sekretaris 1/FEB), **Faidatul Anugraheni M.** (Bendahara 1/FEB).
+* **Fokus Tugas Lapangan**:
+  1. Melakukan sowan awal ke **Kepala RW 01 Dukuh Majegan** bersama Terry.
+  2. Melakukan audiensi resmi ke **Kantor Balai Desa Wonosari / Sowan ke Pak Lurah & Perangkat Desa**.
+  3. Menggali profil monografi desa, data demografi kependudukan, struktur BPD, dan data kelembagaan desa.
+  4. Mendata unit usaha **BUMDes Wonosari** serta memetakan sentra **UMKM Lokal** (pengrajin mebel/pertukangan, kerajinan, industri rumahan, toko kelontong, dan sentra kuliner desa).
+  5. Konfirmasi prosedur surat izin Kesbangpol Klaten dan penerimaan mahasiswa PLK.
+
+### 🌾 2. Sub-Tim 2: Agrikultur, Lingkungan Hidup, & Peternakan Warga
+* **Personel**: **Muhamad Riski** (Perkap 1/FT), **Intan Milansari** (PDD 2 & Koor Lingkungan/FMIPA), **Zalfa Khoirunnisa** (Bendahara 2/FMIPA).
+* **Fokus Tugas Lapangan**:
+  1. Observasi hamparan sawah pertanian padi dan saluran irigasi milik **Kelompok Tani Setyo Makmur**.
+  2. Mendata komoditas kebun warga serta mengidentifikasi keberadaan **Kelompok Wanita Tani (KWT)** atau PKK dasawisma.
+  3. Mendata sebaran **ternak warga** (kandang sapi, kambing, peternakan unggas/bebek) dan pengelolaan limbah kotoran ternaknya.
+  4. Melakukan audit titik pembuangan sampah liar desa, tempat penampungan sementara (TPS), serta mengukur kelayakan air sumur posko/warga.
+  5. Menakar ketersediaan bahan organik lokal untuk rencana program pembuatan **Kompos Organik & Eco-Enzyme**.
+
+### 🎓 3. Sub-Tim 3: Fasilitas Pendidikan, Sekolah, & TIK Desa
+* **Personel**: **Muhadzdzib Terry** (Humas/FT), **Novelia Harlinda / Veli** (Sekretaris 2/FT), **Alvina Aulia Az Zahra / Vina** (PDD 1 & Koor Pendidikan/FIP), **Krissandra Siagian / Sandra** (Perkap 2/FIP).
+* **Fokus Tugas Lapangan**:
+  1. Melakukan kunjungan observasi ke lembaga pendidikan formal dan non-formal:
+     * **SD Negeri 1 Wonosari** & **SD Negeri 2 Wonosari**.
+     * **TK Pertiwi**, **TK Aisyiyah**, dan **PAUD Pendem**.
+  2. Mengecek ketersediaan fasilitas TIK sekolah (jumlah laptop, proyektor LCD, ketersediaan jaringan internet/WiFi, dan ruang kelas).
+  3. Melakukan wawancara singkat dengan Kepala Sekolah atau Guru mengenai kurikulum tematik, kendala media pembelajaran, dan kegiatan ekstrakurikuler siswa.
+  4. Mendokumentasikan foto lanskap, kondisi jalanan desa, dan gedung sekolah untuk arsip media publikasi PDD.
+
+---
+
+## ⏰ Rundown Detail Ekspedisi Sabtu, 24 Oktober 2026
+
+| Waktu (WIB) | Durasi | Agenda / Aktivitas Utama | Keterangan & Lokasi | PIC / Penanggung Jawab |
+|:---:|:---:|---|---|---|
+| **07.00 – 07.30** | 30' | **Kumpul di Food Court (FC) FT UNY Karangmalang**<br>• Cek kelengkapan armada motor (5 motor) & helm SNI.<br>• Pembagian lembar instrumen observasi cetak & clipboard.<br>• Doa bersama dipimpin Ketua. | FC FT UNY Karangmalang | Fajar & Riski |
+| **07.30 – 08.45** | 75' | **Perjalanan Konvoi Menuju Posko Klaten**<br>• Rute: UNY $\rightarrow$ Jl. Solo $\rightarrow$ Candi Prambanan $\rightarrow$ Klaten Kota $\rightarrow$ Kec. Trucuk $\rightarrow$ Dukuh Majegan, Wonosari.<br>• Kecepatan konvoi santai (40–50 km/jam), tertib lalu lintas. | Perjalanan Jogja – Klaten | Terry (Lead Rute) & Riski (Sweeper) |
+| **08.45 – 09.00** | 15' | **Tiba di Posko Majegan & Istirahat Sejenak (*Resting*)**<br>• Menaruh barang bawaan tas/helm di rumah simbah Terry.<br>• Minum, rehidrasi, dan persiapan instrumen observasi. | Posko Rumah Simbah Terry | Terry (Tuan Rumah) |
+| **09.00 – 09.30** | 30' | **Sowan Pertama: Silaturahmi ke Kepala RW 01 Dukuh Majegan**<br>• Izin permisi (*kulon nuwun*) kepada tokoh masyarakat sekitar posko.<br>• Meminta arahan singkat terkait karakteristik lingkungan warga. | Kediaman Pak RW 01 Majegan | Terry, Fajar, & Tim 1 |
+| **09.30 – 10.15** | 45' | **Sowan Kedua: Koordinasi ke Kantor Balai Desa Wonosari**<br>• Silaturahmi dengan Pak Lurah / Sekretaris Desa Wonosari.<br>• Menyampaikan maksud survei awal PLK UNY Mengabdi 2027.<br>• Penggalian data monografi desa dan perizinan. | Kantor Balai Desa Wonosari | Fajar, Dinda, Fai (Tim 1) |
+| **10.15 – 12.00** | 105' | **Misi Lapangan: Sub-Tim Mencar Memetakan Potensi Desa**<br>*(Mumpung pagi hari sebelum terik matahari menyengat)*<br>• **Sub-Tim 1**: Data BUMDes & wawancara pengrajin mebel/UMKM lokal.<br>• **Sub-Tim 2**: Observasi sawah tani Setyo Makmur, irigasi, ternak, kebun, & TPS sampah.<br>• **Sub-Tim 3**: Observasi 2 SD Negeri, TK Pertiwi/Aisyiyah, PAUD, & fasilitas TIK sekolah. | Wilayah Tersebar Desa Wonosari | Seluruh Sub-Tim (1, 2, 3) |
+| **12.00 – 13.30** | 90' | **Target Selesai Lapangan, Kembali ke Posko & ISHOMA**<br>• ⚠️ **Agenda Khusus**: **Vina & Sandra (TP) mengerjakan UTS di posko** (disiapkan ruangan tenang, meja & WiFi).<br>• Sholat Dzuhur berjamaah di Masjid dekat posko.<br>• Makan siang bersama di posko / warung makan lokal desa. | Posko Majegan & Masjid Terdekat | Dinda (Konsumsi) & Terry |
+| **13.30 – 15.00** | 90' | **Audit Fisik Posko & Rapat Pleno Internal Nirantara**<br>• **Audit Fisik Posko**: Mengukur $p \times l$ seluruh kamar (2 kamar mahasiswi, kamar mahasiswa, dapur, 2 kamar mandi, kelayakan stopkontak, air sumur).<br>• **Rapat Pleno Tim**: Rekapitulasi hasil temuan dari 3 sub-tim.<br>• Pematangan draf proposal proker dari data riil desa.<br>• Pembahasan strategi Oprec Kelompok Mitra Baru 1 Desa Wonosari. | Posko Majegan | Veli, Riski, & Fajar |
+| **15.00 – 17.00** | 120' | **Kunjungan ke Vendor Rompi / Vest PLK (*Agenda Opsional/Fleksibel*)**<br>• Meluncur ke lokasi vendor konveksi rompi di Klaten/Jogja.<br>• Cek sampel bahan kain (drill/ripstop), cek bordir logo Nirantara & UNY, fitting ukuran baju (S s.d. XXL), dan negosiasi harga (budget 150k–200k). *(Catatan: Bersifat tidak wajib bagi yang lelah, namun jadi target utama kepanitiaan).* | Lokasi Vendor Rompi | Riski, Fai, & Tim |
+| **17.00 – Selesai**| — | **Briefing Penutup & Perjalanan Pulang ke Yogyakarta**<br>• Doa penutup ekspedisi dan perjalanan konvoi pulang dengan tertib.<br>• Kembali ke Jogja sebelum malam hari. | Klaten $\rightarrow$ Jogja | Fajar & Terry |
+
+---
+
+## 🛵 Formasi Kendaraan 10 Orang (5 Sepeda Motor)
+
+Untuk menjaga ketertiban konvoi di Jalan Raya Solo–Klaten, disarankan memasangkan armada kendaraan sebagai berikut:
+
+| No | Unit Armada | Pengemudi (*Rider*) | Penumpang (*Boncenger*) | Keterangan & Tugas Armada |
+|:---:|:---:|---|---|---|
+| **1** | Motor 1 | **Fajar Ahnaf** (Kordes) | **Muhadzdzib Terry** (Humas) | **Lead Rute & Road Captain** (Memandu jalan utama) |
+| **2** | Motor 2 | **Muhamad Riski** (Perkap 1) | **Intan Milansari** (PDD 2/Bio) | Membawa instrumen meteran rol & tas P3K |
+| **3** | Motor 3 | **Novelia Harlinda (Veli)** | **Zalfa Khoirunnisa** | Membawa instrumen cetak & clipboard data |
+| **4** | Motor 4 | **Dinda Amelia Putri** | **Faidatul Anugraheni** | Tim Kas & Administrasi Desa |
+| **5** | Motor 5 | **Alvina Aulia (Vina)** | **Krissandra Siagian (Sandra)** | **Sweeper Rombongan** & Perlengkapan UTS |
+
+*(Catatan: Pasangan kendaraan di atas dapat disesuaikan fleksibel dengan kepemilikan motor masing-masing anggota di hari H).*
+
+---
+
+## 🧰 Checklist Perlengkapan Wajib yang Harus Siap di Tas
+
+- [ ] **Meteran Bangunan / Meteran Rol (Minimal 5 Meter)**: *Wajib dibawa Riski/Terry untuk ukur posko.*
+- [ ] **Papan Ujian / Clipboard + 3 Bolpoin**: *Wajib dibawa Dinda/Veli untuk mencatat di jalan.*
+- [ ] **Printout Instrumen Observasi**: Minimal 2–3 rangkap [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]].
+- [ ] **Laptop / Tablet + Charger**: *Wajib dibawa oleh Vina & Sandra untuk pengerjaan UTS jam 12.00 WIB.*
+- [ ] **Smartphone dengan Kamera Jernih & Memori Cukup**: Untuk dokumentasi sawah, ternak, sekolah, & posko.
+- [ ] **Powerbank (Minimal 10.000 mAh)**: Mengantisipasi baterai low-batt saat GPS & foto.
+- [ ] **Jas Hujan & Helm Standar SNI**: Wajib dibawa oleh masing-masing motor.
+- [ ] **Jas Almamater UNY & Baju Berkerah Sopan**: Dipakai saat sowan ke Pak RW dan Balai Desa.
+- [ ] **Uang Tunai Pecahan Kecil (Rp 50.000 – Rp 100.000)**: Untuk makan siang, bensin darurat, dan kas kecil.
+
+---
+
+## 📲 DRAF PESAN BROADCAST WHATSAPP RUNDOWN (Siap Share ke Grup)
+
+Salin teks di bawah ini dan kirimkan langsung ke grup WhatsApp Tim NIRANTARA malam ini:
+
+```text
+📢 [RUNDOWN RESMI SURVEI LAPANGAN SABTU — FULL TEAM 10/10 NIRANTARA] 📢
+
+Halo rekan-rekan Nirantara! 🌱✨
+Alhamdulillah besok Sabtu, 24 Oktober 2026 kita FIX BERANGKAT FULL TEAM (10 Orang Lengkap)! 
+
+Berikut adalah timeline rundown, pembagian tugas lapangan, dan teknis kegiatan besok:
+
+⏰ TIMELINE & RUNDOWN KEGIATAN:
+• 07.00 – 07.30 WIB: Kumpul di Food Court (FC) FT UNY Karangmalang (Cek kendaraan, pembagian instrumen, & doa bersama).
+• 07.30 – 08.45 WIB: Berangkat konvoi santai Jogja ➡️ Klaten (via Jl. Solo).
+• 08.45 – 09.00 WIB: Tiba di Posko Dukuh Majegan & istirahat sejenak (resting & drop barang).
+• 09.00 – 09.30 WIB: Sowan silaturahmi ke Kepala RW 01 Dukuh Majegan.
+• 09.30 – 10.15 WIB: Koordinasi & audiensi resmi ke Kantor Balai Desa Wonosari / Sowan ke Pak Lurah.
+• 10.15 – 12.00 WIB: MENCAR OBSERVASI LAPANGAN (Mumpung pagi biar belum panas!):
+  - Sub-Tim 1 (Fajar, Dinda, Fai): Data BUMDes, UMKM mebel/pertukangan, profil desa.
+  - Sub-Tim 2 (Riski, Intan, Zalfa): Hamparan sawah tani Setyo Makmur, irigasi, ternak warga, kebun, & titik TPS sampah.
+  - Sub-Tim 3 (Terry, Veli, Vina, Sandra): 2 SD Negeri, TK Pertiwi/Aisyiyah, PAUD, lab/komputer sekolah, & foto lanskap.
+• 12.00 – 13.30 WIB: TARGET SELESAI & KEMBALI KE POSKO:
+  ⚠️ Vina & Sandra fokus ngerjain UTS di posko (disediakan ruangan tenang & WiFi).
+  🍛 Sholat Dzuhur berjamaah & ISHOMA makan siang bersama.
+• 13.30 – 15.00 WIB: AGENDA DI POSKO:
+  - Mengukur detail fisik posko rumah simbah (kamar tidur, ruang tengah, dapur, colokan, air sumur).
+  - Istirahat & Rapat Pleno Tim (bahas temuan proker & strategi oprec kelompok mitra 1 desa).
+• 15.00 – 17.00 WIB: Kunjungan ke Vendor Rompi/Vest PLK (Cek bahan kain, bordir logo, fitting ukuran, & nego harga). *Agenda opsional/fleksibel bagi yang lelah, tapi target utama tim.*
+• 17.00 WIB: Briefing penutup & perjalanan konvoi pulang ke Jogja.
+
+🎒 CHECKLIST BARANG BAWAAN:
+1. Baju berkerah sopan, bersepatu, dan WAJIB bawa JAS ALMAMATER UNY.
+2. Helm SNI + Jas Hujan di masing-masing motor.
+3. Meteran rol (Riski/Terry) & Clipboard + pulpen (Dinda/Veli).
+4. Laptop + Charger (khusus Vina & Sandra untuk UTS).
+5. Powerbank & HP memori kosong untuk dokumentasi.
+6. Uang tunai secukupnya untuk makan siang & bensin.
+
+Sampai jumpa besok pagi jam 07.00 WIB di FC FT UNY yaa! Jangan lupa sarapan dari kos dan pastikan bensin motor sudah aman. Semangat mengabdi! 🌱💪✨
 ```
 
 ---
 
-## 👥 Pembagian Peran 6 Personel Tim NIRANTARA
-
-Agar pekerjaan di lokasi berjalan cepat, terstruktur, dan tidak saling menunggu, 6 personel dibagi menjadi 3 sub-tim kerja *(nama-nama personel akan disepakati dan diisi pada rapat malam ini)*:
-
-### 1. Sub-Tim A: Koordinator Lapangan & Audit Fisik Posko
-* **Personel**: **[Anggota 1 - Ditentukan saat Rapat]** & **[Anggota 2 - Ditentukan saat Rapat]**
-* **Tanggung Jawab**:
-  * **Peran Lead Rute & Hubungan Warga**: Pemandu rute perjalanan Jogja–Klaten, menjalin silaturahmi dengan warga/tetangga sekitar posko, dan koordinasi dengan keluarga pemilik rumah.
-  * **Peran Audit Fisik Posko**: Membawa meteran rol bangunan, mengukur panjang $\times$ lebar setiap kamar tidur, ruang tengah, dan dapur. Menguji kelayakan pompa sumur air, kran kamar mandi, ketersediaan colokan stopkontak di tiap kamar, serta sinyal wifi.
-
-### 2. Sub-Tim B: Pencatat Instrumen Data & Akses Logistik
-* **Personel**: **[Anggota 3 - Ditentukan saat Rapat]** & **[Anggota 4 - Ditentukan saat Rapat]**
-* **Tanggung Jawab**:
-  * **Peran Pencatat Instrumen Data**: Memegang *clipboard* instrumen observasi cetak, mencatat angka pasti hasil pengukuran kamar, jarak tempuh fasilitas, serta data wawancara perangkat desa.
-  * **Peran Pemetaan Logistik & Fasilitas**: Memetakan titik logistik hidup posko (mencari warung nasi/sayur terdekat, pasar terdekat, minimarket Alfamart/Indomaret terdekat, apotek/klinik darurat, dan SPBU Pertamina). Mencatat estimasi jarak dan menit tempuhnya menggunakan odometer motor / Google Maps.
-
-### 3. Sub-Tim C: Dokumentasi Audio-Visual & Pemetaan Proker
-* **Personel**: **[Anggota 5 - Ditentukan saat Rapat]** & **[Anggota 6 - Ditentukan saat Rapat]**
-* **Tanggung Jawab**:
-  * **Peran Dokumentasi Visual & Lingkungan**: Mendokumentasikan kondisi lanskap desa, persawahan kelompok tani Setyo Makmur, titik penumpukan sampah liar untuk proker Eco-Enzyme/kompos, serta mengambil foto kegiatan tim untuk arsip rilis berita 5W1H.
-  * **Peran Observasi Lembaga Pendidikan**: Mengambil foto detail setiap sudut ruangan posko (untuk bahan penggambaran denah/layout kasur 20 orang), memotret fasilitas fisik gedung 2 SD Negeri, TK Pertiwi, TK Aisyiyah, dan PAUD Pendem untuk perancangan media ajar interaktif.
-
-> ⚠️ **Catatan Mandat Khusus (Rekan Biologi & TP Berhalangan Hadir)**:  
-> Mengingat rekan-rekan dari **Divisi Biologi (Intan & Zalfa)** dan **Divisi Teknologi Pendidikan (Vina & Sandra)** berhalangan hadir pada survei Sabtu ini, delegasi lapangan yang berangkat (PTI & PADP) mengemban mandat penuh sebagai "mata dan telinga" di Klaten untuk mengisi data titipan di [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]]:
-> - **Titipan Biologi**: Audit sampah liar, kelayakan/pH air sumur, bahan kompos/eco-enzyme, dan keberadaan Kelompok Wanita Tani (KWT).
-> - **Titipan TP**: Audit fasilitas TIK sekolah (proyektor/lab/wifi di 2 SD Negeri, TK, PAUD) dan wawancara kendala mengajar guru.
-
----
-
-## 🧰 Checklist Perlengkapan Wajib yang Harus Dibawa dari Jogja
-
-Pastikan barang-barang berikut sudah masuk tas pada Jumat malam:
-
-- [ ] **Meteran Bangunan / Meteran Rol (Minimal 5 Meter)**: *Wajib dibawa oleh personel Audit Fisik Posko.*
-- [ ] **Papan Ujian / Clipboard + Bolpoin**: *Wajib dibawa oleh personel Pencatat Instrumen Data.*
-- [ ] **Printout Dokumen Observasi**: 2–3 rangkap [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]].
-- [ ] **Smartphone dengan Kamera Berkualitas + Memory Luas**: Untuk foto landscape dan video denah.
-- [ ] **Powerbank (Minimal 10.000 mAh)**: Mengantisipasi baterai habis saat navigasi GPS dan dokumentasi.
-- [ ] **Jas Hujan & Helm Standar SNI (2 per motor)**: Wajib untuk keamanan konvoi Jl. Solo.
-- [ ] **Pakaian Rapi Bersepatu & Jas Almamater UNY**: Wajib dipakai saat masuk wilayah Balai Desa atau bertemu perangkat warga.
-- [ ] **Uang Tunai Pecahan Kecil (Rp 50.000 – Rp 100.000)**: Untuk infak masjid, bensin darurat, dan jajan warung warga lokal.
-
----
-
-## ⏰ Rundown Detail Survei Lapangan Sabtu (24 Oktober 2026)
-
-| Jam (WIB) | Estimasi Waktu | Aktivitas & Target Sasaran | Lokasi & PIC |
-|:---:|:---:|---|---|
-| **07.30 – 08.00** | 30 Menit | Kumpul di **Titik Kumpul 1 (Kampus UNY Karangmalang / Bundaran)**. Cek angin ban, helm, & doa bersama. | UNY Jogja (PIC Lead Rute) |
-| **08.00 – 08.30** | 30 Menit | Konvoi santai menuju **Titik Kumpul 2 (Kalasan / Tirtomartani)** via Jl. Solo. | Jl. Solo (Road Captain) |
-| **08.30 – 09.30** | 60 Menit | Melanjutkan perjalanan konvoi menuju **Dukuh Majegan, Desa Wonosari, Klaten**. | Masuk Klaten via Prambanan |
-| **09.30 – 11.30** | 120 Menit | **MISI 1 & 2: AUDIT FISIK POSKO & KELAYAKAN 20 ORANG**<br>• Mengukur 2 Kamar Besar, 1 Kamar Kecil, Mushola, & Dapur.<br>• Uji coba air sumur, colokan listrik, sinyal wifi.<br>• Mengunjungi Masjid terdekat posko (cek fasilitas toilet/wudhu cowok).<br>• Foto setiap sudut ruangan untuk denah penataan kasur. | Posko Majegan (Seluruh Sub-Tim) |
-| **11.30 – 13.00** | 90 Menit | **ISHOMA & SAMBANG WARUNG WARGA**<br>• Sholat Dzuhur berjamaah di Masjid posko.<br>• Makan siang di warung makan lokal desa (sekaligus cek keramahan warga dan harga makanan). | Masjid & Warung Desa |
-| **13.00 – 14.30** | 90 Menit | **MISI 3, 4, 5: OBSERVASI FASILITAS DESA**<br>• Foto dan cek kondisi Balai Desa Wonosari.<br>• Observasi gedung SD Negeri 1 & 2 Wonosari, TK, dan PAUD.<br>• Observasi bengkel mebel/pertukangan UMKM desa.<br>• Dokumentasi hamparan sawah tani Majegan. | Desa Wonosari (Sub-Tim B & C) |
-| **14.30 – 15.30** | 60 Menit | **MISI 6: PEMETAAN ISU LINGKUNGAN & LOGISTIK UMUM**<br>• Mencari titik pembuangan sampah liar / TPS desa.<br>• Melacak jarak minimarket (Alfamart/Indomaret), pasar, & apotek/klinik terdekat. Catat kilometer dan menit tempuhnya! | Wilayah Trucuk & Sekitarnya (Sub-Tim B) |
-| **15.30 – 16.30** | 60 Menit | **EVALUASI KILAT & BRINGING RESULTS**<br>• Kumpul santai di teras posko, rekap hasil catatan lembar observasi.<br>• Memastikan semua foto dan data telah terisi 100%. | Posko Majegan (Seluruh Personel) |
-| **16.30 – Selesai**| — | Perjalanan konvoi pulang ke Yogyakarta dengan tertib dan selamat. | Klaten $\rightarrow$ Jogja |
-
----
-
-← [[01 - Panduan Rapat Mandiri Tim (Tanpa Ketua)]] | [[02 - SOP & Kontrak Perjanjian Bersama 2 Kelompok (MoU Posko)]] | [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]]
+← [[01 - Panduan Rapat Mandiri Tim (Tanpa Ketua)]] | [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]] | [[08 - Draf Broadcast WhatsApp Tim & Oprec Mitra Desa]] | [[Home]]

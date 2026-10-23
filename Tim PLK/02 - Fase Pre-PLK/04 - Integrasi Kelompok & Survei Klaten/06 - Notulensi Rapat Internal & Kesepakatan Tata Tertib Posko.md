@@ -71,14 +71,13 @@ Poin-poin berikut akan dibahas dan diputuskan secara mendalam saat sesi pertemua
 ---
 
 ### 6. 🚗 Update Penugasan Survei Lapangan Sabtu (24 Oktober 2026)
-* **Kondisi Delegasi**:
-  * Rekan-rekan dari **Divisi Biologi (Intan & Zalfa)** berhalangan hadir pada survei Sabtu ini.
-  * Rekan-rekan dari **Divisi Teknologi Pendidikan / TP (Vina & Sandra)** juga belum dapat bergabung dalam survei Sabtu ini.
-* **Mandat Khusus Tim Surveyor Lapangan (PTI & PADP)**:
-  * Tim surveyor yang berangkat (anak PTI & PADP) bertindak sebagai delegasi resmi untuk menggali dan mengambil data titipan program kerja lapangan:
-    - **Titipan Divisi Biologi**: Data titik & volume sampah desa, pH & kejernihan air, potensi bahan kompos & eco-enzyme, profil Kelompok Wanita Tani (KWT), dan isu pertanian persawahan.
-    - **Titipan Divisi Teknologi Pendidikan**: Data profil PAUD Pendem, TK Pertiwi, TK Aisyiyah, SD Negeri 1 & 2 Wonosari, ketersediaan proyektor/laptop/wifi sekolah, serta kontak Kepala Sekolah/Guru.
-  * Seluruh data dicatat langsung ke dalam lembar instrumen observasi lapangan cetak.
+* **Kondisi Delegasi (Update Final Jumat Malam)**:
+  * **10/10 ANGGOTA FIX BERANGKAT SEMUA (FULL TEAM LENGKAP)**!
+  * Rekan-rekan Biologi (Intan & Zalfa) dan TP (Vina & Sandra) mengonfirmasi dapat bergabung penuh.
+  * *Catatan Khusus*: Vina dan Sandra memiliki jadwal ujian UTS pada pukul 12.00 WIB, sehingga akan mengerjakan UTS langsung di posko (difasilitasi ruang tenang dan WiFi posko).
+* **Skema Pemetaan Lapangan (3 Sub-Tim)**:
+  * Ekspedisi dibagi menjadi 3 sub-tim fungsional: **Tim 1** (Fajar, Dinda, Fai: RW, Lurah, BUMDes, UMKM), **Tim 2** (Riski, Intan, Zalfa: Sawah Setyo Makmur, ternak, kebun, sampah), dan **Tim 3** (Terry, Veli, Vina, Sandra: 2 SD Negeri, TK, PAUD, lab komputer, foto lanskap).
+  * Rundown lengkap dan formasi konvoi 5 motor terdokumentasi di: **[[03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang)]]**.
 
 ---
 
