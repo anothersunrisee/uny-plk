@@ -31,7 +31,8 @@ status: active
 - [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]] — Form cetak A4 fisik posko & logistik desa
 - [[05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu]] — Telaah pembatasan delegasi partner (Arsip/Batal)
 - [[06 - Notulensi Rapat Internal & Kesepakatan Tata Tertib Posko]] — Notulensi resmi kas 50k, tata tertib, sanksi, & mandat survei
-- [[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]] — Rekap pembatalan Kelompok B, evaluasi posko, & broadcast oprec mitra baru (🔥 KUNCI)
+- [[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]] — Rekap pembatalan Kelompok B, evaluasi posko, & strategi kemitraan desa
+- [[08 - Draf Broadcast WhatsApp Tim & Oprec Mitra Desa]] — Draf pesan WA siap copy-paste (ke grup internal & eksternal angkatan) (🔥 BARU)
 
 ### Riset & Analisa
 - [[temuan]] — Log 5W1H semua analisa & keputusan tim ← MULAI DI SINI

@@ -79,6 +79,7 @@ Struktur repositori ini dirancang teratur untuk mempermudah akses seluruh anggot
 │   │   │   ├── 📄 05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu.md
 │   │   │   ├── 📄 06 - Notulensi Rapat Internal & Kesepakatan Tata Tertib Posko.md
 │   │   │   ├── 📄 07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa.md
+│   │   │   ├── 📄 08 - Draf Broadcast WhatsApp Tim & Oprec Mitra Desa.md
 │   │   │   └── 📄 Draft Survey Lokasi Klaten.md
 │   │   └── 📁 05 - Arsip/                          ← Dokumen sprint awal & inventaris
 │   │
