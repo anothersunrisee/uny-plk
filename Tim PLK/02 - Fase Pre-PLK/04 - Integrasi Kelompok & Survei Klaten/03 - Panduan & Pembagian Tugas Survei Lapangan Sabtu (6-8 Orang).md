@@ -41,18 +41,21 @@ Dengan hadirnya seluruh 10 anggota dari 4 fakultas/prodi, survei lapangan dibagi
 └───────────────────────────────┘ └───────────────────────────────┘ └───────────────────────────────┘
 ```
 
-### 🏛️ 1. Sub-Tim 1: Lobi Desa, Administrasi, & Pemetaan UMKM
+> [!IMPORTANT]
+> **ATURAN SOWAN AWAL (09.00 – 10.15 WIB): KOMPAK BARENG BER-10!**  
+> Sesi sowan ke **Kepala RW 01 Dukuh Majegan** dan sowan resmi ke **Kantor Balai Desa Wonosari / Pak Lurah** dilakukan **BERSAMA-SAMA SELURUH 10 ANGGOTA (Full Team)** dengan mengenakan **Jas Almamater UNY**. Ini untuk menunjukkan kekompakan tim, kesopanan bertamu, perkenalan formasi 4 fakultas/prodi, serta bersama-sama menggali data monografi profil desa, data kependudukan, struktur BPD, dan kelembagaan desa.  
+> **Baru setelah selesai sowan balai desa (pukul 10.15 WIB), tim MENCAR menjadi 3 Sub-Tim** untuk pemetaan wilayah sesuai keahlian bidang masing-masing.
+
+### 🏛️ 1. Sub-Tim 1: Administrasi Desa & Pemetaan Sentra UMKM
 * **Personel**: **Fajar Ahnaf Mahardika** (Ketua/FT), **Dinda Amelia Putri** (Sekretaris 1/FEB), **Faidatul Anugraheni M.** (Bendahara 1/FEB).
-* **Fokus Tugas Lapangan**:
-  1. Melakukan sowan awal ke **Kepala RW 01 Dukuh Majegan** bersama Terry.
-  2. Melakukan audiensi resmi ke **Kantor Balai Desa Wonosari / Sowan ke Pak Lurah & Perangkat Desa**.
-  3. Menggali profil monografi desa, data demografi kependudukan, struktur BPD, dan data kelembagaan desa.
-  4. Mendata unit usaha **BUMDes Wonosari** serta memetakan sentra **UMKM Lokal** (pengrajin mebel/pertukangan, kerajinan, industri rumahan, toko kelontong, dan sentra kuliner desa).
-  5. Konfirmasi prosedur surat izin Kesbangpol Klaten dan penerimaan mahasiswa PLK.
+* **Fokus Tugas Lapangan (Saat Mencar Pukul 10.15 – 12.00 WIB)**:
+  1. Mendalami unit usaha **BUMDes Wonosari** (omset, unit usaha aktif, potensi pengembangan digital/pembukuan).
+  2. Melakukan wawancara dan pemetaan **Sentra UMKM Lokal** (pengrajin mebel kayu/pertukangan, industri kerajinan rumahan, toko kelontong, dan sentra kuliner desa).
+  3. Mengidentifikasi kendala legalitas usaha (NIB), pembukuan keuangan kas, dan strategi promosi digital UMKM desa.
 
 ### 🌾 2. Sub-Tim 2: Agrikultur, Lingkungan Hidup, & Peternakan Warga
 * **Personel**: **Muhamad Riski** (Perkap 1/FT), **Intan Milansari** (PDD 2 & Koor Lingkungan/FMIPA), **Zalfa Khoirunnisa** (Bendahara 2/FMIPA).
-* **Fokus Tugas Lapangan**:
+* **Fokus Tugas Lapangan (Saat Mencar Pukul 10.15 – 12.00 WIB)**:
   1. Observasi hamparan sawah pertanian padi dan saluran irigasi milik **Kelompok Tani Setyo Makmur**.
   2. Mendata komoditas kebun warga serta mengidentifikasi keberadaan **Kelompok Wanita Tani (KWT)** atau PKK dasawisma.
   3. Mendata sebaran **ternak warga** (kandang sapi, kambing, peternakan unggas/bebek) dan pengelolaan limbah kotoran ternaknya.
@@ -61,7 +64,7 @@ Dengan hadirnya seluruh 10 anggota dari 4 fakultas/prodi, survei lapangan dibagi
 
 ### 🎓 3. Sub-Tim 3: Fasilitas Pendidikan, Sekolah, & TIK Desa
 * **Personel**: **Muhadzdzib Terry** (Humas/FT), **Novelia Harlinda / Veli** (Sekretaris 2/FT), **Alvina Aulia Az Zahra / Vina** (PDD 1 & Koor Pendidikan/FIP), **Krissandra Siagian / Sandra** (Perkap 2/FIP).
-* **Fokus Tugas Lapangan**:
+* **Fokus Tugas Lapangan (Saat Mencar Pukul 10.15 – 12.00 WIB)**:
   1. Melakukan kunjungan observasi ke lembaga pendidikan formal dan non-formal:
      * **SD Negeri 1 Wonosari** & **SD Negeri 2 Wonosari**.
      * **TK Pertiwi**, **TK Aisyiyah**, dan **PAUD Pendem**.
@@ -78,9 +81,9 @@ Dengan hadirnya seluruh 10 anggota dari 4 fakultas/prodi, survei lapangan dibagi
 | **07.00 – 07.30** | 30' | **Kumpul di Food Court (FC) FT UNY Karangmalang**<br>• Cek kelengkapan armada motor (5 motor) & helm SNI.<br>• Pembagian lembar instrumen observasi cetak & clipboard.<br>• Doa bersama dipimpin Ketua. | FC FT UNY Karangmalang | Fajar & Riski |
 | **07.30 – 08.45** | 75' | **Perjalanan Konvoi Menuju Posko Klaten**<br>• Rute: UNY $\rightarrow$ Jl. Solo $\rightarrow$ Candi Prambanan $\rightarrow$ Klaten Kota $\rightarrow$ Kec. Trucuk $\rightarrow$ Dukuh Majegan, Wonosari.<br>• Kecepatan konvoi santai (40–50 km/jam), tertib lalu lintas. | Perjalanan Jogja – Klaten | Terry (Lead Rute) & Riski (Sweeper) |
 | **08.45 – 09.00** | 15' | **Tiba di Posko Majegan & Istirahat Sejenak (*Resting*)**<br>• Menaruh barang bawaan tas/helm di rumah simbah Terry.<br>• Minum, rehidrasi, dan persiapan instrumen observasi. | Posko Rumah Simbah Terry | Terry (Tuan Rumah) |
-| **09.00 – 09.30** | 30' | **Sowan Pertama: Silaturahmi ke Kepala RW 01 Dukuh Majegan**<br>• Izin permisi (*kulon nuwun*) kepada tokoh masyarakat sekitar posko.<br>• Meminta arahan singkat terkait karakteristik lingkungan warga. | Kediaman Pak RW 01 Majegan | Terry, Fajar, & Tim 1 |
-| **09.30 – 10.15** | 45' | **Sowan Kedua: Koordinasi ke Kantor Balai Desa Wonosari**<br>• Silaturahmi dengan Pak Lurah / Sekretaris Desa Wonosari.<br>• Menyampaikan maksud survei awal PLK UNY Mengabdi 2027.<br>• Penggalian data monografi desa dan perizinan. | Kantor Balai Desa Wonosari | Fajar, Dinda, Fai (Tim 1) |
-| **10.15 – 12.00** | 105' | **Misi Lapangan: Sub-Tim Mencar Memetakan Potensi Desa**<br>*(Mumpung pagi hari sebelum terik matahari menyengat)*<br>• **Sub-Tim 1**: Data BUMDes & wawancara pengrajin mebel/UMKM lokal.<br>• **Sub-Tim 2**: Observasi sawah tani Setyo Makmur, irigasi, ternak, kebun, & TPS sampah.<br>• **Sub-Tim 3**: Observasi 2 SD Negeri, TK Pertiwi/Aisyiyah, PAUD, & fasilitas TIK sekolah. | Wilayah Tersebar Desa Wonosari | Seluruh Sub-Tim (1, 2, 3) |
+| **09.00 – 09.30** | 30' | **Sowan Pertama: Silaturahmi ke Kepala RW 01 Dukuh Majegan (BERSAMA BER-10)**<br>• *Kulon nuwun* bersama seluruh 10 anggota kepada tokoh masyarakat sekitar posko.<br>• Meminta arahan singkat terkait karakteristik lingkungan warga & ketertiban posko. | Kediaman Pak RW 01 Majegan | **Seluruh 10 Anggota** (Dipandu Terry & Fajar) |
+| **09.30 – 10.15** | 45' | **Sowan Kedua: Audiensi Balai Desa / Pak Lurah Wonosari (BERSAMA BER-10)**<br>• Audiensi resmi bersama Kepala Desa / Sekdes & Perangkat Desa (**Wajib Berjas Almet UNY**).<br>• Perkenalan formasi 10 anggota Nirantara dari 4 Fakultas (FT, FEB, FMIPA, FIP).<br>• Menggali bersama **monografi profil desa, data kependudukan, struktur BPD, dan kelembagaan desa**.<br>• Konfirmasi perizinan awal dan penerimaan PLK. | Kantor Balai Desa Wonosari | **Seluruh 10 Anggota** (Dipimpin Fajar & Dinda) |
+| **10.15 – 12.00** | 105' | **Misi Lapangan: 3 Sub-Tim MENCAR Memetakan Potensi Desa**<br>*(Selesai dari balai desa, tim menyebar mumpung belum terik panas)*<br>• **Sub-Tim 1 (Fajar, Dinda, Fai)**: Pendalaman BUMDes & wawancara sentra pengrajin mebel/UMKM lokal.<br>• **Sub-Tim 2 (Riski, Intan, Zalfa)**: Observasi sawah tani Setyo Makmur, irigasi, kandang ternak sapi/kambing, kebun, & TPS sampah.<br>• **Sub-Tim 3 (Terry, Veli, Vina, Sandra)**: Observasi 2 SD Negeri, TK Pertiwi/Aisyiyah, PAUD, & fasilitas TIK sekolah. | Wilayah Tersebar Desa Wonosari | Terbagi Sesuai 3 Sub-Tim |
 | **12.00 – 13.30** | 90' | **Target Selesai Lapangan, Kembali ke Posko & ISHOMA**<br>• ⚠️ **Agenda Khusus**: **Vina & Sandra (TP) mengerjakan UTS di posko** (disiapkan ruangan tenang, meja & WiFi).<br>• Sholat Dzuhur berjamaah di Masjid dekat posko.<br>• Makan siang bersama di posko / warung makan lokal desa. | Posko Majegan & Masjid Terdekat | Dinda (Konsumsi) & Terry |
 | **13.30 – 15.00** | 90' | **Audit Fisik Posko & Rapat Pleno Internal Nirantara**<br>• **Audit Fisik Posko**: Mengukur $p \times l$ seluruh kamar (2 kamar mahasiswi, kamar mahasiswa, dapur, 2 kamar mandi, kelayakan stopkontak, air sumur).<br>• **Rapat Pleno Tim**: Rekapitulasi hasil temuan dari 3 sub-tim.<br>• Pematangan draf proposal proker dari data riil desa.<br>• Pembahasan strategi Oprec Kelompok Mitra Baru 1 Desa Wonosari. | Posko Majegan | Veli, Riski, & Fajar |
 | **15.00 – 17.00** | 120' | **Kunjungan ke Vendor Rompi / Vest PLK (*Agenda Opsional/Fleksibel*)**<br>• Meluncur ke lokasi vendor konveksi rompi di Klaten/Jogja.<br>• Cek sampel bahan kain (drill/ripstop), cek bordir logo Nirantara & UNY, fitting ukuran baju (S s.d. XXL), dan negosiasi harga (budget 150k–200k). *(Catatan: Bersifat tidak wajib bagi yang lelah, namun jadi target utama kepanitiaan).* | Lokasi Vendor Rompi | Riski, Fai, & Tim |
@@ -134,9 +137,9 @@ Berikut adalah timeline rundown, pembagian tugas lapangan, dan teknis kegiatan b
 • 07.00 – 07.30 WIB: Kumpul di Food Court (FC) FT UNY Karangmalang (Cek kendaraan, pembagian instrumen, & doa bersama).
 • 07.30 – 08.45 WIB: Berangkat konvoi santai Jogja ➡️ Klaten (via Jl. Solo).
 • 08.45 – 09.00 WIB: Tiba di Posko Dukuh Majegan & istirahat sejenak (resting & drop barang).
-• 09.00 – 09.30 WIB: Sowan silaturahmi ke Kepala RW 01 Dukuh Majegan.
-• 09.30 – 10.15 WIB: Koordinasi & audiensi resmi ke Kantor Balai Desa Wonosari / Sowan ke Pak Lurah.
-• 10.15 – 12.00 WIB: MENCAR OBSERVASI LAPANGAN (Mumpung pagi biar belum panas!):
+• 09.00 – 09.30 WIB: Sowan silaturahmi ke Kepala RW 01 Dukuh Majegan (KOMPAK BARENG BER-10).
+• 09.30 – 10.15 WIB: Audiensi resmi Balai Desa Wonosari / Sowan Pak Lurah (KOMPAK BARENG BER-10 pakai Almet UNY) ➡️ perkenalan tim & gali bersama monografi profil desa, data kependudukan, struktur BPD, & kelembagaan desa.
+• 10.15 – 12.00 WIB: BARU MENCAR OBSERVASI LAPANGAN (Mumpung pagi biar belum panas!):
   - Sub-Tim 1 (Fajar, Dinda, Fai): Data BUMDes, UMKM mebel/pertukangan, profil desa.
   - Sub-Tim 2 (Riski, Intan, Zalfa): Hamparan sawah tani Setyo Makmur, irigasi, ternak warga, kebun, & titik TPS sampah.
   - Sub-Tim 3 (Terry, Veli, Vina, Sandra): 2 SD Negeri, TK Pertiwi/Aisyiyah, PAUD, lab/komputer sekolah, & foto lanskap.
