@@ -97,17 +97,43 @@ Untuk menjaga ketertiban konvoi di Jalan Raya Solo–Klaten, disarankan memasang
 
 ---
 
-## 🧰 Checklist Perlengkapan Wajib yang Harus Siap di Tas
+## 🧰 Master Checklist Perlengkapan & Alat Lapangan (10 Personel)
 
-- [ ] **Meteran Bangunan / Meteran Rol (Minimal 5 Meter)**: *Wajib dibawa Riski/Terry untuk ukur posko.*
-- [ ] **Papan Ujian / Clipboard + 3 Bolpoin**: *Wajib dibawa Dinda/Veli untuk mencatat di jalan.*
-- [ ] **Printout Instrumen Observasi**: Minimal 2–3 rangkap [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]].
-- [ ] **Laptop / Tablet + Charger**: *Wajib dibawa oleh Vina & Sandra untuk pengerjaan UTS jam 12.00 WIB.*
-- [ ] **Smartphone dengan Kamera Jernih & Memori Cukup**: Untuk dokumentasi sawah, ternak, sekolah, & posko.
-- [ ] **Powerbank (Minimal 10.000 mAh)**: Mengantisipasi baterai low-batt saat GPS & foto.
-- [ ] **Jas Hujan & Helm Standar SNI**: Wajib dibawa oleh masing-masing motor.
-- [ ] **Jas Almamater UNY & Baju Berkerah Sopan**: Dipakai saat sowan ke Pak RW dan Balai Desa.
-- [ ] **Uang Tunai Pecahan Kecil (Rp 50.000 – Rp 100.000)**: Untuk makan siang, bensin darurat, dan kas kecil.
+### 1. 👔 Pakaian & Identitas Resmi
+- [ ] **Dresscode (DC)**: Baju berkerah / kemeja sopan dan celana panjang rapi (bersepatu).
+- [ ] **Jas Almamater UNY**: *Wajib dibawa seluruh 10 anggota* (dipakai saat sowan ke Pak RW dan Balai Desa Wonosari).
+
+### 2. 📋 Instrumen & Administrasi Lapangan
+- [ ] **Meteran Rol Bangunan (Minimal 5 Meter)**: *Wajib dibawa Riski & Terry* untuk ukur detail kamar, ruang tengah, dan dapur posko.
+- [ ] **3 Rangkap Lembar Instrumen Observasi Lapangan**: Dicetak terpisah untuk 3 Sub-Tim dari [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]].
+- [ ] **Papan Ujian / Clipboard (Minimal 2–3 Buah)**: Agar mudah mencatat saat berdiri di sawah atau balai desa.
+- [ ] **Stopmap Kertas / Map Dokumen (2–3 Buah)**: Menjaga lembar instrumen agar rapi dan menampung berkas profil monografi dari desa.
+- [ ] **Bolpoin Cadangan (Minimal 4–5 Buah)**: Dibagi ke masing-masing tim.
+
+### 3. 🧪 Peralatan Sampel Lingkungan (Divisi Biologi - Intan & Zalfa)
+- [ ] **Botol Plastik / Sample Vial Bersih (2–3 Botol 330ml/600ml)**: Mengambil sampel air sumur posko dan air irigasi sawah.
+- [ ] **Kantong Plastik Ziplock Kecil**: Mengambil sampel tanah sawah / dedaunan bahan baku kompos & eco-enzyme.
+- [ ] **Kertas Lakmus / pH Tester Strip** *(jika tersedia)*: Menguji tingkat keasaman air posko/sungai.
+
+### 4. 💻 Kebutuhan Khusus UTS (Divisi TP - Vina & Sandra)
+- [ ] **Laptop + Charger + Mouse**: Untuk pengerjaan ujian UTS jam 12.00 WIB di posko.
+- [ ] **Roll Kabel Mini / T-Stopkontak (Colokan T)**: Mencegah rebutan colokan di posko.
+- [ ] **Kuota Internet / Tethering HP Cadangan**: Cadangan koneksi jika WiFi posko butuh setting awal.
+
+### 5. 🩹 Sanitasi, P3K & Kesehatan Lapangan
+- [ ] **Tisu Basah & Tisu Kering / Hand Sanitizer**: *Wajib sehabis cek kandang ternak, sawah, atau sampah sebelum makan/salat*.
+- [ ] **P3K Lapangan Mini & Obat Pribadi**: Tolak angin, minyak kayu putih, plester luka, dan obat alergi/asma.
+- [ ] **Tumbler Air Minum Pribadi**: Mencegah dehidrasi saat observasi desa jam 10.00–12.00 WIB.
+
+### 6. 🛵 Logistik Konvoi Motor & Perjalanan
+- [ ] **Jas Hujan (Raincoat)**: Wajib di bagasi masing-masing motor (antisipasi hujan sore Klaten–Jogja).
+- [ ] **Helm Berstandar SNI & Kaca Helm Bersih**.
+- [ ] **STNK & SIM Aktif**: Tertib berkendara di Jl. Solo.
+- [ ] **Bensin Motor Full Tank dari Jogja**.
+
+### 7. 💵 Finansial & Sosial Kemasyarakatan
+- [ ] **Uang Tunai Pecahan Kecil (Rp 2.000 s.d. Rp 50.000)**: Untuk infak masjid, jajan warung warga lokal (*lariskan ekonomi desa*), dan makan siang.
+- [ ] **Buah Tangan / Bingkisan Ringan untuk Simbah Terry**: Roti bolu / biskuit kaleng sebagai tanda santun dan terima kasih meminjamkan posko.
 
 ---
 
@@ -142,13 +168,18 @@ Berikut adalah timeline rundown, pembagian tugas lapangan, dan teknis kegiatan b
 • 15.00 – 17.00 WIB: Kunjungan ke Vendor Rompi/Vest PLK (Cek bahan kain, bordir logo, fitting ukuran, & nego harga). *Agenda opsional/fleksibel bagi yang lelah, tapi target utama tim.*
 • 17.00 WIB: Briefing penutup & perjalanan konvoi pulang ke Jogja.
 
-🎒 CHECKLIST BARANG BAWAAN:
-1. Baju berkerah sopan, bersepatu, dan WAJIB bawa JAS ALMAMATER UNY.
-2. Helm SNI + Jas Hujan di masing-masing motor.
-3. Meteran rol (Riski/Terry) & Clipboard + pulpen (Dinda/Veli).
-4. Laptop + Charger (khusus Vina & Sandra untuk UTS).
-5. Powerbank & HP memori kosong untuk dokumentasi.
-6. Uang tunai secukupnya untuk makan siang & bensin.
+🎒 MASTER CHECKLIST ALAT & BARANG BAWAAN:
+1. 👔 DC Baju berkerah sopan, bersepatu, dan WAJIB bawa JAS ALMAMATER UNY (dipakai saat sowan Balai Desa).
+2. 🛵 Helm SNI + Jas Hujan di masing-masing motor (antisipasi hujan sore).
+3. 📏 Meteran rol bangunan (Riski/Terry) untuk ukur kamar & posko.
+4. 📋 3 Set Lembar Instrumen Observasi + Clipboard + Stopmap kertas arsip.
+5. 🖊️ Bolpoin cadangan (jangan cuma 1, bawa 2–3 per tim).
+6. 🧪 Botol plastik kecil & plastik ziplock (Divisi Biologi untuk sampel air sumur/irigasi & tanah).
+7. 💻 Laptop + Charger + Roll Kabel/Colokan T (khusus Vina & Sandra untuk UTS di posko).
+8. 🔋 Powerbank & HP memori kosong untuk dokumentasi foto/video.
+9. 🧴 Tisu basah/kering & hand sanitizer (penting sehabis observasi kandang ternak/sawah/sampah).
+10. 💵 Uang tunai pecahan kecil secukupnya untuk makan siang, infak masjid & bensin.
+11. 🎁 Buah tangan / bingkisan ringan untuk simbah Terry pemilik posko.
 
 Sampai jumpa besok pagi jam 07.00 WIB di FC FT UNY yaa! Jangan lupa sarapan dari kos dan pastikan bensin motor sudah aman. Semangat mengabdi! 🌱💪✨
 ```
