@@ -30,6 +30,7 @@ status: active
 - [[03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang)]] — Pembagian peran ekspedisi 6 personel
 - [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]] — Form cetak A4 fisik posko & logistik desa
 - [[05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu]] — Telaah pembatasan delegasi partner
+- [[06 - Notulensi Rapat Internal & Kesepakatan Tata Tertib Posko]] — Notulensi resmi kas 50k, tata tertib, sanksi, & mandat survei
 
 ### Riset & Analisa
 - [[temuan]] — Log 5W1H semua analisa & keputusan tim ← MULAI DI SINI

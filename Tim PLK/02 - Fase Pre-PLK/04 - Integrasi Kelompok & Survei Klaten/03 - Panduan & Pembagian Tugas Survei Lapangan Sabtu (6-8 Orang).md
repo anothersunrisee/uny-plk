@@ -55,6 +55,11 @@ Agar pekerjaan di lokasi berjalan cepat, terstruktur, dan tidak saling menunggu,
   * **Peran Dokumentasi Visual & Lingkungan**: Mendokumentasikan kondisi lanskap desa, persawahan kelompok tani Setyo Makmur, titik penumpukan sampah liar untuk proker Eco-Enzyme/kompos, serta mengambil foto kegiatan tim untuk arsip rilis berita 5W1H.
   * **Peran Observasi Lembaga Pendidikan**: Mengambil foto detail setiap sudut ruangan posko (untuk bahan penggambaran denah/layout kasur 20 orang), memotret fasilitas fisik gedung 2 SD Negeri, TK Pertiwi, TK Aisyiyah, dan PAUD Pendem untuk perancangan media ajar interaktif.
 
+> ⚠️ **Catatan Mandat Khusus (Rekan Biologi & TP Berhalangan Hadir)**:  
+> Mengingat rekan-rekan dari **Divisi Biologi (Intan & Zalfa)** dan **Divisi Teknologi Pendidikan (Vina & Sandra)** berhalangan hadir pada survei Sabtu ini, delegasi lapangan yang berangkat (PTI & PADP) mengemban mandat penuh sebagai "mata dan telinga" di Klaten untuk mengisi data titipan di [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]]:
+> - **Titipan Biologi**: Audit sampah liar, kelayakan/pH air sumur, bahan kompos/eco-enzyme, dan keberadaan Kelompok Wanita Tani (KWT).
+> - **Titipan TP**: Audit fasilitas TIK sekolah (proyektor/lab/wifi di 2 SD Negeri, TK, PAUD) dan wawancara kendala mengajar guru.
+
 ---
 
 ## 🧰 Checklist Perlengkapan Wajib yang Harus Dibawa dari Jogja

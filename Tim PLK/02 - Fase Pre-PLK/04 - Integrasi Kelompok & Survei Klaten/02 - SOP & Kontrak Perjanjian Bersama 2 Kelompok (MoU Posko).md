@@ -42,17 +42,17 @@ status: active
 
 Rumah posko terdiri dari: **2 Kamar Besar, 1 Kamar Kecil, 1 Mushola, 1 Ruang Tamu Besar (Ruang Tengah), 1 Ruang Tamu Kecil, 2 Kamar Mandi, dan Dapur.**
 
-Dengan total penghuni **20 orang** (8 Laki-laki dan 12 Perempuan), rancangan alokasi ruang diatur sebagai berikut *(terbuka untuk penyesuaian teknis hasil diskusi bersama)*:
+Dengan total penghuni **20 orang** (8 Laki-laki dan 12 Perempuan), alokasi ruang dan batasan privasi diatur secara mengikat sebagai berikut:
 
-| Area / Ruangan | Kapasitas & Penghuni | Tata Tertib Khusus & Batasan |
+| Area / Ruangan | Kapasitas & Penghuni | Tata Tertib Khusus & Batasan Privasi |
 |:---|:---|:---|
-| **Kamar Besar 1** | Khusus Mahasiswi Tim NIRANTARA (7 Orang) | Area privat perempuan. Laki-laki **DILARANG KERAS** melintas, duduk, atau masuk ke dalam kamar tidur perempuan dengan alasan apa pun! |
-| **Kamar Besar 2** | Khusus Mahasiswi KELOMPOK B (5 Orang) | Area privat perempuan. Dipisah per kelompok agar masing-masing kelompok terjaga kenyamanan dan privasinya. Laki-laki **DILARANG KERAS** masuk. |
+| **Kamar Besar 1** | Khusus Mahasiswi Tim NIRANTARA (7 Orang) | Area privat perempuan. Laki-laki **DILARANG KERAS** melintas, duduk, atau masuk ke dalam kamar tidur perempuan dengan alasan apa pun! **Akses mahasiswi dari kelompok samping (Kelompok B) juga dibatasi secara ketat** demi menjaga privasi dan keamanan barang-barang pribadi. |
+| **Kamar Besar 2** | Khusus Mahasiswi KELOMPOK B (5 Orang) | Area privat perempuan. Dipisah per kelompok agar masing-masing kelompok terjaga kenyamanan dan privasinya. Laki-laki **DILARANG KERAS** masuk. Akses mahasiswi Nirantara juga dibatasi secara proporsional. |
 | **Ruang Tengah (Besar) & Kamar Kecil** | Khusus Mahasiswa (8 Orang: 3 Nirantara + 5 Kelompok B) | Area bersama yang difungsikan untuk istirahat tidur laki-laki dengan **aturan disiplin jam ketat**: <br>1. Kasur lipat/gulung **baru boleh digelar mulai pukul 23.00 WIB (jam 11 malam)**.<br>2. Pukul **05.00 WIB pagi seluruh kasur WAJIB sudah digulung dan dirapikan kembali**, sehingga ruang tengah steril dan siap dipakai untuk aktivitas umum posko. |
 | **Mushola Posko** | Tempat Ibadah Bersama Seluruh Anggota | Wajib dijaga kesucian dan kebersihannya. Dilarang dijadikan tempat tidur permanen atau menaruh barang logistik proker. |
 | **Ruang Tamu Depan** | Area Transit Tamu / Ruang Diskusi Terbatas | Area umum untuk menerima tamu perangkat desa/warga. Wajib selalu rapi. |
-| **2 Kamar Mandi Posko** | Diprioritaskan untuk Mahasiswi *(Bahan Diskusi)* | Mengingat rasio 12 mahasiswi : 8 mahasiswa dengan 2 kamar mandi, pada jam sibuk pagi (05.30 – 07.30 WIB) kamar mandi diutamakan untuk perempuan. Anggota laki-laki direkomendasikan memanfaatkan fasilitas MCK dan wudhu di **Masjid terdekat** guna menghindari kemacetan antrean (atau mekanisme alternatif yang disepakati bersama). |
-| **Dapur Bersama** | Tempat Memasak & Logistik Makan | Posko tidak memiliki kulkas. Makanan basah/cepat basi dilarang disimpan berhari-hari. Piring dan gelas kotor wajib langsung dicuci setelah dipakai. |
+| **2 Kamar Mandi Posko** | Diprioritaskan untuk Mahasiswi | Mengingat rasio 12 mahasiswi : 8 mahasiswa dengan 2 kamar mandi, pada jam sibuk pagi (05.30 – 07.30 WIB) kamar mandi diutamakan untuk perempuan. Anggota laki-laki diarahkan memanfaatkan fasilitas MCK dan wudhu di **Masjid terdekat** guna menghindari kemacetan antrean. |
+| **Dapur Bersama** | Tempat Memasak & Logistik Makan | Posko tidak memiliki kulkas. Makanan basah/cepat basi dilarang disimpan berhari-hari. Diberlakukan sistem dapur **"Habis Pakai, Langsung Cuci"** secara ketat. |
 
 ---
 
@@ -76,22 +76,30 @@ Dengan total penghuni **20 orang** (8 Laki-laki dan 12 Perempuan), rancangan alo
 
 1. **Jam Ketenangan (*Quiet Hours*)**:
    * Jam malam ketenangan lingkungan dimulai pukul **22.00 WIB**.
-   * Setelah pukul 22.00 WIB, seluruh penghuni dilarang bersuara keras, berteriak saat bermain game online (Mobile Legends, Valorant, dll), memainkan instrumen musik yang bising, atau menyalakan speaker keras.
-2. **Etika Bertetangga di Pedukuhan**:
+   * Setelah pukul 22.00 WIB, tidak ada toleransi untuk suara musik keras, obrolan gaduh, atau permainan game online (Mobile Legends, Valorant, dll) yang mengganggu waktu istirahat sesama mahasiswa maupun ketentraman warga sekitar.
+2. **Nol Toleransi (*Zero Tolerance*) Perilaku Berbahaya & Asusila**:
+   * Posko bebas 100% dari minuman beralkohol, perjudian (online/offline), narkoba/zat adiktif terlarang, maupun segala bentuk tindakan asusila.
+   * Pelanggaran terhadap larangan ini berakibat pada **sanksi pengusiran langsung** tanpa kompromi.
+3. **Etika Bertetangga di Pedukuhan**:
    * Posko berada di lingkungan pemukiman pedukuhan Majegan yang kental nilai religius dan santun.
    * Dilarang nongkrong di pinggir jalan/teras depan dengan pakaian tidak sopan atau membuat kerumunan yang menimbulkan keresahan warga.
    * **DILARANG MEROKOK DI DALAM RUMAH**. Area merokok hanya diperbolehkan di area luar (teras belakang/halaman) dan puntung rokok wajib dibuang di asbak tertutup.
-3. **Larangan Membawa Orang Luar**:
+4. **Larangan Membawa Orang Luar**:
    * Dilarang keras membawa teman kuliah di luar 20 orang anggota resmi, pacar, atau orang asing untuk menginap di posko tanpa izin lisan dan persetujuan dari Terry dan Ketua Nirantara.
 
 ---
 
-## 🧹 PASAL 5: KEBERSIHAN & MANAJEMEN SISA BAHAN PROKER
+## 🧹 PASAL 5: KEBERSIHAN, ATURAN DAPUR, & PIKET HARIAN
 
-1. **Piket Kebersihan Bersama**:
-   * Jadwal piket kebersihan harian (menyapu, mengepel, membuang sampah, membersihkan kamar mandi) dijalankan secara adil dengan skema giliran lintas kelompok: **1 orang Nirantara + 1 orang Kelompok B per hari**.
-2. **Larangan Pembuangan Sisa Proker Sembarangan (POIN KRITIS)**:
-   * Dilarang menumpuk material sisa proker (seperti sisa kayu bambu, kaleng cat, spanduk banner usang, tanah pupuk, botol fermentasi limbah, atau kardus) di ruang tamu, teras depan, atau pekarangan rumah simbah.
+1. **Aturan Dapur "Habis Pakai, Langsung Cuci" (POIN MUTLAK)**:
+   * Dilarang menumpuk piring, gelas, cangkir, sendok, wajan, atau peralatan masak lebih dari **15 menit** setelah digunakan.
+   * **Sanksi Spontan**: Anggota yang melanggar dan membiarkan perabotan kotor menumpuk wajib mencuci seluruh perabotan kotor yang ada di dapur pada hari tersebut.
+2. **Sistem Piket Harian Terpisah (Spin Roda)**:
+   * Jadwal piket harian diundi secara transparan melalui sistem **Spin Roda / Undian**.
+   * Tugas **Piket Memasak** dan **Piket Kebersihan Posko** (menyapu, mengepel, menguras bak, membuang sampah) dipisahkan secara berbeda agar pembagian beban kerja berkeadilan.
+   * Regu piket yang mangkir, terlambat, atau gagal menyelesaikan tugas pembersihan harian langsung dijatuhi sanksi pelanggaran tata tertib posko.
+3. **Larangan Pembuangan Sisa Proker Sembarangan**:
+   * Dilarang menumpuk material sisa proker (kayu bambu, kaleng cat, spanduk banner, tanah kompos, limbah botol, atau kardus) di ruang tamu, teras depan, atau pekarangan rumah simbah.
    * Seluruh sisa logistik proker wajib langsung dibersihkan dan dibuang pada hari yang sama setelah kegiatan selesai.
 
 ---
@@ -111,19 +119,18 @@ Meskipun biaya sewa posko adalah Rp 0,- (Gratis), seluruh biaya utilitas habis p
 
 ---
 
-## ⚖️ PASAL 7: SANKSI PELANGGARAN BERTINGKAT
+## ⚖️ PASAL 7: SANKSI PELANGGARAN BERJENJANG
 
-Apabila ditemukan pelanggaran terhadap pasal-pasal di atas oleh anggota Pihak Kedua maupun Pihak Pertama, diberlakukan sanksi:
+Setiap pelanggaran terhadap tata tertib posko akan dicatat secara transparan oleh Tim Kesekretariatan dan diberlakukan sanksi berjenjang yang telah disepakati bersama:
 
-1. **Sanksi Tingkat I (Peringatan Lisan & Notulensi Pelanggaran)**:
-   * Diberikan pada pelanggaran pertama (misal: membiarkan piring kotor, gaduh di atas jam 22.00 WIB, melanggar waktu check-in).
-2. **Sanksi Tingkat II (Surat Peringatan Resmi & Laporan ke DPL)**:
-   * Diberikan jika teguran pertama diabaikan atau terjadi pengulangan pelanggaran lebih dari 2 kali. Pihak Pertama berhak mengirimkan surat tembusan resmi ke Dosen Pembimbing Lapangan (DPL) Kelompok B.
-3. **Sanksi Tingkat III (PENCABUTAN HAK SINGGAH POSKO / PENGUSIRAN)**:
-   * Pihak Pertama dan Keluarga Pemilik Rumah memiliki **HAK VETO PENUH** untuk mengeluarkan anggota atau mencabut izin singgah Pihak Kedua dari rumah posko tanpa kompensasi apa pun jika Pihak Kedua:
-     - Melakukan tindakan asusila / mencemarkan nama baik keluarga dan kampus di lingkungan warga.
-     - Merusak fasilitas fisik rumah posko tanpa ganti rugi.
-     - Terus-menerus membuat kegaduhan dan mengabaikan Surat Peringatan II.
+| Tingkat Pelanggaran | Akumulasi Pelanggaran | Sanksi Wajib yang Dijalankan Pelanggar |
+|:---:|:---:|---|
+| **Tingkat I** | **1 s.d. 2 Kali Pelanggaran** | Dikenakan sanksi **membersihkan posko dan memasak** di posko walaupun sedang **TIDAK** dalam jadwal piket. |
+| **Tingkat II** | **3 s.d. 4 Kali Pelanggaran** | Dikenakan sanksi **membersihkan posko dan memasak selama 3 HARI BERTURUT-TURUT** di posko walaupun sedang tidak piket. |
+| **Tingkat III** | **5 s.d. 6 Kali Pelanggaran** | Dikenakan sanksi **MEMBELIKAN PIZZA** untuk dinikmati oleh seluruh rekan mahasiswa satu posko (20 orang). |
+| **Tingkat IV** | **7 s.d. 10 Kali Pelanggaran** | **DILAPORKAN SECARA RESMI KE DOSEN PEMBIMBING LAPANGAN (DPL)** masing-masing serta dilakukan **Pencabutan Hak Singgah / Pengusiran dari Posko** tanpa toleransi. |
+
+*Khusus untuk pelanggaran berat (tindakan asusila, alkohol, narkoba, perusakan aset rumah fisik, atau pencemaran nama baik di warga), sanksi langsung melompat ke Tingkat IV (Pengusiran & Lapor DPL/Dekanat).*
 
 ---
 

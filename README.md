@@ -77,6 +77,7 @@ Struktur repositori ini dirancang teratur untuk mempermudah akses seluruh anggot
 │   │   │   ├── 📄 03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang).md
 │   │   │   ├── 📄 04 - Lembar Instrumen Observasi Lapangan (Print Ready).md
 │   │   │   ├── 📄 05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu.md
+│   │   │   ├── 📄 06 - Notulensi Rapat Internal & Kesepakatan Tata Tertib Posko.md
 │   │   │   └── 📄 Draft Survey Lokasi Klaten.md
 │   │   └── 📁 05 - Arsip/                          ← Dokumen sprint awal & inventaris
 │   │
