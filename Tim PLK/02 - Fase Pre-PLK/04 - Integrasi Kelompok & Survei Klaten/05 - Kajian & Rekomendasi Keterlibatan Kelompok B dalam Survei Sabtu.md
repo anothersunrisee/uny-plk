@@ -7,9 +7,15 @@ status: active
 # ⚖️ Kajian & Rekomendasi: Apakah Kelompok B Boleh Join Survei Hari Sabtu?
 **Analisis Risiko, Opsi Solusi, & Rekomendasi Taktis Tim NIRANTARA**
 
+> [!WARNING]
+> **STATUS DOKUMEN: BATAL / SUPERSEDED (Jumat, 23 Oktober 2026)**  
+> Kelompok B (Kelompok Teman PTI - Terry) **RESMI MENYATAKAN MUNDUR** dari posko dan desa Wonosari pada 23 Oktober 2026 pukul 21.35 WIB karena keberatan aturan bangun/sterilisasi posko jam 05.00/06.00 WIB pagi. Mereka juga **tidak jadi ikut survei Sabtu**.  
+> **Keputusan Final:** Survei Sabtu (24 Okt 2026) dilaksanakan **100% MANDIRI OLEH TIM NIRANTARA (Murni Internal)**.  
+> Lihat rekapitulasi lengkap & evaluasi di: **[[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]]**.
+
 ---
 
-## ❓ Pertanyaan Inti
+## ❓ Pertanyaan Inti (Arsip Rekam Historis)
 > *"Kelompok satunya (Kelompok Teman PTI - Terry: 5 cowok 5 cewek) mau join survei hari Sabtu besok di Desa Wonosari, apakah boleh? Ataukah lebih baik kita (Nirantara) dulu?"*
 
 ---

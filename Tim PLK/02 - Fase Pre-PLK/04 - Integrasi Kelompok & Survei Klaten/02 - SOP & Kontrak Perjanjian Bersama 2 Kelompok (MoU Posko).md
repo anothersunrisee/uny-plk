@@ -7,9 +7,12 @@ status: active
 # 📑 SURAT PERJANJIAN KONTRAK & STANDAR OPERASIONAL PROSEDUR (SOP)
 ## TATA TERTIB PENGGUNAAN BASECAMP BERSAMA PLK UNY MENGABDI 2027
 **Lokasi**: Dukuh Majegan, RT 01 / RW 01, Desa Wonosari, Kecamatan Trucuk, Kabupaten Klaten  
-**Pihak Terkait**:  
-1. **PIHAK PERTAMA**: Tim PLK UNY **NIRANTARA** (Penyelenggara Awal & Tuan Rumah Posko)  
-2. **PIHAK KEDUA**: Tim PLK UNY **KELOMPOK B (Teman PTI)** (Pihak Mitra Singgah)
+
+> [!NOTE]
+> **STATUS DOKUMEN: MASTER TEMPLATE KONTRAK POSKO BERSAMA (Pembaruan: 23 Oktober 2026)**  
+> Kelompok B (Teman PTI) sebelumnya berencana menandatangani dokumen ini, namun resmi mundur per 23 Oktober 2026 karena keberatan dengan aturan jam bangun 05.00/06.00 WIB.  
+> Dokumen ini **tetap dipertahankan sebagai Standar Operasional Prosedur (SOP) Baku dan Template Pakta Integritas** apabila ada kelompok calon mitra baru yang memilih **Skema Kemitraan 1 Posko Bersama**.  
+> Lihat evaluasi lengkap di: **[[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]]**.
 
 ---
 

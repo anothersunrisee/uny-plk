@@ -66,9 +66,7 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 
 ### Tentang PLK UNY & Situasi Posko Wonosari
 - PLK = setara KKN, konversi 10-20 SKS (Minimal 272 Jam Kerja Efektif, via Logbook)
-- Tim harus terdiri dari **minimal 10 orang dari minimal 2 prodi berbeda** (Ideal: 3-4 prodi).
-- **Aturan 2 Kelompok per Desa**: Tim Nirantara menerima **Kelompok Teman PTI (Kelompok B: 5 cowok 5 cewek)** untuk berbagi desa dan menempati posko rumah simbah Terry bersama (total 20 orang: 8 cowok + 12 cewek) dengan **Kontrak SOP & MoU Tertulis Ketat** agar independen dan tertib.
-- **Aturan Jam Logbook**: PTI, PADP, dan Biologi memperbolehkan jam persiapan Jogja, namun **Teknologi Pendidikan (FIP) mewajibkan 272 jam harus di Klaten**.
+- **Aturan 2 Kelompok per Desa & Status Posko**: Sesuai regulasi LPPM di Klaten (min. 2 kelompok per kelurahan/desa), Tim Nirantara berlokasi di Desa Wonosari. Kelompok B (Teman PTI - Terry, 5 cowok 5 cewek) **resmi mundur per 23 Oktober 2026** karena keberatan dengan aturan jam steril/bangun posko jam 05.00/06.00 WIB. Posko Majegan kini **100% eksklusif dihuni 10 orang Tim Nirantara** (jauh lebih kondusif & privat). Untuk pemenuhan syarat LPPM, tim membuka oprec kemitraan 1 desa baru dengan 2 opsi: **Opsi A (Posko Mandiri Sewa Sendiri di Desa Wonosari - Recommended)** atau **Opsi B (1 Posko Bersama Bersyarat MoU Ketat)**. Rujuk ke: `[[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]]`.
 
 ### Sistem Kerja Tim (Struktur Matrix)
 - Tim ini menggunakan **Struktur Organisasi Matrix**.

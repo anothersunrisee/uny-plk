@@ -82,4 +82,22 @@ Poin-poin berikut akan dibahas dan diputuskan secara mendalam saat sesi pertemua
 
 ---
 
-← [[01 - Panduan Rapat Mandiri Tim (Tanpa Ketua)]] | [[02 - SOP & Kontrak Perjanjian Bersama 2 Kelompok (MoU Posko)]] | [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]]
+## 🛑 ADDENDUM RESMI (Pembaruan: Jumat, 23 Oktober 2026 — 22.00 WIB)
+### Pembatalan Bergabungnya Kelompok B (Teman PTI) & Oprec Kelompok Mitra Baru
+
+1. **Status Kelompok B (5 Cowok & 5 Cewek)**:
+   * Pada pukul 21.35 WIB, perwakilan Kelompok B (Tama) secara resmi mengonfirmasi pengunduran diri dari opsi tinggal 1 posko bersama dan opsi 1 desa pengabdian di Desa Wonosari.
+   * **Penyebab Utama**: Keberatan terhadap klausul tata tertib posko yang mewajibkan sterilisasi ruang tengah posko pada pukul 05.00 / 06.00 WIB pagi (*"belum tentu sanggup bangun jam 5/6 pagi"*).
+   * Mereka juga membatalkan keikutsertaan delegasi pada agenda survei Sabtu, 24 Oktober 2026.
+2. **Implikasi bagi Posko Dukuh Majegan**:
+   * Posko rumah simbah Terry kini **100% eksklusif dihuni oleh 10 anggota Tim NIRANTARA** (3 Laki-laki dan 7 Perempuan).
+   * Kapasitas posko menjadi sangat lapang dan kondusif: tidak ada lagi kebutuhan tidur berdesakan di ruang tengah, antrean 2 kamar mandi menjadi sangat proporsional untuk 10 orang, dan potensi friksi kebersihan/jam bangun pagi terminimalisasi secara total.
+3. **Kepatuhan Regulasi LPPM & Rekrutmen Mitra Baru**:
+   * Sesuai ketentuan LPPM UNY (minimal 2 kelompok per kelurahan di Klaten), Tim NIRANTARA membuka penawaran kemitraan bagi kelompok mahasiswa UNY angkatan 2024 lainnya dengan 2 opsi:
+     - **Opsi A (Sangat Direkomendasikan)**: 1 Desa Wonosari, Posko Mandiri (Sewa posko sendiri di dukuh lain, hanya sinergi legalitas desa & proker akbar).
+     - **Opsi B (Bersyarat Ketat)**: 1 Posko Bersama di Majegan, wajib menandatangani pakta integritas SOP posko tanpa toleransi pelanggaran jam bangun/kebersihan.
+   * Rekapitulasi lengkap, bedah analisis *blessing in disguise*, dan draf siaran broadcast oprec mitra desa terdokumentasi di: **[[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]]**.
+
+---
+
+← [[01 - Panduan Rapat Mandiri Tim (Tanpa Ketua)]] | [[02 - SOP & Kontrak Perjanjian Bersama 2 Kelompok (MoU Posko)]] | [[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]] | [[Home]]

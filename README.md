@@ -78,6 +78,7 @@ Struktur repositori ini dirancang teratur untuk mempermudah akses seluruh anggot
 │   │   │   ├── 📄 04 - Lembar Instrumen Observasi Lapangan (Print Ready).md
 │   │   │   ├── 📄 05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu.md
 │   │   │   ├── 📄 06 - Notulensi Rapat Internal & Kesepakatan Tata Tertib Posko.md
+│   │   │   ├── 📄 07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa.md
 │   │   │   └── 📄 Draft Survey Lokasi Klaten.md
 │   │   └── 📁 05 - Arsip/                          ← Dokumen sprint awal & inventaris
 │   │
@@ -106,8 +107,9 @@ Struktur repositori ini dirancang teratur untuk mempermudah akses seluruh anggot
 
 * **Lokasi Pengabdian**: Desa Wonosari, Kecamatan Trucuk, Kabupaten Klaten, Jawa Tengah.
 * **Basecamp / Posko Tim**: Rumah keluarga dari Muhadzdzib Terry di Dukuh Majegan, RT 01 / RW 01, Desa Wonosari.
-* **Kapasitas Posko**: Rumah pribadi dengan 2 Kamar Besar, 1 Kamar Kecil, 1 Mushola, Ruang Tamu Depan, Ruang Tengah (Besar), 2 Kamar Mandi, dan Dapur Bersama.
-* **Kolaborasi 2 Kelompok**: Posko dihuni bersama oleh **Tim Nirantara (10 orang)** dan **Kelompok B Mitra Teman PTI (10 orang)** dengan total 20 mahasiswa, yang diikat melalui [Kontrak SOP Bersama (MoU)](Tim%20PLK/02%20-%20Fase%20Pre-PLK/04%20-%20Integrasi%20Kelompok%20&%20Survei%20Klaten/02%20-%20SOP%20&%20Kontrak%20Perjanjian%20Bersama%202%20Kelompok%20%28MoU%20Posko%29.md) guna menjamin ketertiban, kebersihan, jam malam (22.00 WIB), dan independensi program kerja masing-masing.
+* **Kapasitas Posko**: Rumah permanen luas dengan 2 Kamar Besar, 1 Kamar Kecil, 1 Mushola, Ruang Tamu Depan, Ruang Tengah (Besar), 2 Kamar Mandi, dan Dapur Bersama.
+* **Status Hunian Posko**: **100% Eksklusif Dihuni 10 Anggota Tim Nirantara** (3 Laki-laki & 7 Perempuan). Sangat lapang, privat, higienis, dan kondusif untuk istirahat serta koordinasi proker.
+* **Kemitraan Desa (Regulasi LPPM)**: Menindaklanjuti regulasi LPPM UNY (min. 2 kelompok/kelurahan di Klaten) pasca mundurnya Kelompok B per 23 Oktober 2026, Tim Nirantara membuka penawaran kemitraan bagi 1 kelompok angkatan 2024 lain dengan model **Opsi A: Mitra 1 Desa — Posko Mandiri (Sewa Sendiri - Sangat Disarankan)** atau **Opsi B: 1 Posko Bersama Bersyarat Pakta Integritas SOP**. Detail: [Evaluasi & Strategi Oprec Mitra Desa](Tim%20PLK/02%20-%20Fase%20Pre-PLK/04%20-%20Integrasi%20Kelompok%20&%20Survei%20Klaten/07%20-%20Evaluasi%20Mundurnya%20Kelompok%20B%20&%20Strategi%20Oprec%20Mitra%20Desa.md).
 
 ---
 

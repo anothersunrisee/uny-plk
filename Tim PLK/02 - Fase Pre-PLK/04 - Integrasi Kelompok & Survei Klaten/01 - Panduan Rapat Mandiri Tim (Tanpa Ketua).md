@@ -39,6 +39,11 @@ status: active
 ## 🧭 Panduan Diskusi per Sesi (Step-by-Step)
 
 ### 📌 SESI 1 & 2: Keputusan Menerima Kelompok Teman PTI (Kelompok B)
+
+> [!NOTE]
+> **UPDATE STATUS (Jumat, 23 Oktober 2026 — 21.35 WIB): KELOMPOK B RESMI MUNDUR**  
+> Setelah draf tata tertib posko dikomunikasikan, perwakilan Kelompok B (Tama) resmi menyatakan mundur karena keberatan aturan sterilisasi posko jam 05.00/06.00 WIB pagi. Nirantara membuka oprec kelompok mitra baru. Detail di: **[[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]]**.
+
 * **Konteks Masalah**:
   * Regulasi LPPM/Unit KKN mewajibkan minimal 2 kelompok per kelurahan di Klaten.
   * Kelompok Biologi (10 cewek) mundur secara alamiah karena menolak 1 posko dan biaya kontrakan desa berbayar mahal tanpa bisa dinego.
@@ -80,6 +85,11 @@ Terry memaparkan kondisi denah rumah simbahnya:
 ---
 
 ### 📌 SESI 4: Menjawab Pertanyaan: "Apakah Kelompok B Boleh Join Survei Sabtu?"
+
+> [!NOTE]
+> **UPDATE STATUS (Jumat, 23 Oktober 2026): BATAL JOIN SURVEI**  
+> Kelompok B telah mengonfirmasi tidak jadi ikut survei Sabtu. Survei Sabtu (24 Okt 2026) dilaksanakan murni oleh delegasi internal Nirantara.
+
 * **Rekomendasi Resmi Ketua**:
   * ❌ **JANGAN DIBOLEHKAN DATANG FULL TEAM (Rombongan 5–10 orang)!**
     * *Alasan*: Kalau rombongan besar datang bersamaan, suasana akan kacau, tidak fokus, terkesan "arak-arakan", membuat warga/perangkat desa risih, dan mengganggu privasi keluarga Terry yang sedang memindahkan simbah.
