@@ -76,7 +76,7 @@ Poin-poin berikut akan dibahas dan diputuskan secara mendalam saat sesi pertemua
   * Rekan-rekan Biologi (Intan & Zalfa) dan TP (Vina & Sandra) mengonfirmasi dapat bergabung penuh.
   * *Catatan Khusus*: Vina dan Sandra memiliki jadwal ujian UTS pada pukul 12.00 WIB, sehingga akan mengerjakan UTS langsung di posko (difasilitasi ruang tenang dan WiFi posko).
 * **Skema Pemetaan Lapangan (3 Sub-Tim)**:
-  * Ekspedisi dibagi menjadi 3 sub-tim fungsional: **Tim 1** (Fajar, Dinda, Fai: RW, Lurah, BUMDes, UMKM), **Tim 2** (Riski, Intan, Zalfa: Sawah Setyo Makmur, ternak, kebun, sampah), dan **Tim 3** (Terry, Veli, Vina, Sandra: 2 SD Negeri, TK, PAUD, lab komputer, foto lanskap).
+  * Ekspedisi dibagi menjadi 3 sub-tim fungsional: **Tim 1** (Fajar, Veli, Dinda, Fay: BUMDes, profil desa, & sentra UMKM mebel), **Tim 2** (Riski, Intan, Zalfa: Sawah Setyo Makmur, irigasi, ternak, kebun, & sampah), dan **Tim 3** (Terry, Vina, Sandra: 2 SD Negeri, TK, PAUD, lab komputer, foto lanskap).
   * Rundown lengkap dan formasi konvoi 5 motor terdokumentasi di: **[[03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang)]]**.
 
 ---

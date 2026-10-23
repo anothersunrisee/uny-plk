@@ -24,11 +24,11 @@ Dengan hadirnya seluruh 10 anggota dari 4 fakultas/prodi, survei lapangan dibagi
 flowchart TD
     EKSPEDISI["🌱 EKSPEDISI 10 PERSONEL TIM NIRANTARA\n(Sowan Bersama RW & Balai Desa: 09.00 – 10.15 WIB)"]
 
-    EKSPEDISI -->|"Mencar Pukul 10.15 WIB"| T1["🏛️ SUB-TIM 1: Administrasi & UMKM\n──────────────────────────────\n• Fajar Ahnaf (Kordes - FT)\n• Dinda Amelia (Sekre 1 - FEB)\n• Faidatul A. (Benda 1 - FEB)\n──────────────────────────────\n🎯 Target: BUMDes, Profil Desa & UMKM Mebel"]
+    EKSPEDISI -->|"Mencar Pukul 10.15 WIB"| T1["🏛️ SUB-TIM 1: Administrasi & UMKM\n──────────────────────────────\n• Fajar Ahnaf (Kordes - FT)\n• Novelia Harlinda / Veli (Sekre 2 - FT)\n• Dinda Amelia (Sekre 1 - FEB)\n• Faidatul A. / Fay (Benda 1 - FEB)\n──────────────────────────────\n🎯 Target: BUMDes, Profil Desa & UMKM Mebel"]
 
     EKSPEDISI -->|"Mencar Pukul 10.15 WIB"| T2["🌾 SUB-TIM 2: Agrikultur & Lingkungan\n──────────────────────────────\n• Muhamad Riski (Perkap - FT)\n• Intan Milansari (Bio - FMIPA)\n• Zalfa Khoirunnisa (Bio - FMIPA)\n──────────────────────────────\n🎯 Target: Sawah Tani, Irigasi, Ternak & Sampah"]
 
-    EKSPEDISI -->|"Mencar Pukul 10.15 WIB"| T3["🎓 SUB-TIM 3: Pendidikan & TIK\n──────────────────────────────\n• Terry Al Fauzan (Humas - FT)\n• Novelia Harlinda (Sekre 2 - FT)\n• Alvina Aulia (PDD 1 - FIP)\n• Krissandra S. (Perkap - FIP)\n──────────────────────────────\n🎯 Target: 2 SD Negeri, TK, PAUD & TIK Sekolah"]
+    EKSPEDISI -->|"Mencar Pukul 10.15 WIB"| T3["🎓 SUB-TIM 3: Pendidikan & TIK\n──────────────────────────────\n• Terry Al Fauzan (Humas - FT)\n• Alvina Aulia / Vina (PDD 1 - FIP)\n• Krissandra S. / Sandra (Perkap - FIP)\n──────────────────────────────\n🎯 Target: 2 SD Negeri, TK, PAUD & TIK Sekolah"]
 ```
 
 > [!IMPORTANT]
@@ -36,15 +36,15 @@ flowchart TD
 > Sesi sowan ke **Kepala RW 01 Dukuh Majegan** dan sowan resmi ke **Kantor Balai Desa Wonosari / Pak Lurah** dilakukan **BERSAMA-SAMA SELURUH 10 ANGGOTA (Full Team)** dengan mengenakan **Jas Almamater UNY**. Ini untuk menunjukkan kekompakan tim, kesopanan bertamu, perkenalan formasi 4 fakultas/prodi, serta bersama-sama menggali data monografi profil desa, data kependudukan, struktur BPD, dan kelembagaan desa.  
 > **Baru setelah selesai sowan balai desa (pukul 10.15 WIB), tim MENCAR menjadi 3 Sub-Tim** untuk pemetaan wilayah sesuai keahlian bidang masing-masing.
 
-### 🏛️ 1. Sub-Tim 1: Administrasi Desa & Pemetaan Sentra UMKM
-* **Personel**: **Fajar Ahnaf Mahardika** (Ketua/FT), **Dinda Amelia Putri** (Sekretaris 1/FEB), **Faidatul Anugraheni M.** (Bendahara 1/FEB).
+### 🏛️ 1. Sub-Tim 1: Administrasi Desa, IT & Pemetaan Sentra UMKM
+* **Personel (4 Orang)**: **Fajar Ahnaf Mahardika** (Ketua/FT), **Novelia Harlinda / Veli** (Sekretaris 2/FT), **Dinda Amelia Putri** (Sekretaris 1/FEB), **Faidatul Anugraheni M. / Fay** (Bendahara 1/FEB).
 * **Fokus Tugas Lapangan (Saat Mencar Pukul 10.15 – 12.00 WIB)**:
   1. Mendalami unit usaha **BUMDes Wonosari** (omset, unit usaha aktif, potensi pengembangan digital/pembukuan).
   2. Melakukan wawancara dan pemetaan **Sentra UMKM Lokal** (pengrajin mebel kayu/pertukangan, industri kerajinan rumahan, toko kelontong, dan sentra kuliner desa).
   3. Mengidentifikasi kendala legalitas usaha (NIB), pembukuan keuangan kas, dan strategi promosi digital UMKM desa.
 
 ### 🌾 2. Sub-Tim 2: Agrikultur, Lingkungan Hidup, & Peternakan Warga
-* **Personel**: **Muhamad Riski** (Perkap 1/FT), **Intan Milansari** (PDD 2 & Koor Lingkungan/FMIPA), **Zalfa Khoirunnisa** (Bendahara 2/FMIPA).
+* **Personel (3 Orang)**: **Muhamad Riski** (Perkap 1/FT), **Intan Milansari** (PDD 2 & Koor Lingkungan/FMIPA), **Zalfa Khoirunnisa** (Bendahara 2/FMIPA).
 * **Fokus Tugas Lapangan (Saat Mencar Pukul 10.15 – 12.00 WIB)**:
   1. Observasi hamparan sawah pertanian padi dan saluran irigasi milik **Kelompok Tani Setyo Makmur**.
   2. Mendata komoditas kebun warga serta mengidentifikasi keberadaan **Kelompok Wanita Tani (KWT)** atau PKK dasawisma.
@@ -53,7 +53,7 @@ flowchart TD
   5. Menakar ketersediaan bahan organik lokal untuk rencana program pembuatan **Kompos Organik & Eco-Enzyme**.
 
 ### 🎓 3. Sub-Tim 3: Fasilitas Pendidikan, Sekolah, & TIK Desa
-* **Personel**: **Muhadzdzib Terry** (Humas/FT), **Novelia Harlinda / Veli** (Sekretaris 2/FT), **Alvina Aulia Az Zahra / Vina** (PDD 1 & Koor Pendidikan/FIP), **Krissandra Siagian / Sandra** (Perkap 2/FIP).
+* **Personel (3 Orang)**: **Muhadzdzib Terry Al Fauzan** (Humas/FT), **Alvina Aulia Az Zahra / Vina** (PDD 1 & Koor Pendidikan/FIP), **Krissandra Siagian / Sandra** (Perkap 2/FIP).
 * **Fokus Tugas Lapangan (Saat Mencar Pukul 10.15 – 12.00 WIB)**:
   1. Melakukan kunjungan observasi ke lembaga pendidikan formal dan non-formal:
      * **SD Negeri 1 Wonosari** & **SD Negeri 2 Wonosari**.
@@ -73,7 +73,7 @@ flowchart TD
 | **08.45 – 09.00** | 15' | **Tiba di Posko Majegan & Istirahat Sejenak (*Resting*)**<br>• Menaruh barang bawaan tas/helm di rumah simbah Terry.<br>• Minum, rehidrasi, dan persiapan instrumen observasi. | Posko Rumah Simbah Terry | Terry (Tuan Rumah) |
 | **09.00 – 09.30** | 30' | **Sowan Pertama: Silaturahmi ke Kepala RW 01 Dukuh Majegan (BERSAMA BER-10)**<br>• *Kulon nuwun* bersama seluruh 10 anggota kepada tokoh masyarakat sekitar posko.<br>• Meminta arahan singkat terkait karakteristik lingkungan warga & ketertiban posko. | Kediaman Pak RW 01 Majegan | **Seluruh 10 Anggota** (Dipandu Terry & Fajar) |
 | **09.30 – 10.15** | 45' | **Sowan Kedua: Audiensi Balai Desa / Pak Lurah Wonosari (BERSAMA BER-10)**<br>• Audiensi resmi bersama Kepala Desa / Sekdes & Perangkat Desa (**Wajib Berjas Almet UNY**).<br>• Perkenalan formasi 10 anggota Nirantara dari 4 Fakultas (FT, FEB, FMIPA, FIP).<br>• Menggali bersama **monografi profil desa, data kependudukan, struktur BPD, dan kelembagaan desa**.<br>• Konfirmasi perizinan awal dan penerimaan PLK. | Kantor Balai Desa Wonosari | **Seluruh 10 Anggota** (Dipimpin Fajar & Dinda) |
-| **10.15 – 12.00** | 105' | **Misi Lapangan: 3 Sub-Tim MENCAR Memetakan Potensi Desa**<br>*(Selesai dari balai desa, tim menyebar mumpung belum terik panas)*<br>• **Sub-Tim 1 (Fajar, Dinda, Fai)**: Pendalaman BUMDes & wawancara sentra pengrajin mebel/UMKM lokal.<br>• **Sub-Tim 2 (Riski, Intan, Zalfa)**: Observasi sawah tani Setyo Makmur, irigasi, kandang ternak sapi/kambing, kebun, & TPS sampah.<br>• **Sub-Tim 3 (Terry, Veli, Vina, Sandra)**: Observasi 2 SD Negeri, TK Pertiwi/Aisyiyah, PAUD, & fasilitas TIK sekolah. | Wilayah Tersebar Desa Wonosari | Terbagi Sesuai 3 Sub-Tim |
+| **10.15 – 12.00** | 105' | **Misi Lapangan: 3 Sub-Tim MENCAR Memetakan Potensi Desa**<br>*(Selesai dari balai desa, tim menyebar mumpung belum terik panas)*<br>• **Sub-Tim 1 (Fajar, Veli, Dinda, Fay)**: Pendalaman BUMDes & wawancara sentra pengrajin mebel/UMKM lokal.<br>• **Sub-Tim 2 (Riski, Intan, Zalfa)**: Observasi sawah tani Setyo Makmur, irigasi, kandang ternak sapi/kambing, kebun, & TPS sampah.<br>• **Sub-Tim 3 (Terry, Vina, Sandra)**: Observasi 2 SD Negeri, TK Pertiwi/Aisyiyah, PAUD, & fasilitas TIK sekolah. | Wilayah Tersebar Desa Wonosari | Terbagi Sesuai 3 Sub-Tim |
 | **12.00 – 13.30** | 90' | **Target Selesai Lapangan, Kembali ke Posko & ISHOMA**<br>• ⚠️ **Agenda Khusus**: **Vina & Sandra (TP) mengerjakan UTS di posko** (disiapkan ruangan tenang, meja & WiFi).<br>• Sholat Dzuhur berjamaah di Masjid dekat posko.<br>• Makan siang bersama di posko / warung makan lokal desa. | Posko Majegan & Masjid Terdekat | Dinda (Konsumsi) & Terry |
 | **13.30 – 15.00** | 90' | **Audit Fisik Posko & Rapat Pleno Internal Nirantara**<br>• **Audit Fisik Posko**: Mengukur $p \times l$ seluruh kamar (2 kamar mahasiswi, kamar mahasiswa, dapur, 2 kamar mandi, kelayakan stopkontak, air sumur).<br>• **Rapat Pleno Tim**: Rekapitulasi hasil temuan dari 3 sub-tim.<br>• Pematangan draf proposal proker dari data riil desa.<br>• Pembahasan strategi Oprec Kelompok Mitra Baru 1 Desa Wonosari. | Posko Majegan | Veli, Riski, & Fajar |
 | **15.00 – 17.00** | 120' | **Kunjungan ke Vendor Rompi / Vest PLK (*Agenda Opsional/Fleksibel*)**<br>• Meluncur ke lokasi vendor konveksi rompi di Klaten/Jogja.<br>• Cek sampel bahan kain (drill/ripstop), cek bordir logo Nirantara & UNY, fitting ukuran baju (S s.d. XXL), dan negosiasi harga (budget 150k–200k). *(Catatan: Bersifat tidak wajib bagi yang lelah, namun jadi target utama kepanitiaan).* | Lokasi Vendor Rompi | Riski, Fai, & Tim |
@@ -130,9 +130,9 @@ Berikut adalah timeline rundown, pembagian tugas lapangan, dan teknis kegiatan b
 • 09.00 – 09.30 WIB: Sowan silaturahmi ke Kepala RW 01 Dukuh Majegan (KOMPAK BARENG BER-10).
 • 09.30 – 10.15 WIB: Audiensi resmi Balai Desa Wonosari / Sowan Pak Lurah (KOMPAK BARENG BER-10 pakai Almet UNY) ➡️ perkenalan tim & gali bersama monografi profil desa, data kependudukan, struktur BPD, & kelembagaan desa.
 • 10.15 – 12.00 WIB: BARU MENCAR OBSERVASI LAPANGAN (Mumpung pagi biar belum panas!):
-  - Sub-Tim 1 (Fajar, Dinda, Fai): Data BUMDes, UMKM mebel/pertukangan, profil desa.
+  - Sub-Tim 1 (Fajar, Veli, Dinda, Fay): Data BUMDes, profil desa, & sentra UMKM mebel/pertukangan.
   - Sub-Tim 2 (Riski, Intan, Zalfa): Hamparan sawah tani Setyo Makmur, irigasi, ternak warga, kebun, & titik TPS sampah.
-  - Sub-Tim 3 (Terry, Veli, Vina, Sandra): 2 SD Negeri, TK Pertiwi/Aisyiyah, PAUD, lab/komputer sekolah, & foto lanskap.
+  - Sub-Tim 3 (Terry, Vina, Sandra): 2 SD Negeri, TK Pertiwi/Aisyiyah, PAUD, lab/komputer sekolah, & foto lanskap.
 • 12.00 – 13.30 WIB: TARGET SELESAI & KEMBALI KE POSKO:
   ⚠️ Vina & Sandra fokus ngerjain UTS di posko (disediakan ruangan tenang & WiFi).
   🍛 Sholat Dzuhur berjamaah & ISHOMA makan siang bersama.
