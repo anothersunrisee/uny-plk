@@ -27,9 +27,12 @@ status: active
 ### Integrasi Posko & Survei Lapangan Klaten (TERBARU)
 - [[01 - Panduan Rapat Mandiri Tim (Tanpa Ketua)]] — Panduan rapat presidium bersama 4 orang
 - [[02 - SOP & Kontrak Perjanjian Bersama 2 Kelompok (MoU Posko)]] — Tata tertib posko & template MoU boundaries
-- [[03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang)]] — Pembagian peran ekspedisi 6 personel
-- [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]] — Form cetak A4 fisik posko & logistik desa
-- [[05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu]] — Telaah pembatasan delegasi partner (Arsip/Batal)
+- [[03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang)]] — Rundown ekspedisi Full Team 10 orang
+- [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]] — Master bundle instrumen cetak A4
+  - [[04A - Instrumen Sub-Tim 1 (Pemerintahan Desa, BUMDes, Monografi & UMKM)]] — Instrumen Sub-Tim 1
+  - [[04B - Instrumen Sub-Tim 2 (Pertanian, Irigasi, Ternak & Lingkungan)]] — Instrumen Sub-Tim 2
+  - [[04C - Instrumen Sub-Tim 3 (Pendidikan, Fasilitas TIK & Media Ajar)]] — Instrumen Sub-Tim 3
+  - [[04D - Instrumen Khusus Posko (Audit Fisik & Kelayakan Rumah Majegan)]] — Instrumen Audit Posko (13.30 WIB)
 - [[06 - Notulensi Rapat Internal & Kesepakatan Tata Tertib Posko]] — Notulensi resmi kas 50k, tata tertib, sanksi, & mandat survei
 - [[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]] — Rekap pembatalan Kelompok B, evaluasi posko, & strategi kemitraan desa
 - [[08 - Draf Broadcast WhatsApp Tim & Oprec Mitra Desa]] — Draf pesan WA siap copy-paste (ke grup internal & eksternal angkatan) (🔥 BARU)

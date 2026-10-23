@@ -8,7 +8,12 @@ status: active
 ## AUDIT FISIK POSKO & PEMETAAN WILAYAH DESA WONOSARI, KLATEN
 **Tim PLK UNY NIRANTARA 2027**
 
-> 🖨️ *Petunjuk Cetak: Dokumen ini dirancang khusus untuk dicetak pada kertas A4 (bolak-balik) dan dijepit pada clipboard ujian untuk diisi langsung menggunakan bolpoin di lokasi survei.*
+> 🖨️ **PETUNJUK CETAK & DISTRIBUSI BERKAS PER SUB-TIM**:  
+> Dokumen ini adalah **Master Bundle Lengkap**. Agar efisien di lapangan, lembar instrumen telah dipecah menjadi **4 Berkas Cetak Siap Pakai per Sub-Tim**:
+> 1. 🏛️ **Sub-Tim 1 (Fajar, Veli, Dinda, Fay)** ➡️ **[[04A - Instrumen Sub-Tim 1 (Pemerintahan Desa, BUMDes, Monografi & UMKM)]]** *(Cetak 1 Eks)*
+> 2. 🌾 **Sub-Tim 2 (Riski, Intan, Zalfa)** ➡️ **[[04B - Instrumen Sub-Tim 2 (Pertanian, Irigasi, Ternak & Lingkungan)]]** *(Cetak 1 Eks)*
+> 3. 🎓 **Sub-Tim 3 (Terry, Vina, Sandra)** ➡️ **[[04C - Instrumen Sub-Tim 3 (Pendidikan, Fasilitas TIK & Media Ajar)]]** *(Cetak 1 Eks)*
+> 4. 🏠 **Sesi Posko Jam 13.30 WIB (Seluruh Tim)** ➡️ **[[04D - Instrumen Khusus Posko (Audit Fisik & Kelayakan Rumah Majegan)]]** *(Cetak 1 Eks)*
 
 ---
 

@@ -76,6 +76,10 @@ Struktur repositori ini dirancang teratur untuk mempermudah akses seluruh anggot
 │   │   │   ├── 📄 02 - SOP & Kontrak Perjanjian Bersama 2 Kelompok (MoU Posko).md
 │   │   │   ├── 📄 03 - Panduan & Pembagian Tugas Survei Lapangan Sabtu (6-8 Orang).md
 │   │   │   ├── 📄 04 - Lembar Instrumen Observasi Lapangan (Print Ready).md
+│   │   │   ├── 📄 04A - Instrumen Sub-Tim 1 (Pemerintahan Desa, BUMDes, Monografi & UMKM).md
+│   │   │   ├── 📄 04B - Instrumen Sub-Tim 2 (Pertanian, Irigasi, Ternak & Lingkungan).md
+│   │   │   ├── 📄 04C - Instrumen Sub-Tim 3 (Pendidikan, Fasilitas TIK & Media Ajar).md
+│   │   │   ├── 📄 04D - Instrumen Khusus Posko (Audit Fisik & Kelayakan Rumah Majegan).md
 │   │   │   ├── 📄 05 - Kajian & Rekomendasi Keterlibatan Kelompok B dalam Survei Sabtu.md
 │   │   │   ├── 📄 06 - Notulensi Rapat Internal & Kesepakatan Tata Tertib Posko.md
 │   │   │   ├── 📄 07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa.md
