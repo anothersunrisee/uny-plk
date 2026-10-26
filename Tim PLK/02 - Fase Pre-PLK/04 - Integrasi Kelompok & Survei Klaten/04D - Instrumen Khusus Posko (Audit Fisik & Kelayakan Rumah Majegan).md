@@ -16,18 +16,18 @@ status: active
 
 ### A. PENGUKURAN DIMENSI FISIK RUANGAN POSKO (METERAN BANGUNAN)
 
-| No | Ruangan Posko | Dimensi ($P \times L$) | Luas ($m^2$) | Jumlah Colokan | Kondisi Ventilasi & Jendela | Rencana Alokasi Hunian (10 Orang) |
-|:---:|:--- |:---:|:---:|:---:|:--- |:--- |
-| **1** | **Kamar Tidur Besar 1** | ....... m $\times$ ....... m | ....... $m^2$ | ....... buah | `[ ] Cukup` `[ ] Kurang` | Khusus Mahasiswi: ........... Orang |
-| **2** | **Kamar Tidur Besar 2** | ....... m $\times$ ....... m | ....... $m^2$ | ....... buah | `[ ] Cukup` `[ ] Kurang` | Khusus Mahasiswi: ........... Orang |
-| **3** | **Kamar Tidur Kecil** | ....... m $\times$ ....... m | ....... $m^2$ | ....... buah | `[ ] Cukup` `[ ] Kurang` | Khusus Mahasiswa (Fajar, Terry, Riski) |
-| **4** | **Ruang Tamu Depan** | ....... m $\times$ ....... m | ....... $m^2$ | ....... buah | `[ ] Cukup` `[ ] Kurang` | Ruang Penerimaan Tamu Warga Desa |
-| **5** | **Ruang Tengah (Besar)** | ....... m $\times$ ....... m | ....... $m^2$ | ....... buah | `[ ] Luas & Terang` | Ruang Rapat Pleno & Briefing Proker |
-| **6** | **Mushola Posko** | ....... m $\times$ ....... m | ....... $m^2$ | ....... buah | `[ ] Bersih` `[ ] Lembab` | Tempat Salat Jamaah (Wudhu: `[ ] Ada`) |
-| **7** | **Dapur Posko** | ....... m $\times$ ....... m | ....... $m^2$ | ....... buah | `[ ] Baik` `[ ] Perlu Bersih` | Kompor: `[ ] Ada` `[ ] Bawa Gas/Kompor` |
-| **8** | **Kamar Mandi 1** | ....... m $\times$ ....... m | — | — | `[ ] Kloset Jongkok` `[ ] Duduk` | Sumber air: `[ ] Sumur` (Kran: `[ ] Lancar`) |
-| **9** | **Kamar Mandi 2** | ....... m $\times$ ....... m | — | — | `[ ] Kloset Jongkok` `[ ] Duduk` | Bak air: `[ ] Bersih` `[ ] Perlu Kuras` |
-| **10**| **Teras / Parkir Motor** | ....... m $\times$ ....... m | — | — | `[ ] Berkanopi` `[ ] Terbuka` | Kapasitas Parkir: ........... Motor Aman |
+|   No   | Ruangan Posko            |    Dimensi ($P \times L$)    | Luas ($m^2$)  | Jumlah Colokan | Kondisi Ventilasi & Jendela      | Rencana Alokasi Hunian (10 Orang)            |
+| :----: | :----------------------- | :--------------------------: | :-----------: | :------------: | :------------------------------- | :------------------------------------------- |
+| **1**  | **Kamar Tidur Besar 1**  | ....... m $\times$ ....... m | ....... $m^2$ |  ....... buah  | `[ ] Cukup` `[ ] Kurang`         | Khusus Mahasiswi: ........... Orang          |
+| **2**  | **Kamar Tidur Besar 2**  | ....... m $\times$ ....... m | ....... $m^2$ |  ....... buah  | `[ ] Cukup` `[ ] Kurang`         | Khusus Mahasiswi: ........... Orang          |
+| **3**  | **Kamar Tidur Kecil**    | ....... m $\times$ ....... m | ....... $m^2$ |  ....... buah  | `[ ] Cukup` `[ ] Kurang`         | Khusus Mahasiswa (Fajar, Terry, Riski)       |
+| **4**  | **Ruang Tamu Depan**     | ....... m $\times$ ....... m | ....... $m^2$ |  ....... buah  | `[ ] Cukup` `[ ] Kurang`         | Ruang Penerimaan Tamu Warga Desa             |
+| **5**  | **Ruang Tengah (Besar)** | ....... m $\times$ ....... m | ....... $m^2$ |  ....... buah  | `[ ] Luas & Terang`              | Ruang Rapat Pleno & Briefing Proker          |
+| **6**  | **Mushola Posko**        | ....... m $\times$ ....... m | ....... $m^2$ |  ....... buah  | `[ ] Bersih` `[ ] Lembab`        | Tempat Salat Jamaah (Wudhu: `[ ] Ada`)       |
+| **7**  | **Dapur Posko**          | ....... m $\times$ ....... m | ....... $m^2$ |  ....... buah  | `[ ] Baik` `[ ] Perlu Bersih`    | Kompor: `[ ] Ada` `[ ] Bawa Gas/Kompor`      |
+| **8**  | **Kamar Mandi 1**        | ....... m $\times$ ....... m |       —       |       —        | `[ ] Kloset Jongkok` `[ ] Duduk` | Sumber air: `[ ] Sumur` (Kran: `[ ] Lancar`) |
+| **9**  | **Kamar Mandi 2**        | ....... m $\times$ ....... m |       —       |       —        | `[ ] Kloset Jongkok` `[ ] Duduk` | Bak air: `[ ] Bersih` `[ ] Perlu Kuras`      |
+| **10** | **Teras / Parkir Motor** | ....... m $\times$ ....... m |       —       |       —        | `[ ] Berkanopi` `[ ] Terbuka`    | Kapasitas Parkir: ........... Motor Aman     |
 
 ---
 

@@ -1,5 +1,0 @@
-FOLDER: 01_KESEKRETARIATAN\01_Surat_Menyurat
-FUNGSI:
-Tempat menyimpan Surat Izin Observasi Desa, Surat Pengantar Kampus, Rekomendasi Kesbangpol Klaten, dan Tembusan Dinas.
-
-Tim NIRANTARA PLK UNY 2027

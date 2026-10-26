@@ -82,4 +82,30 @@ Sebelum resmi menyepakati beliau sebagai DPL, pastikan respon beliau terhadap 3 
 
 ---
 
+## 📌 Kandidat Utama Terpilih: Dr. Ponco Walipratono, S.Pd.T., M.Pd. (DPTEI FT UNY)
+
+Berdasarkan kesepakatan internal tim surveyor pada rapat evaluasi 24 Oktober 2026, Tim Nirantara secara aklamasi menetapkan target utama DPL:
+
+- **Nama Lengkap & Gelar**: Dr. Ponco Walipratono, S.Pd.T., M.Pd.
+- **Homebase / Departemen**: Departemen Pendidikan Teknik Elektronika dan Informatika (DPTEI), Fakultas Teknik UNY
+- **Alasan Pemilihan**:
+  1. Sangat dekat dengan mahasiswa PTI (Fajar, Terry, Riski, Veli) dan memahami karakteristik proyek konversi teknologi/informatika.
+  2. Memiliki fleksibilitas dan pemahaman logis terkait pencatatan 272 jam kerja (persiapan koding web desa, modul ajar, dan proposal di Jogja).
+  3. Memiliki rekam jejak kepembimbingan pengabdian yang suportif dan komunikatif.
+  4. Sesuai dengan permintaan Bapak Kades Wonosari (Bpk. Adi) bahwa saat penerjunan resmi di Balai Desa, DPL diharapkan hadir untuk silaturahmi formal.
+
+### Rencana Aksi Sowan Lobi (Minggu Depan):
+1. **PIC Pelaksana**: Fajar Ahnaf M. (Ketua), didampingi Terry, Riski, dan Veli.
+2. **Waktu**: Menyesuaikan jadwal beliau di kampus FT UNY.
+3. **Materi yang Dibawa**:
+   - Lembar profil formasi 10 anggota dari 4 fakultas (FT, FEB, FMIPA, FIP).
+   - Dokumen ringkasan hasil survei Desa Wonosari (audiensi RW 01 & Kades).
+   - Draf garis besar proker unggulan (Web Desa & QRIS, Kompos/Eco-Enzyme, Media Ajar TK/TPA, Tata Kelola Arsip).
+4. **Poin Negosiasi**:
+   - Izin dan kesediaan menjadi DPL resmi Tim Nirantara di sistem Unit KKN/PLK UNY.
+   - Kesediaan mendampingi saat penerjunan simbolis di Balai Desa Wonosari (Februari 2027).
+   - Kesepakatan pencatatan jam kerja daring/Jogja pada logbook 272 jam.
+
+---
+
 ← [[Panduan First Gathering & Lembar Kerja Tim]] | [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] | [[Home]]

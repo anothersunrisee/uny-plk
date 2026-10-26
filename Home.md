@@ -35,7 +35,8 @@ status: active
   - [[04D - Instrumen Khusus Posko (Audit Fisik & Kelayakan Rumah Majegan)]] — Instrumen Audit Posko (13.30 WIB)
 - [[06 - Notulensi Rapat Internal & Kesepakatan Tata Tertib Posko]] — Notulensi resmi kas 50k, tata tertib, sanksi, & mandat survei
 - [[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]] — Rekap pembatalan Kelompok B, evaluasi posko, & strategi kemitraan desa
-- [[08 - Draf Broadcast WhatsApp Tim & Oprec Mitra Desa]] — Draf pesan WA siap copy-paste (ke grup internal & eksternal angkatan) (🔥 BARU)
+- [[08 - Draf Broadcast WhatsApp Tim & Oprec Mitra Desa]] — Draf pesan WA siap copy-paste (ke grup internal & eksternal angkatan)
+- [[Copy of NOTULENSI (PLK NIRANTARA 27)_SURVEI_24 OKT 26.docx|Notulensi Resmi Survei Lapangan Klaten (24 Okt 2026)]] — Master notulensi wawancara RW 01 & Lurah Wonosari, alur Bappedalitbang, audit posko, & sprint agenda (🔥 LENGKAP)
 
 ### Riset & Analisa
 - [[temuan]] — Log 5W1H semua analisa & keputusan tim ← MULAI DI SINI

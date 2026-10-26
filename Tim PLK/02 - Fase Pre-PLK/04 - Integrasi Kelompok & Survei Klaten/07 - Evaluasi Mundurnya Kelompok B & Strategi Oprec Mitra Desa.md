@@ -136,11 +136,15 @@ Mengingat regulasi LPPM UNY di Kabupaten Klaten mensyaratkan **minimal 2 kelompo
 * **Bentuk Kolaborasi**:
   * Kelompok mitra dan Tim Nirantara sama-sama berlokasi di Desa Wonosari, Trucuk, Klaten (memenuhi syarat legalitas LPPM 2 kelompok per desa).
   * Tim Nirantara bertempat di Posko Rumah Simbah Terry (Dukuh Majegan).
-  * Kelompok mitra menyewa rumah/posko sendiri di dukuh lain di wilayah Desa Wonosari (desa memiliki alternatif rumah warga yang dapat disewa dengan biaya terjangkau).
+  * Kelompok mitra menyewa rumah/posko sendiri di dukuh lain di wilayah Desa Wonosari.
+  * **Rekomendasi Resmi Kepala Desa Wonosari (Bpk. Adi)**:
+    Pak Lurah secara terbuka menyarankan kelompok kedua dapat menempati:
+    1. **Dukuh Majegan** (menyewa rumah warga tersendiri di lingkungan RW 01).
+    2. **Wilayah Utara Desa Wonosari**: **Dukuh Pendem**, **Dukuh Jedis**, **Dukuh Brangkal (Berangkelan)**, **Dukuh Muteran**, atau **Dukuh Tonggalan Lor**.
 * **Area Kerjasama**:
-  1. Bersama-sama mengurus legalitas Kesbangpol Klaten & perizinan Kepala Desa Wonosari.
-  2. Berbagi wilayah binaan (misal: Nirantara pegang RW 01–03, Kelompok Mitra pegang RW 04–06) agar tidak tumpang tindih.
-  3. Kolaborasi proker akbar desa (misal: peringatan hari besar, expo UMKM desa, atau festival anak sholeh).
+  1. Bersama-sama mengurus legalitas Bappedalitbang Klaten, Kantor Kecamatan Trucuk & Balai Desa Wonosari.
+  2. Berbagi wilayah binaan (misal: Nirantara fokus di RW 01–03 Majegan, Kelompok Mitra di wilayah utara/RW lain) agar tidak tumpang tindih.
+  3. Kolaborasi proker akbar desa (misal: expo UMKM desa, festival literasi/anak sholeh, atau peringatan hari besar).
 * **Keunggulan Opsi A**:
   * **Zero Friction**: Masing-masing kelompok bebas mengatur ritme kehidupan posko sendiri tanpa terikat jam bangun posko pihak lain.
   * Privasi dan kenyamanan kedua kelompok terjamin 100%.

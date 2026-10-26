@@ -66,7 +66,13 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 
 ### Tentang PLK UNY & Situasi Posko Wonosari
 - PLK = setara KKN, konversi 10-20 SKS (Minimal 272 Jam Kerja Efektif, via Logbook)
-- **Aturan 2 Kelompok per Desa & Status Posko**: Sesuai regulasi LPPM di Klaten (min. 2 kelompok per kelurahan/desa), Tim Nirantara berlokasi di Desa Wonosari. Kelompok B (Teman PTI - Terry, 5 cowok 5 cewek) **resmi mundur per 23 Oktober 2026** karena keberatan dengan aturan jam steril/bangun posko jam 05.00/06.00 WIB. Posko Majegan kini **100% eksklusif dihuni 10 orang Tim Nirantara** (jauh lebih kondusif & privat). Untuk pemenuhan syarat LPPM, tim membuka oprec kemitraan 1 desa baru dengan 2 opsi: **Opsi A (Posko Mandiri Sewa Sendiri di Desa Wonosari - Recommended)** atau **Opsi B (1 Posko Bersama Bersyarat MoU Ketat)**. Rujuk ke: `[[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]]`.
+- **Aturan 2 Kelompok per Desa & Status Posko**: Sesuai regulasi LPPM di Klaten (min. 2 kelompok per kelurahan/desa), Tim Nirantara berlokasi di Desa Wonosari. Kelompok B (Teman PTI - Terry) **resmi mundur per 23 Oktober 2026**. Posko Majegan kini **100% eksklusif dihuni 10 orang Tim Nirantara** (jauh lebih kondusif & privat). Oprec kemitraan 1 desa dibuka dengan fokus Opsi A (Posko Mandiri Sewa Sendiri di Desa Wonosari). Pak Lurah merekomendasikan kelompok kedua di: Dukuh Pendem, Jedis, Brangkal, Muteran, Tonggalan Lor, atau rumah mandiri di Majegan. Rujuk ke: `[[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]]`.
+- **Hasil Survei 24 Okt 2026 & Legalitas Bappedalitbang Klaten**: Delegasi 10/10 sukses melaksanakan audiensi ke Ketua RW 01 (Bpk. Ramelan: `0823-2335-3645`) dan Kepala Desa Wonosari (Bpk. Adi: `0813-2100-1070`). Alur izin resmi PLK Mandiri di Klaten: Surat Dekan ditujukan ke **Bappedalitbang Kab. Klaten** ➔ diterbitkan izin resmi dengan tembusan ke Kantor Kecamatan Trucuk & Balai Desa Wonosari. Draf proker wajib diserahkan sebelum penerjunan Februari 2027.
+- **Target DPL Resmi**: Tim menetapkan **Dr. Ponco Walipratono, S.Pd.T., M.Pd.** (DPTEI FT UNY) sebagai target DPL. Sowan lobi dijadwalkan minggu depan oleh tim PTI.
+- **Fokus Proker Lapangan**:
+  * Sampah: Limbah dibakar di kali/pekarangan ➔ Solusi realistis Divisi Biologi: Pelatihan pembuatan pupuk kompos fermentasi & eco-enzyme.
+  * UMKM: Warung warga belum ada Google Maps & QRIS ➔ Solusi Divisi PTI & PADP: Digitalisasi titik Google Maps & QRIS usaha warga.
+  * Pendidikan: Revitalisasi media ajar TK ABA Majegan (Mbak Nunik, ±15 murid) & santri TPA Al-Amin oleh Divisi TP.
 
 ### Sistem Kerja Tim (Struktur Matrix)
 - Tim ini menggunakan **Struktur Organisasi Matrix**.

@@ -81,9 +81,9 @@ Kami menawarkan 2 PILIHAN SKEMA KEMITRAAN:
 
 ✨ SKEMA A: MITRA 1 DESA — POSKO MANDIRI (SANGAT DIREKOMENDASIKAN)
 - Memenuhi syarat legalitas LPPM (2 kelompok dalam 1 desa).
-- Kelompok kalian menyewa posko sendiri di Desa Wonosari (kami siap bantu rekomendasikan kontak rumah warga yang dapat disewa dengan biaya terjangkau).
+- Kelompok kalian menyewa posko sendiri di Desa Wonosari (arahan Kepala Desa Wonosari siap memfasilitasi di titik utara desa seperti Dukuh Pendem, Jedis, Brangkal, Muteran, Tonggalan Lor, atau rumah mandiri di Majegan).
 - Masing-masing kelompok memiliki OTONOMI 100% mengatur ritme kehidupan posko & jam tidur harian tanpa terikat aturan kelompok lain.
-- Kolaborasi pada perizinan BPD/Kepala Desa dan Proker Akbar Desa.
+- Kolaborasi pada perizinan Bappedalitbang Klaten, Kantor Desa, dan Proker Akbar Bersama.
 
 ✨ SKEMA B: MITRA 1 DESA — 1 POSKO BERSAMA (SLOT SANGAT TERBATAS)
 - Menempati posko rumah permanen bersama Tim Nirantara di Dukuh Majegan.
