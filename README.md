@@ -30,7 +30,7 @@ Tim Nirantara menerapkan **Struktur Organisasi Matrix**, di mana setiap anggota 
 | **1** | **Fajar Ahnaf Mahardika** | 24050530030 | Pendidikan Teknik Informatika (FT) | **Ketua Tim (Kordes)** | Supervisi, Lobi Desa, IT & Web Desa |
 | **2** | **Muhadzdzib Terry Al Fauzan** | 24050530052 | Pendidikan Teknik Informatika (FT) | **Humas Lapangan & Tuan Rumah Posko** | Divisi Teknologi Informasi & Web Desa |
 | **3** | **Muhamad Riski** | 24050530029 | Pendidikan Teknik Informatika (FT) | **Perlengkapan 1 (Logistik & Armada)** | Divisi Teknologi Informasi & Web Desa |
-| **4** | **Novelia Harlinda (Veli)** | 24050530044 | Pendidikan Teknik Informatika (FT) | **Sekretaris 2 (Logbook 272 Jam & Arsip)**| **Koordinator Divisi Teknologi & IT** |
+| **4** | **Novelia Harlinda (Veli)** | 24050530045 | Pendidikan Teknik Informatika (FT) | **Sekretaris 2 (Logbook 272 Jam & Arsip)**| **Koordinator Divisi Teknologi & IT** |
 | **5** | **Dinda Amelia Putri** | 24080330053 | Pend. Administrasi Perkantoran (FEB)| **Sekretaris 1 (Proposal, Surat & LPJ)** | Divisi Administrasi & UMKM Warga |
 | **6** | **Faidatul Anugraheni M. (Fai)**| 24080330078 | Pend. Administrasi Perkantoran (FEB)| **Bendahara 1 (Kas Utama & RAB)** | **Koordinator Divisi Administrasi & UMKM** |
 | **7** | **Intan Milansari** | 24030830059 | Biologi (FMIPA) | **PDD 2 (Dokumentasi & Rilis Berita 5W1H)**| **Koordinator Divisi Lingkungan & Kesehatan**|
