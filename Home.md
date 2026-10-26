@@ -52,6 +52,7 @@ status: active
 
 ### Tim & Operasional
 - [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] — **(KITA DI SINI!)** Target lobi Kades, Dosen, dan draf Proposal.
+- [[Sistematika & Panduan Penyusunan Proposal PLK]] — 📑 Standar format margin 4-4-3-3, Bab I-IV, RAB, & pembagian tugas ngetik
 - [[Panduan First Gathering & Lembar Kerja Tim]] — 🚀 Lembar kerja TM-TP (Voting ketua, matrix, nama tim, proker)
 - [[Panduan Migrasi & Integrasi Google Workspace]] — 🚀 Arsitektur kolaborasi hybrid (Antigravity ⇄ Google Docs/Sheets)
   - [[Otomatisasi Google Workspace/README|Direktori Otomatisasi Google Workspace]] — ⚡ Panduan IMPORTRANGE, Form terintegrasi, & Script GAS

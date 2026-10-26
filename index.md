@@ -64,6 +64,7 @@ status: active
 
 ### Tim & Operasional
 - [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] — Target lobi DPL, perizinan desa, & proposal
+- [[Sistematika & Panduan Penyusunan Proposal PLK]] — Standar format margin 4-4-3-3, Bab I-IV, RAB, & pembagian tugas ngetik
 - [[Konsultasi Lanjutan PIC PTI & Kajian Isu Kuota PLK]] — Strategi sowan Dr. Sigit Pambudi, isu Sleman, & kunci kuota tim
 - [[Panduan First Gathering & Lembar Kerja Tim]] — Dokumen kerja first gathering & voting
 - [[Panduan Migrasi & Integrasi Google Workspace]] — Arsitektur kolaborasi hybrid (Antigravity ⇄ Google Docs/Sheets)

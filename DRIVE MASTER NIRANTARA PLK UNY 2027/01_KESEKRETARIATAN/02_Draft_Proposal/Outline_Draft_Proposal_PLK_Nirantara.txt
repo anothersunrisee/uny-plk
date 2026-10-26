@@ -1,0 +1,69 @@
+================================================================================
+KERANGKA DRAFT PROPOSAL PLK UNY MENGABDI 2027 — TIM NIRANTARA
+Lokasi: Dukuh Majegan, Desa Wonosari, Kecamatan Trucuk, Kabupaten Klaten
+Tim Penyusun: Dinda Amelia Putri (Sekretaris 1) & Fajar Ahnaf M. (Ketua)
+================================================================================
+
+PETUNJUK PENGETIKAN DI GOOGLE DOCS:
+1. Buka Google Docs di akun nirantara.plk.uny@gmail.com
+2. Setel Margin Kertas A4: Kiri 4 cm, Atas 4 cm, Kanan 3 cm, Bawah 3 cm.
+3. Gunakan Font Times New Roman 12 pt, Spasi 1.5, Rata Kanan-Kiri (Justify).
+4. Gunakan data dari: "Sistematika & Panduan Penyusunan Proposal PLK.md"
+
+--------------------------------------------------------------------------------
+JUDUL USULAN:
+"PEMBERDAYAAN MASYARAKAT DESA WONOSARI BERBASIS TEKNOLOGI INFORMASI, 
+PENGOLAHAN LIMBAH ORGANIK, DAN PENGUATAN LITERASI PENDIDIKAN ANAK USIA DINI"
+
+--------------------------------------------------------------------------------
+SUSUNAN BAB:
+
+HALAMAN JUDUL (COVER)
+HALAMAN PENGESAHAN PROPOSAL
+RINGKASAN EKSEKUTIF (ABSTRAK)
+KATA PENGANTAR
+DAFTAR ISI
+DAFTAR TABEL
+DAFTAR GAMBAR
+
+BAB I: PENDAHULUAN
+1.1 Analisis Situasi Desa Wonosari (Klaten)
+    - RW 01 Dukuh Majegan: 6 RT, 270 KK (Terbesar di Desa Wonosari).
+    - Mata pencaharian: Petani sawah irigasi teknis, buruh tani, perajin mebel.
+    - Fasilitas: TK ABA di RT 02 (15 anak), TPA Al-Amin, tidak ada SD di dalam RW.
+1.2 Identifikasi dan Rumusan Masalah
+    - Isu Sampah: Kebiasaan bakar sampah di pinggir kali / pekarangan.
+    - Isu Pertanian: Subsidi pupuk kurang, pupuk mahal Rp 200rb/sak, hama tikus.
+    - Isu UMKM: Warung warga belum terdaftar di Google Maps dan belum ada QRIS.
+    - Isu Pendidikan: TK ABA dan TPA butuh media ajar interaktif.
+1.3 Tujuan Kegiatan
+1.4 Manfaat Kegiatan (Bagi Warga, Mahasiswa, UNY)
+
+BAB II: METODE PELAKSANAAN
+2.1 Kerangka Pemecahan Masalah
+2.2 Kelompok Sasaran (Ibu RT/KWT, Pemilik Warung, Petani, Anak TK/TPA, Karang Taruna)
+2.3 Metode Pelaksanaan (Sosialisasi forum RT/RW, Workshop Kompos, Pendampingan UMKM, Fun Learning)
+2.4 Indikator Keberhasilan Program
+
+BAB III: RENCANA PROGRAM KERJA & JADWAL
+3.1 Program Kerja Unggulan 4 Divisi
+    - Divisi Teknologi & IT (PTI FT): Google Maps UMKM, QRIS, Web Profil Desa.
+    - Divisi Lingkungan & Kesehatan (Biologi FMIPA): Kompos Sampah Organik, Eco-Enzyme.
+    - Divisi Administrasi & UMKM (PADP FEB): Pembukuan Kas Warung, Identitas Visual Plang.
+    - Divisi Pendidikan & Media Ajar (TP FIP): Media Ajar Interaktif TK ABA & TPA Al-Amin.
+3.2 Jadwal Matriks Kegiatan (Pola Weekend 18 Pekan: Feb - Jun 2027)
+3.3 Struktur Organisasi Tim (Struktur Matrix 10 Anggota)
+
+BAB IV: RENCANA ANGGARAN BIAYA (RAB)
+4.1 Rekapitulasi Rencana Anggaran (Posko, Operasional, Proker 4 Divisi)
+    - Total Estimasi: ± Rp 2.880.000 - Rp 3.500.000,- (Sesuai Master Keuangan)
+4.2 Sumber Alokasi Dana (Kas Anggota Rp 2,5 Jt, Dana UNY Rp 2,5 Jt, Sponsor)
+
+DAFTAR PUSTAKA
+
+LAMPIRAN:
+Lampiran 1: Biodata 10 Mahasiswa & Calon DPL (Dr. Ponco Walipratono)
+Lampiran 2: Surat Pernyataan Kesediaan Mitra (Kepala Desa Wonosari - Bpk. Adi)
+Lampiran 3: Denah Posko Majegan & Peta Wilayah RW 01
+Lampiran 4: Foto Dokumentasi Observasi Lapangan 24 Oktober 2026
+================================================================================
