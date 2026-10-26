@@ -100,7 +100,7 @@ Salin teks di bawah ini untuk dikirimkan melalui WhatsApp ke **Bpk. Dr. Sigit Pa
 Selamat pagi/siang, Bapak Dr. Sigit Pambudi, S.Pd., M.Eng. 
 Mohon maaf mengganggu waktu Bapak. 
 
-Saya Fajar Ahnaf Mahardika (NIM. 24520244xxx) dari Pendidikan Teknik Informatika 2024, izin melaporkan perkembangan persiapan tim PLK UNY Mengabdi 2027 kami (Tim NIRANTARA - 10 orang lintas FT, FEB, FMIPA, dan FIP).
+Saya Fajar Ahnaf Mahardika (NIM. 24050530030) dari Pendidikan Teknik Informatika 2024, izin melaporkan perkembangan persiapan tim PLK UNY Mengabdi 2027 kami (Tim NIRANTARA - 10 orang lintas FT, FEB, FMIPA, dan FIP).
 
 Alhamdulillah pada hari Sabtu (24 Okt) kemarin, seluruh 10 anggota tim kami telah selesai melaksanakan observasi lapangan dan audiensi resmi ke Kepala Desa Wonosari (Bpk. Adi) dan Ketua RW 01 Dukuh Majegan, Kecamatan Trucuk, Klaten. Pihak pemerintah desa sangat terbuka dan memberikan izin prinsip pelaksanaan pengabdian. Rumah posko fisik mandiri juga sudah kami ukur dan siap digunakan.
 
