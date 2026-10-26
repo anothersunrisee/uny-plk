@@ -67,6 +67,7 @@ status: active
 - [[Analisa Kriteria & Strategi Memilih DPL]] — 🎓 Kriteria green flags, red flags, & strategi mengunci DPL
 - [[Matriks Hasil Konsultasi PIC 4 Prodi]] — ⚖️ Rekapitulasi perbandingan kebijakan 4 prodi
 - [[Notulensi Konsultasi PIC PTI]] — Notulensi resmi Dr. Sigit Pambudi (FT)
+- [[Konsultasi Lanjutan PIC PTI & Kajian Isu Kuota PLK]] — 🎓 Strategi sowan Dr. Sigit Pambudi, isu Sleman, & kunci kuota tim (🔥 PENTING)
 - [[Notulensi Konsultasi PIC PADP]] — Notulensi resmi Hilmy Pradana Sundawan (FEB)
 - [[Notulensi Konsultasi PIC Biologi]] — Notulensi resmi Dr. Anna & Dr. Ixora (FMIPA)
 - [[Draft Simulasi 272 Jam Kerja]] — Panduan sistem logbook dan jam kerja PLK
