@@ -45,13 +45,23 @@ Contoh Transaksi:
 
 SHEET 3: RENCANA ANGGARAN BIAYA (RAB INDUK)
 --------------------------------------------------------------------------------
-No | Divisi / Pos | Item Kebutuhan | Vol | Satuan | Harga Satuan | Total Biaya | Sumber Dana (Kas / Sponsor / UNY)
-1  | Posko | Patungan Token Listrik Bulanan (50:50 dg Mitra) | 5 | Bulan | 100.000 | 500.000 | Kas Operasional Posko
-2  | Posko | Patungan Wifi Bulanan (50:50) | 5 | Bulan | 75.000 | 375.000 | Kas Operasional Posko
-3  | Biologi | Molase & Bahan Eco-Enzyme | 10 | Liter | 25.000 | 250.000 | Sponsorship / Dana UNY (Maret)
-4  | TP | Modul Cetak Media Ajar SD/TK | 50 | Eks | 15.000 | 750.000 | Sponsorship / Dana UNY (Maret)
-5  | PTI | Domain & Hosting Web Desa | 1 | Paket | 350.000 | 350.000 | Kas / Sponsorship IT
-6  | PADP | Pelatihan Pembukuan BUMDes | 1 | Paket | 200.000 | 200.000 | Kas / Sponsorship UMKM
+No | Divisi / Pos | Item Kebutuhan | Vol | Satuan | Harga Satuan | Total Biaya | Sumber Dana & Timeline
+1  | Posko | Patungan Token Listrik Bulanan | 5 | Bulan | 100.000 | 500.000 | Kas Operasional Posko (Bulanan)
+2  | Posko | Tagihan Wifi Bulanan | 5 | Bulan | 75.000 | 375.000 | Kas Operasional Posko (Bulanan)
+3  | Posko | Paket Kebersihan Sanitasi (Pembersih Toilet, Sikat WC) | 1 | Paket | 50.000 | 50.000 | Kas Posko (Beli Akhir Jan 2027)
+4  | Posko | Paket Alat Pembersih (Pel Lantai, 2 Sapu, 2 Serok) | 1 | Paket | 105.000 | 105.000 | Kas Posko (Beli Akhir Jan 2027)
+5  | Posko | Gorden Pintu & Jendela Posko | 1 | Set | 100.000 | 100.000 | Kas Posko (Beli Akhir Jan 2027)
+6  | Posko | Trashbag / Kantong Sampah Besar | 2 | Pak | 15.000 | 30.000 | Kas Posko (Beli Akhir Jan 2027)
+7  | Posko | Galon Air Minum Isi Ulang | 2 | Buah | 50.000 | 100.000 | Kas Posko (Beli Akhir Jan 2027)
+8  | Posko | Pump Pompa Air Galon | 2 | Buah | 35.000 | 70.000 | Kas Posko (Beli Akhir Jan 2027)
+9  | Biologi | Molase & Bahan Kompos / Eco-Enzyme | 10 | Liter | 25.000 | 250.000 | Sponsorship / Dana UNY (Maret)
+10 | TP | Modul Cetak Media Ajar TK ABA & TPA | 50 | Eks | 15.000 | 750.000 | Sponsorship / Dana UNY (Maret)
+11 | PTI | Domain & Hosting Web Desa / Profil UMKM | 1 | Paket | 350.000 | 350.000 | Kas / Sponsorship IT
+12 | PADP | Fasilitasi Pembukuan & QRIS UMKM | 1 | Paket | 200.000 | 200.000 | Kas / Sponsorship UMKM
+
+Catatan Pengadaan Posko:
+Barang posko no 3-8 (total ±Rp 455.000,-) dibeli akhir Jan/Feb 2027 meninjau renovasi posko Des 2026 - Jan 2027.
+Karpet bulu ruang tengah dibawa mandiri dari Jogja oleh Novelia Harlinda & Intan Milansari.
 
 ================================================================================
 SOP PENYIMPANAN BUKTI KUITANSI / SPJ NOTA:

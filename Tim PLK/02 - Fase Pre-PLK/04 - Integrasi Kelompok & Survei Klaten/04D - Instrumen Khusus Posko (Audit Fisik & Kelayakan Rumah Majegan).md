@@ -49,18 +49,25 @@ status: active
 
 ---
 
-### C. INVENTARISASI BARANG POSKO & KEBUTUHAN TAMBAHAN DARI JOGJA
-* **Barang yang Sudah Tersedia di Posko**:
-  - `[ ] Kasur / Dipan (Jumlah: ....... buah)`
-  - `[ ] Lemari Pakaian / Rak`
-  - `[ ] Tikar / Karpet Ruang Tengah (Jumlah: ....... lembar)`
-  - `[ ] Sapu, Pel, & Tempat Sampah`
-  - `[ ] Piring, Gelas, & Alat Masak Wajan/Panci`
-  - `[ ] Dispenser Air Galon`
-* **Barang yang WAJIB Dibawa dari Jogja saat Penerjunan**:
-  1. ...........................................................................................................................................
-  2. ...........................................................................................................................................
-  3. ...........................................................................................................................................
+### C. INVENTARISASI BARANG POSKO & KEBUTUHAN TAMBAHAN
+* **Catatan Khusus Jadwal Renovasi & Pengadaan**:
+  - Rumah posko Mbah Terry akan direnovasi pada **Desember 2026 s.d. Januari 2027**.
+  - Pengadaan barang kebutuhan posko yang dianggarkan dilakukan pada **akhir Januari hingga awal Februari 2027** sebelum penerjunan agar barang tetap bersih.
+
+* **Barang yang Dianggarkan dari Kas Posko (Dibeli Akhir Jan - Feb 2027)**:
+  1. `[x]` Pembersih toilet (Porstex/WPC)
+  2. `[x]` Alat pel lantai
+  3. `[x]` Sapu lantai (2 buah)
+  4. `[x]` Serok sampah / pengki
+  5. `[x]` Gorden jendela/pintu
+  6. `[x]` Trashbag (kantong sampah besar)
+  7. `[x]` Sikat WC
+  8. `[x]` Galon air minum (2 buah)
+  9. `[x]` Pump air galon elektrik/manual (2 buah)
+
+* **Barang yang Dibawa Mandiri oleh Anggota (dari Jogja)**:
+  - `[x]` **Karpet Bulu Ruang Tengah**: Dibawa oleh **Novelia Harlinda (Veli)** & **Intan Milansari**.
+  - `[ ]` Kabel roll / stop kontak tambahan (Fajar / Riski / Terry).
 
 ---
 

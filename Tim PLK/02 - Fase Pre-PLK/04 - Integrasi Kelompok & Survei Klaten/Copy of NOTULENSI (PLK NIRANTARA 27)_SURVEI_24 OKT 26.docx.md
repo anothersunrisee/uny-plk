@@ -336,6 +336,31 @@ Sesuai aturan LPPM bahwa setiap desa binaan di Klaten idealnya menampung minimal
   - **Indosat Ooredoo**: 4G Penuh (4–5 bar).
   - **XL / Axis**: 4G Penuh (4–5 bar).
 
+### C. Daftar Kebutuhan Logistik & Inventaris Posko Majegan
+
+> [!IMPORTANT]
+> **Timeline Renovasi & Pengadaan Posko**:  
+> Rumah posko milik Mbah Terry dijadwalkan akan menjalani **renovasi fisik pada bulan Desember 2026 s.d. Januari 2027**.  
+> Oleh karena itu, seluruh barang kebutuhan posko yang dianggarkan **akan dibeli menjelang penerjunan (antara akhir Januari hingga awal Februari 2027)** agar barang tetap bersih, higienis, dan tidak rusak/berdebu akibat proses pengerjaan renovasi.
+
+#### 1. Kebutuhan Posko yang Dianggarkan (Kas Operasional Posko):
+| No | Nama Barang / Kebutuhan | Jumlah / Estimasi | Peruntukan & Keterangan | Status Pengadaan |
+| :---: | :--- | :---: | :--- | :---: |
+| 1 | Pembersih Toilet (Porstex/WPC) | 1–2 Botol | Sanitasi & pembersihan KM 1 dan KM 2 | ⏳ Dianggarkan (Beli Akhir Jan/Feb) |
+| 2 | Alat Pel Lantai | 1 Set | Kebersihan harian lantai ruang posko | ⏳ Dianggarkan (Beli Akhir Jan/Feb) |
+| 3 | Sapu Lantai | 2 Buah | Kebersihan ruang tamu, kamar, & teras | ⏳ Dianggarkan (Beli Akhir Jan/Feb) |
+| 4 | Serok Sampah (Pengki) | 1–2 Buah | Alat bantu pembersihan posko | ⏳ Dianggarkan (Beli Akhir Jan/Feb) |
+| 5 | Gorden Pintu / Jendela | 1 Set | Privasi kamar mahasiswi & ruang utama | ⏳ Dianggarkan (Beli Akhir Jan/Feb) |
+| 6 | Trashbag (Plastik Sampah Besar) | 1–2 Pak | Pengelolaan sampah posko agar rapi | ⏳ Dianggarkan (Beli Akhir Jan/Feb) |
+| 7 | Sikat WC | 2 Buah | Pembersihan kerak kamar mandi 1 & 2 | ⏳ Dianggarkan (Beli Akhir Jan/Feb) |
+| 8 | Galon Air Minum | 2 Buah | Wadah air minum isi ulang posko | ⏳ Dianggarkan (Beli Akhir Jan/Feb) |
+| 9 | Pump Air Galon (Elektrik/Manual) | 2 Buah | Pompa galon untuk ruang tengah & dapur | ⏳ Dianggarkan (Beli Akhir Jan/Feb) |
+
+#### 2. Barang / Fasilitas yang Dibawa Mandiri oleh Anggota:
+| No | Nama Barang | Jumlah / Spesifikasi | Penanggung Jawab / Pemilik | Keterangan |
+| :---: | :--- | :---: | :--- | :--- |
+| 1 | **Karpet Bulu Ruang Tengah** | 1–2 Lembar (Ukuran besar) | **Novelia Harlinda (Veli)** & **Intan Milansari** | Dibawa dari Jogja saat penerjunan untuk alas duduk rapat pleno & ruang santai |
+
 ---
 
 ## 10. 🚀 SPRINT AGENDA MINGGU DEPAN (IMMEDIATE ACTION PLAN)

@@ -1,7 +1,40 @@
-DAFTAR INVENTARIS ALAT & ASSET KERJA POSKO NIRANTARA
-====================================================
+================================================================================
+DAFTAR INVENTARIS ALAT & KEBUTUHAN LOGISTIK POSKO NIRANTARA 2027
+Lokasi Posko: Dukuh Majegan RT 03, Desa Wonosari, Trucuk, Klaten
+Penanggung Jawab: Perlengkapan (Muhamad Riski & Krissandra Siagian)
+================================================================================
 
-Format Kolom Rekomendasi:
-No | Nama Barang | Jumlah | Kondisi | Pemilik / Penanggung Jawab | Status Lokasi (Jogja / Klaten)
+⚠️ CATATAN STRATEGIS & TIMELINE PENGADAAN POSKO:
+--------------------------------------------------------------------------------
+1. Rumah posko milik Mbah Terry akan menjalani RENOVASI FISIK pada:
+   DESEMBER 2026 - JANUARI 2027.
+2. Seluruh barang kebutuhan posko yang dianggarkan TIDAK DIBELI SEKARANG, melainkan:
+   DIBELI PADA AKHIR JANUARI HINGGA AWAL FEBRUARI 2027 (menjelang penerjunan).
+   Alasan: Menjaga barang tetap baru, higienis, dan tidak kotor/rusak oleh debu renovasi.
 
-(Catatan: Buka atau konversi file ini ke Google Sheets saat di Google Drive)
+================================================================================
+BAGIAN 1: KEBUTUHAN OPERASIONAL POSKO (DIANGGARKAN DARI KAS TIM)
+================================================================================
+No | Nama Barang / Kebutuhan          | Jumlah  | Estimasi Biaya | Status Pengadaan      | PIC Pembelian
+--------------------------------------------------------------------------------
+1  | Pembersih Toilet (Porstex/WPC)   | 2 btl   | Rp 30.000      | Dianggarkan (Akhir Jan)| Riski / Sandra
+2  | Alat Pel Lantai (Gagang + Kain)  | 1 set   | Rp 45.000      | Dianggarkan (Akhir Jan)| Riski / Sandra
+3  | Sapu Lantai                      | 2 buah  | Rp 35.000      | Dianggarkan (Akhir Jan)| Riski / Sandra
+4  | Serok Sampah (Pengki Plastik)    | 2 buah  | Rp 25.000      | Dianggarkan (Akhir Jan)| Riski / Sandra
+5  | Gorden Pintu / Jendela           | 1 set   | Rp 100.000     | Dianggarkan (Akhir Jan)| Riski / Sandra
+6  | Trashbag (Kantong Sampah Hitam)  | 2 pak   | Rp 30.000      | Dianggarkan (Akhir Jan)| Riski / Sandra
+7  | Sikat WC                         | 2 buah  | Rp 20.000      | Dianggarkan (Akhir Jan)| Riski / Sandra
+8  | Galon Air Minum                  | 2 buah  | Rp 100.000     | Dianggarkan (Akhir Jan)| Riski / Terry
+9  | Pump Air Galon (Elektrik/Manual) | 2 buah  | Rp 70.000      | Dianggarkan (Akhir Jan)| Riski / Terry
+--------------------------------------------------------------------------------
+TOTAL ESTIMASI PENGADAAN KAS POSKO     : Rp 455.000,-
+
+================================================================================
+BAGIAN 2: BARANG INVENTARIS YANG DIBAWA ANGGOTA (DARI JOGJA)
+================================================================================
+No | Nama Barang                      | Jumlah  | Pemilik / PIC Penanggung Jawab | Keterangan
+--------------------------------------------------------------------------------
+1  | Karpet Bulu Ruang Tengah         | 2 lembar| Novelia Harlinda & Intan Milan | Untuk alas ruang pleno/santai
+2  | Kabel Roll / Stop Kontak Tambahan| 2-3 buah| Fajar / Riski / Terry          | Penunjang ruang koding & pleno
+3  | Dispenser / Teko Air Listrik     | 1 buah  | (Menyusul)                     | Untuk konsumsi air hangat posko
+================================================================================
