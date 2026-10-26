@@ -53,6 +53,8 @@ status: active
 ### Tim & Operasional
 - [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] — **(KITA DI SINI!)** Target lobi Kades, Dosen, dan draf Proposal.
 - [[Panduan First Gathering & Lembar Kerja Tim]] — 🚀 Lembar kerja TM-TP (Voting ketua, matrix, nama tim, proker)
+- [[Panduan Migrasi & Integrasi Google Workspace]] — 🚀 Arsitektur kolaborasi hybrid (Antigravity ⇄ Google Docs/Sheets)
+- [[Panduan Workspace & Kolaborasi Tim]] — Komparasi tools kolaborasi tim
 - [[Roadmap 1 Minggu]] — (Selesai) Sprint 7 hari fondasi proyek awal 4 orang.
 - [[Roster Tim]] — Roster formasi 10 anggota
 - [[Struktur Organisasi Matrix Tim PLK]] — Pembagian peran ganda (posko vs proker)
