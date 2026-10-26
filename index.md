@@ -66,6 +66,7 @@ status: active
 - [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] — Target lobi DPL, perizinan desa, & proposal
 - [[Panduan First Gathering & Lembar Kerja Tim]] — Dokumen kerja first gathering & voting
 - [[Panduan Migrasi & Integrasi Google Workspace]] — Arsitektur kolaborasi hybrid (Antigravity ⇄ Google Docs/Sheets)
+  - [[Otomatisasi Google Workspace/README|Direktori Otomatisasi Google Workspace]] — IMPORTRANGE, Google Forms, & Script GAS
 - [[Panduan Workspace & Kolaborasi Tim]] — Komparasi tools kolaborasi tim
 - [[Struktur Organisasi Matrix Tim PLK]] — Penjelasan struktur operasional vs fungsional
 - [[Database Profil Anggota Tim]] — Profil K3 & kontak darurat anggota

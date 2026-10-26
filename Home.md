@@ -54,6 +54,10 @@ status: active
 - [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] — **(KITA DI SINI!)** Target lobi Kades, Dosen, dan draf Proposal.
 - [[Panduan First Gathering & Lembar Kerja Tim]] — 🚀 Lembar kerja TM-TP (Voting ketua, matrix, nama tim, proker)
 - [[Panduan Migrasi & Integrasi Google Workspace]] — 🚀 Arsitektur kolaborasi hybrid (Antigravity ⇄ Google Docs/Sheets)
+  - [[Otomatisasi Google Workspace/README|Direktori Otomatisasi Google Workspace]] — ⚡ Panduan IMPORTRANGE, Form terintegrasi, & Script GAS
+  - [[01 - Panduan Rumus IMPORTRANGE Lintas Spreadsheet]] — Tarik data live antar-sheet (kas/logbook ke dashboard)
+  - [[02 - Panduan Integrasi Google Forms ke Google Sheets]] — Input kuesioner oprec & nota belanja dari HP
+  - [[03 - Script Google Apps Script (GAS) Notifikasi & Webhook]] — Bot notifikasi WA & auto-timestamp
 - [[Panduan Workspace & Kolaborasi Tim]] — Komparasi tools kolaborasi tim
 - [[Roadmap 1 Minggu]] — (Selesai) Sprint 7 hari fondasi proyek awal 4 orang.
 - [[Roster Tim]] — Roster formasi 10 anggota
