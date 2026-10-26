@@ -148,8 +148,21 @@ Folder ini berisi riset data mentah saat masa pencarian anggota dan pemetaan pro
 
 ---
 
-#### 3. Subfolder `Tim PLK/03 - Fase PLK/` (Fase Terjun Lapangan 2027)
-- [`Dashboard Eksekusi PLK.md`](Tim%20PLK/03%20-%20Fase%20PLK/Dashboard%20Eksekusi%20PLK.md): Template *Command Center* harian saat masa aktif penerjunan lapangan (Februari – Juli 2027) untuk pemantauan logbook dan proker mingguan.
+#### 3. Subfolder `Tim PLK/03 - Fase PLK/` (Fase Terjun Lapangan & Riset Aksi Proker 2027)
+- [`Dashboard Eksekusi PLK.md`](Tim%20PLK/03%20-%20Fase%20PLK/Dashboard%20Eksekusi%20PLK.md): *Command Center* harian saat masa aktif penerjunan lapangan (Februari – Juli 2027) untuk pemantauan logbook dan proker mingguan.
+- [`Matriks Analisis Ilmiah & Integrasi Proker.md`](Tim%20PLK/03%20-%20Fase%20PLK/Matriks%20Analisis%20Ilmiah%20&%20Integrasi%20Proker.md): **MASTER RISET AKSI & PROPOSAL**: Kerangka Participatory Action Research (PAR), sintesis 5 Whys terpadu, konversi 20 SKS, simulasi 280 jam logbook, dan Master Gantt Chart terpadu 10 anggota.
+
+##### a. Subfolder `01 - Divisi Teknologi & IT/` (PTI - FT)
+- [`Proker & Analisis Ilmiah Divisi Teknologi.md`](Tim%20PLK/03%20-%20Fase%20PLK/01%20-%20Divisi%20Teknologi%20&%20IT/Proker%20&%20Analisis%20Ilmiah%20Divisi%20Teknologi.md): Desain sistem Technology Acceptance Model (TAM), 5 Whys situs desa & QRIS, pemetaan 25 titik Google Maps, revitalisasi portal desa Wonosari, dan workshop keamanan siber pemuda.
+
+##### b. Subfolder `02 - Divisi Administrasi & UMKM/` (PADP - FEB)
+- [`Proker & Analisis Ilmiah Divisi Administrasi & UMKM.md`](Tim%20PLK/03%20-%20Fase%20PLK/02%20-%20Divisi%20Administrasi%20&%20UMKM/Proker%20&%20Analisis%20Ilmiah%20Divisi%20Administrasi%20&%20UMKM.md): Analisis akuntansi keprilakuan UMKM, 5 Whys ketiadaan buku kas, modul Buku Kas Saku 3 Menit (KUPAT), klinik kilat 15 NIB OSS berbingkai kaca (LEBAH), dan standardisasi arsip RW 01 (GARDU).
+
+##### c. Subfolder `03 - Divisi Lingkungan & Kesehatan/` (Biologi - FMIPA)
+- [`Proker & Analisis Ilmiah Divisi Lingkungan & Kesehatan.md`](Tim%20PLK/03%20-%20Fase%20PLK/03%20-%20Divisi%20Lingkungan%20&%20Kesehatan/Proker%20&%20Analisis%20Ilmiah%20Divisi%20Lingkungan%20&%20Kesehatan.md): Paradigma One Health & Circular Economy, 5 Whys tradisi bakar sampah & kelangkaan pupuk sawah, instalasi 3 drum komposter aerobik EM4 (KOBAR), workshop eco-enzyme 1:3:10 ibu PKK (ICEM), dan plang edukasi anti-ISPA kali (MASSA).
+
+##### d. Subfolder `04 - Divisi Pendidikan & Media Ajar/` (TP - FIP)
+- [`Proker & Analisis Ilmiah Divisi Pendidikan & Media Ajar.md`](Tim%20PLK/03%20-%20Fase%20PLK/04%20-%20Divisi%20Pendidikan%20&%20Media%20Ajar/Proker%20&%20Analisis%20Ilmiah%20Divisi%20Pendidikan%20&%20Media%20Ajar.md): Model desain instruksional ADDIE & tahap pra-operasional Piaget, 5 Whys media TK ABA & kebosanan santri TPA, penyediaan 5 paket APE & Pojok Baca 30 buku (TAMPAN), digitalisasi gamifikasi TPA Al-Amin (SABA), dan workshop Canva/AI pendidik (GARDITA).
 
 ---
 

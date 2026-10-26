@@ -143,10 +143,19 @@ Folder ini berisi data analitik saat masa pencarian anggota dan pemetaan prodi:
 
 ---
 
-#### 3. Subfolder `Tim PLK/03 - Fase PLK/` (Fase Terjun Lapangan 2027)
-| Berkas | Fungsi & Penjelasan Isi |
+#### 3. Subfolder `Tim PLK/03 - Fase PLK/` (Fase Terjun Lapangan & Riset Aksi Proker 2027)
+| Berkas / Subfolder | Fungsi & Penjelasan Isi |
 |---|---|
-| [[Dashboard Eksekusi PLK]] | Template *Command Center* harian saat masa aktif penerjunan (Februari – Juli 2027) untuk monitoring logbook dan eksekusi proker mingguan. |
+| [[Dashboard Eksekusi PLK]] | **Command Center Lapangan**: Pusat kendali harian, monitoring logbook 272 jam, dan evaluasi proker mingguan. |
+| [[Matriks Analisis Ilmiah & Integrasi Proker]] | **MASTER RISET AKSI & PROPOSAL**: Kerangka Participatory Action Research (PAR), sintesis 5 Whys terpadu, konversi 20 SKS, simulasi 280 jam logbook, dan Master Gantt Chart terpadu 10 anggota. |
+| 📁 `01 - Divisi Teknologi & IT/` | |
+| — [[Proker & Analisis Ilmiah Divisi Teknologi]] | Desain TAM, 5 Whys situs & QRIS, pemetaan 25 titik Google Maps, revitalisasi portal desa Wonosari, & workshop keamanan siber pemuda. |
+| 📁 `02 - Divisi Administrasi & UMKM/` | |
+| — [[Proker & Analisis Ilmiah Divisi Administrasi & UMKM]] | Akuntansi keprilakuan UMKM, 5 Whys buku kas, modul Buku Kas Saku 3 Menit (KUPAT), klinik 15 NIB OSS (LEBAH), & standardisasi arsip RW 01 (GARDU). |
+| 📁 `03 - Divisi Lingkungan & Kesehatan/` | |
+| — [[Proker & Analisis Ilmiah Divisi Lingkungan & Kesehatan]] | Paradigma One Health, 5 Whys tradisi bakar sampah & kelangkaan pupuk, instalasi 3 drum komposter EM4 (KOBAR), workshop eco-enzyme 1:3:10 (ICEM), & plang anti-ISPA (MASSA). |
+| 📁 `04 - Divisi Pendidikan & Media Ajar/` | |
+| — [[Proker & Analisis Ilmiah Divisi Pendidikan & Media Ajar]] | Desain ADDIE & kognitif Piaget, 5 Whys media TK ABA & TPA, penyediaan 5 paket APE & Pojok Baca 30 buku (TAMPAN), gamifikasi TPA Al-Amin (SABA), & workshop Canva/AI (GARDITA). |
 
 ---
 
