@@ -92,6 +92,7 @@ Folder ini berisi data analitik saat masa pencarian anggota dan pemetaan prodi:
 | Berkas | Fungsi & Penjelasan Isi |
 |---|---|
 | [[Roadmap Tahap 2 - Eksekusi Pre-PLK]] | **Master Roadmap Sprint Pre-PLK**: Timeline lobi DPL, perizinan Bappedalitbang, proposal, dan pembukaan portal UNY. |
+| [[Panduan & Isian Form e-Service UNY (Izin Bappedalitbang Klaten)]] | **Cheatsheet Isian e-Service UNY**: Tabel data siap salin (tugas MK, judul, format `cq.` Bapperida Klaten, 9 NIM anggota) & alur legalitas kelurahan. |
 | [[Sistematika & Panduan Penyusunan Proposal PLK]] | **Standar Penulisan Proposal**: Format margin 4-4-3-3, struktur Bab I–IV, RAB, dan pembagian tugas ngetik anggota. |
 
 ##### a. Subfolder `01 - Tata Kelola Tim & First Gathering/`

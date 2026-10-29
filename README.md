@@ -91,6 +91,7 @@ Folder ini berisi riset data mentah saat masa pencarian anggota dan pemetaan pro
 
 #### 2. Subfolder `Tim PLK/02 - Fase Pre-PLK/` (Fase Aktif: Persiapan, Legalitas, & Survei)
 - [`Roadmap Tahap 2 - Eksekusi Pre-PLK.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/Roadmap%20Tahap%202%20-%20Eksekusi%20Pre-PLK.md): Master roadmap sprint Pre-PLK (timeline perizinan desa, penunjukan DPL, proposal, hingga pembukaan sistem UNY).
+- [`Panduan & Isian Form e-Service UNY (Izin Bappedalitbang Klaten).md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/Panduan%20&%20Isian%20Form%20e-Service%20UNY%20(Izin%20Bappedalitbang%20Klaten).md): Cheatsheet data isian form permohonan izin observasi e-Service UNY (tugas MK, judul baku, format `cq.` Bapperida Klaten, 9 NIM anggota, & alur dinas).
 - [`Sistematika & Panduan Penyusunan Proposal PLK.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/Sistematika%20&%20Panduan%20Penyusunan%20Proposal%20PLK.md): Panduan lengkap format margin 4-4-3-3, struktur Bab I–IV, RAB, dan pembagian tugas ngetik proposal.
 
 ##### a. Subfolder `01 - Tata Kelola Tim & First Gathering/`

@@ -151,14 +151,14 @@ Setiap program kerja dirancang memiliki relevansi langsung dengan Capaian Pembel
 
 ## 💰 6. Rekapitulasi Rencana Anggaran Biaya (RAB) Terpadu 4 Divisi
 
-| Divisi Kerja | Fokus Alokasi Anggaran | Nilai Pengeluaran (Rp) | Sumber Pembiayaan |
-|---|---|:---:|---|
-| **Divisi Teknologi & IT** | Hosting cloud 1 tahun, akrilik QRIS 20 unit, stiker tahan air, buku manual web | Rp 910.000,- | Kas Tim Nirantara / Sponsor |
-| **Divisi Administrasi & UMKM** | Cetak buku kas saku 25 eks, bingkai kaca NIB 15 unit, ordner arsip RW, kertas linen | Rp 860.000,- | Kas Tim Nirantara / Sponsor |
-| **Divisi Lingkungan & Kesehatan**| Drum 100L 3 unit, bioaktivator EM4, toples 5L PKK 10 unit, papan plang kali, botol spray | Rp 980.000,- | Kas Tim Nirantara / Sponsor |
-| **Divisi Pendidikan & Media Ajar**| Kain flanel/velcro APE, rak buku pojok baca, banner ular tangga raksasa, ATK & hadiah | Rp 880.000,- | Kas Tim Nirantara / Donatur |
-| **Operasional Gabungan & Sosialisasi**| Konsumsi pembukaan rapat warga, banner posko, plakat kenang-kenangan desa | Rp 870.000,- | Kas Tim Nirantara |
-| **TOTAL ANGGARAN PROGRAM KERJA**| **12 Program Kerja Terpadu 4 Divisi** | **Rp 4.500.000,-** | *(Tercukupi dari Kas Tim Rp 50k x 10 org x 8 bln + Sponsor)* |
+| Divisi Kerja                           | Fokus Alokasi Anggaran                                                                   | Nilai Pengeluaran (Rp) | Sumber Pembiayaan                                            |
+| -------------------------------------- | ---------------------------------------------------------------------------------------- | :--------------------: | ------------------------------------------------------------ |
+| **Divisi Teknologi & IT**              | Hosting cloud 1 tahun, akrilik QRIS 20 unit, stiker tahan air, buku manual web           |      Rp 910.000,-      | Kas Tim Nirantara / Sponsor                                  |
+| **Divisi Administrasi & UMKM**         | Cetak buku kas saku 25 eks, bingkai kaca NIB 15 unit, ordner arsip RW, kertas linen      |      Rp 860.000,-      | Kas Tim Nirantara / Sponsor                                  |
+| **Divisi Lingkungan & Kesehatan**      | Drum 100L 3 unit, bioaktivator EM4, toples 5L PKK 10 unit, papan plang kali, botol spray |      Rp 980.000,-      | Kas Tim Nirantara / Sponsor                                  |
+| **Divisi Pendidikan & Media Ajar**     | Kain flanel/velcro APE, rak buku pojok baca, banner ular tangga raksasa, ATK & hadiah    |      Rp 880.000,-      | Kas Tim Nirantara / Donatur                                  |
+| **Operasional Gabungan & Sosialisasi** | Konsumsi pembukaan rapat warga, banner posko, plakat kenang-kenangan desa                |      Rp 870.000,-      | Kas Tim Nirantara                                            |
+| **TOTAL ANGGARAN PROGRAM KERJA**       | **12 Program Kerja Terpadu 4 Divisi**                                                    |   **Rp 4.500.000,-**   | *(Tercukupi dari Kas Tim Rp 50k x 10 org x 8 bln + Sponsor)* |
 
 ---
 
