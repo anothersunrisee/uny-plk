@@ -52,14 +52,14 @@ Ada 2 kemungkinan teknis:
 
 Jika desas-desus "Seleksi Kuota PLK" benar-benar diterapkan oleh universitas, **Tim NIRANTARA justru berada di posisi paling aman dan paling siap**:
 
-| Parameter Kesiapan Seleksi | Kondisi Tim-Tim Lain pada Umumnya | Kesiapan Tim NIRANTARA (Status Real) |
-| :--- | :--- | :--- |
-| **1. Kuota & Formasi Anggota** | Masih bongkar pasang, kekurangan laki-laki FT / anggota prodi lain. | 🟢 **10/10 FIX LENGKAP** (4 PTI FT, 2 PADP FEB, 2 Bio FMIPA, 2 TP FIP). Rasio 3 L : 7 P sah di dashboard. |
-| **2. Kepastian Lokasi Desa** | Belum punya desa atau memilih lokasi abu-abu di Sleman yang dilarang panduan. | 🟢 **DESA WONOSARI, KLATEN**: Sesuai kriteria luar DIY, jalan aspal mulus 40 menit dari kampus. |
-| **3. Izin Resmi Pemangku Wilayah**| Belum pernah sowan, hanya menduga-duga. | 🟢 **SUDAH SOWAN RESMI**: Audiensi langsung ke Kades Wonosari (Bpk. Adi) dan Ketua RW 01 (Bpk. Ramelan). Notulensi & bukti foto lengkap. |
-| **4. Kelayakan Posko** | Belum ada kepastian tempat tinggal. | 🟢 **AUDIT FISIK SELESAI**: Rumah mandiri milik Mbah Terry di Dukuh Majegan (100% eksklusif dihuni Nirantara). |
-| **5. Calon Dosen Pembimbing (DPL)**| Pasrah di-plot acak oleh sistem. | 🟢 **TARGET JELAS**: Dr. Ponco Walipratono, S.Pd.T., M.Pd. (Dosen DPTEI FT UNY). |
-| **6. Kesiapan Program Kerja** | Belum ada gambaran kegiatan riil. | 🟢 **DATA LAPANGAN MATANG**: Solusi pupuk kompos/eco-enzyme sampah, digitalisasi UMKM (Google Maps & QRIS), dan media ajar TK ABA/TPA. |
+| Parameter Kesiapan Seleksi          | Kondisi Tim-Tim Lain pada Umumnya                                             | Kesiapan Tim NIRANTARA (Status Real)                                                                                                     |
+| :---------------------------------- | :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Kuota & Formasi Anggota**      | Masih bongkar pasang, kekurangan laki-laki FT / anggota prodi lain.           | 🟢 **10/10 FIX LENGKAP** (4 PTI FT, 2 PADP FEB, 2 Bio FMIPA, 2 TP FIP). Rasio 3 L : 7 P sah di dashboard.                                |
+| **2. Kepastian Lokasi Desa**        | Belum punya desa atau memilih lokasi abu-abu di Sleman yang dilarang panduan. | 🟢 **DESA WONOSARI, KLATEN**: Sesuai kriteria luar DIY, jalan aspal mulus 40 menit dari kampus.                                          |
+| **3. Izin Resmi Pemangku Wilayah**  | Belum pernah sowan, hanya menduga-duga.                                       | 🟢 **SUDAH SOWAN RESMI**: Audiensi langsung ke Kades Wonosari (Bpk. Adi) dan Ketua RW 01 (Bpk. Ramelan). Notulensi & bukti foto lengkap. |
+| **4. Kelayakan Posko**              | Belum ada kepastian tempat tinggal.                                           | 🟢 **AUDIT FISIK SELESAI**: Rumah mandiri milik Mbah Terry di Dukuh Majegan (100% eksklusif dihuni Nirantara).                           |
+| **5. Calon Dosen Pembimbing (DPL)** | Pasrah di-plot acak oleh sistem.                                              | 🟢 **TARGET JELAS**: Dr. Ponco Walipratono, S.Pd.T., M.Pd. (Dosen DPTEI FT UNY).                                                         |
+| **6. Kesiapan Program Kerja**       | Belum ada gambaran kegiatan riil.                                             | 🟢 **DATA LAPANGAN MATANG**: Solusi pupuk kompos/eco-enzyme sampah, digitalisasi UMKM (Google Maps & QRIS), dan media ajar TK ABA/TPA.   |
 
 > 💡 **Kesimpulan Strategis:**  
 > Jangan panik melihat tim lain yang curi start di lokasi terlarang. Tim Nirantara memegang legalitas paling bersih, dokumen paling lengkap, dan paling siap lolos jika ada kurasi kuota dari LPPM!

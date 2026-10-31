@@ -6,22 +6,34 @@ tujuan: Panduan & Data Isian Form E-Service UNY untuk Izin Bappedalitbang/Bapper
 ---
 
 # 📑 Panduan & Cheatsheet Isian Form E-Service UNY
-### Permohonan Surat Pengantar Izin Observasi ke Bappedalitbang / Bapperida Kabupaten Klaten
+### Permohonan Surat Pengantar Izin KKN / PLK ke Bapperida Kabupaten Klaten
 **Tim NIRANTARA — PLK UNY Mengabdi 2027 (Desa Wonosari, Trucuk, Klaten)**
 
 ---
 
-## 📋 1. Cheatsheet Form Isian E-Service UNY (Tinggal Copy-Paste)
+> [!CAUTION]
+> ### 🔴 PENTING: HASIL KOORDINASI BAPPERIDA KLATEN (30 OKTOBER 2026)
+> Berdasarkan koordinasi resmi antara Ketua Tim Nirantara (**Fajar**) dengan **Mas Rizal Bapperida Klaten** pada 30 Oktober 2026:
+> 1. Jika surat pengantar kampus tertulis **"Izin Observasi"**, Bapperida Klaten **TIDAK MEMPROSES** surat rekomendasi daerah (karena observasi/survei 1–2 hari cukup izin langsung ke kelurahan).
+> 2. Namun karena kegiatan Tim Nirantara adalah **KKN Mandiri selama 4,5 bulan (menginap di posko Majegan)**, maka Bapperida Klaten **WAJIB MENERBITKAN IZIN KKN**.
+> 3. Oleh karena itu, surat pengantar dari UNY **WAJIB DIREVISI** agar secara eksplisit bertuliskan: **"Permohonan Izin Kuliah Kerja Nyata (KKN) / Pembelajaran Luar Kampus (PLK)"**, bukan izin observasi!
+> 
+> 👉 *Panduan lengkap alur online, syarat scan KTM, proposal, dan koordinasi dengan Bu Novi (Subkor KKN) dapat dibaca di:*  
+> 📑 **[[Panduan & Prosedur Perizinan KKN Bapperida Klaten]]**
 
-Gunakan tabel di bawah ini untuk mengisi laman formulir di portal **`eservice.uny.ac.id`** menu **Permohonan Izin ➔ Observasi**:
+---
+
+## 📋 1. Cheatsheet Form Isian E-Service UNY (Revisi Terbaru Khusus Izin KKN)
+
+Gunakan tabel di bawah ini untuk mengisi formulir di portal **`eservice.uny.ac.id`** (Menu **Permohonan Izin ➔ Observasi / PKL Magang**):
 
 | Nama Kolom Form | Nilai Isian Baku (Silakan Copy-Paste Langsung) | Keterangan / Catatan Teknis |
 |---|---|---|
-| **Tugas matakuliah \*** | `Pembelajaran Luar Kampus (PLK) UNY Mengabdi` | *Gunakan nama baku resmi kampus (bukan "Pendidikan Luar Kampus").* |
-| **Tujuan/Judul observasi \*** | `Observasi Lapangan dan Permohonan Rekomendasi Pelaksanaan Program Pembelajaran Luar Kampus (PLK) UNY Mengabdi 2027 di Desa Wonosari, Kecamatan Trucuk, Kabupaten Klaten` | *Bahasa baku formal instansi pemerintahan, jelas mencakup lokasi desa, kecamatan, dan kabupaten.* |
+| **Tugas matakuliah \*** | `Kuliah Kerja Nyata (KKN) / Pembelajaran Luar Kampus (PLK) UNY Mengabdi` | *Wajib mencantumkan kata "Kuliah Kerja Nyata (KKN)" agar terbaca resmi oleh sistem persuratan Bapperida Klaten.* |
+| **Tujuan/Judul observasi \*** | `Permohonan Izin Pelaksanaan Kuliah Kerja Nyata (KKN) / Pembelajaran Luar Kampus (PLK) UNY Mengabdi Tahun 2027 di Desa Wonosari, Kecamatan Trucuk, Kabupaten Klaten` | *Bahasa baku formal instansi pemerintahan, secara tegas menyatakan permohonan izin KKN dan lokasi desa.* |
 | **Nama dan Alamat Penerima \*** | **Bupati Klaten**<br>**cq. Kepala Badan Perencanaan Pembangunan, Riset dan Inovasi Daerah (Bapperida) Kabupaten Klaten**<br>**Gedung Pemda II Lantai 2, Jl. Pemuda No. 294, Klaten Tengah, Kab. Klaten, Jawa Tengah 57424** | *Wajib menggunakan format hierarki `cq.` sesuai kotak peringatan merah di e-Service.*<br>*(Bapperida adalah nomenklatur resmi Bappedalitbang saat ini).* |
-| **Tanggal mulai observasi \*** | `01/11/2026` *(atau tanggal hari ini saat submit)* | *Format tanggal di sistem web e-service menggunakan date picker.* |
-| **Tanggal selesai observasi \*** | `31/01/2027` *(Rekomendasi 3 Bulan)* | *Mencakup seluruh masa survei lanjutan, pematangan proker, hingga pra-penerjunan.* |
+| **Tanggal mulai observasi \*** | `01/02/2027` *(atau tanggal penerjunan resmi)* | *Menunjukkan waktu dimulainya KKN lapangan semester genap.* |
+| **Tanggal selesai observasi \*** | `30/06/2027` *(Durasi 5 Bulan KKN)* | *Mencakup seluruh masa pengabdian 4,5–5 bulan di Desa Wonosari.* |
 | **Anggota** | Masukkan 9 NIM anggota (lihat daftar tabel NIM di Bagian 2). | *Akun pengusul login (**Fajar Ahnaf Mahardika**) otomatis tercatat sebagai ketua, tidak perlu dimasukkan lagi.* |
 
 ---
@@ -51,17 +63,17 @@ Karena pengusul adalah **Fajar Ahnaf Mahardika** (`24050530030`), sistem e-Servi
 
 Cari dan pilih **9 NIM anggota kelompok** berikut di kolom pencarian **`:: Pilih Mahasiswa ::`**:
 
-| No | NIM Anggota *(Copy Ini)* | Nama Lengkap Mahasiswa | Program Studi | Fakultas |
-|:--:|:---:|:---|:---|:---:|
-| **1** | `24050530052` | **Muhadzdzib Terry Al Fauzan** | Pendidikan Teknik Informatika | FT |
-| **2** | `24050530029` | **Muhamad Riski** | Pendidikan Teknik Informatika | FT |
-| **3** | **`24050530045`** | **Novelia Harlinda** | Pendidikan Teknik Informatika | FT |
-| **4** | `24080330053` | **Dinda Amelia Putri** | Pendidikan Administrasi Perkantoran | FEB |
-| **5** | `24080330078` | **Faidatul Anugraheni M.** | Pendidikan Administrasi Perkantoran | FEB |
-| **6** | `24030830059` | **Intan Milansari** | Biologi | FMIPA |
-| **7** | `24030830068` | **Zalfa Khoirunnisa** | Biologi | FMIPA |
-| **8** | `24010530018` | **Alvina Aulia Az Zahra** | Teknologi Pendidikan | FIP |
-| **9** | `24010530004` | **Krissandra Siagian** | Teknologi Pendidikan | FIP |
+|  No   | NIM Anggota *(Copy Ini)* | Nama Lengkap Mahasiswa         | Program Studi                       | Fakultas |
+| :---: | :----------------------: | :----------------------------- | :---------------------------------- | :------: |
+| **1** |      `24050530052`       | **Muhadzdzib Terry Al Fauzan** | Pendidikan Teknik Informatika       |    FT    |
+| **2** |      `24050530029`       | **Muhamad Riski**              | Pendidikan Teknik Informatika       |    FT    |
+| **3** |    **`24050530045`**     | **Novelia Harlinda**           | Pendidikan Teknik Informatika       |    FT    |
+| **4** |      `24080330053`       | **Dinda Amelia Putri**         | Pendidikan Administrasi Perkantoran |   FEB    |
+| **5** |      `24080330078`       | **Faidatul Anugraheni M.**     | Pendidikan Administrasi Perkantoran |   FEB    |
+| **6** |      `24030830059`       | **Intan Milansari**            | Biologi                             |  FMIPA   |
+| **7** |      `24030830068`       | **Zalfa Khoirunnisa**          | Biologi                             |  FMIPA   |
+| **8** |      `24010530018`       | **Alvina Aulia Az Zahra**      | Teknologi Pendidikan                |   FIP    |
+| **9** |      `24010530004`       | **Krissandra Siagian**         | Teknologi Pendidikan                |   FIP    |
 
 > [!TIP]
 > **Trik Cepat**: Copy satu per satu angka NIM di atas, paste ke kotak pencarian anggota, lalu klik nama yang muncul hingga kesembilan nama anggota masuk ke daftar anggota observasi.

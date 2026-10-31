@@ -136,6 +136,8 @@ Folder ini berisi data analitik saat masa pencarian anggota dan pemetaan prodi:
 | Berkas | Fungsi & Penjelasan Isi |
 |---|---|
 | [[Copy of NOTULENSI (PLK NIRANTARA 27)_SURVEI_24 OKT 26.docx|Notulensi Resmi Survei Lapangan Klaten (24 Okt 2026)]] | **MASTER DOKUMEN SURVEI**: Transkrip verbatim Ketua RW 01 Ramelan, Kades Wonosari Adi, jalur legalitas Bappedalitbang Klaten, audit posko, dan sprint agenda tim. |
+| 📁 `bapedalitbang/` | Folder koordinasi legalitas resmi Bappedalitbang / Bapperida Klaten: |
+| — [[Panduan & Prosedur Perizinan KKN Bapperida Klaten]] | **SOP Izin KKN Bapperida Klaten**: 4 syarat infografis resmi, kontak Bu Novi (`0812-9141-9151`), draf email `siip.bappedaklt@gmail.com`, & panduan revisi surat KKN. |
 | [[04 - Lembar Instrumen Observasi Lapangan (Print Ready)]] | Master bundle instrumen observasi lapangan siap cetak A4. |
 | [[04A - Instrumen Sub-Tim 1 (Pemerintahan Desa, BUMDes, Monografi & UMKM)]] | Lembar instrumen wawancara Kepala Desa Wonosari & Ketua RW 01 Majegan. |
 | [[04B - Instrumen Sub-Tim 2 (Pertanian, Irigasi, Ternak & Lingkungan)]] | Lembar instrumen survei limbah pekarangan/kali, sawah, dan pupuk kompos. |
