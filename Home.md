@@ -22,6 +22,11 @@ status: active
 
 ---
 
+> [!IMPORTANT]
+> ### 🧭 BINGUNG CARI FILE KARENA TERLALU BANYAK?
+> Jika kamu ingin mencari berkas berdasarkan **masalah atau apa yang ingin kamu kerjakan** (misal: urus izin Bapperida, copas teks e-Service, panduan rapat malam ini, cari data anggota, atau ngetik proposal proker), langsung buka:  
+> 👉 **[[PETA CARI FILE (Cheat Sheet Direktori)]]** *(Daftar pintas satu klik untuk seluruh kebutuhan tim!)*
+
 ## 🗂️ Direktori Lengkap & Penjelasan Isi Berkas Vault
 
 Berikut adalah peta struktur seluruh folder, subfolder, dan berkas di dalam vault ini beserta fungsi dan kegunaannya:
@@ -29,6 +34,7 @@ Berikut adalah peta struktur seluruh folder, subfolder, dan berkas di dalam vaul
 ### 🏠 A. Root Vault (Pusat Kendali & Identitas)
 | Nama Berkas | Format | Fungsi & Penjelasan Isi |
 |---|:---:|---|
+| [[PETA CARI FILE (Cheat Sheet Direktori)]] | `.md` | 🧭 **Pusat Pintas Pencarian Berkas**: Indeks satu klik mencari dokumen berdasarkan kebutuhan nyata sehari-hari. |
 | [[Home]] | `.md` | **Dashboard Utama Obsidian** (file ini) sebagai pusat navigasi visual dan indeks seluruh berkas vault. |
 | [[index]] | `.md` | **Landing Page Web Quartz** yang di-generate otomatis menjadi portal web dokumentasi publik tim. |
 | [[README]] | `.md` | **Halaman Muka Repositori GitHub** resmi tim Nirantara PLK UNY 2027. |
@@ -84,6 +90,7 @@ Folder ini berisi data analitik saat masa pencarian anggota dan pemetaan prodi:
 ##### a. Subfolder `01 - Tata Kelola Tim & First Gathering/`
 | Berkas | Fungsi & Penjelasan Isi |
 |---|---|
+| [[Panduan Rapat Pleno 31 Okt - Update Bapperida, Kas, Proker & Backup Humas]] | 📢 **Panduan Rapat Pleno 31 Okt 2026**: Penetapan backup Humas (Terry), update Bapperida, penundaan kas, & pembagian proker 4 divisi. |
 | [[Notulensi Resmi First Gathering NIRANTARA]] | Berita acara resmi hasil First Gathering 16 Oktober 2026 (penetapan nama, ketua, dan matriks). |
 | [[Panduan First Gathering & Lembar Kerja Tim]] | Lembar kerja TM-TP rapat perdana (voting ketua, pemilihan nama Nirantara, penetapan matrix). |
 | [[Struktur Organisasi Matrix Tim PLK]] | Panduan detail struktur matrix: Peran Operasional Posko vs Peran Fungsional Program Kerja. |

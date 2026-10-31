@@ -42,11 +42,18 @@ Tim Nirantara menerapkan **Struktur Organisasi Matrix**, di mana setiap anggota 
 
 ---
 
+## 🧭 BINGUNG CARI FILE KARENA TERLALU BANYAK?
+Jika Anda ingin mencari berkas berdasarkan **masalah atau apa yang ingin dikerjakan** (misal: urus izin Bapperida Klaten, copas teks form e-Service UNY, panduan rapat malam ini, cari biodata/K3 anggota, atau ngetik proposal proker), silakan langsung buka:  
+👉 **[`PETA CARI FILE (Cheat Sheet Direktori).md`](PETA%20CARI%20FILE%20(Cheat%20Sheet%20Direktori).md)** *(Daftar pintas satu klik untuk seluruh kebutuhan tim!)*
+
+---
+
 ## 🗂️ 2. PETA DIREKTORI & PENJELASAN LENGKAP ISI FILE
 
 Berikut adalah direktori lengkap repositori beserta fungsi dan isi dari seluruh berkas yang ada di dalam vault:
 
 ### 🏠 A. Root Directory (Pusat Navigasi & Identitas)
+- [`PETA CARI FILE (Cheat Sheet Direktori).md`](PETA%20CARI%20FILE%20(Cheat%20Sheet%20Direktori).md): 🧭 **Pusat Pintas Pencarian Berkas** berdasarkan masalah dan kebutuhan nyata sehari-hari.
 - [`README.md`](README.md): Halaman muka GitHub repositori, memuat profil tim, sitemap direktori lengkap, dan panduan operasional.
 - [`Home.md`](Home.md): Dashboard utama antarmuka Obsidian Vault yang interaktif dengan navigasi cepat ke seluruh dokumen.
 - [`index.md`](index.md): Entry point dan landing page untuk publikasi web statis Quartz / portal web online tim.
@@ -95,6 +102,7 @@ Folder ini berisi riset data mentah saat masa pencarian anggota dan pemetaan pro
 - [`Sistematika & Panduan Penyusunan Proposal PLK.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/Sistematika%20&%20Panduan%20Penyusunan%20Proposal%20PLK.md): Panduan lengkap format margin 4-4-3-3, struktur Bab I–IV, RAB, dan pembagian tugas ngetik proposal.
 
 ##### a. Subfolder `01 - Tata Kelola Tim & First Gathering/`
+- [`Panduan Rapat Pleno 31 Okt - Update Bapperida, Kas, Proker & Backup Humas.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Panduan%20Rapat%20Pleno%2031%20Okt%20-%20Update%20Bapperida,%20Kas,%20Proker%20&%20Backup%20Humas.md): 📢 **Panduan Rapat Pleno 31 Okt 2026**: Penetapan backup Humas (Terry), update Bapperida, penundaan kas, & pembagian proker 4 divisi.
 - [`Panduan First Gathering & Lembar Kerja Tim.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Panduan%20First%20Gathering%20&%20Lembar%20Kerja%20Tim.md): Lembar kerja TM-TP (voting ketua, pemilihan nama Nirantara, penetapan matrix).
 - [`Notulensi Resmi First Gathering NIRANTARA.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Notulensi%20Resmi%20First%20Gathering%20NIRANTARA.md): Berita acara resmi hasil First Gathering tanggal 16 Oktober 2026.
 - [`Struktur Organisasi Matrix Tim PLK.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Struktur%20Organisasi%20Matrix%20Tim%20PLK.md): Panduan detail sistem kerja peran ganda (Operasional Posko vs Fungsional Proker).
