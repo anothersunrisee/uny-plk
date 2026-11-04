@@ -111,6 +111,7 @@ Folder ini berisi data analitik saat masa pencarian anggota dan pemetaan prodi:
 | [[Analisa Kriteria & Strategi Memilih DPL]] | Kriteria DPL green flags/red flags & strategi mengunci **Dr. Ponco Walipratono, S.Pd.T., M.Pd. (DPTEI FT)**. |
 | [[Draft Simulasi 272 Jam Kerja]] | Simulasi perhitungan jam kerja efektif 272 jam (pembagian jam pra-lapangan di Jogja vs lapangan di Klaten). |
 | 📁 `Konsultasi PIC/` | Folder konsultasi kebijakan akademik 4 program studi: |
+| — [[Panduan & Bank Pertanyaan Konsultasi PIC 4 Prodi (Update November 2026)]] | 🎓 **Bank Pertanyaan Resmi PIC 4 Prodi**: Panduan sowan, lobi kuota, konversi SKS, persetujuan DPL Dr. Ponco, & draf chat WA. |
 | — [[Konsultasi Lanjutan PIC PTI & Kajian Isu Kuota PLK]] | **Kajian Isu Sleman, Kuota PLK, & Chat Sowan**: Analisis kelompok berangkat awal, mitigasi seleksi kuota, & draf WA Dr. Sigit Pambudi. |
 | — [[Notulensi Konsultasi PIC PTI]] | Hasil konsultasi resmi dengan Dr. Sigit Pambudi, S.Pd., M.Eng. (Koorprodi/PIC PTI FT). |
 | — [[Notulensi Konsultasi PIC PADP]] | Hasil konsultasi resmi dengan Hilmy Pradana Sundawan, M.Pd. (PIC PADP FEB). |

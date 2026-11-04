@@ -25,6 +25,7 @@ author: Tim Nirantara PLK UNY 2027
 | **Mau urus surat izin Bapperida Klaten, cari kontak Bu Novi & format email?** | [Panduan & Prosedur Perizinan KKN Bapperida](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/04%20-%20Integrasi%20Kelompok%20&%20Survei%20Klaten/bapedalitbang/Panduan%20&%20Prosedur%20Perizinan%20KKN%20Bapperida%20Klaten.md) | `Tim PLK/02 - Fase Pre-PLK/04 - Integrasi.../bapedalitbang/` | Syarat infografis Bapperida, nomor WA Bu Novi (`0812-9141-9151`), Mas Rizal, template email `siip.bappedaklt@gmail.com`, & form desa. |
 | **Mau ngisi form di web e-Service UNY & butuh teks siap copas?** | [Panduan & Isian Form e-Service UNY](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/Panduan%20&%20Isian%20Form%20e-Service%20UNY%20(Izin%20Bappedalitbang%20Klaten).md) | `Tim PLK/02 - Fase Pre-PLK/` | Tabel teks siap salin: tugas MK, judul izin KKN, format alamat instansi `cq. Bapperida Klaten`, & NIM 9 anggota. |
 | **Mau tahu kebijakan uang kas tim kenapa ditunda sementara?** | [Panduan Rapat Pleno 31 Okt](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Panduan%20Rapat%20Pleno%2031%20Okt%20-%20Update%20Bapperida,%20Kas,%20Proker%20&%20Backup%20Humas.md#agenda-3-kebijakan-keuangan-penundaanfreeze-uang-kas-bulanan-rp-50000-) | `Tim PLK/02 - Fase Pre-PLK/01 - Tata Kelola Tim.../` | Penjelasan risiko dana vs isu seleksi kuota PLK kampus & kepastian uang kas baru ditarik setelah ACC sistem LPPM. |
+| **Mau sowan ke Dosen PIC masing-masing prodi (PTI, PADP, Biologi, TP) & butuh list pertanyaan?** | [Bank Pertanyaan PIC 4 Prodi](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/02%20-%20DPL%20&%20Konsultasi%20Akademik/Konsultasi%20PIC/Panduan%20&%20Bank%20Pertanyaan%20Konsultasi%20PIC%204%20Prodi%20(Update%20November%202026).md) | `Tim PLK/02 - Fase Pre-PLK/02 - DPL.../Konsultasi PIC/` | 🎓 **Bank Pertanyaan Lengkap 4 Prodi**: Panduan lobi kuota, konversi SKS, status 1 kelompok, persetujuan DPL Dr. Ponco, & draf chat WA. |
 | **Mau sowan ke Dosen PIC PTI (Pak Sigit) & cari bahan lobi kuota?** | [Konsultasi Lanjutan PIC PTI & Isu Kuota PLK](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/02%20-%20DPL%20&%20Konsultasi%20Akademik/Konsultasi%20PIC/Konsultasi%20Lanjutan%20PIC%20PTI%20&%20Kajian%20Isu%20Kuota%20PLK.md) | `Tim PLK/02 - Fase Pre-PLK/02 - DPL.../Konsultasi PIC/` | Analisis kasus Sleman start duluan, isu seleksi kuota, draft chat WhatsApp sopan ke Dr. Sigit Pambudi. |
 | **Mau sowan dan mengunci Calon DPL resmi (Dr. Ponco Walipratono)?** | [Analisa Kriteria & Strategi Memilih DPL](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/02%20-%20DPL%20&%20Konsultasi%20Akademik/Analisa%20Kriteria%20&%20Strategi%20Memilih%20DPL.md) | `Tim PLK/02 - Fase Pre-PLK/02 - DPL & Konsultasi Akademik/` | Profil Dr. Ponco Walipratono, portofolio tim 10 orang, dan strategi lobi dosen pembimbing. |
 
@@ -114,7 +115,10 @@ d:\KULIAH\UNY PLK\
 │   │   ├── 02 - DPL & Konsultasi Akademik/
 │   │   │   ├── Analisa Kriteria & Strategi Memilih DPL.md (Dr. Ponco Walipratono)
 │   │   │   ├── Draft Simulasi 272 Jam Kerja.md
-│   │   │   └── Konsultasi PIC/ (Konsultasi Pak Sigit PTI, PADP, Biologi, TP)
+│   │   │   └── Konsultasi PIC/
+│   │   │       ├── Panduan & Bank Pertanyaan Konsultasi PIC 4 Prodi (Update November 2026).md 🔴 BARU
+│   │   │       ├── Konsultasi Lanjutan PIC PTI & Kajian Isu Kuota PLK.md
+│   │   │       └── Matriks Hasil Konsultasi PIC 4 Prodi.md
 │   │   │
 │   │   ├── 03 - Anggaran & Sponsorship/
 │   │   │   └── Strategi Sponsorship & Anggaran Awal Tim.md
@@ -134,3 +138,4 @@ d:\KULIAH\UNY PLK\
 │       ├── 03 - Divisi Lingkungan & Kesehatan/ (Proker Kompos EM4, Eco-Enzyme)
 │       └── 04 - Divisi Pendidikan & Media Ajar/ (Proker APE TK, TPA, Pelatihan Guru)
 ```
+
