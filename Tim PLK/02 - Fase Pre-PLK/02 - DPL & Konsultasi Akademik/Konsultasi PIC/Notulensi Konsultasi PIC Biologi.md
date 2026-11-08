@@ -45,4 +45,16 @@ Konsultasi ini dilakukan untuk mendapatkan informasi dan kejelasan lebih lanjut 
 4. Proker pengolahan sampah & eco-enzyme yang dirancang sangat pas dengan arahan PIC Prodi Biologi.
 
 ---
-← [[Draft Konsultasi Dosen PIC]] | [[Home]]
+
+## D. Update Hasil Konfirmasi Tambahan (8 November 2026)
+
+Berdasarkan laporan hasil komunikasi lanjutan perwakilan Biologi pada Rapat Pleno 8 November 2026:
+1. **Isu Seleksi Kuota**: **TIDAK ADA SELEKSI KUOTA** di Prodi Biologi. Seluruh mahasiswa Biologi yang memenuhi syarat 100 SKS dan berkas lengkap dijamin aman berangkat.
+2. **Isu 1 Kelompok 1 Desa**: Dari pihak Prodi Biologi **memperbolehkan** 1 kelompok mandiri di Desa Wonosari Klaten, tinggal mengonfirmasi kembali ke tingkat fakultas/LPPM saat pembukaan sistem.
+3. **Penentuan DPL**: Pihak Biologi menegaskan bahwa penentuan DPL merupakan **kewenangan universitas (Unit KKN/LPPM) yang memilih/mem-plot**. Usulan DPL mandiri Dr. Ponco Walipratono tetap diajukan saat plotting dibuka.
+4. **Surat Izin Wilayah**: Surat izin permohonan ke Bapperida Klaten **sah diwakilkan kolektif** melalui surat pengantar universitas atas nama kelompok.
+5. **Logbook 272 Jam**: Aktivitas persiapan di luar Klaten (di Jogja) diperbolehkan dicatat di logbook, namun diutamakan dan diperbanyak kegiatan fisik di Klaten.
+
+---
+
+← [[Draft Konsultasi Dosen PIC]] | [[Matriks Hasil Konsultasi PIC 4 Prodi]] | [[Home]]

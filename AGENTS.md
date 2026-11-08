@@ -70,7 +70,11 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 - PLK = setara KKN, konversi 10-20 SKS (Minimal 272 Jam Kerja Efektif, via Logbook)
 - **Aturan 2 Kelompok per Desa & Status Posko**: Sesuai regulasi LPPM di Klaten (min. 2 kelompok per kelurahan/desa), Tim Nirantara berlokasi di Desa Wonosari. Kelompok B (Teman PTI - Terry) **resmi mundur per 23 Oktober 2026**. Posko Majegan kini **100% eksklusif dihuni 10 orang Tim Nirantara** (jauh lebih kondusif & privat). Oprec kemitraan 1 desa dibuka dengan fokus Opsi A (Posko Mandiri Sewa Sendiri di Desa Wonosari). Pak Lurah merekomendasikan kelompok kedua di: Dukuh Pendem, Jedis, Brangkal, Muteran, Tonggalan Lor, atau rumah mandiri di Majegan. Rujuk ke: `[[07 - Evaluasi Mundurnya Kelompok B & Strategi Oprec Mitra Desa]]`.
 - **Hasil Survei 24 Okt 2026 & Legalitas Bappedalitbang Klaten**: Delegasi 10/10 sukses melaksanakan audiensi ke Ketua RW 01 (Bpk. Ramelan: `0823-2335-3645`) dan Kepala Desa Wonosari (Bpk. Adi: `0813-2100-1070`). Alur izin resmi PLK Mandiri di Klaten: Surat Dekan ditujukan ke **Bappedalitbang Kab. Klaten** ➔ diterbitkan izin resmi dengan tembusan ke Kantor Kecamatan Trucuk & Balai Desa Wonosari. Draf proker wajib diserahkan sebelum penerjunan Februari 2027.
-- **Target DPL Resmi**: Tim menetapkan **Dr. Ponco Walipratono, S.Pd.T., M.Pd.** (DPTEI FT UNY) sebagai target DPL. Sowan lobi dijadwalkan minggu depan oleh tim PTI.
+- **Target DPL Resmi**: Tim menetapkan **Dr. Ponco Walipratono, S.Pd.T., M.Pd.** (DPTEI FT UNY) sebagai target DPL. Berdasarkan konfirmasi PIC Biologi, penentuan DPL resmi dilakukan plotting oleh universitas/LPPM, sehingga usulan Dr. Ponco diajukan saat pendaftaran sistem dibuka.
+- **Kebijakan Kas Tim**: Kas bulanan Rp 50.000,-/anggota resmi dimulai November 2026, dibayarkan tanggal 5 s.d. 10 setiap bulannya ke Bendahara Tunggal (Faidatul). Aturan sanksi: telat bayar kas wajib membayarkan uang kas seluruh anggota kelompok untuk bulan berikutnya.
+- **Update PIC 4 Prodi (Rapat 8 Nov)**:
+  * Biologi: Tidak ada seleksi kuota, 1 desa 1 kelompok sah menurut prodi, surat izin bisa diwakilkan kolektif, jam persiapan Jogja boleh masuk logbook.
+  * TP: Sowan dan wawancara PIC TP FIP dijadwalkan hari Senin (9 Nov 2026).
 - **Fokus Proker Lapangan**:
   * Sampah: Limbah dibakar di kali/pekarangan ➔ Solusi realistis Divisi Biologi: Pelatihan pembuatan pupuk kompos fermentasi & eco-enzyme.
   * UMKM: Warung warga belum ada Google Maps & QRIS ➔ Solusi Divisi PTI & PADP: Digitalisasi titik Google Maps & QRIS usaha warga.
@@ -78,21 +82,21 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 
 ### Sistem Kerja Tim (Struktur Matrix)
 - Tim ini menggunakan **Struktur Organisasi Matrix**.
-- Setiap anggota WAJIB memegang 2 peran: **Peran Operasional Posko** (Ketua, Sekretaris, Bendahara, Humas, PDD, Perkap & K3 — *bebas seksi konsumsi tetap, makan dikelola piket harian*) DAN **Peran Fungsional Proker** (Koor Divisi Teknologi, Divisi Lingkungan, Divisi PADP, Divisi Pendidikan TP).
+- Setiap anggota WAJIB memegang 2 peran: **Peran Operasional Posko** (Ketua, Sekretaris, Bendahara Tunggal, Humas 1 & 2, PDD 1 & 2, Perkap 1 & 2 — *bebas seksi konsumsi tetap, makan dikelola piket harian bergilir 2 orang/hari*) DAN **Peran Fungsional Proker** (Koor Divisi Teknologi, Divisi Lingkungan, Divisi PADP, Divisi Pendidikan TP).
 - Agent harus membedakan mana rapat/kebutuhan operasional (hidup di posko) dan rapat/kebutuhan proker (terjun ke warga) saat memberikan saran/rencana kerja.
 
-### Matriks Resmi 10 Anggota Tim NIRANTARA
+### Matriks Resmi 10 Anggota Tim NIRANTARA (Pasca Rapat Pleno 8 Nov 2026)
 | No | Nama | Asal Prodi | Peran Operasional Posko | Peran Divisi Proker |
 |:---:|---|---|---|---|
 | 1 | Fajar Ahnaf Mahardika | PTI (FT) | Ketua (Kordes) | Supervisi, Lobi Desa & IT |
-| 2 | Muhadzdzib Terry Al Fauzan | PTI (FT) | Humas Lapangan & Kemitraan Desa | Tim Web Desa & IT |
+| 2 | Muhadzdzib Terry Al Fauzan | PTI (FT) | Humas 1 (Humas Lapangan & Desa Wonosari) | Tim Web Desa & IT |
 | 3 | Muhamad Riski | PTI (FT) | Perkap 1 (Logistik Lapangan & Armada) | Tim Web Desa & IT |
 | 4 | Novelia Harlinda (Veli) | PTI (FT) | Sekretaris 2 (Logbook 272 & Arsip Digital) | Koor. Divisi Teknologi & IT |
 | 5 | Dinda Amelia Putri | PADP (FEB) | Sekretaris 1 (Proposal & LPJ) | Tim Divisi Administrasi & UMKM |
-| 6 | Faidatul Anugraheni M. (Fai) | PADP (FEB) | Bendahara 1 (Kas Utama & RAB) | Koor. Divisi Administrasi & UMKM |
+| 6 | Faidatul Anugraheni M. (Fai) | PADP (FEB) | Bendahara Tunggal (Kas 1 Pintu & RAB) | Koor. Divisi Administrasi & UMKM |
 | 7 | Intan Milansari | Biologi (FMIPA) | PDD 2 (Dokumentasi & Jurnalistik Berita 5W1H) | Koor. Divisi Lingkungan & Kesehatan |
-| 8 | Zalfa Khoirunnisa | Biologi (FMIPA) | Bendahara 2 (SPJ Kuitansi & Belanja Posko) | Tim Divisi Lingkungan & Sampah |
-| 9 | Alvina Aulia Az Zahra (Vina) | TP (FIP) | PDD 1 (Desain Grafis, Branding Logo & Medsos) | Koor. Divisi Pendidikan & Media Ajar |
+| 8 | Zalfa Khoirunnisa | Biologi (FMIPA) | PDD 1 (Desain Grafis & Branding Medsos) | Tim Divisi Lingkungan & Sampah |
+| 9 | Alvina Aulia Az Zahra (Vina) | TP (FIP) | Humas 2 (Co-Humas Kedinasan & Bapperida) | Koor. Divisi Pendidikan & Media Ajar |
 | 10 | Krissandra Siagian (Sandra) | TP (FIP) | Perkap 2 (Operasional Acara & Perlengkapan) | Tim Divisi Pendidikan & Media Ajar |
 
 ## Panduan untuk Agent: Cara Membantu

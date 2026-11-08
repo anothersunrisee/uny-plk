@@ -22,6 +22,7 @@ author: Tim Nirantara PLK UNY 2027
 | Situasi / Apa yang Ingin Kamu Cari? | Buka Berkas Ini (Klik Tautan) | Letak Folder | Keterangan Singkat Isi Berkas |
 |---|---|---|---|
 | **Mau tahu agenda rapat malam ini (8 Nov) & bahan arahan ketua?** | [Panduan Rapat Pleno 8 Nov](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Panduan%20Rapat%20Pleno%208%20Nov%20-%20Konsolidasi%20Proposal,%20Bapperida,%20Kas%20&%20Restrukturisasi%20Tim.md) | `Tim PLK/02 - Fase Pre-PLK/01 - Tata Kelola Tim.../` | Rundown, temuan survei, PIC 4 prodi, e-Service & Bapperida, submit proposal, kas pasca proposal, restrukturisasi & workflow. |
+| **Mau lihat hasil & notulensi resmi rapat pleno 8 Nov (kas 1 pintu, switch posisi, update Bio/TP)?** | [Notulensi Rapat Pleno 8 Nov](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Notulensi%20Resmi%20Rapat%20Pleno%208%20Nov%202026.md) | `Tim PLK/02 - Fase Pre-PLK/01 - Tata Kelola Tim.../` | 📝 **Notulensi Hasil Rapat**: Kas 1 pintu (Faidatul), denda telat kas, switch Humas 2 (Vina) & PDD 1 (Zalfa), serta hasil PIC Biologi & jadwal TP. |
 | **Mau urus surat izin Bapperida Klaten, cari kontak Bu Novi & format email?** | [Panduan & Prosedur Perizinan KKN Bapperida](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/04%20-%20Integrasi%20Kelompok%20&%20Survei%20Klaten/bapedalitbang/Panduan%20&%20Prosedur%20Perizinan%20KKN%20Bapperida%20Klaten.md) | `Tim PLK/02 - Fase Pre-PLK/04 - Integrasi.../bapedalitbang/` | Syarat infografis Bapperida, nomor WA Bu Novi (`0812-9141-9151`), Mas Rizal, template email `siip.bappedaklt@gmail.com`, & form desa. |
 | **Mau ngisi form di web e-Service UNY & butuh teks siap copas?** | [Panduan & Isian Form e-Service UNY](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/Panduan%20&%20Isian%20Form%20e-Service%20UNY%20(Izin%20Bappedalitbang%20Klaten).md) | `Tim PLK/02 - Fase Pre-PLK/` | Tabel teks siap salin: tugas MK, judul izin KKN, format alamat instansi `cq. Bapperida Klaten`, & NIM 9 anggota. |
 | **Mau tahu kebijakan uang kas tim kenapa mulai ditarik pasca submit proposal?** | [Panduan Rapat Pleno 8 Nov](file:///d:/KULIAH/UNY%20PLK/Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Panduan%20Rapat%20Pleno%208%20Nov%20-%20Konsolidasi%20Proposal,%20Bapperida,%20Kas%20&%20Restrukturisasi%20Tim.md#agenda-5-kebijakan-keuangan-kas-tim-ditarik-pasca-submit-proposal) | `Tim PLK/02 - Fase Pre-PLK/01 - Tata Kelola Tim.../` | Keputusan penarikan kas perdana Rp 50.000,- (15-20 Nov) pasca submit proposal & kebutuhan operasional legalitas. |
@@ -106,6 +107,7 @@ d:\KULIAH\UNY PLK\
 │   │   ├── Sistematika & Panduan Penyusunan Proposal PLK.md
 │   │   │
 │   │   ├── 01 - Tata Kelola Tim & First Gathering/
+│   │   │   ├── Notulensi Resmi Rapat Pleno 8 Nov 2026.md 📝 BARU
 │   │   │   ├── Panduan Rapat Pleno 8 Nov - Konsolidasi Proposal, Bapperida, Kas & Restrukturisasi Tim.md 🔴 BARU
 │   │   │   ├── Database Profil Anggota Tim.md (Data Medis K3 & Kontak)
 │   │   │   ├── Struktur Organisasi Matrix Tim PLK.md

@@ -20,9 +20,9 @@ Fokus kepanitiaan ini adalah memastikan tim tetap hidup, surat-menyurat aman, la
 
 * **Ketua (Kordes):** Menjadi *Top Management*, lobi kades/dosen/DPL, dan memastikan seluruh divisi posko & proker berjalan aman.
 * **Sekretariat (Sekre 1 & Sekre 2):** Mengurus proposal, perizinan Kesbangpol, nota kesepahaman (IA desa), logbook 272 jam kerja harian, LPJ akhir, dan pengarsipan digital.
-* **Kebendaharaan (Bendahara 1 & Bendahara 2):** Mengelola iuran kas, penyusunan RAB proposal, pembukuan cashflow transparan, pengumpulan nota/kuitansi SPJ, dan belanja operasional posko.
-* **Humas Lapangan:** Menjadi garda depan untuk sowan ke tokoh masyarakat, mengurus perizinan acara ke RT/RW/Dukuh, dan sebar undangan warga.
-* **PDD (Publikasi, Desain, Dokumentasi):** Mengelola branding tim (logo Nirantara, palet warna), feeds Instagram, video Reels/TikTok, banner kegiatan, dan aftermovie.
+* **Kebendaharaan (Bendahara Tunggal):** Mengelola seluruh kas masuk/keluar satu pintu, penyusunan RAB proposal, pembukuan cashflow transparan, pengumpulan nota/kuitansi SPJ, dan belanja operasional posko.
+* **Humas & Kemitraan (Humas 1 & Humas 2):** Humas 1 (Terry) fokus lobi desa, sowan tokoh masyarakat, dan warga dukuh. Humas 2 (Vina) fokus kehumasan kedinasan, koordinasi perizinan Bapperida Klaten, dan komunikasi formal. Didukung Perkap 1 (Riski) untuk mobilitas armada.
+* **PDD (Publikasi, Desain, Dokumentasi — PDD 1 & PDD 2):** PDD 1 (Zalfa) mengelola desain grafis, branding, banner, dan feeds medsos. PDD 2 (Intan) mengelola fotografi/video lapangan, aftermovie, dan rilis berita pers 5W1H.
 * **Perlengkapan & K3 Posko (Perkap 1 & Perkap 2):** Bertanggung jawab atas pengadaan logistik fisik (sound system, proyektor, kabel roll), inventarisasi alat, kotak P3K darurat, sanitasi air, dan kesehatan anggota tim.
 
 > ⚠️ **Catatan Konsumsi:** Seksi Konsumsi resmi ditiadakan. Kebutuhan makan dan kebersihan dapur dikelola secara adil melalui **Sistem Piket Harian Bergilir (2 orang per hari)** atau langganan warung warga lokal.
@@ -34,34 +34,34 @@ Fokus kepanitiaan ini adalah memastikan tim tetap hidup, surat-menyurat aman, la
 Fokus kepanitiaan ini adalah mengeksekusi program kerja nyata untuk warga desa berdasarkan keahlian prodi masing-masing.
 
 * **Divisi Teknologi & Digitalisasi (Koordinator: Tim PTI)**
-  * *Tugas:* Menggarap website profil desa, digitalisasi arsip kependudukan RT/RW, pelatihan komputer/Canva Karang Taruna, dan pemetaan wilayah.
+  * *Tugas:* Menggarap website profil desa, digitalisasi arsip kependudukan RT/RW, pemetaan 25 titik Google Maps, edukasi QRIS UMKM, dan workshop keamanan siber pemuda.
 * **Divisi Lingkungan & Kesehatan (Koordinator: Tim Biologi)**
-  * *Tugas:* Menggarap proker pemilahan sampah, pelatihan Eco-Enzyme limbah dapur PKK, pembuatan pupuk kompos pertanian, dan penyuluhan sanitasi.
+  * *Tugas:* Menggarap instalasi tong komposter EM4 (KOBAR), pelatihan eco-enzyme limbah buah dapur (ICEM), penyuluhan pencegahan ISPA & edukasi larangan bakar sampah.
 * **Divisi Administrasi & Ekonomi UMKM (Koordinator: Tim PADP)**
-  * *Tugas:* Menggarap tata kelola kearsipan balai desa, revitalisasi BUMDes (ternak lele/kambing), pendampingan legalitas UMKM, dan pembukuan kas digital.
+  * *Tugas:* Menggarap modul Buku Kas Saku 3 Menit UMKM (KUPAT), fasilitasi 15 NIB OSS (LEBAH), dan digitalisasi kearsipan surat RW 01 (GARDU).
 * **Divisi Pendidikan & Media Pembelajaran (Koordinator: Tim Teknologi Pendidikan - FIP)**
-  * *Tugas:* Mengembangkan media ajar digital/interaktif di PAUD/SD/TPA Dukuh Majegan, pelatihan pembuatan media pembelajaran bagi guru desa, workshop edukasi interaktif anak-anak, dan pojok literasi.
+  * *Tugas:* Revitalisasi APE & pojok baca TK ABA Majegan (TAMPAN), gamifikasi pembelajaran akhlak TPA Masjid Al-Amin (SABA), dan workshop Canva/AI bagi guru PAUD/TK (GARDITA).
 
 ---
 
-## 3. Matriks Pembagian Tugas (Formasi Fix 10 Anggota — Tanpa Seksi Konsumsi)
+## 3. Matriks Pembagian Tugas (Formasi Hasil Rapat Pleno 8 Nov 2026)
 
 Setiap anggota memegang 1 peran Operasional Posko dan 1 peran Divisi Proker:
 
-| Nama Anggota     | Asal Prodi | Peran Operasional Posko | Peran Divisi Proker          |
-| ---------------- | ---------- | ----------------------- | ---------------------------- |
-| **Fajar**        | PTI (FT)   | Ketua (Kordes)          | Supervisi, Lobi Desa, & IT   |
-| **Dinda**        | PADP (FEB) | Sekretaris 1 (Proposal & LPJ) | Tim Divisi Administrasi & UMKM |
-| **Faidatul (Fai)**| PADP (FEB)| Bendahara 1 (Kas & RAB) | Koor. Divisi Administrasi & UMKM |
-| **Terry**        | PTI (FT)   | Humas Lapangan & Kemitraan Desa | Tim Divisi Teknologi & IT |
-| **Riski**        | PTI (FT)   | Perkap 1 (Logistik Lapangan & Armada) | Tim Divisi Teknologi & IT |
-| **Veli**         | PTI (FT)   | Sekretaris 2 (Logbook 272 & Arsip) | Koor. Divisi Teknologi & IT |
-| **Intan**        | Biologi    | PDD 2 (Dokumentasi & Jurnalistik Berita) | Koor. Divisi Lingkungan & Kesehatan |
-| **Zalfa**        | Biologi    | Bendahara 2 (SPJ Kuitansi & Belanja Posko) | Tim Divisi Lingkungan & Sampah |
-| **Alvina (Vina)**| TP (FIP)   | PDD 1 (Desain Grafis, Branding & Medsos) | Koor. Divisi Pendidikan & Media Ajar |
-| **Sandra**       | TP (FIP)   | Perkap 2 (Operasional Acara & Perlengkapan) | Tim Divisi Pendidikan & Media Ajar |
+| Nama Anggota | Asal Prodi | Peran Operasional Posko (TERBARU) | Peran Divisi Proker |
+|---|---|---|---|
+| **Fajar Ahnaf Mahardika** | PTI (FT) | **Ketua Tim (Kordes)** | Supervisi, Lobi Desa, & IT |
+| **Muhadzdzib Terry Al Fauzan**| PTI (FT) | **Humas 1 (Lapangan & Desa Wonosari)** | Tim Divisi Teknologi & IT |
+| **Alvina Aulia Az Zahra (Vina)**| TP (FIP) | **Humas 2 (Co-Humas Kedinasan & Bapperida)** | Koor. Divisi Pendidikan & Media Ajar |
+| **Faidatul Anugraheni M. (Fai)**| PADP (FEB)| **Bendahara Tunggal (Kas 1 Pintu & RAB)** | Koor. Divisi Administrasi & UMKM |
+| **Zalfa Khoirunnisa** | Biologi (FMIPA) | **PDD 1 (Desain Grafis & Branding Medsos)** | Tim Divisi Lingkungan & Sampah |
+| **Intan Milansari** | Biologi (FMIPA) | **PDD 2 (Dokumentasi Lapangan & Rilis Berita 5W1H)**| Koor. Divisi Lingkungan & Kesehatan |
+| **Muhamad Riski** | PTI (FT) | **Perkap 1 (Logistik Lapangan & Armada Mobilitas)** | Tim Divisi Teknologi & IT |
+| **Krissandra Siagian (Sandra)** | TP (FIP) | **Perkap 2 (Operasional Posko & Logistik Acara)** | Tim Divisi Pendidikan & Media Ajar |
+| **Dinda Amelia Putri** | PADP (FEB)| **Sekretaris 1 (Proposal, Surat Resmi & LPJ)** | Tim Divisi Administrasi & UMKM |
+| **Novelia Harlinda (Veli)** | PTI (FT) | **Sekretaris 2 (Logbook 272 Jam & Arsip Cloud)** | Koor. Divisi Teknologi & IT |
 
-*(Formasi 10 anggota fix berdasarkan kompetensi dan keahlian lintas 4 fakultas. Sah diterapkan dan disepakati di First Gathering).*
+*(Restrukturisasi resmi disahkan pada Rapat Pleno 8 November 2026: penggabungan bendahara menjadi 1 pintu, penambahan Humas 2 Vina untuk backup Terry, dan switch Zalfa ke tim PDD).*
 
 ---
 

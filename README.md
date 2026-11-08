@@ -28,14 +28,14 @@ Tim Nirantara menerapkan **Struktur Organisasi Matrix**, di mana setiap anggota 
 | No | Nama Lengkap | NIM | Asal Prodi / Fakultas | Peran Operasional Posko | Peran Divisi Program Kerja |
 |:---:|:--- |:---:|:--- |:--- |:--- |
 | **1** | **Fajar Ahnaf Mahardika** | 24050530030 | Pendidikan Teknik Informatika (FT) | **Ketua Tim (Kordes)** | Supervisi, Lobi Desa, IT & Web Desa |
-| **2** | **Muhadzdzib Terry Al Fauzan** | 24050530052 | Pendidikan Teknik Informatika (FT) | **Humas Lapangan & Tuan Rumah Posko** | Divisi Teknologi Informasi & Web Desa |
+| **2** | **Muhadzdzib Terry Al Fauzan** | 24050530052 | Pendidikan Teknik Informatika (FT) | **Humas 1 (Lapangan & Desa Wonosari)** | Divisi Teknologi Informasi & Web Desa |
 | **3** | **Muhamad Riski** | 24050530029 | Pendidikan Teknik Informatika (FT) | **Perlengkapan 1 (Logistik & Armada)** | Divisi Teknologi Informasi & Web Desa |
 | **4** | **Novelia Harlinda (Veli)** | 24050530045 | Pendidikan Teknik Informatika (FT) | **Sekretaris 2 (Logbook 272 Jam & Arsip)**| **Koordinator Divisi Teknologi & IT** |
 | **5** | **Dinda Amelia Putri** | 24080330053 | Pend. Administrasi Perkantoran (FEB)| **Sekretaris 1 (Proposal, Surat & LPJ)** | Divisi Administrasi & UMKM Warga |
-| **6** | **Faidatul Anugraheni M. (Fai)**| 24080330078 | Pend. Administrasi Perkantoran (FEB)| **Bendahara 1 (Kas Utama & RAB)** | **Koordinator Divisi Administrasi & UMKM** |
+| **6** | **Faidatul Anugraheni M. (Fai)**| 24080330078 | Pend. Administrasi Perkantoran (FEB)| **Bendahara Tunggal (Kas 1 Pintu & RAB)**| **Koordinator Divisi Administrasi & UMKM** |
 | **7** | **Intan Milansari** | 24030830059 | Biologi (FMIPA) | **PDD 2 (Dokumentasi & Rilis Berita 5W1H)**| **Koordinator Divisi Lingkungan & Kesehatan**|
-| **8** | **Zalfa Khoirunnisa** | 24030830068 | Biologi (FMIPA) | **Bendahara 2 (SPJ Kuitansi & Belanja)** | Divisi Lingkungan & Pengolahan Sampah |
-| **9** | **Alvina Aulia Az Zahra (Vina)**| 24010530018 | Teknologi Pendidikan (FIP) | **PDD 1 (Desain Grafis, Branding/Medsos)**| **Koordinator Divisi Pendidikan & Media Ajar**|
+| **8** | **Zalfa Khoirunnisa** | 24030830068 | Biologi (FMIPA) | **PDD 1 (Desain Grafis & Branding Medsos)**| Divisi Lingkungan & Pengolahan Sampah |
+| **9** | **Alvina Aulia Az Zahra (Vina)**| 24010530018 | Teknologi Pendidikan (FIP) | **Humas 2 (Co-Humas Kedinasan & Bapperida)**| **Koordinator Divisi Pendidikan & Media Ajar**|
 | **10**| **Krissandra Siagian (Sandra)** | 24010530004 | Teknologi Pendidikan (FIP) | **Perlengkapan 2 (Operasional Posko)** | Divisi Pendidikan & Media Pembelajaran |
 
 > **Legalitas Komposisi UNY**: 3 Laki-laki (FT) : 7 Perempuan (FT, FEB, FMIPA, FIP) — *100% memenuhi aturan multi-disiplin dashboard UNY (4 Fakultas & 4 Prodi berbeda).*
@@ -102,6 +102,7 @@ Folder ini berisi riset data mentah saat masa pencarian anggota dan pemetaan pro
 - [`Sistematika & Panduan Penyusunan Proposal PLK.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/Sistematika%20&%20Panduan%20Penyusunan%20Proposal%20PLK.md): Panduan lengkap format margin 4-4-3-3, struktur Bab I–IV, RAB, dan pembagian tugas ngetik proposal.
 
 ##### a. Subfolder `01 - Tata Kelola Tim & First Gathering/`
+- [`Notulensi Resmi Rapat Pleno 8 Nov 2026.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Notulensi%20Resmi%20Rapat%20Pleno%208%20Nov%202026.md): 📝 **Notulensi Resmi Rapat Pleno 8 Nov 2026**: Keputusan kas 1 pintu (Faidatul), sanksi telat bayar, switch Humas 2 (Vina) & PDD 1 (Zalfa), serta update PIC Biologi & TP.
 - [`Panduan Rapat Pleno 8 Nov - Konsolidasi Proposal, Bapperida, Kas & Restrukturisasi Tim.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Panduan%20Rapat%20Pleno%208%20Nov%20-%20Konsolidasi%20Proposal,%20Bapperida,%20Kas%20&%20Restrukturisasi%20Tim.md): 📢 **Panduan Rapat Pleno 8 Nov 2026**: Konsolidasi proposal KKN, legalitas UNY & Klaten, kas pasca proposal, restrukturisasi panitia, & workflow.
 - [`Panduan First Gathering & Lembar Kerja Tim.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Panduan%20First%20Gathering%20&%20Lembar%20Kerja%20Tim.md): Lembar kerja TM-TP (voting ketua, pemilihan nama Nirantara, penetapan matrix).
 - [`Notulensi Resmi First Gathering NIRANTARA.md`](Tim%20PLK/02%20-%20Fase%20Pre-PLK/01%20-%20Tata%20Kelola%20Tim%20&%20First%20Gathering/Notulensi%20Resmi%20First%20Gathering%20NIRANTARA.md): Berita acara resmi hasil First Gathering tanggal 16 Oktober 2026.

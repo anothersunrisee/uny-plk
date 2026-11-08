@@ -22,14 +22,14 @@ status: active
 | No | Nama Anggota | Asal Program Studi (Fakultas) | Peran Posko / Proker |
 |:---:|---|---|---|
 | 1 | **Fajar Ahnaf Mahardika** | Pendidikan Teknik Informatika (FT) | Ketua (Kordes) / Supervisi, Lobi Desa & IT |
-| 2 | **Muhadzdzib Terry Al Fauzan** | Pendidikan Teknik Informatika (FT) | Humas & Tuan Rumah Posko / IT & Web Desa |
-| 3 | **Muhamad Riski** | Pendidikan Teknik Informatika (FT) | Perkap 1 / Logistik Lapangan & IT |
-| 4 | **Novelia Harlinda (Veli)** | Pendidikan Teknik Informatika (FT) | Sekretaris 2 / Koor. Divisi Teknologi & IT |
-| 5 | **Dinda Amelia Putri** | Pend. Administrasi Perkantoran (FEB) | Sekretaris 1 / Tim Divisi Administrasi & UMKM |
-| 6 | **Faidatul Anugraheni M. (Fai)** | Pend. Administrasi Perkantoran (FEB) | Bendahara 1 / Koor. Divisi Administrasi & UMKM |
-| 7 | **Intan Milansari** | Biologi (FMIPA) | PDD 2 (Jurnalistik) / Koor. Divisi Lingkungan & Kesehatan |
-| 8 | **Zalfa Khoirunnisa** | Biologi (FMIPA) | Bendahara 2 (SPJ Belanja) / Divisi Lingkungan & Sampah |
-| 9 | **Alvina Aulia Az Zahra (Vina)** | Teknologi Pendidikan (FIP) | PDD 1 (Branding & Medsos) / Koor. Divisi Pendidikan & Media Ajar |
+| 2 | **Muhadzdzib Terry Al Fauzan** | Pendidikan Teknik Informatika (FT) | Humas 1 (Desa Wonosari) / IT & Web Desa |
+| 3 | **Muhamad Riski** | Pendidikan Teknik Informatika (FT) | Perkap 1 (Armada/Logistik) / IT & Web Desa |
+| 4 | **Novelia Harlinda (Veli)** | Pendidikan Teknik Informatika (FT) | Sekretaris 2 (Logbook 272) / Koor. Divisi Teknologi & IT |
+| 5 | **Dinda Amelia Putri** | Pend. Administrasi Perkantoran (FEB) | Sekretaris 1 (Proposal & LPJ) / Tim Divisi Administrasi & UMKM |
+| 6 | **Faidatul Anugraheni M. (Fai)** | Pend. Administrasi Perkantoran (FEB) | Bendahara Tunggal (Kas 1 Pintu) / Koor. Divisi Administrasi & UMKM |
+| 7 | **Intan Milansari** | Biologi (FMIPA) | PDD 2 (Jurnalistik & 5W1H) / Koor. Divisi Lingkungan & Kesehatan |
+| 8 | **Zalfa Khoirunnisa** | Biologi (FMIPA) | PDD 1 (Desain & Branding) / Divisi Lingkungan & Sampah |
+| 9 | **Alvina Aulia Az Zahra (Vina)** | Teknologi Pendidikan (FIP) | Humas 2 (Co-Humas Kedinasan) / Koor. Divisi Pendidikan & Media Ajar |
 | 10 | **Krissandra Siagian (Sandra)**| Teknologi Pendidikan (FIP) | Perkap 2 (Operasional Posko) / Divisi Pendidikan & Media Ajar |
 
 ---
@@ -104,6 +104,7 @@ Folder ini berisi data analitik saat masa pencarian anggota dan pemetaan prodi:
 ##### a. Subfolder `01 - Tata Kelola Tim & First Gathering/`
 | Berkas | Fungsi & Penjelasan Isi |
 |---|---|
+| [[Notulensi Resmi Rapat Pleno 8 Nov 2026]] | 📝 **Notulensi Resmi Rapat Pleno 8 Nov 2026**: Keputusan kas 1 pintu (Faidatul), sanksi telat bayar, switch Humas 2 (Vina) & PDD 1 (Zalfa), serta update PIC Biologi & TP. |
 | [[Panduan Rapat Pleno 8 Nov - Konsolidasi Proposal, Bapperida, Kas & Restrukturisasi Tim]] | 📢 **Panduan Rapat Pleno 8 Nov 2026**: Konsolidasi proposal KKN, legalitas UNY & Klaten, kas pasca proposal, restrukturisasi panitia, & workflow. |
 | [[Notulensi Resmi First Gathering NIRANTARA]] | Berita acara resmi hasil First Gathering 16 Oktober 2026 (penetapan nama, ketua, dan matriks). |
 | [[Panduan First Gathering & Lembar Kerja Tim]] | Lembar kerja TM-TP rapat perdana (voting ketua, pemilihan nama Nirantara, penetapan matrix). |
