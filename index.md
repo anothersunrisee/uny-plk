@@ -104,7 +104,7 @@ Folder ini berisi data analitik saat masa pencarian anggota dan pemetaan prodi:
 ##### a. Subfolder `01 - Tata Kelola Tim & First Gathering/`
 | Berkas | Fungsi & Penjelasan Isi |
 |---|---|
-| [[Panduan Rapat Pleno 31 Okt - Update Bapperida, Kas, Proker & Backup Humas]] | 📢 **Panduan Rapat Pleno 31 Okt 2026**: Penetapan backup Humas (Terry), update Bapperida, penundaan kas, & pembagian proker 4 divisi. |
+| [[Panduan Rapat Pleno 8 Nov - Konsolidasi Proposal, Bapperida, Kas & Restrukturisasi Tim]] | 📢 **Panduan Rapat Pleno 8 Nov 2026**: Konsolidasi proposal KKN, legalitas UNY & Klaten, kas pasca proposal, restrukturisasi panitia, & workflow. |
 | [[Notulensi Resmi First Gathering NIRANTARA]] | Berita acara resmi hasil First Gathering 16 Oktober 2026 (penetapan nama, ketua, dan matriks). |
 | [[Panduan First Gathering & Lembar Kerja Tim]] | Lembar kerja TM-TP rapat perdana (voting ketua, pemilihan nama Nirantara, penetapan matrix). |
 | [[Struktur Organisasi Matrix Tim PLK]] | Panduan detail struktur matrix: Peran Operasional Posko vs Peran Fungsional Program Kerja. |
