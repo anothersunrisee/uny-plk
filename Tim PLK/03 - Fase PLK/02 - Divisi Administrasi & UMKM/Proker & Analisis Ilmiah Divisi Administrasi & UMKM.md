@@ -1,6 +1,7 @@
 ---
 tags: [proker, administrasi, umkm, pembukuan, nib, oss, padp, feb, riset-ilmiah]
 created: 2026-10-26
+updated: 2026-11-25
 status: active
 divisi: Administrasi & UMKM
 koordinator: Faidatul Anugraheni M. (Fai)
@@ -11,9 +12,9 @@ anggota: [Dinda Amelia Putri]
 
 > **Unit Kerja**: Divisi Administrasi & UMKM — Tim PLK UNY Mengabdi NIRANTARA 2027  
 > **Basis Akademik**: Program Studi Pendidikan Administrasi Perkantoran (PADP), Fakultas Ekonomi dan Bisnis (FEB)  
-> **Koordinator**: Faidatul Anugraheni M., S.Pd. (Cand.) — NIM: `24080330078`  
+> **Koordinator & Bendahara Tunggal**: Faidatul Anugraheni M., S.Pd. (Cand.) — NIM: `24080330078`  
 > **Anggota & Sekretaris 1**: Dinda Amelia Putri, S.Pd. (Cand.) — NIM: `24080330053`  
-> **Lokasi Sasaran**: Sentra Kerajinan Mebel Kayu, Warung Makan/Kelontong RW 01 Dukuh Majegan, serta Pengurus Administrasi RT/RW Desa Wonosari, Trucuk, Klaten.
+> **Lokasi Sasaran**: Sentra Kerajinan Mebel Kayu, Warung Makan/Kelontong RW 01 Dukuh Majegan (6 RT / 270 KK), serta Pengurus Administrasi RT/RW Desa Wonosari, Trucuk, Klaten.
 
 ---
 
@@ -177,33 +178,30 @@ Hasil observasi langsung dan dialog bersama Ketua RW 01 Bapak Ramelan serta para
 
 ---
 
-## 📅 6. Jadwal Pelaksanaan Program Kerja (Gantt Chart 6 Bulan)
+## 📅 6. Jadwal Pelaksanaan Program Kerja (Gantt Chart 4,5 Bulan: Feb – Jun 2027)
 
 ```mermaid
 gantt
-    title Jadwal Kerja Divisi Administrasi & UMKM — Tim Nirantara PLK 2027
+    title Jadwal Kerja Divisi Administrasi & UMKM — Tim Nirantara PLK 2027 (4,5 Bulan)
     dateFormat  YYYY-MM-DD
     section Pre-PLK (Jogja)
-    Penyusunan Modul HPP & Desain Buku Kas Mikro  :2026-11-01, 30d
-    Penyusunan Format NIB KBLI & SOP OSS          :2026-12-01, 31d
+    Penyusunan Modul HPP, KUPAT & Format KBLI OSS  :2026-11-25, 45d
+    Desain Cetak Buku Kas Saku & SOP Arsip RW 01   :2027-01-10, 21d
     section Bulan 1 (Februari)
     Sensus & Wawancara Keuangan 20 UMKM Majegan    :2027-02-01, 14d
     Distribusi Buku Kas Saku & Edukasi Dompet Modal:2027-02-15, 14d
     section Bulan 2 (Maret)
-    Pendampingan Mingguan Pembukuan (Tahap 1)      :2027-03-01, 21d
-    Sosialisasi Legalitas NIB di Forum Pertemuan RW:2027-03-15, 14d
+    Pendampingan Akhir Pekan Pembukuan (Tahap 1)   :2027-03-01, 21d
+    Sosialisasi NIB di Pertemuan RW (Rabu Pahing)  :2027-03-15, 15d
     section Bulan 3 (April)
-    Klinik Kilat Pembuatan NIB OSS Door-to-Door    :2027-04-01, 21d
+    Klinik Kilat Pembuatan 15 NIB OSS Door-to-Door :2027-04-01, 21d
     Pencetakan & Pembingkaian Piagam NIB Pelaku    :2027-04-20, 10d
     section Bulan 4 (Mei)
-    Audit & Sortir Arsip Fisik RW 01 Majegan       :2027-05-01, 14d
-    Digitalisasi Scan Dokumen ke Google Drive Master:2027-05-15, 16d
-    section Bulan 5 (Juni)
-    Evaluasi Kemandirian Pembukuan 20 Pelaku UMKM  :2027-06-01, 14d
-    Workshop Literasi Akses KUR & Sertifikasi Halal:2027-06-15, 15d
-    section Bulan 6 (Juli)
-    Serah Terima Ordner Arsip & SOP Kearsipan RW   :2027-07-01, 10d
-    Penyusunan LPJ Finansial & Bab Hasil Proposal   :2027-07-11, 20d
+    Audit & Sortir Arsip Fisik RW 01 Majegan       :2027-05-01, 15d
+    Digitalisasi Scan Dokumen ke Google Drive RW   :2027-05-15, 16d
+    section Bulan 5 (Juni - Handover)
+    Evaluasi Kemandirian 20 UMKM & Literasi KUR    :2027-06-01, 14d
+    Serah Terima 5 Ordner Arsip RW & LPJ Finansial :2027-06-15, 15d
 ```
 
 ---
@@ -225,7 +223,7 @@ gantt
 
 | Potensi Risiko | Tingkat Risiko | Dampak | Tindakan Mitigasi Preventif | Penanggung Jawab |
 |---|:---:|---|---|---|
-| Pemilik UMKM bosan/malas mencatat buku kas setelah 1 minggu berjalan | Tinggi | Data arus kas terputus | Tim menetapkan ritual "Jumat Kunjung": setiap Jumat sore tim PADP datang berkunjung 5 menit untuk mengapresiasi dan menempelkan stiker bintang prestasi di buku kas pedagang | Faidatul Anugraheni |
+| Pemilik UMKM bosan/malas mencatat buku kas setelah 1 minggu berjalan | Tinggi | Data arus kas terputus | Tim menetapkan ritual **"Akhir Pekan Kunjung (Sabtu–Minggu)"**: setiap akhir pekan tim PADP datang berkunjung 5–10 menit untuk mengapresiasi dan menempelkan stiker bintang prestasi di buku kas pedagang tanpa mengganggu jadwal kuliah Senin–Kamis | Faidatul Anugraheni |
 | Data NIK/KTP pendaftar OSS mengalami kendala validasi Dukcapil | Sedang | NIB gagal terbit otomatis | Melakukan verifikasi data awal di sistem kelurahan Wonosari dan berkoordinasi langsung dengan staf pelayanan kecamatan Trucuk | Dinda Amelia Putri |
 | Ordner arsip RW rusak lembap karena dinding balai pertemuan yang dingin | Rendah | Kerusakan fisik dokumen kertas | Melapisi bagian bawah ordner dengan alas kayu kering dan memasukkan gel silika penyerap kelembapan di dalam lemari arsip | Faidatul & Dinda |
 

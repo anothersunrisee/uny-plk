@@ -1,6 +1,7 @@
 ---
 tags: [proker, teknologi, it, web-desa, qris, gmaps, pti, riset-ilmiah]
 created: 2026-10-26
+updated: 2026-11-25
 status: active
 divisi: Teknologi & IT
 koordinator: Novelia Harlinda (Veli)
@@ -11,9 +12,9 @@ anggota: [Fajar Ahnaf Mahardika, Muhadzdzib Terry Al Fauzan, Muhamad Riski]
 
 > **Unit Kerja**: Divisi Teknologi Informasi & Komunikasi (TIK) — Tim PLK UNY Mengabdi NIRANTARA 2027  
 > **Basis Akademik**: Program Studi Pendidikan Teknik Informatika (PTI), Fakultas Teknik (FT)  
-> **Koordinator**: Novelia Harlinda, S.Pd. (Cand.) — NIM: `24050530045`  
-> **Tim Pengembang & Eksekutor**: Fajar Ahnaf Mahardika (`24050530030`), Muhadzdzib Terry Al Fauzan (`24050530052`), Muhamad Riski (`24050530029`)  
-> **Lokasi Sasaran**: Kantor Balai Desa Wonosari, Pelaku Usaha Mikro RW 01 Dukuh Majegan, dan Pemuda Karang Taruna Desa Wonosari, Kecamatan Trucuk, Kabupaten Klaten.
+> **Koordinator**: Novelia Harlinda, S.Pd. (Cand.) — NIM: `24050530045` *(Sekretaris 2)*  
+> **Tim Pengembang & Eksekutor**: Fajar Ahnaf Mahardika (`24050530030` — *Ketua*), Muhadzdzib Terry Al Fauzan (`24050530052` — *Humas 1*), Muhamad Riski (`24050530029` — *Perkap 1*)  
+> **Lokasi Sasaran**: Kantor Balai Desa Wonosari, Pelaku Usaha Mikro RW 01 Dukuh Majegan (270 KK / 6 RT), serta Karang Taruna *"Bina Remaja"* (RW 01) & *"Bakti Remaja"* (RT 06), Kec. Trucuk, Kab. Klaten.
 
 ---
 
@@ -59,7 +60,7 @@ Berdasarkan hasil observasi fisik, wawancara mendalam (*in-depth interview*) den
 | No | Parameter Observasi | Fakta Lapangan (Kondisi Eksisting) | Kesenjangan (Gap Analysis) | Dampak terhadap Masyarakat Desa |
 |:--:|---|---|---|---|
 | **1** | **Profil & Layanan Web Desa** | Desa Wonosari memiliki domain/subdomain resmi, namun berstatus pasif/terbengkalai sejak 2 tahun terakhir. Data monografi desa, potensi pertanian, dan struktur perangkat desa sudah kedaluwarsa. | Tidak tersedianya kanal transparansi publik desa yang terintegrasi dan informatif bagi warga maupun investor luar. | Akses informasi birokrasi lambat; perantau asal Wonosari sulit memantau perkembangan desa; citra digital desa tertinggal. |
-| **2** | **Visibilitas Digital UMKM (Peta)** | Sekitar 30+ titik usaha mikro (bengkel las, mebel kayu jati/mahoni, warung kelontong, warung makan soto/bakso, pengepul rosok) belum terdaftar secara resmi di **Google Maps**. | Ketiadaan jejak digital (*digital presence*) bagi pelaku usaha mikro lokal di platform navigasi global. | Calon pembeli dari luar desa kesulitan menemukan lokasi fisik toko; potensi omzet regional tidak teroptimasi. |
+| **2** | **Visibilitas Digital UMKM (Peta)** | Sekitar 25+ titik usaha mikro (bengkel las, mebel kayu jati/mahoni, warung kelontong, warung makan, pengepul rosok) di RW 01 belum terdaftar secara resmi di **Google Maps**. | Ketiadaan jejak digital (*digital presence*) bagi pelaku usaha mikro lokal di platform navigasi global. | Calon pembeli dari luar desa kesulitan menemukan lokasi fisik toko; potensi omzet regional tidak teroptimasi. |
 | **3** | **Sistem Transaksi Keuangan** | Transaksi pembayaran di UMKM RW 01 masih 100% menggunakan uang tunai (*cash*). Tidak ada satu pun pedagang yang memajang barcode QRIS. | Kesenjangan adopsi teknologi transaksi non-tunai perbankan digital di kalangan pedagang pasar dan warung. | Risiko uang palsu, masalah kembalian receh, dan hilangnya peluang transaksi dari generasi muda/wisatawan. |
 | **4** | **Infrastruktur Jaringan & Perangkat** | Jaringan sinyal 4G stabil (Indosat, Telkomsel, XL), rumah posko memiliki WiFi 14 Mbps. Balai Desa memiliki perangkat komputer kantor (PC) namun jarang dioptimalkan selain untuk pengetikan Microsoft Word standar. | Rendahnya literasi pemanfaatan utilitas komputasi awan (*cloud storage* & otomasi spreadsheet) pada staf operasional desa. | Pengarsipan surat dan pendataan bansos masih rentan tumpang tindih (*redundancy data*). |
 
@@ -126,8 +127,8 @@ Sebuah intervensi teknologi di Desa Wonosari akan ditolak jika mengabaikan lansk
 - **Strategi Pendekatan**: Penggunaan akrilik standing mini QRIS berbahan tahan lama atau stiker vinil tahan hujan yang ditempel rapi pada etalase toko warga.
 
 ### 4. Aspek Sosial & Komunitas (Social Dynamics)
-- **Dinamika Guyub Rukun**: Warga Wonosari sangat aktif dalam perkumpulan RT, Dasawisma, dan perkumpulan bapak-bapak ronda malam.
-- **Strategi Pendekatan**: Demonstrasi kemudahan pembayaran QRIS dilakukan secara langsung di hadapan warga saat forum arisan RT atau kumpul pemuda Karang Taruna, agar terjadi efek *social proof* dan rasa percaya bersama antar-tetangga.
+- **Dinamika Guyub Rukun & Forum RW**: Warga Wonosari sangat aktif dalam perkumpulan RT, pertemuan rutin pengurus RW 01 tiap **Selasa malam (Rabu Pahing)** (±20 pengurus RT 01–06), serta kepemudaan Karang Taruna *"Bina Remaja"* (RW 01 — Mas Andi & Mas Gempar) dan *"Bakti Remaja"* (RT 06 — Mas Rizki).
+- **Strategi Pendekatan**: Sosialisasi awal di forum pengurus RW, serta demonstrasi kemudahan pembayaran QRIS dilakukan secara langsung bersama pemuda Karang Taruna dan pedagang saat akhir pekan (*Sabtu–Minggu*), agar terjadi efek *social proof* dan rasa percaya antar-tetangga.
 
 ### 5. Aspek Budaya, Norma, & Nilai Adat (Cultural & Ethical Values)
 - **Unggah-Ungguh & Etika Bertamu**: Wajib meminta izin kepada sesepuh dukuh (Ketua RW 01 Bpk. Ramelan dan Ketua RT setempat) sebelum mendata rumah warga. Wajib berpakaian rapi, sopan, bertutur kata bahasa Jawa krama/Indonesia santun, dan menghindari mendatangi toko pada jam sibuk memasak/istirahat siang (pukul 12.00–13.30 WIB).
@@ -176,33 +177,30 @@ Sebuah intervensi teknologi di Desa Wonosari akan ditolak jika mengabaikan lansk
 
 ---
 
-## 📅 6. Jadwal Pelaksanaan Program Kerja (Gantt Chart 6 Bulan)
+## 📅 6. Jadwal Pelaksanaan Program Kerja (Gantt Chart 4,5 Bulan: Feb – Jun 2027)
 
 ```mermaid
 gantt
-    title Jadwal Kerja Divisi Teknologi & IT — Tim Nirantara PLK 2027
+    title Jadwal Kerja Divisi Teknologi & IT — Tim Nirantara PLK 2027 (4,5 Bulan)
     dateFormat  YYYY-MM-DD
     section Pre-PLK (Jogja)
-    Riset Arsitektur Web & Analisis Data Survei    :2026-11-01, 30d
-    Desain Mockup Web Desa & Modul SOP            :2026-12-01, 31d
+    Riset Arsitektur Web, Mockup & Modul SOP Admin :2026-11-25, 45d
+    Persiapan Materi Workshop & Format Pendataan   :2027-01-10, 21d
     section Bulan 1 (Februari)
-    Sowan Kades & Validasi Data Monografi Desa     :2027-02-01, 14d
-    Sensus & Pemetaan Geospasial UMKM RW 01        :2027-02-15, 14d
+    Sowan Kades, Pertemuan RW 01 & Validasi Data   :2027-02-01, 14d
+    Sensus & Pemetaan Geospasial 25 UMKM RW 01     :2027-02-15, 14d
     section Bulan 2 (Maret)
-    Pendaftaran Google Maps & Pengajuan QRIS 25 Toko:2027-03-01, 21d
-    Setup Server & Coding Portal Web Desa          :2027-03-10, 21d
+    Pendaftaran Google Maps & Pengajuan 15 QRIS    :2027-03-01, 21d
+    Setup Server & Coding Portal Web Desa Wonosari :2027-03-10, 22d
     section Bulan 3 (April)
-    Pemasangan Akrilik QRIS & Pendampingan Transaksi:2027-04-01, 14d
-    Uji Coba Beta Portal Web Desa Wonosari         :2027-04-15, 15d
+    Pemasangan Akrilik QRIS & Pendampingan Weekend :2027-04-01, 18d
+    Uji Coba Beta Portal Web Desa Bersama Pamong   :2027-04-15, 15d
     section Bulan 4 (Mei)
-    Workshop Klinik TIK & Keamanan Siber Pemuda    :2027-05-01, 14d
-    Pelatihan Administrator Web Karang Taruna      :2027-05-15, 16d
-    section Bulan 5 (Juni)
-    Peluncuran Resmi Web Desa Bersama Pamong Desa  :2027-06-01, 14d
-    Monitoring Keaktifan Transaksi QRIS UMKM       :2027-06-10, 20d
-    section Bulan 6 (Juli)
-    Serah Terima Aset Digital (Handover) & SOP     :2027-07-01, 10d
-    Penyusunan LPJ Teknis & Ujian DPL               :2027-07-11, 20d
+    Workshop Klinik TIK & AI Karang Taruna RW 01   :2027-05-01, 15d
+    Pelatihan Administrator Web Pemuda & Staf Desa :2027-05-15, 16d
+    section Bulan 5 (Juni - Handover)
+    Peluncuran Resmi Web Desa & Monitoring QRIS    :2027-06-01, 14d
+    Serah Terima Aset Digital, SOP & LPJ Teknis DPL:2027-06-15, 15d
 ```
 
 ---

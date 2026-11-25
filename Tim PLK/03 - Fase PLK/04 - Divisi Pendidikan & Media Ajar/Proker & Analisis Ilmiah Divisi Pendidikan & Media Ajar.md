@@ -1,6 +1,7 @@
 ---
 tags: [proker, pendidikan, media-ajar, tk-aba, tpa, teknologi-pendidikan, fip, riset-ilmiah]
 created: 2026-10-26
+updated: 2026-11-25
 status: active
 divisi: Pendidikan & Media Ajar
 koordinator: Alvina Aulia Az Zahra (Vina)
@@ -11,9 +12,9 @@ anggota: [Krissandra Siagian (Sandra)]
 
 > **Unit Kerja**: Divisi Pendidikan & Media Ajar — Tim PLK UNY Mengabdi NIRANTARA 2027  
 > **Basis Akademik**: Program Studi Teknologi Pendidikan (TP), Fakultas Ilmu Pendidikan dan Psikologi (FIP)  
-> **Koordinator**: Alvina Aulia Az Zahra, S.Pd. (Cand.) — NIM: `24010530018`  
+> **Koordinator & Humas 2**: Alvina Aulia Az Zahra, S.Pd. (Cand.) — NIM: `24010530018`  
 > **Anggota & Perkap 2**: Krissandra Siagian, S.Pd. (Cand.) — NIM: `24010530004`  
-> **Lokasi Sasaran**: TK ABA Majegan (Kepala Sekolah/Guru: Mbak Nunik, ±15 murid), TPA Masjid Al-Amin Dukuh Majegan, serta Pendidik PAUD & Pemuda Remaja Masjid Desa Wonosari, Trucuk, Klaten.
+> **Lokasi Sasaran**: TK ABA Majegan di RT 02 (Guru Pengasuh: Mbak Nunik, ±15 murid), TPA Masjid Al-Amin di RT 03/04 (aktif 3×/minggu, ±20–25 santri), Rintisan Jam Belajar Anak RW 01, serta Pendidik PAUD & Remaja Masjid Desa Wonosari, Trucuk, Klaten.
 
 ---
 
@@ -54,8 +55,8 @@ Berdasarkan hasil audiensi lapangan dengan pengurus dukuh, observasi fisik gedun
 |:--:|---|---|---|---|
 | **1** | **Sarana Belajar TK ABA Majegan** | Memiliki ±15 murid usia 4–6 tahun. Kondisi ruang kelas bersih namun minim Alat Peraga Edukatif (APE) modern. Media ajar didominasi buku gambar kertas fotokopian dan majalah lama. | Ketiadaan media ajar manipulatif multisensori (perabaan, visual interaktif, motorik halus) yang merangsang kecerdasan kinestetik anak. | Minat konsentrasi anak cepat buyar; stimulasi daya imajinasi anak usia dini kurang optimal dibandingkan standar PAUD kota. |
 | **2** | **Kapasitas TIK Pengajar PAUD/TK** | Guru TK (Mbak Nunik dan rekan) sangat berdedikasi namun belum terbiasa merancang lembar kerja anak berbasis digital grafis (Canva for Education) maupun pemanfaatan audio-visual tematik. | Keterbatasan keterampilan perancangan media instruksional berbasis teknologi ramah pemula (*instructional media authoring*). | Waktu guru tersita untuk menggambar pola manual; variasi tema mingguan terbatas dan repetitif. |
-| **3** | **Proses Belajar Santri TPA Masjid Al-Amin** | Santri belajar mengaji setiap sore (ba'da ashar/maghrib) berjumlah sekitar 20–25 anak. Metode belajar masih konvensional sorogan/iqro satu per satu, santri yang menunggu giliran sering berlarian dan ribut di dalam masjid. | Ketiadaan media transisi yang terstruktur (animasi kisah 25 nabi, kartu tajwid gamifikasi, dan kuis islami interaktif). | Tingkat retensi hafalan doa dan tajwid rendah; anak merasa jenuh mengaji karena suasana kelas pasif dan monoton. |
-| **4** | **Pojok Baca & Literasi Anak Dukuh** | Tidak tersedia sudut baca (*reading corner*) anak di lingkungan posko maupun balai RT. Buku cerita bergambar anak sangat langka ditemukan di rumah warga. | Ketiadaan akses terhadap bahan bacaan literasi anak berkualitas yang menanamkan budaya gemar membaca sejak dini. | Ketergantungan tinggi anak-anak usia SD/TK pada gawai/smartphone orang tua untuk bermain game online pasif tanpa nilai edukasi. |
+| **3** | **Proses Belajar Santri TPA Masjid Al-Amin** | Santri belajar mengaji **3 kali sepekan (sore hari)** berjumlah sekitar 20–25 anak. Metode belajar masih konvensional sorogan/iqro satu per satu, santri yang menunggu giliran sering berlarian dan ribut di dalam masjid. | Ketiadaan media transisi yang terstruktur (animasi kisah 25 nabi, kartu tajwid gamifikasi, dan kuis islami interaktif). | Tingkat retensi hafalan doa dan tajwid rendah; anak merasa jenuh mengaji karena suasana kelas pasif dan monoton. |
+| **4** | **Pojok Baca & Jam Belajar Anak Dukuh** | Tidak ada gedung SD di RW 01 (SDN 1 & 2 berjarak 2,5–3 km) dan belum tersedia sudut baca anak di dukuh. **Ketua RW 01 Bpk. Ramelan menggagas program tertib Jam Belajar & Mengaji Anak di malam hari.** | Ketiadaan wadah pendampingan belajar malam (*bimbel dukuh*) dan akses bahan bacaan literasi anak berkualitas. | Anak-anak usia SD/TK rentan bermain gawai orang tua tanpa nilai edukasi saat sore/malam hari. |
 
 ---
 
@@ -133,7 +134,7 @@ Berdasarkan hasil audiensi lapangan dengan pengurus dukuh, observasi fisik gedun
 - **Metode Pelaksanaan**:
   1. Pembuatan dan penyerahan 5 jenis APE tematik: **Papan Flanel Cerita (Flannel Board)**, **Puzzle Balok Kayu Geometri**, **Kartu Flashcard Beranimasi Augmented Reality (AR)**, **Sensory Bin Biji-bijian Desa**, dan **Ular Tangga Raksasa Karakter**.
   2. Penataan Sudut Baca (*Literacy Corner*) berkarpet empuk di ruang kelas TK ABA yang dilengkapi 30+ buku cerita bergambar anak sumbangan program donasi buku tim Nirantara.
-  3. Program mengajar mingguan (*Teaching Clinic*) mendampingi Mbak Nunik setiap hari Selasa dan Kamis pagi dengan tema sains sederhana dan kreasi seni melipat/mewarnai.
+  3. Program mengajar akhir pekan (*Weekend Teaching Clinic*) mendampingi Mbak Nunik setiap **Sabtu pagi** (atau hari kerja yang jadwal kuliahnya kosong/libur) dengan tema sains sederhana dan kreasi seni melipat/mewarnai, tanpa membenturkan jadwal kuliah tatap muka Senin–Kamis.
 - **Indikator Keberhasilan (KPI SMART)**:
   * Terpasangnya 1 Pojok Baca Ramah Anak aktif dengan minimal 30 eksemplar buku cerita bergambar layak baca.
   * Tersedianya 5 paket instrumen APE baru yang digunakan rutin dalam pembelajaran harian TK ABA.
@@ -141,13 +142,14 @@ Berdasarkan hasil audiensi lapangan dengan pengurus dukuh, observasi fisik gedun
 
 ---
 
-### Proker 2: Digitalisasi & Gamifikasi Pembelajaran Santri TPA Masjid Al-Amin
+### Proker 2: Digitalisasi TPA Al-Amin & Rintisan Jam Belajar Malam Anak RW 01
 - **Nama Program**: *Santri Cerdas & Berakhlak Al-Amin (SABA)*
-- **Tujuan**: Mentransformasi metode pembelajaran di TPA Masjid Al-Amin menjadi lebih dinamis, visual, dan menyenangkan melalui pemanfaatan media multimedia keagamaan.
+- **Tujuan**: Mentransformasi metode pembelajaran di TPA Masjid Al-Amin menjadi lebih dinamis, visual, dan menyenangkan serta mendukung gagasan **Jam Belajar Anak RW 01** dari Bapak RW Ramelan sekaligus memenuhi target **272+ jam aktivitas fisik di Klaten**.
 - **Metode Pelaksanaan**:
-  1. Pengadaan media **"Roda Putar Tajwid Interaktif"** dan **Kartu Domino Hijaiyah** untuk mengeliminasi kebosanan santri saat menunggu antrean sorogan mengaji.
-  2. Penayangan bioskop edukasi mini islami (Animasi Kisah 25 Nabi dan Teladan Budi Pekerti Sahabat Rasul) setiap hari Jumat sore menggunakan proyektor tim posko.
-  3. Pembuatan "Papan Bintang Prestasi Santri" untuk mencatat capaian hafalan surat pendek, doa harian, dan ketertiban sholat berjamaah secara visual dan transparan.
+  1. Pengadaan media **"Roda Putar Tajwid Interaktif"** dan **Kartu Domino Hijaiyah** untuk mengeliminasi kebosanan santri saat menunggu antrean sorogan mengaji pada jadwal aktif TPA 3×/pekan.
+  2. Penayangan bioskop edukasi mini islami (Animasi Kisah 25 Nabi dan Teladan Budi Pekerti Sahabat Rasul) setiap **Jumat/Sabtu sore** menggunakan proyektor tim posko (termasuk agenda **Semarak Ramadhan Ceria** di Feb–Mar 2027).
+  3. **Bimbingan Belajar "Jam Belajar Anak RW 01"**: Membuka sesi belajar bersama dan pendampingan PR sekolah di Posko Majegan / serambi Masjid Al-Amin setiap **Jumat & Sabtu malam (pukul 18.30–20.00 WIB)**.
+  4. Pembuatan "Papan Bintang Prestasi Santri" untuk mencatat capaian hafalan surat pendek, doa harian, dan ketertiban sholat berjamaah secara visual dan transparan.
 - **Indikator Keberhasilan (KPI SMART)**:
   * 100% dari 25 santri TPA Al-Amin terlibat aktif dalam aktivitas belajar berbasis gamifikasi.
   * Rata-rata hafalan surat pendek juz 30 dan doa harian santri meningkat minimal 3 surat/doa per santri selama masa PLK.
@@ -164,33 +166,30 @@ Berdasarkan hasil audiensi lapangan dengan pengurus dukuh, observasi fisik gedun
 
 ---
 
-## 📅 6. Jadwal Pelaksanaan Program Kerja (Gantt Chart 6 Bulan)
+## 📅 6. Jadwal Pelaksanaan Program Kerja (Gantt Chart 4,5 Bulan: Feb – Jun 2027)
 
 ```mermaid
 gantt
-    title Jadwal Kerja Divisi Pendidikan & Media Ajar — Tim Nirantara PLK 2027
+    title Jadwal Kerja Divisi Pendidikan & Media Ajar — Tim Nirantara PLK 2027 (4,5 Bulan)
     dateFormat  YYYY-MM-DD
     section Pre-PLK (Jogja)
-    Riset Kebutuhan Kurikulum TK & Pengumpulan Donasi Buku:2026-11-01, 30d
-    Desain Prototipe APE Flannel Board & Flashcard AR    :2026-12-01, 31d
-    section Bulan 1 (Februari)
-    Sowan & Observasi Kelas TK ABA Majegan (Mbak Nunik) :2027-02-01, 14d
-    Observasi Kegiatan TPA Al-Amin & Asesmen Awal Santri :2027-02-15, 14d
-    section Bulan 2 (Maret)
-    Instalasi Pojok Baca & Penyerahan 5 Paket APE TK ABA :2027-03-01, 14d
-    Penerapan Roda Putar Tajwid & Kartu Domino di TPA    :2027-03-15, 16d
+    Riset Kurikulum TK & Open Donasi 30+ Buku Anak     :2026-11-25, 45d
+    Desain Prototipe APE Flannel Board & Flashcard AR  :2027-01-10, 21d
+    section Bulan 1 (Februari - Awal Ramadhan)
+    Sowan & Observasi TK ABA Majegan (Mbak Nunik)      :2027-02-01, 14d
+    Observasi TPA Al-Amin & Buka Jam Belajar Malam RW  :2027-02-13, 15d
+    section Bulan 2 (Maret - Ramadhan & Syawal)
+    Semarak Ramadhan Ceria & Lomba Anak Sholeh TPA     :2027-03-01, 9d
+    Instalasi Pojok Baca, 5 Paket APE & Domino TPA     :2027-03-18, 13d
     section Bulan 3 (April)
-    Teaching Clinic Rutin Selasa-Kamis di TK ABA         :2027-04-01, 30d
-    Bioskop Edukasi Mini Animasi Kisah Nabi (Tiap Jumat) :2027-04-05, 25d
+    Teaching Clinic Akhir Pekan (Sabtu Pagi) TK ABA    :2027-04-03, 27d
+    Bioskop Edukasi TPA & Bimbel Jam Belajar Malam     :2027-04-02, 28d
     section Bulan 4 (Mei)
-    Workshop Desain Canva & AI untuk Guru TK & Remaja TPA:2027-05-01, 14d
-    Festival Anak Sholeh & Lomba Ceria Ramadhan/Syawal   :2027-05-15, 16d
-    section Bulan 5 (Juni)
-    Evaluasi Kemandirian Guru Menggunakan APE Mandiri    :2027-06-01, 14d
-    Pameran Hasil Karya Seni & Kolase Biji-bijian Murid  :2027-06-15, 15d
-    section Bulan 6 (Juli)
-    Serah Terima Hak Cipta Modul Media & Donasi Buku     :2027-07-01, 10d
-    Penyusunan LPJ Pendidikan TP & Portofolio Karya DPL   :2027-07-11, 20d
+    Workshop Desain Canva & AI untuk Guru TK & TPA     :2027-05-01, 16d
+    Pojok Parenting Ibu TK & Evaluasi Papan Prestasi   :2027-05-15, 16d
+    section Bulan 5 (Juni - Handover)
+    Pameran Karya Kolase Biji-bijian & Gelar Karya     :2027-06-05, 10d
+    Serah Terima Modul Media, APE, Donasi Buku & LPJ   :2027-06-15, 15d
 ```
 
 ---

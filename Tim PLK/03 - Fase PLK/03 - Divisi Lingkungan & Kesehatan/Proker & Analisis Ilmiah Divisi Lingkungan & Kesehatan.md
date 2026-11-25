@@ -1,6 +1,7 @@
 ---
 tags: [proker, lingkungan, kesehatan, sampah, kompos, eco-enzyme, biologi, fmipa, riset-ilmiah]
 created: 2026-10-26
+updated: 2026-11-25
 status: active
 divisi: Lingkungan & Kesehatan
 koordinator: Intan Milansari
@@ -11,9 +12,9 @@ anggota: [Zalfa Khoirunnisa]
 
 > **Unit Kerja**: Divisi Lingkungan & Kesehatan — Tim PLK UNY Mengabdi NIRANTARA 2027  
 > **Basis Akademik**: Program Studi Biologi, Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA)  
-> **Koordinator**: Intan Milansari, S.Si. (Cand.) — NIM: `24030830059`  
-> **Anggota & Bendahara 2**: Zalfa Khoirunnisa, S.Si. (Cand.) — NIM: `24030830068`  
-> **Lokasi Sasaran**: Area Pemukiman Warga RW 01 Dukuh Majegan, Bantaran Sungai/Kali, Lahan Pertanian Sawah, dan Kader Posyandu/PKK Desa Wonosari, Trucuk, Klaten.
+> **Koordinator & Koor. PDD**: Intan Milansari, S.Si. (Cand.) — NIM: `24030830059`  
+> **Anggota & Support PDD**: Zalfa Khoirunnisa, S.Si. (Cand.) — NIM: `24030830068`  
+> **Lokasi Sasaran**: Area Pemukiman Warga RW 01 Dukuh Majegan (6 RT / 270 KK), Bantaran Sungai/Kali, Lahan Pertanian Sawah (2× Padi, 1× Palawija), Kader Posyandu ILP RW 01, Ibu Muslimat Masjid Al-Amin, & PKK Desa Wonosari, Trucuk, Klaten.
 
 ---
 
@@ -52,9 +53,9 @@ Berdasarkan hasil observasi fisik lingkungan dukuh, penelusuran bantaran kali, d
 
 | No | Parameter Observasi | Fakta Lapangan (Kondisi Eksisting) | Kesenjangan (Gap Analysis) | Dampak terhadap Lingkungan & Warga |
 |:--:|---|---|---|---|
-| **1** | **Pengelolaan Sampah Rumah Tangga** | Tidak ada armada pengangkutan sampah dari Dinas Lingkungan Hidup (DLH) Klaten ke RW 01 Majegan. Mayoritas warga membuang sampah ke pekarangan belakang atau bantaran sungai, lalu **membakarnya secara terbuka (*open burning*)** pada sore hari. | Ketiadaan sistem tata kelola sampah terpadu (*zero waste system*) dan pemilahan organik-anorganik sejak dari dapur. | Asap pekat pembakaran plastik/daun memicu batuk, alergi pernapasan, dan risiko infeksi saluran pernapasan akut (ISPA); abu sisa pembakaran mencemari tanah. |
-| **2** | **Pencemaran Aliran Sungai / Kali** | Di pinggiran aliran sungai kecil dekat area posko dan sawah, ditemukan tumpukan kantong kresek sampah plastik domestik yang dibuang warga dan menyumbat pintu air irigasi. | Rendahnya kesadaran ekologis dan ketiadaan tempat penampungan sampah sementara (TPS) yang layak. | Risiko pendangkalan kali, bau menyengat di musim kemarau, dan sarang nyamuk vektor demam berdarah (DBD). |
-| **3** | **Potensi Limbah Organik & Pertanian** | Sisa kulit buah, sayuran rumah tangga, dan limbah jerami pascapanen melimpah ruah, namun 100% langsung dibuang atau dibakar di tengah sawah. | Ketiadaan transfer teknologi biokonversi limbah biomassa menjadi pupuk kompos organik bernilai ekonomis. | Kehilangan potensi nutrisi alami tanah; petani ketergantungan pada pupuk kimia urea/NPK sintetis yang mahal dan langka. |
+| **1** | **Pengelolaan Sampah Rumah Tangga** | Tidak ada armada pengangkutan sampah DLH Klaten ke RW 01 Majegan; TPS desa terkendala fasilitas angkut & biaya operasional. Mayoritas warga membuang sampah ke pekarangan belakang atau bantaran kali, lalu **membakarnya secara terbuka (*open burning*)**. | Mengubah kebiasaan memilah dari hulu secara paksa dinilai tidak realistis dalam 4,5 bulan; dibutuhkan alternatif pengolahan organik langsung di rumah/pekarangan (*composting & eco-enzyme*). | Asap pekat pembakaran plastik/daun memicu batuk, alergi pernapasan, dan risiko infeksi saluran pernapasan akut (ISPA); abu sisa pembakaran mencemari tanah. |
+| **2** | **Pencemaran Aliran Sungai / Kali** | Di pinggiran aliran sungai kecil dekat area posko dan sawah (sumber irigasi Umbul Cokro), ditemukan tumpukan kantong kresek sampah plastik domestik yang dibuang warga dan menyumbat pintu air irigasi. | Rendahnya kesadaran ekologis dan ketiadaan rambu peringatan serta alternatif penanganan limbah organik dapur. | Risiko pendangkalan kali, bau menyengat di musim kemarau, dan sarang nyamuk vektor demam berdarah (DBD). |
+| **3** | **Potensi Limbah Organik, Grajen Mebel & Pertanian** | Sisa kulit buah, sayuran, limbah jerami (pola tanam 2× padi, 1× palawija), & **serbuk gergaji (grajen) bengkel mebel warga** melimpah; di sisi lain **alokasi pupuk subsidi Kartu Tani minim** sehingga petani terpaksa beli pupuk non-subsidi **Rp 200.000–250.000/sak**, dan KWT selatan sedang vakum. | Ketiadaan transfer teknologi biokonversi limbah biomassa (hijauan + grajen mebel) menjadi pupuk kompos organik bernilai ekonomis. | Kehilangan potensi nutrisi alami tanah; petani terbebani biaya tinggi pupuk kimia non-subsidi. |
 | **4** | **Kebutuhan Sanitasi & Pembersih Rumah** | Posko dan rumah warga mengandalkan bahan pembersih kimia komersial (karbol/detergen sintetis) yang air limbahnya langsung meresap ke tanah dekat sumur air gali. | Belum adanya pemanfaatan disinfektan/pembersih lantai organik alami hasil fermentasi (*eco-enzyme*). | Residu bahan kimia sintetis berpotensi mencemari kualitas air tanah sumur dangkal warga. |
 
 ---
@@ -116,9 +117,9 @@ Berdasarkan hasil observasi fisik lingkungan dukuh, penelusuran bantaran kali, d
 ### 3. Aspek Lingkungan & Ekologi Tanah (Ecosystem Resilience)
 - **Konservasi Sawah**: Penambahan bahan organik kompos mengembalikan populasi cacing tanah (*Lumbricus rubellus*) dan mikoriza alami, meningkatkan daya ikat air tanah (*water holding capacity*) sawah saat kemarau, dan mengurangi limpasan residu kimia ke air tanah.
 
-### 4. Aspek Sosial & Komunitas Ibu-Ibu (Social Infrastructure)
-- **Basis Penggerak PKK & Posyandu**: Organisasi PKK RW 01 Dukuh Majegan sangat aktif berkumpul setiap bulan. Kelompok dasawisma adalah kanal terkuat untuk mendiseminasikan keterampilan pembuatan eco-enzyme dan pemilahan sampah.
-- **Strategi Pendekatan**: Menjadikan kader PKK sebagai "Duta Lingkungan Bersih Nirantara". Mengadakan lomba mini antar-RT dalam menghasilkan botol eco-enzyme terbersih dengan hadiah bibit tanaman sayuran.
+### 4. Aspek Sosial & Komunitas Penggerak (Social Infrastructure)
+- **Fakta Kelembagaan Survei 24 Okt**: Di tingkat RT/RW 01 Majegan **tidak terdapat pengurus PKK tersendiri** (kegiatan PKK dipusatkan terpadu di **Balai Desa Wonosari**). Penggerak utama di Dukuh Majegan adalah **Posyandu Integrasi Layanan Primer (ILP)** yang rutin berjalan setiap **tanggal 11** di rumah Bpk. RW Ramelan, **Pengajian Ibu-Ibu Muslimat Masjid Al-Amin** (malam Senin & malam Selasa), serta potensi reaktivasi **Kelompok Wanita Tani (KWT)** selatan yang sempat vakum. Selain itu, Bapak RW Ramelan sendiri memiliki rekam jejak sukses fermentasi pakan silase kambing (20–60 ekor).
+- **Strategi Pendekatan**: Menggandeng **PKK Desa Wonosari (tingkat Balai Desa)** dan **Kader Posyandu ILP / Ibu Muslimat RW 01** sebagai penggerak percontohan *Eco-Enzyme* dan kompos, serta menjadikan keberhasilan teknologi fermentasi milik Bpk. RW Ramelan sebagai bukti sosial (*social proof*) agar warga percaya metode bioteknologi fermentasi tidak berbau busuk.
 
 ### 5. Aspek Budaya, Norma, & Filosofi Jawa (Cultural Harmony)
 - **Falsafah *Memayu Hayuning Bawana***: Masyarakat perdesaan Jawa memegang prinsip luhur menjaga keselarasan alam semesta. Pembakaran sampah yang merusak udara dan pengotoran sungai pada dasarnya bertentangan dengan falsafah adiluhung ini.
@@ -143,9 +144,9 @@ Berdasarkan hasil observasi fisik lingkungan dukuh, penelusuran bantaran kali, d
 
 ---
 
-### Proker 2: Workshop Produksi Eco-Enzyme Multiguna Bersama Ibu-Ibu PKK
-- **Nama Program**: *Ibu Cerdas Eco-Enzyme Majegan (ICEM)*
-- **Tujuan**: Mengedukasi sedikitnya 30 ibu rumah tangga dan kader PKK RW 01 dalam memanfaatkan kulit buah (jeruk, nanas, pepaya, semangka) menjadi cairan pembersih serbaguna dan desinfektan alami.
+### Proker 2: Workshop Produksi Eco-Enzyme Multiguna Bersama PKK Desa & Kader Posyandu/Muslimat RW 01
+- **Nama Program**: *Ibu Cerdas Eco-Enzyme Wonosari–Majegan (ICEM)*
+- **Tujuan**: Mengedukasi sedikitnya 30 ibu rumah tangga (perwakilan PKK Desa Wonosari, Kader Posyandu ILP tgl 11, & Ibu Muslimat RW 01 Majegan) dalam memanfaatkan kulit buah (jeruk, nanas, pepaya, semangka) menjadi cairan pembersih serbaguna dan desinfektan alami.
 - **Metode Pelaksanaan**:
   1. Sosialisasi manfaat eco-enzyme untuk pembersih lantai, sabun cuci piring alami, pupuk daun cair, dan pengurang bau selokan.
   2. Praktik langsung (*hands-on workshop*) mencampur bahan dengan perbandingan 1:3:10 dalam toples plastik kedap udara.
@@ -170,33 +171,30 @@ Berdasarkan hasil observasi fisik lingkungan dukuh, penelusuran bantaran kali, d
 
 ---
 
-## 📅 6. Jadwal Pelaksanaan Program Kerja (Gantt Chart 6 Bulan)
+## 📅 6. Jadwal Pelaksanaan Program Kerja (Gantt Chart 4,5 Bulan: Feb – Jun 2027)
 
 ```mermaid
 gantt
-    title Jadwal Kerja Divisi Lingkungan & Kesehatan — Tim Nirantara PLK 2027
+    title Jadwal Kerja Divisi Lingkungan & Kesehatan — Tim Nirantara PLK 2027 (4,5 Bulan)
     dateFormat  YYYY-MM-DD
     section Pre-PLK (Jogja)
-    Formulasi Starter EM4 & Pembuatan Batch Eco-Enzyme Sample:2026-11-01, 30d
-    Uji Coba Lab Desain Drum Komposter Aerobik Mini          :2026-12-01, 31d
+    Formulasi Starter EM4 & Pembuatan Sample Eco-Enzyme    :2026-11-25, 45d
+    Desain Drum Komposter Aerobik & Materi Edukasi ISPA    :2027-01-10, 21d
     section Bulan 1 (Februari)
-    Survei Sanitasi Detail & Pemetaan Titik Sampah Kali RW 01:2027-02-01, 14d
-    Perakitan 3 Unit Drum Komposter Aerobik di Posko Majegan :2027-02-15, 14d
+    Survei Sanitasi & Pemetaan Titik Sampah Kali RW 01     :2027-02-01, 14d
+    Perakitan 3 Unit Drum Komposter Aerobik di Majegan     :2027-02-15, 14d
     section Bulan 2 (Maret)
-    Peluncuran Program Kompos KOBAR & Pengumpulan Sampah Dapur:2027-03-01, 21d
-    Pemasangan 4 Plang Edukasi Lingkungan di Bantaran Sungai :2027-03-15, 14d
+    Peluncuran Kompos KOBAR (Hijauan + Grajen Mebel)       :2027-03-01, 20d
+    Pemasangan 4 Plang Edukasi Lingkungan di Bantaran Kali :2027-03-15, 15d
     section Bulan 3 (April)
-    Workshop Akbar Pembuatan Eco-Enzyme bersama Ibu-Ibu PKK  :2027-04-01, 14d
-    Penyuluhan Bahaya Asap Pembakaran Terbuka di Posyandu    :2027-04-15, 15d
+    Workshop Eco-Enzyme (PKK Balai Desa & Posyandu ILP 11) :2027-04-03, 18d
+    Penyuluhan Bahaya Asap & Anti-ISPA (Posyandu ILP 11)   :2027-04-11, 14d
     section Bulan 4 (Mei)
-    Panen Perdana Kompos Organik Fermentasi Batch 1          :2027-05-01, 14d
-    Distribusi Kompos & Uji Coba pada Tanaman Sayur Warga    :2027-05-15, 16d
-    section Bulan 5 (Juni)
-    Monitoring Fermentasi Eco-Enzyme & Panen Sampel Posko    :2027-06-01, 14d
-    Lomba Kebersihan Pekarangan & Pemilahan Sampah Antar-RT  :2027-06-15, 15d
-    section Bulan 6 (Juli)
-    Serah Terima Aset Komposter Drum ke Pengurus RW 01       :2027-07-01, 10d
-    Penyusunan LPJ Ilmiah Biologi Lingkungan & Ujian DPL      :2027-07-11, 20d
+    Panen Perdana Kompos Fermentasi & Uji Pekarangan/KWT   :2027-05-01, 20d
+    Monitoring Fermentasi Eco-Enzyme & Bank Sampah Warga   :2027-05-15, 16d
+    section Bulan 5 (Juni - Handover)
+    Panen Sampel Eco-Enzyme & Lomba Bersih Pekarangan RT   :2027-06-01, 14d
+    Serah Terima 3 Komposter ke RW 01 & LPJ Ilmiah DPL     :2027-06-15, 15d
 ```
 
 ---
