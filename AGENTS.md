@@ -94,8 +94,8 @@ d:\KULIAH\UNY PLK\          ← Vault root (buka folder ini di Obsidian)
 | 4 | Novelia Harlinda (Veli) | PTI (FT) | Sekretaris 2 (Logbook 272 & Arsip Digital) | Koor. Divisi Teknologi & IT |
 | 5 | Dinda Amelia Putri | PADP (FEB) | Sekretaris 1 (Proposal & LPJ) | Tim Divisi Administrasi & UMKM |
 | 6 | Faidatul Anugraheni M. (Fai) | PADP (FEB) | Bendahara Tunggal (Kas 1 Pintu & RAB) | Koor. Divisi Administrasi & UMKM |
-| 7 | Intan Milansari | Biologi (FMIPA) | PDD 2 (Dokumentasi & Jurnalistik Berita 5W1H) | Koor. Divisi Lingkungan & Kesehatan |
-| 8 | Zalfa Khoirunnisa | Biologi (FMIPA) | PDD 1 (Desain Grafis & Branding Medsos) | Tim Divisi Lingkungan & Sampah |
+| 7 | Intan Milansari | Biologi (FMIPA) | Koor. PDD (PDD 1 — Konten, Dokumentasi & Berita 5W1H) | Koor. Divisi Lingkungan & Kesehatan |
+| 8 | Zalfa Khoirunnisa | Biologi (FMIPA) | Support PDD (PDD 2 — Desain Grafis & Branding Medsos) | Tim Divisi Lingkungan & Sampah |
 | 9 | Alvina Aulia Az Zahra (Vina) | TP (FIP) | Humas 2 (Co-Humas Kedinasan & Bapperida) | Koor. Divisi Pendidikan & Media Ajar |
 | 10 | Krissandra Siagian (Sandra) | TP (FIP) | Perkap 2 (Operasional Acara & Perlengkapan) | Tim Divisi Pendidikan & Media Ajar |
 

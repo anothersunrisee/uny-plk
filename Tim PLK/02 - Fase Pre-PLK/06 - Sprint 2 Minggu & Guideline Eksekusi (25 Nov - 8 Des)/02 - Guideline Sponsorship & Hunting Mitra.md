@@ -88,7 +88,7 @@ Gunakan daftar riset awal berikut sebagai titik start **Sandra & Riski** (langsu
 
 ## 5. 💎 STRUKTUR PROPOSAL SPONSORSHIP (5–7 HALAMAN PDF ESTETIK)
 
-Didesain oleh **Zalfa & Intan** pada **Min 29 Nov – Rab 2 Des 2026** (berbeda dengan Proposal KKN formal untuk kampus/Bapperida—proposal sponsor harus **visual, ringkas, to-the-point, dan menonjolkan benefit bagi sponsor!**):
+Dikoordinasikan oleh **Intan (Koor PDD)** bersama **Zalfa (Support Desain)** pada **Min 29 Nov – Rab 2 Des 2026** (berbeda dengan Proposal KKN formal untuk kampus/Bapperida—proposal sponsor harus **visual, ringkas, to-the-point, dan menonjolkan benefit bagi sponsor!**):
 - **Hal 1 (Cover):** Logo Nirantara + Foto survei Wonosari + Judul *"Proposal Kemitraan & Sponsorship — Nirantara Mengabdi Desa Wonosari, Klaten"*.
 - **Hal 2 (Profil Tim & Lokasi):** 10 mahasiswa lintas 4 fakultas UNY (FT, FEB, FMIPA, FIP) + lokasi binaan RW 01 Dukuh Majegan, Desa Wonosari, Klaten.
 - **Hal 3 (4 Pilar Dampak Nyata):** Infografis ringkas 4 proker unggulan (Digitalisasi 25 UMKM, Komposter EM4 Anti-Bakar Sampah, Arsip & 15 NIB OSS, Revitalisasi TK ABA & TPA).

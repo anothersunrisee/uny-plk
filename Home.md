@@ -17,7 +17,7 @@ status: active
 |:----:|:------:|-------------|-----------------|-------------------------------|
 | 1–4 | 🟢 Fix | Fajar, Terry, Riski, Veli | Pend. Teknik Informatika (FT) | Kordes, Humas 1 (Desa), Perkap 1 (Armada), Sekre 2 |
 | 5–6 | 🟢 Fix | Dinda Amelia & Faidatul A. | Pend. Adm. Perkantoran (FEB) | Sekre 1, Bendahara Tunggal (Kas 1 Pintu), UMKM |
-| 7–8 | 🟢 Fix | Intan Milansari & Zalfa Khoirunnisa | Biologi (FMIPA) | PDD 2 (Jurnalistik), PDD 1 (Desain/Branding), Lingkungan |
+| 7–8 | 🟢 Fix | Intan Milansari & Zalfa Khoirunnisa | Biologi (FMIPA) | Koor. PDD (Intan), Support PDD Desain (Zalfa), Lingkungan |
 | 9–10 | 🟢 Fix | Alvina Aulia & Krissandra Siagian | Teknologi Pendidikan (FIP) | Humas 2 (Bapperida/Dinas), Perkap 2 (Acara), Edukasi TP |
 
 ---
@@ -90,7 +90,7 @@ Folder ini berisi data analitik saat masa pencarian anggota dan pemetaan prodi:
 ##### a. Subfolder `01 - Tata Kelola Tim & First Gathering/`
 | Berkas | Fungsi & Penjelasan Isi |
 |---|---|
-| [[Notulensi Resmi Rapat Pleno 8 Nov 2026]] | 📝 **Notulensi Resmi Rapat Pleno 8 Nov 2026**: Keputusan kas 1 pintu (Faidatul), sanksi telat bayar, switch Humas 2 (Vina) & PDD 1 (Zalfa), serta update PIC Biologi & TP. |
+| [[Notulensi Resmi Rapat Pleno 8 Nov 2026]] | 📝 **Notulensi Resmi Rapat Pleno 8 Nov 2026**: Keputusan kas 1 pintu (Faidatul), sanksi telat bayar, switch Humas 2 (Vina) & Support PDD (Zalfa, dipimpin Koor PDD Intan), serta update PIC Biologi & TP. |
 | [[Panduan Rapat Pleno 8 Nov - Konsolidasi Proposal, Bapperida, Kas & Restrukturisasi Tim]] | 📢 **Panduan Rapat Pleno 8 Nov 2026**: Konsolidasi proposal KKN, legalitas UNY & Klaten, kas pasca proposal, restrukturisasi panitia, & workflow. |
 | [[Notulensi Resmi First Gathering NIRANTARA]] | Berita acara resmi hasil First Gathering 16 Oktober 2026 (penetapan nama, ketua, dan matriks). |
 | [[Panduan First Gathering & Lembar Kerja Tim]] | Lembar kerja TM-TP rapat perdana (voting ketua, pemilihan nama Nirantara, penetapan matrix). |

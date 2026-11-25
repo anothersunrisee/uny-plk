@@ -3,13 +3,13 @@ tags: [guideline, social-media, instagram, pdd, branding, sprint]
 created: 2026-11-23
 updated: 2026-11-25
 status: active
-pic: Zalfa (PDD 1), Intan (PDD 2), Fajar (Support Visual Guideline)
+pic: Intan (Main Koor PDD), Zalfa (Support PDD / Desain), Fajar (Support Visual Guideline)
 author: Tim Nirantara PLK UNY 2027
 ---
 
 # 🎨 GUIDELINE SOCIAL MEDIA & BRANDING INSTAGRAM NIRANTARA
 ## **Panduan Aktivasi Akun, Visual Identity, & Rencana Konten 2 Minggu (25 Nov – 8 Des 2026)**
-*PIC Utama: **Zalfa Khoirunnisa (PDD 1)** & **Intan Milansari (PDD 2)** | Support Visual Guideline: **Fajar Ahnaf M.***
+*Main Koor PDD: **Intan Milansari (PDD 1)** | Support PDD (Desain): **Zalfa Khoirunnisa (PDD 2)** | Support Visual Guideline: **Fajar Ahnaf M.***
 
 ---
 
@@ -21,9 +21,9 @@ author: Tim Nirantara PLK UNY 2027
 
 ---
 
-## 1. 🧭 IDENTITAS & BRAND GUIDELINE (DISUSUN FAJAR + ZALFA: 25–27 NOV)
+## 1. 🧭 IDENTITAS & BRAND GUIDELINE (DISUSUN FAJAR + INTAN, SUPPORT ZALFA: 25–27 NOV)
 
-Fajar bersama Zalfa menetapkan panduan visual baku di **H1–H3 (Rab 25 – Jum 27 Nov)** agar seluruh feeds konsisten dan tidak berubah-ubah gayanya:
+Fajar bersama Intan (Koor PDD) dan dibantu Zalfa menetapkan panduan visual baku di **H1–H3 (Rab 25 – Jum 27 Nov)** agar seluruh feeds konsisten dan tidak berubah-ubah gayanya:
 
 | Elemen Brand | Ketentuan Standar Tim NIRANTARA |
 |---|---|
@@ -55,15 +55,15 @@ Cukup **2 postingan per minggu** agar PDD tetap ringan di tengah kuliah, namun a
 
 ```mermaid
 flowchart LR
-    A["1. Fajar & Zalfa<br/>Finalisasi Brand Guideline<br/>& Template Canva"] --> B["2. Intan<br/>Kurasi Foto Drive &<br/>Tulis Brief Teks + Caption"]
-    B --> C["3. Zalfa<br/>Desain Feeds di Canva<br/>(Sesuai Guideline)"]
-    C --> D["4. Fajar<br/>Quick Review<br/>(Maks. 12 Jam)"]
+    A["1. Fajar & Intan (Support Zalfa)<br/>Finalisasi Brand Guideline<br/>& Template Canva"] --> B["2. Intan (Koor PDD)<br/>Kurasi Foto Drive &<br/>Tulis Brief Teks + Caption"]
+    B --> C["3. Zalfa (Support PDD)<br/>Eksekusi Desain Feeds di Canva<br/>(Sesuai Guideline)"]
+    C --> D["4. Fajar & Intan<br/>Quick Review<br/>(Maks. 12 Jam)"]
     D --> E["5. Intan<br/>Upload IG + Story +<br/>Share Link ke Grup WA"]
     E --> F["6. Seluruh 10 Anggota<br/>Wajib Like, Komen &<br/>Repost ke IG Story!"]
 ```
 
 ### Aturan Main agar Cepat & Anti-Ribet:
-1. **Satu Link Canva Tim:** Semua desain dibuat di 1 folder Canva bersama agar Fajar, Zalfa, dan Intan bisa melihat/revisi langsung tanpa kirim-kirim file berat.
+1. **Satu Link Canva Tim:** Semua desain dibuat di 1 folder Canva bersama agar Intan, Zalfa, dan Fajar bisa melihat/revisi langsung tanpa kirim-kirim file berat.
 2. **Aturan Repost 10 Anggota:** Setiap kali Intan membagikan tautan postingan baru di Grup WA, seluruh 10 anggota wajib *like*, komentar positif, dan *repost* ke IG Story masing-masing dalam 24 jam agar *reach* akun naik alami sebelum dicek sponsor.
 3. **Standar Hashtag Wajib:** `#NirantaraUNY #PLKUNY2027 #UNYMengabdi #DesaWonosari #TrucukKlaten #KKNUNY #PengabdianMasyarakat`
 
@@ -71,7 +71,7 @@ flowchart LR
 
 ## 4. 🤝 SINERGI PDD DENGAN TIM SPONSORSHIP & BENDAHARA
 
-Selain mengelola Instagram, pada **Min 29 Nov – Rab 2 Des 2026** tim PDD (Zalfa & Intan) merancang **Proposal Sponsorship versi PDF Estetik (5–7 halaman di Canva)**:
+Selain mengelola Instagram, pada **Min 29 Nov – Rab 2 Des 2026** tim PDD (**Intan selaku Koor PDD** bersama **Zalfa**) merancang **Proposal Sponsorship versi PDF Estetik (5–7 halaman di Canva)**:
 * **Input dari Fai (Bendahara):** Tabel RAB ringkas, 3 Paket Benefit Sponsor (Platinum, Gold, Silver/In-Kind), serta **Gambar QRIS & Nomor Rekening Resmi Kas Tim** (agar donatur/sponsor dapat langsung bertransaksi dengan mudah).
 * **Input dari Sandra & Riski (Perkap):** Daftar kebutuhan barang *in-kind* (rompi, banner, buku TK, air mineral, drum komposter).
 * **Tugas Intan:** Merangkai kalimat ajakan kolaborasi yang meyakinkan (*value proposition*).

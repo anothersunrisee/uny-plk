@@ -29,7 +29,7 @@ graph TD
     R["<b>KEPUTUSAN RAPAT PLENO 8 NOV 2026</b>"]
     
     R --> K["<b>1. KEUANGAN & KAS</b><br/>• Kas mulai Nov: Tgl 5–10 tiap bulan<br/>• Bendahara Tunggal: Faidatul (1 Pintu)<br/>• Sanksi: Telat bayar = bayari kas se-tim!"]
-    R --> S["<b>2. RESTRUKTURISASI TIM</b><br/>• Humas: Terry (Humas 1) & Vina (Humas 2)<br/>• PDD: Zalfa (PDD 1) & Intan (PDD 2)<br/>• Riski support armada lapangan"]
+    R --> S["<b>2. RESTRUKTURISASI TIM</b><br/>• Humas: Terry (Humas 1) & Vina (Humas 2)<br/>• PDD: Intan (Koor PDD) & Zalfa (Support PDD)<br/>• Riski support armada lapangan"]
     R --> B["<b>3. UPDATE PIC BIOLOGI & TP</b><br/>• Bio: Gak ada seleksi, DPL dipilih univ<br/>• 1 desa 1 tim Bio di-ACC, izin kolektif<br/>• TP: Sowan dijadwalkan Senin besok"]
     R --> L["<b>4. LEGALITAS BAPPERIDA</b><br/>• Segerakan surat e-Service UNY<br/>• Kumpulkan scan 10 KTM segera<br/>• Hubungi Bu Novi (Subkor KKN Klaten)"]
     R --> T["<b>5. KEKOMPAKAN TIM</b><br/>• Agenda Jumat sore kumpul & main bareng"]
@@ -80,7 +80,7 @@ flowchart LR
 
     subgraph Posisi Baru Pasca Rapat
         F2["Faidatul (Bendahara Tunggal 1 Pintu)"]
-        Z2["Zalfa ➔ PDD 1 (Visual & Media)"]
+        Z2["Zalfa ➔ Support PDD (PDD 2 - Visual & Desain)"]
         V2["Vina ➔ Humas 2 (Co-Humas Kedinasan)"]
         T2["Terry ➔ Humas 1 (Humas Lapangan Desa)"]
     end
@@ -96,8 +96,8 @@ flowchart LR
 | **Muhadzdzib Terry Al Fauzan**| PTI (FT) | **Humas 1 (Lapangan & Desa)** | Tim Divisi Teknologi & IT | Fokus lobi Kades, RW 01, & warga desa |
 | **Alvina Aulia Az Zahra (Vina)**| TP (FIP) | **Humas 2 (Co-Humas Kedinasan)** | Koor. Divisi Pendidikan & Media | **SWITCH**: Backup Terry, urus Bapperida & birokrasi |
 | **Faidatul Anugraheni M. (Fai)**| PADP (FEB)| **Bendahara Tunggal (Kas 1 Pintu)** | Koor. Divisi Administrasi & UMKM | **RESTRUKTURISASI**: Kas masuk/keluar terpusat |
-| **Zalfa Khoirunnisa** | Biologi (FMIPA) | **PDD 1 (Desain & Branding)** | Tim Divisi Lingkungan & Sampah | **SWITCH**: Pindah dari Bendahara ke Tim Media PDD |
-| **Intan Milansari** | Biologi (FMIPA) | **PDD 2 (Dokumentasi & 5W1H)**| Koor. Divisi Lingkungan & Kesehatan | Fokus liputan lapangan & rilis berita pers |
+| **Zalfa Khoirunnisa** | Biologi (FMIPA) | **Support PDD (PDD 2 — Desain & Branding)** | Tim Divisi Lingkungan & Sampah | **SWITCH**: Pindah dari Bendahara ke Support Tim Media PDD |
+| **Intan Milansari** | Biologi (FMIPA) | **Koor. PDD (PDD 1 — Konten, Dokumentasi & 5W1H)**| Koor. Divisi Lingkungan & Kesehatan | Memimpin PDD, liputan lapangan & rilis berita pers |
 | **Muhamad Riski** | PTI (FT) | **Perkap 1 (Armada & Logistik)**| Tim Divisi Teknologi & IT | Support armada kendaraan & mobilitas Humas |
 | **Krissandra Siagian (Sandra)** | TP (FIP) | **Perkap 2 (Operasional Posko)**| Tim Divisi Pendidikan & Media | Logistik perlengkapan posko & acara |
 | **Dinda Amelia Putri** | PADP (FEB)| **Sekretaris 1 (Proposal & LPJ)**| Tim Divisi Administrasi & UMKM | Korespondensi surat e-Service & proposal |

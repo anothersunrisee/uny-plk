@@ -22,7 +22,7 @@ Fokus kepanitiaan ini adalah memastikan tim tetap hidup, surat-menyurat aman, la
 * **Sekretariat (Sekre 1 & Sekre 2):** Mengurus proposal, perizinan Kesbangpol, nota kesepahaman (IA desa), logbook 272 jam kerja harian, LPJ akhir, dan pengarsipan digital.
 * **Kebendaharaan (Bendahara Tunggal):** Mengelola seluruh kas masuk/keluar satu pintu, penyusunan RAB proposal, pembukuan cashflow transparan, pengumpulan nota/kuitansi SPJ, dan belanja operasional posko.
 * **Humas & Kemitraan (Humas 1 & Humas 2):** Humas 1 (Terry) fokus lobi desa, sowan tokoh masyarakat, dan warga dukuh. Humas 2 (Vina) fokus kehumasan kedinasan, koordinasi perizinan Bapperida Klaten, dan komunikasi formal. Didukung Perkap 1 (Riski) untuk mobilitas armada.
-* **PDD (Publikasi, Desain, Dokumentasi — PDD 1 & PDD 2):** PDD 1 (Zalfa) mengelola desain grafis, branding, banner, dan feeds medsos. PDD 2 (Intan) mengelola fotografi/video lapangan, aftermovie, dan rilis berita pers 5W1H.
+* **PDD (Publikasi, Desain, Dokumentasi — Koor: Intan & Support: Zalfa):** Koor. PDD (**Intan**) mengoordinasikan content calendar, fotografi/video lapangan, aftermovie, dan rilis berita pers 5W1H. Support PDD (**Zalfa**) mengeksekusi desain grafis, branding, banner, dan feeds medsos.
 * **Perlengkapan & K3 Posko (Perkap 1 & Perkap 2):** Bertanggung jawab atas pengadaan logistik fisik (sound system, proyektor, kabel roll), inventarisasi alat, kotak P3K darurat, sanitasi air, dan kesehatan anggota tim.
 
 > ⚠️ **Catatan Konsumsi:** Seksi Konsumsi resmi ditiadakan. Kebutuhan makan dan kebersihan dapur dikelola secara adil melalui **Sistem Piket Harian Bergilir (2 orang per hari)** atau langganan warung warga lokal.
@@ -54,8 +54,8 @@ Setiap anggota memegang 1 peran Operasional Posko dan 1 peran Divisi Proker:
 | **Muhadzdzib Terry Al Fauzan**| PTI (FT) | **Humas 1 (Lapangan & Desa Wonosari)** | Tim Divisi Teknologi & IT |
 | **Alvina Aulia Az Zahra (Vina)**| TP (FIP) | **Humas 2 (Co-Humas Kedinasan & Bapperida)** | Koor. Divisi Pendidikan & Media Ajar |
 | **Faidatul Anugraheni M. (Fai)**| PADP (FEB)| **Bendahara Tunggal (Kas 1 Pintu & RAB)** | Koor. Divisi Administrasi & UMKM |
-| **Zalfa Khoirunnisa** | Biologi (FMIPA) | **PDD 1 (Desain Grafis & Branding Medsos)** | Tim Divisi Lingkungan & Sampah |
-| **Intan Milansari** | Biologi (FMIPA) | **PDD 2 (Dokumentasi Lapangan & Rilis Berita 5W1H)**| Koor. Divisi Lingkungan & Kesehatan |
+| **Zalfa Khoirunnisa** | Biologi (FMIPA) | **Support PDD (PDD 2 — Desain Grafis & Branding Medsos)** | Tim Divisi Lingkungan & Sampah |
+| **Intan Milansari** | Biologi (FMIPA) | **Koor. PDD (PDD 1 — Konten, Dokumentasi & Berita 5W1H)**| Koor. Divisi Lingkungan & Kesehatan |
 | **Muhamad Riski** | PTI (FT) | **Perkap 1 (Logistik Lapangan & Armada Mobilitas)** | Tim Divisi Teknologi & IT |
 | **Krissandra Siagian (Sandra)** | TP (FIP) | **Perkap 2 (Operasional Posko & Logistik Acara)** | Tim Divisi Pendidikan & Media Ajar |
 | **Dinda Amelia Putri** | PADP (FEB)| **Sekretaris 1 (Proposal, Surat Resmi & LPJ)** | Tim Divisi Administrasi & UMKM |

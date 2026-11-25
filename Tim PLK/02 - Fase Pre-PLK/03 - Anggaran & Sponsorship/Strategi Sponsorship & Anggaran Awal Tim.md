@@ -103,7 +103,7 @@ flowchart LR
     C --> D[Closing Sponsorship & Penandatanganan Bukti Kerjasama]
 ```
 
-1. **PDD (Zalfa & Intan)**: Menyusun layout proposal sponsorship ringkas (maksimal 5–7 halaman PDF estetik Canva bertema alam & pertanian Desa Wonosari, dilengkapi QRIS resmi tim).
+1. **PDD (Intan selaku Koor PDD & Zalfa Support Desain)**: Menyusun layout proposal sponsorship ringkas (maksimal 5–7 halaman PDF estetik Canva bertema alam & pertanian Desa Wonosari, dilengkapi QRIS resmi tim).
 2. **Bendahara Tunggal (Fai)**: Menghitung rincian item proker yang butuh pendanaan sponsor serta menyediakan QRIS & rekening resmi tim.
 3. **Perkap & Humas (Sandra, Riski, Terry & Vina)**: Melakukan riset target mitra/CSR, menyebarkan proposal ke jejaring brand, toko tani, vendor percetakan, BUMD/CSR Klaten, dan UMKM.
 
