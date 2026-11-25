@@ -7,7 +7,7 @@ status: active
 # 💰 Strategi Sponsorship & Anggaran Awal Tim NIRANTARA
 **Panduan Pengadaan Atribut (Rompi 12 Pcs), Kas Awal, & Rencana Pendanaan Eksternal**
 
-Dokumen ini disusun untuk memandu Bendahara (Fai & Zalfa) dan Sekretaris (Dinda & Veli) dalam merancang pendanaan awal tim, pengadaan seragam rompi, serta skema penjaringan dana sponsor dari luar kampus.
+Dokumen ini disusun untuk memandu Bendahara Tunggal (**Faidatul Anugraheni M. / Fai**) dan Sekretaris (Dinda & Veli) dalam merancang pendanaan awal tim, pengadaan seragam rompi, aktivasi QRIS/rekening 1 pintu, serta skema penjaringan dana sponsor dari luar kampus.
 
 ---
 
@@ -55,7 +55,7 @@ Sesuai keputusan rapat pleno tim Nirantara pada 22 Oktober 2026:
   1. Biaya surat-menyurat, materai kontrak SOP, fotokopi lembar observasi, dan map ordner arsip.
   2. Biaya transportasi perizinan Kesbangpol Klaten dan sowan Balai Desa.
   3. Talangan operasional awal sebelum terjun (DP token listrik posko, pembelian galon pertama, sabun/pel).
-* **Rekening Penampung Kas**: Rekening Bank Bendahara 1 (Faidatul Anugraheni - PADP) dengan pencatatan mutasi transparan di Google Sheets Master Keuangan.
+* **Rekening & QRIS Penampung Kas (1 Pintu):** Rekening Bank & **QRIS Statis Resmi Tim** atas nama Bendahara Tunggal (**Faidatul Anugraheni - PADP**) dengan pencatatan mutasi transparan di Google Sheets Master Keuangan (dibayar rutin tgl 5–10 tiap bulan).
 
 ---
 
@@ -103,9 +103,9 @@ flowchart LR
     C --> D[Closing Sponsorship & Penandatanganan Bukti Kerjasama]
 ```
 
-1. **PDD (Vina & Intan)**: Menyusun layout proposal sponsorship ringkas (maksimal 5–7 halaman PDF estetik Canva bertema alam & pertanian Desa Wonosari).
-2. **Bendahara (Fai & Zalfa)**: Menghitung rincian item proker yang butuh pendanaan sponsor.
-3. **Humas & Seluruh Tim (Terry dkk)**: Menyebarkan proposal ke jejaring kerabat, toko tani, vendor percetakan, dan UMKM.
+1. **PDD (Zalfa & Intan)**: Menyusun layout proposal sponsorship ringkas (maksimal 5–7 halaman PDF estetik Canva bertema alam & pertanian Desa Wonosari, dilengkapi QRIS resmi tim).
+2. **Bendahara Tunggal (Fai)**: Menghitung rincian item proker yang butuh pendanaan sponsor serta menyediakan QRIS & rekening resmi tim.
+3. **Perkap & Humas (Sandra, Riski, Terry & Vina)**: Melakukan riset target mitra/CSR, menyebarkan proposal ke jejaring brand, toko tani, vendor percetakan, BUMD/CSR Klaten, dan UMKM.
 
 ---
 

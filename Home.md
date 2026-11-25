@@ -153,14 +153,14 @@ Folder ini berisi data analitik saat masa pencarian anggota dan pemetaan prodi:
 | [[Roadmap 1 Minggu]] | Dokumentasi sprint 7 hari fondasi proyek saat kelompok masih beranggotakan 4 orang. |
 | [[Checklist Inventaris Tim Inti]] | Checklist logistik dan kendaraan awal 4 anggota tim PTI. |
 
-##### f. Subfolder `06 - Sprint 2 Minggu & Guideline Eksekusi (23 Nov - 6 Des)/` 🔥 AKTIF
+##### f. Subfolder `06 - Sprint 2 Minggu & Guideline Eksekusi (25 Nov - 8 Des)/` 🔥 AKTIF
 | Berkas | Fungsi & Penjelasan Isi |
 |---|---|
-| [[00 - MASTER SPRINT 2 MINGGU & PEMBAGIAN JOBDESC TIM NIRANTARA]] | 🚀 **MAIN MD SPRINT**: Master Gantt Chart 14 hari, pembagian tugas rata 10 anggota (Input–Proses–Output), & checkpoint ketua. |
+| [[00 - MASTER SPRINT 2 MINGGU & PEMBAGIAN JOBDESC TIM NIRANTARA]] | 🚀 **MAIN MD SPRINT**: Master Gantt Chart 14 hari (25 Nov – 8 Des), pembagian tugas rata 10 anggota (Input–Proses–Output), QRIS Kas, & checkpoint ketua. |
 | [[01 - Guideline Social Media & Branding Instagram]] | 🎨 **Guideline Social Media**: Brand guideline Fajar+Zalfa, content calendar 4 feeds perdana, & SOP PDD. |
-| [[02 - Guideline Sponsorship & Hunting Mitra]] | 🤝 **Guideline Sponsorship**: Misi riset 3 hari Sandra+Riski, database 12+ target Jogja–Klaten, paket benefit, & template DM/Email. |
-| [[03 - Guideline Penyusunan & Submit Proposal KKN]] | 📑 **Guideline Proposal KKN**: Jalur cepat copy-paste Bab I–IV dari `03 - Fase PLK`, checklist 4-4-3-3, & deadline PDF 29 Nov. |
-| [[04 - Guideline Humas, Persuratan UNY & Bapperida Klaten]] | 🏛️ **Guideline Humas & Persuratan**: Pembagian Humas Lapangan vs Online, checklist 4 syarat Bapperida, & template WA Bu Novi. |
+| [[02 - Guideline Sponsorship & Hunting Mitra]] | 🤝 **Guideline Sponsorship & Kas QRIS**: Aktivasi QRIS 1 pintu, misi riset 3 hari Sandra+Riski, database 12+ target Jogja–Klaten, paket benefit, & template DM/Email. |
+| [[03 - Guideline Penyusunan & Submit Proposal KKN]] | 📑 **Guideline Proposal KKN**: Jalur cepat copy-paste Bab I–IV dari `03 - Fase PLK`, checklist 4-4-3-3, & deadline PDF 30 Nov. |
+| [[04 - Guideline Humas, Persuratan UNY & Bapperida Klaten]] | 🏛️ **Guideline Humas & Persuratan**: Pembagian Humas Lapangan vs Online, checklist 4 syarat Bapperida (submit 1 Des), & template WA Bu Novi. |
 
 ---
 

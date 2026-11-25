@@ -1,24 +1,37 @@
 ---
-tags: [guideline, sponsorship, pendanaan, perkap, bendahara, csr, klaten, jogja, sprint]
+tags: [guideline, sponsorship, pendanaan, perkap, bendahara, qris, csr, klaten, jogja, sprint]
 created: 2026-11-23
+updated: 2026-11-25
 status: active
 pic: Sandra (Perkap 2), Riski (Perkap 1), Faidatul (Bendahara), Vina (Humas 2)
 author: Tim Nirantara PLK UNY 2027
 ---
 
-# 🤝 GUIDELINE SPONSORSHIP & HUNTING MITRA (JOGJA – KLATEN)
-## **Panduan Riset 3 Hari, Daftar Target Realistis, & SOP Sebar Proposal (23 Nov – 6 Des 2026)**
-*Koordinator Riset & Sebar: **Sandra (Perkap 2)** & **Riski (Perkap 1)** | Paket & RAB: **Faidatul (Bendahara)** | Instansi Resmi: **Vina (Humas 2)***
+# 🤝 GUIDELINE SPONSORSHIP, KAS QRIS & HUNTING MITRA (JOGJA – KLATEN)
+## **Panduan Riset 3 Hari, Pembuatan QRIS Bendahara, Target Realistis, & SOP Sebar Proposal (25 Nov – 8 Des 2026)**
+*Koordinator Riset & Sebar: **Sandra (Perkap 2)** & **Riski (Perkap 1)** | QRIS, Paket & RAB: **Faidatul (Bendahara)** | Instansi Resmi: **Vina (Humas 2)***
 
 ---
 
 > [!IMPORTANT]
 > **MENGAPA HARUS START DI AKHIR NOVEMBER – AWAL DESEMBER 2026?**
-> Anggaran CSR perusahaan besar dan BUMD (seperti Bank Klaten, Bank Jateng, & Danone-AQUA Klaten) diketok untuk tahun anggaran baru di **Januari 2027**. Mengirim proposal di **awal Desember 2026** menempatkan Tim Nirantara di antrean terdepan sebelum kuota anggaran CSR Q1 2027 habis!
+> Anggaran CSR perusahaan besar dan BUMD (seperti Bank Klaten, Bank Jateng, & Danone-AQUA Klaten) diketok untuk tahun anggaran baru di **Januari 2027**. Mengirim proposal di **minggu pertama Desember (3–8 Des 2026)** menempatkan Tim Nirantara di antrean terdepan sebelum kuota anggaran CSR Q1 2027 habis!
 
 ---
 
-## 1. 🔍 MISI RISET 3 HARI PERTAMA (23 – 25 NOVEMBER 2026)
+## 1. 💳 TUGAS PRIORITAS BENDAHARA: BIKIN REKENING KAS & QRIS RESMI (25 – 26 NOV)
+
+Sebelum proposal sponsorship dan penggalangan donasi dibuka ke publik, **Faidatul Anugraheni M. (Bendahara Tunggal)** menyiapkan sistem pembayaran 1 pintu pada **Rab 25 – Kam 26 Nov 2026**:
+1. **Aktivasi QRIS Statis & Rekening Penampung Khusus Tim:**
+   - Buat/siapkan 1 rekening bank terpisah (tidak tercampur uang jajan pribadi) serta ajukan **QRIS Statis** atas nama Bendahara/Komunitas Nirantara (bisa melalui aplikasi *merchant* resmi seperti GoPay Merchant, DANA Bisnis, ShopeePay Merchant, atau mobile banking yang mendukung QRIS penerima).
+2. **Fungsi Ganda QRIS Tim:**
+   - **Internal:** Memudahkan 10 anggota menyetor iuran kas rutin Rp 50.000/bulan (jadwal tgl 5–10 Desember & bulan berikutnya) tanpa kena biaya admin antarbank.
+   - **Eksternal:** Ditempel langsung pada halaman penutup **Proposal Sponsorship PDF** dan poster **Open Donation IG** agar alumni, donatur lepas, atau UMKM sponsor bisa transfer langsung hanya dengan *scan*.
+3. **Distribusi Aset:** Gambar QRIS resolusi tinggi & nomor rekening wajib dikirim ke **Grup WA Tim** (maks. Kam 26 Nov) dan ke **Zalfa/Intan (PDD)** (maks. Sab 28 Nov).
+
+---
+
+## 2. 🔍 MISI RISET 3 HARI PERTAMA (25 – 27 NOVEMBER 2026)
 
 Karena kegiatan logistik posko baru aktif pada Januari–Februari 2027, **Sandra & Riski** mengambil alih misi riset cepat selama **3 hari penuh** lewat Google, Instagram, & TikTok untuk mengumpulkan minimal **15–20 target valid** di Google Sheets `Tracker_Sponsorship_Nirantara`.
 
@@ -32,14 +45,14 @@ Karena kegiatan logistik posko baru aktif pada Januari–Februari 2027, **Sandra
   2. Mencari percetakan banner/lanyard Jogja yang mau barter diskon dengan pemasangan logo.
   3. Mencari distributor air mineral (misal: **Agro Mineral Water** / agen AMDK Jogja–Klaten), retail lokal (**Pamella Supermarket**), dan toko/kios pertanian sekitar Prambanan–Klaten (untuk kebutuhan komposter/EM4).
 
-### Format Tabel Spreadsheet Riset (Wajib Diisi Lengkap per 25 Nov):
+### Format Tabel Spreadsheet Riset (Wajib Diisi Lengkap per Jum, 27 Nov):
 | No | Nama Brand / Instansi | Kategori | Jenis Bantuan Incaran | Kanal Kontak (WA / Email / IG / Form) | Syarat / Catatan Khusus | PIC Follow-Up | Status |
 |:---:|---|---|---|---|---|---|---|
 | 1 | *Contoh: Diamond Konveksi* | Konveksi | Subsidi rompi 10 pcs | WA / IG `@diamondkonveksi` | Logo di lengan rompi + Story | Riski | Belum Kirim |
 
 ---
 
-## 2. 🎯 DATABASE AWAL TARGET SPONSOR REALISTIS (JOGJA – KLATEN)
+## 3. 🎯 DATABASE AWAL TARGET SPONSOR REALISTIS (JOGJA – KLATEN)
 
 Gunakan daftar riset awal berikut sebagai titik start **Sandra & Riski** (langsung cari kontak resminya & lengkapi hingga 20 target):
 
@@ -63,9 +76,9 @@ Gunakan daftar riset awal berikut sebagai titik start **Sandra & Riski** (langsu
 
 ---
 
-## 3. 📦 DAFTAR KEBUTUHAN YANG KITA CARI DARI SPONSOR
+## 4. 📦 DAFTAR KEBUTUHAN YANG KITA CARI DARI SPONSOR
 
-*Sandra merekap ulang detail dari 4 Koor Divisi & Fai (maks. 25 Nov) agar saat negosiasi tim tahu persis minta apa:*
+*Sandra merekap ulang detail dari 4 Koor Divisi & Fai (maks. Jum 27 Nov) agar saat negosiasi tim tahu persis minta apa:*
 1. **Kebutuhan Atribut Tim:** Subsidi/diskon 10 pcs rompi drill, 12 lanyard/ID card, & spanduk posko 3×1m.
 2. **Kebutuhan Divisi Lingkungan (Biologi):** 3 buah drum plastik komposter, botol bioaktivator EM4, molase/tetes tebu, & poster edukasi anti-ISPA.
 3. **Kebutuhan Divisi Pendidikan (TP):** 30–50 buku cerita anak layak baca (Pojok Baca TK ABA), paket Alat Permainan Edukatif (APE), & ATK santri TPA.
@@ -73,9 +86,9 @@ Gunakan daftar riset awal berikut sebagai titik start **Sandra & Riski** (langsu
 
 ---
 
-## 4. 💎 STRUKTUR PROPOSAL SPONSORSHIP (5–7 HALAMAN PDF ESTETIK)
+## 5. 💎 STRUKTUR PROPOSAL SPONSORSHIP (5–7 HALAMAN PDF ESTETIK)
 
-Didesain oleh **Zalfa & Intan** pada **29 Nov – 2 Des 2026** (berbeda dengan Proposal KKN formal untuk kampus/Bapperida—proposal sponsor harus **visual, ringkas, to-the-point, dan menonjolkan benefit bagi sponsor!**):
+Didesain oleh **Zalfa & Intan** pada **Min 29 Nov – Rab 2 Des 2026** (berbeda dengan Proposal KKN formal untuk kampus/Bapperida—proposal sponsor harus **visual, ringkas, to-the-point, dan menonjolkan benefit bagi sponsor!**):
 - **Hal 1 (Cover):** Logo Nirantara + Foto survei Wonosari + Judul *"Proposal Kemitraan & Sponsorship — Nirantara Mengabdi Desa Wonosari, Klaten"*.
 - **Hal 2 (Profil Tim & Lokasi):** 10 mahasiswa lintas 4 fakultas UNY (FT, FEB, FMIPA, FIP) + lokasi binaan RW 01 Dukuh Majegan, Desa Wonosari, Klaten.
 - **Hal 3 (4 Pilar Dampak Nyata):** Infografis ringkas 4 proker unggulan (Digitalisasi 25 UMKM, Komposter EM4 Anti-Bakar Sampah, Arsip & 15 NIB OSS, Revitalisasi TK ABA & TPA).
@@ -84,11 +97,11 @@ Didesain oleh **Zalfa & Intan** pada **29 Nov – 2 Des 2026** (berbeda dengan P
   * **Platinum (≥ Rp 1.000.000):** Logo di lengan rompi tim, logo besar di semua banner posko & acara, 1 *dedicated feed/reels* IG, logo di *aftermovie*, & laporan dokumentasi CSR lengkap.
   * **Gold (Rp 500.000 – Rp 999.000):** Logo sedang di banner posko & proker, *story highlight* IG selama PLK, & logo di penutup *aftermovie*.
   * **Silver / In-Kind (Produk / Diskon / Buku / Konsumsi):** Logo di banner acara terkait, dokumentasi serah terima produk, & tag/promosi di IG Story tim.
-- **Hal 6 (Penutup & Kontak Resmi):** Rekening/QRIS resmi tim (Bendahara Fai), kontak WA Humas/Sponsor, alamat email `nirantara.plk.uny@gmail.com`, & akun IG Nirantara.
+- **Hal 6 (Penutup, Rekening & QRIS Resmi):** Tempel **Gambar QRIS Resmi & No. Rekening Bendahara (Fai)**, kontak WA Humas/Sponsor, alamat email `nirantara.plk.uny@gmail.com`, & akun IG Nirantara.
 
 ---
 
-## 5. 💬 TEMPLATE PESAN SEBAR PROPOSAL (BATCH 1: 3 – 6 DESEMBER 2026)
+## 6. 💬 TEMPLATE PESAN SEBAR PROPOSAL (BATCH 1: 3 – 8 DESEMBER 2026)
 
 ### A. Template DM Instagram / WhatsApp (Untuk Brand, Konveksi, Toko Buku, UMKM — oleh Sandra & Riski)
 ```text

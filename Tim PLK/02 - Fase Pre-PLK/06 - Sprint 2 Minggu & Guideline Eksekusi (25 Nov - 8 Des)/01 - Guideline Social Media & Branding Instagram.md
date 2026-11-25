@@ -1,28 +1,29 @@
 ---
 tags: [guideline, social-media, instagram, pdd, branding, sprint]
 created: 2026-11-23
+updated: 2026-11-25
 status: active
 pic: Zalfa (PDD 1), Intan (PDD 2), Fajar (Support Visual Guideline)
 author: Tim Nirantara PLK UNY 2027
 ---
 
 # 🎨 GUIDELINE SOCIAL MEDIA & BRANDING INSTAGRAM NIRANTARA
-## **Panduan Aktivasi Akun, Visual Identity, & Rencana Konten 2 Minggu (23 Nov – 6 Des 2026)**
+## **Panduan Aktivasi Akun, Visual Identity, & Rencana Konten 2 Minggu (25 Nov – 8 Des 2026)**
 *PIC Utama: **Zalfa Khoirunnisa (PDD 1)** & **Intan Milansari (PDD 2)** | Support Visual Guideline: **Fajar Ahnaf M.***
 
 ---
 
 > [!IMPORTANT]
-> **MENGAPA INSTAGRAM HARUS AKTIF SEKARANG (AKHIR NOV – DES 2026)?**
+> **MENGAPA INSTAGRAM HARUS AKTIF SEKARANG (25 NOV – 8 DES 2026)?**
 > 1. **Kredibilitas di Mata Sponsor & CSR:** Sebelum menyetujui proposal sponsor, pihak brand/perusahaan pasti mengecek akun Instagram kelompok. Akun yang aktif, rapi, dan estetik menaikkan peluang ACC secara drastis.
 > 2. **Portofolio Resmi Kampus & DPL:** Menjadi bukti otentik bahwa tim sudah bekerja nyata sejak tahap Pre-PLK (masuk dokumentasi luaran UNY Mengabdi).
-> 3. **Daya Tarik Kolaborasi:** Memudahkan *open donation* buku bacaan TK ABA Majegan dan *media partner*.
+> 3. **Daya Tarik Kolaborasi:** Memudahkan *open donation* buku bacaan TK ABA Majegan & dana via QRIS resmi tim.
 
 ---
 
-## 1. 🧭 IDENTITAS & BRAND GUIDELINE (DISUSUN FAJAR + ZALFA)
+## 1. 🧭 IDENTITAS & BRAND GUIDELINE (DISUSUN FAJAR + ZALFA: 25–27 NOV)
 
-Fajar bersama Zalfa menetapkan panduan visual baku di **H1–H3 (23–25 Nov)** agar seluruh feeds konsisten dan tidak berubah-ubah gayanya:
+Fajar bersama Zalfa menetapkan panduan visual baku di **H1–H3 (Rab 25 – Jum 27 Nov)** agar seluruh feeds konsisten dan tidak berubah-ubah gayanya:
 
 | Elemen Brand | Ketentuan Standar Tim NIRANTARA |
 |---|---|
@@ -37,16 +38,16 @@ Fajar bersama Zalfa menetapkan panduan visual baku di **H1–H3 (23–25 Nov)** 
 
 ## 2. 📅 CONTENT CALENDAR 2 MINGGU (4 FEEDS PERDANA + STORY)
 
-Cukup **2 postingan per minggu** agar PDD tetap ringan di tengah kuliah, namun akun langsung terlihat hidup sebelum Proposal Sponsorship disebar (3–6 Des):
+Cukup **2 postingan per minggu** agar PDD tetap ringan di tengah kuliah, namun akun langsung terlihat hidup sebelum Proposal Sponsorship disebar (mulai **Kam 3 Des**):
 
 | No | Judul Konten | Format | Bahan / Aset yang Dibutuhkan | PIC Konten & Desain | Target Tayang |
 |:---:|---|---|---|---|---|
-| **1** | **Logo Reveal & Filosofi Nirantara** | 3-Slide Carousel / Single Visual Estetik | Master `LOGO NIRANTARA` (`03_PDD_DAN_BRANDING/01_Aset_Logo_Identity/`) | Teks: **Intan**<br/>Desain: **Zalfa** (ikut guideline **Fajar**) | **Jumat, 27 Nov 2026** |
-| **2** | **Meet The Team: 10 Anggota, 4 Fakultas** | Carousel 5 Slide (Cover + FT, FEB, FMIPA, FIP) | Foto profil rapi 10 anggota + nama & prodi (dikumpulkan di grup WA maks. Rab 25 Nov) | Kumpul Foto & Caption: **Intan**<br/>Desain: **Zalfa** | **Sabtu, 28 Nov 2026** |
+| **1** | **Logo Reveal & Filosofi Nirantara** | 3-Slide Carousel / Single Visual Estetik | Master `LOGO NIRANTARA` (`03_PDD_DAN_BRANDING/01_Aset_Logo_Identity/`) | Teks: **Intan**<br/>Desain: **Zalfa** (ikut guideline **Fajar**) | **Sabtu, 28 Nov 2026** |
+| **2** | **Meet The Team: 10 Anggota, 4 Fakultas** | Carousel 5 Slide (Cover + FT, FEB, FMIPA, FIP) | Foto profil rapi 10 anggota + nama & prodi (dikumpulkan di grup WA maks. Jum 27 Nov) | Kumpul Foto & Caption: **Intan**<br/>Desain: **Zalfa** | **Minggu, 29 Nov 2026** |
 | **3** | **Jejak Awal: Survei & Audiensi Desa Wonosari** | Carousel Foto + Reels Pendek (opsional) | 38+ stok foto & video survei 24 Okt di Drive (`oktober - 24 - survey/`) | Kurasi Foto & Caption: **Intan**<br/>Layout: **Zalfa** | **Rabu, 2 Des 2026** |
 | **4** | **4 Pilar Karya Nirantara untuk Wonosari** | Infografis Carousel 6 Slide (Cover + 4 Divisi + CTA Sponsor) | Ringkasan proker dari 4 Koor Divisi (IT/UMKM, Adm/NIB, Kompos/Eco-Enzyme, TK/TPA) | Teks: **Intan** (ambil dari 4 Koor)<br/>Desain: **Zalfa** | **Sabtu, 5 Des 2026** |
 
-*(Catatan: Konten **Post #5 Open Sponsorship & Donasi Buku TK ABA** disiapkan untuk tayang di awal Minggu ke-3, Senin/Selasa 7–8 Desember 2026).*
+*(Catatan: Konten **Post #5 Open Sponsorship & Donasi Buku TK ABA via QRIS** disiapkan untuk tayang di minggu berikutnya, Selasa/Rabu 8–9 Desember 2026).*
 
 ---
 
@@ -68,10 +69,10 @@ flowchart LR
 
 ---
 
-## 4. 🤝 SINERGI PDD DENGAN TIM SPONSORSHIP
+## 4. 🤝 SINERGI PDD DENGAN TIM SPONSORSHIP & BENDAHARA
 
-Selain mengelola Instagram, pada **29 Nov – 2 Des 2026** tim PDD (Zalfa & Intan) membantu merancang **Proposal Sponsorship versi PDF Estetik (5–7 halaman di Canva)**:
-* **Input dari Fai (Bendahara):** Tabel RAB ringkas & 3 Paket Benefit Sponsor (Platinum, Gold, Silver/In-Kind).
+Selain mengelola Instagram, pada **Min 29 Nov – Rab 2 Des 2026** tim PDD (Zalfa & Intan) merancang **Proposal Sponsorship versi PDF Estetik (5–7 halaman di Canva)**:
+* **Input dari Fai (Bendahara):** Tabel RAB ringkas, 3 Paket Benefit Sponsor (Platinum, Gold, Silver/In-Kind), serta **Gambar QRIS & Nomor Rekening Resmi Kas Tim** (agar donatur/sponsor dapat langsung bertransaksi dengan mudah).
 * **Input dari Sandra & Riski (Perkap):** Daftar kebutuhan barang *in-kind* (rompi, banner, buku TK, air mineral, drum komposter).
 * **Tugas Intan:** Merangkai kalimat ajakan kolaborasi yang meyakinkan (*value proposition*).
 * **Tugas Zalfa:** Mendesain layout PDF yang bersih, modern, dan dilengkapi foto asli survei Desa Wonosari agar siap disebar mulai **Kamis, 3 Desember 2026**.
